@@ -1,3 +1,9 @@
+iict
+laravel-default
+bandliknew
+web_nueva
+antuv2
+php.ini
 images
 admin
 includes
