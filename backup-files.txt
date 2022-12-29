@@ -1,4 +1,3 @@
-
 images
 admin
 includes
