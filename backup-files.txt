@@ -247,6 +247,7 @@ catalogsearch
 videos
 es
 c
+wp-config.php
 contacts
 script
 manager
