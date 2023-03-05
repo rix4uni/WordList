@@ -27,3 +27,9 @@ custom parameters wordlist `params.txt`
 ```
 cat urls.txt | grep "\.php?" | uro | grep "?" | cut -f2 -d"?" | cut -f1 -d"=" | sed '/^\s*$/d'| anew params.txt
 ```
+
+custom fuzzing wordlist `dicc-onelistforallmicro.txt`
+```
+curl -s https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt | anew dicc-onelistforallmicro.txt
+curl -s https://raw.githubusercontent.com/six2dez/OneListForAll/main/onelistforallmicro.txt | anew dicc-onelistforallmicro.txt
+```
