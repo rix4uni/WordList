@@ -286312,3 +286312,12 @@ db_backup
 1
 0
 public_html
+mysql.initial
+install/froxlor
+settings.php
+wp-content/uploads/dump
+wp-content/mysql
+pools/default/buckets
+?wsdl
+jsonapi/user/user
+openapi.json
