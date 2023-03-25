@@ -19,8 +19,7 @@ cat urls.txt | sed 's|\(.*\)/[^/]*$|\1|' | cut -d'/' -f1-4 | anew urls.txt
 
 `default-username-password.txt`
 ```
-curl -s "https://raw.githubusercontent.com/rix4uni/WordList/main/default-username-password.txt"|cut -d":" -f1 | tee -a username.txt
-curl -s "https://raw.githubusercontent.com/rix4uni/WordList/main/default-username-password.txt"|cut -d":" -f2 | tee -a password.txt
+curl -s "https://raw.githubusercontent.com/rix4uni/WordList/main/default-username-password.txt"|cut -d":" -f1 | tee -a username.txt && curl -s "https://raw.githubusercontent.com/rix4uni/WordList/main/default-username-password.txt"|cut -d":" -f2 | tee -a password.txt
 ```
 
 custom parameters wordlist `params.txt`
