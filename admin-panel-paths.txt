@@ -1,4 +1,5 @@
 #/login
+login2
 admin/
 administrator/
 admin1/
@@ -19,6 +20,7 @@ instadmin/
 memberadmin/
 administratorlogin/
 adm/
+index.php?/login
 admin/account.php
 admin/index.php
 admin/login.php
