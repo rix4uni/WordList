@@ -20,6 +20,7 @@ instadmin/
 memberadmin/
 administratorlogin/
 adm/
+global-protect/login.esp
 index.php?/login
 admin/account.php
 admin/index.php
