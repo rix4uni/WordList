@@ -873,6 +873,7 @@ admass
 admeasure
 admeasurement
 admetus
+admin
 adminicle
 administer
 administrate
