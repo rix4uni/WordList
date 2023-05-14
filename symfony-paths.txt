@@ -1,0 +1,11 @@
+/app_dev.php/_profiler/empty/search/results?limit=100
+/_profiler/empty/search/results?limit=10
+/app_dev.php/_fragment
+/app_dev.php/_profiler/open?file=app/config/parameters.yml
+/_fragement
+/_profiler
+app_dev.php/_profiler
+/_profiler/phpinfo
+/_profiler/open?file=config/services.yaml
+/app_dev.php/_profiler/phpinfo
+/app_dev.php/app/config/parameters.yml
