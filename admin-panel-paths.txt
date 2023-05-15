@@ -57,6 +57,8 @@ admin_login.html
 panel-administracion/login.html
 admin/cp.php
 cp.php
+AdminPanel/#/login
+ReferralPanel/#/login
 administrator/index.php
 administrator/login.php
 nsw/admin/login.php
