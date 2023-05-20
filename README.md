@@ -10,7 +10,7 @@ custom dns wordlist `dns-wordlist.txt`
 cat alltargets.txt | sed 's/\.[^.]*$//' | tr "." "\n" | egrep -v '^[0-9]*$' | anew dns-wordlist.txt
 ```
 
-custom urls for nuclei automation `urls-for-nuclei.txt` scan these urls for nuclei misconfiguration
+scan these urls for nuclei misconfiguration `urls-for-nuclei.txt`
 ```
 cat urls.txt | grep -E "^https?://[^/]+/.+" | cut -d"/" -f1-4 | anew -q urls-for-nuclei.txt ;cat urls.txt | grep -E "^https?://[^/]+/.+" | cut -d"/" -f1-5 | anew -q urls-for-nuclei.txt ;cat urls.txt | grep -E "^https?://[^/]+/.+" | cut -d"/" -f1-6 | anew -q urls-for-nuclei.txt
 ```
