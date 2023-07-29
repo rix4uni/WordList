@@ -1,4 +1,3 @@
-
 swagger-ui/index.html
 api
 api/2/explore/
