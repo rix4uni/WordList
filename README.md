@@ -39,7 +39,7 @@ curl -s "https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.t
 - all technologies with no limit => `techname/techname.txt` , if more then 50mb then `techname/techname-1.txt`, `techname/techname-2.txt`
 
 ## nuclei-technologies
-Using: [generate_nuclei-wordlist.go](https://github.com/rix4uni/technologies/nuclei-technologies/generate_nuclei-wordlist.go)
+Using: [generate_nuclei-wordlist.go](https://github.com/rix4uni/WordList/blob/main/technologies/nuclei-technologies/generate_nuclei-wordlist.go)
 
 - `techname/techname-unknown.txt`
 - `techname/techname-info.txt`
