@@ -29,3 +29,22 @@ custom fuzzing wordlist `onelistforall.txt`
 ```
 curl -s "https://raw.githubusercontent.com/maurosoria/dirsearch/master/db/dicc.txt" | anew -q onelistforall.txt && curl -s "https://raw.githubusercontent.com/six2dez/OneListForAll/main/onelistforallmicro.txt" | anew -q onelistforall.txt && curl -s "https://raw.githubusercontent.com/six2dez/OneListForAll/main/onelistforallshort.txt" | anew -q onelistforall.txt && curl -s "https://raw.githubusercontent.com/ayoubfathi/leaky-paths/main/leaky-paths.txt" | anew -q onelistforall.txt && curl -s "https://raw.githubusercontent.com/Bo0oM/fuzz.txt/master/fuzz.txt" | anew -q onelistforall.txt && curl -s "https://raw.githubusercontent.com/abdallaabdalrhman/Wordlist-for-Bug-Bounty/main/great_wordlist_for_bug_bounty.txt" | anew -q onelistforall.txt && curl -s "https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/raft-large-directories.txt" | anew -q onelistforall.txt && curl -s "https://wordlists-cdn.assetnote.io/data/automated/httparchive_php_2020_11_18.txt" | anew -q onelistforall.txt && curl -s "https://wordlists-cdn.assetnote.io/data/automated/httparchive_aspx_asp_cfm_svc_ashx_asmx_2020_11_18.txt" | anew -q onelistforall.txt && curl -s "https://wordlists-cdn.assetnote.io/data/automated/httparchive_jsp_jspa_do_action_2022_08_28.txt" | anew -q onelistforall.txt
 ```
+
+## payloads
+- upto top 50 => `*-small.txt`
+- upto top 500 => `*-medium.txt`
+- all payloads with no limit => `*-large.txt` , if more then 50mb then `*-large-1.txt`, `*-large-2.txt`
+
+## technologies
+- all technologies with no limit => `techname/techname.txt` , if more then 50mb then `techname/techname-1.txt`, `techname/techname-2.txt`
+
+## nuclei-technologies
+Using: [generate_nuclei-wordlist.go](https://github.com/rix4uni/technologies/nuclei-technologies/generate_nuclei-wordlist.go)
+
+- `techname/techname-unknown.txt`
+- `techname/techname-info.txt`
+- `techname/techname-low.txt`
+- `techname/techname-medium.txt`
+- `techname/techname-high.txt`
+- `techname/techname-critical.txt`
+- `techname/techname-all.txt`

