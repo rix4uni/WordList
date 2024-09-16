@@ -1,0 +1,1 @@
+/wp-content/plugins/sermone-online-sermons-management/readme.txt

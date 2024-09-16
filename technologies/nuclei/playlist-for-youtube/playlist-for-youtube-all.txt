@@ -1,0 +1,1 @@
+/wp-content/plugins/playlist-for-youtube/readme.txt

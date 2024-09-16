@@ -1,0 +1,1 @@
+/wp-content/plugins/dk-pricr-responsive-pricing-table/readme.txt

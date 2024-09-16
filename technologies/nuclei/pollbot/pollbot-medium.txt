@@ -1,0 +1,2 @@
+/%0A/example.com/
+/%0A/interact.sh/

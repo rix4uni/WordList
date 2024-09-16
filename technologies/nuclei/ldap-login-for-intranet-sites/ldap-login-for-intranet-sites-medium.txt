@@ -1,0 +1,1 @@
+/wp-content/plugins/ldap-login-for-intranet-sites/readme.txt

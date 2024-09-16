@@ -1,0 +1,1 @@
+/wp-content/plugins/comments-import-export-woocommerce/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/themes/discy/style.css

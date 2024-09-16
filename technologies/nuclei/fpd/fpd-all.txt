@@ -1,0 +1,6 @@
+/wp-includes/rss-functions.php
+/admin/airflow/login
+/wp-admin/maint/repair.php
+/includes/mysql2i/mysql2i.func.php
+/addons/phpmailer/phpmailer.php
+/wp-json/wp/v2/posts?per_page=1

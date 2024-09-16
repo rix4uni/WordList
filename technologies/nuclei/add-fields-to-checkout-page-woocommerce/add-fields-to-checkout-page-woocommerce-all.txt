@@ -1,0 +1,1 @@
+/wp-content/plugins/add-fields-to-checkout-page-woocommerce/readme.txt

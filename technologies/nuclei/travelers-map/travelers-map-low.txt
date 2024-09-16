@@ -1,0 +1,1 @@
+/wp-content/plugins/travelers-map/readme.txt

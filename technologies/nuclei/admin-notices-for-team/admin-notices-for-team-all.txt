@@ -1,0 +1,1 @@
+/wp-content/plugins/admin-notices-for-team/readme.txt

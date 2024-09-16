@@ -1,0 +1,1 @@
+/wp-content/plugins/cryout-serious-slider/readme.txt

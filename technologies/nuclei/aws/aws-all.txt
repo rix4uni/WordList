@@ -1,0 +1,11 @@
+/.aws/credentials
+/wp-config.php-backup
+/%c0
+/v1/metadata
+/v1/tasks
+/_dashboards/app/login
+/?torrent
+/index.html
+/awstats/data
+/Dockerrun.aws.json
+/.aws/config

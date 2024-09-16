@@ -1,0 +1,1 @@
+/wp-content/plugins/youtube-showcase/readme.txt

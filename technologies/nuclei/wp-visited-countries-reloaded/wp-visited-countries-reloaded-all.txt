@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-visited-countries-reloaded/readme.txt

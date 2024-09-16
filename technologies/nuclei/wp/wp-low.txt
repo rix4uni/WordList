@@ -1,0 +1,17 @@
+/wp-content/plugins/wp-easycart/inc/admin/phpinfo.php
+/wp-admin/admin-post.php
+/wp-content/themes/Attitude/go.php?https://example.com/
+/wp-content/plugins/phastpress/phast.php?service=scripts&src=https%3A%2F%2Fexample.com
+/community/?foro=signin&redirect_to=https://example.com/
+/wp-admin/admin-ajax.php?action=heartbeat&admin_custom_language_toggle=1&admin_custom_language_return_url=https://example.com
+/wp-content/themes/eatery/nav.php?-Menu-=https://example.com/
+/wp-admin/admin.php?page=wp_ajax_rsvp-form&tribe_tickets_redirect_to=https://example.com
+/wp-content/themes/Grimag/go.php?https://example.com
+/?wp_nlm=confirmation&appurl=aHR0cDovL2F0dGFja2VyLmNvbQ==
+/?wp_nlm=confirmation&appurl=aHR0cDovL2ludGVyYWN0LnNo
+/?noptin_ns=email_click&to=https://example.com
+/?piereg_logout_url=true&redirect_to=https://example.com
+/wp-content/themes/prostore/go.php?https://example.com/
+/wp-content/themes/weekender/friend.php?id=MTA0&link=aHR0cHM6Ly9leGFtcGxlLmNvbQ==
+/wp-content/plugins/brandfolder/callback.php?wp_abspath=https://example.com/
+/?aiowpsec_do_log_out=1&after_logout=https://attacker.com

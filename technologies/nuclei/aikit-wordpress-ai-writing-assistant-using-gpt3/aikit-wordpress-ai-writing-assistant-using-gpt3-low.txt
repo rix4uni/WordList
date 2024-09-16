@@ -1,0 +1,1 @@
+/wp-content/plugins/aikit-wordpress-ai-writing-assistant-using-gpt3/readme.txt

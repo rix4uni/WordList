@@ -1,0 +1,1 @@
+/wp-content/plugins/1003-mortgage-application/readme.txt

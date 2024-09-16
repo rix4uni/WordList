@@ -1,0 +1,3 @@
+/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/js/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/static/ueditor/net/controller.ashx?action=catchimage&encode=utf-8

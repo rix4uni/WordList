@@ -1,0 +1,1 @@
+/wp-content/plugins/sky-login-redirect/readme.txt

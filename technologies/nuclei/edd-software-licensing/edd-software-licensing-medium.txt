@@ -1,0 +1,1 @@
+/wp-content/plugins/edd-software-licensing/readme.txt

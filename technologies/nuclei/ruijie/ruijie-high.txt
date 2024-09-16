@@ -1,0 +1,8 @@
+/get_dkey.php?user=admin
+/web/xml/webuser-auth.xml
+/api/sys/set_passwd
+/api/sys/login
+/download.php?a=read_txt&file=../../../../etc/passwd
+/cgi-bin/main.cgi?oper=showsvr&encode=utf-8&username=admin&sid=1614345312&oper=showres
+/login.php
+/download.do?file=../../../../config.text

@@ -1,0 +1,1 @@
+/wp-content/themes/accesspress-parallax-new/style.css

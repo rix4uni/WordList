@@ -1,0 +1,1 @@
+/wp-content/plugins/titan-labs-security-audit/readme.txt

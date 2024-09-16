@@ -1,0 +1,2 @@
+/login?next=\\\interact.sh
+/login?next=\\\example.com

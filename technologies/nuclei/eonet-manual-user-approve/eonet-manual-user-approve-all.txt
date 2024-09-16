@@ -1,0 +1,1 @@
+/wp-content/plugins/eonet-manual-user-approve/readme.txt

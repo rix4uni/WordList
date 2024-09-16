@@ -1,0 +1,1 @@
+/wp-content/themes/allure-real-estate-theme-for-placester/style.css

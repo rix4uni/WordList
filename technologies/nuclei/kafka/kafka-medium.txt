@@ -1,0 +1,1 @@
+/ui/clusters/kafka-ui/brokers

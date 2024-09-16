@@ -1,0 +1,2 @@
+/wp-content/themes/realestate-7/style.css
+/wp-content/plugins/realestate-7/readme.txt

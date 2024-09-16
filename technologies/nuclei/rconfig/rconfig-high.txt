@@ -1,0 +1,5 @@
+/compliancepolicies.inc.php?search=True&searchColumn=policyName&searchOption=contains&searchField=antani
+/compliancepolicyelements.inc.php?search=True&searchField=antani
+/devices.inc.php?search=True&searchField=antani
+/snippets.inc.php?search=True&searchField=antani
+/settings.php

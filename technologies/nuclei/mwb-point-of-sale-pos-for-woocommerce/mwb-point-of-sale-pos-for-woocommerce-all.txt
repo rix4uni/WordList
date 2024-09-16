@@ -1,0 +1,1 @@
+/wp-content/plugins/mwb-point-of-sale-pos-for-woocommerce/readme.txt

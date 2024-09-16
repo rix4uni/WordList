@@ -1,0 +1,1 @@
+/wp-content/themes/bordeaux-theme/style.css

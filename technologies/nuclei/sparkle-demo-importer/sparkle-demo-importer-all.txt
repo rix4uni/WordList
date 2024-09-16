@@ -1,0 +1,1 @@
+/wp-content/plugins/sparkle-demo-importer/readme.txt

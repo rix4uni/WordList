@@ -1,0 +1,1 @@
+/wp-content/plugins/apollo13-framework-extensions/readme.txt

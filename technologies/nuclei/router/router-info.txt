@@ -1,0 +1,10 @@
+/htmlcode/html/indexdefault.asp
+/Main_Login.asp
+/status.php
+/login.htm
+/login.sh
+/cgi-bin/luci/
+/login.html
+/sess-bin/login_session.cgi
+/currentsetting.htm
+/login

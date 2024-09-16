@@ -1,0 +1,1 @@
+/wp-content/plugins/the-events-calendar-eventbrite-tickets/readme.txt

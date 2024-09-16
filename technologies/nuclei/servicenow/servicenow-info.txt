@@ -1,0 +1,2 @@
+/kb_view_customer.do?sysparm_article=KB00xxxx
+/login.do

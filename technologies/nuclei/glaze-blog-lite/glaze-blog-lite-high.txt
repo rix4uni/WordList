@@ -1,0 +1,1 @@
+/wp-content/themes/glaze-blog-lite/style.css

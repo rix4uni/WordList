@@ -1,0 +1,1 @@
+/wp-content/plugins/seolinkrotator/readme.txt

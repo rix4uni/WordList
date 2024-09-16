@@ -1,0 +1,1 @@
+/wp-content/themes/eight-sec/style.css

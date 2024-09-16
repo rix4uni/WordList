@@ -1,0 +1,1 @@
+/wp-content/plugins/customer-reviews-collector-for-woocommerce/readme.txt

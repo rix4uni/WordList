@@ -1,0 +1,1 @@
+/wp-content/plugins/social-testimonials-and-reviews-widget/readme.txt

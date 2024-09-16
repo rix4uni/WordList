@@ -1,0 +1,1 @@
+/wp-content/plugins/soundcloud-is-gold/readme.txt

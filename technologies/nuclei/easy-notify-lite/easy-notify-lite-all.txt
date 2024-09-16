@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-notify-lite/readme.txt

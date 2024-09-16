@@ -1,0 +1,1 @@
+/wp-content/plugins/WP-Mobile-BankID-Integration/readme.txt

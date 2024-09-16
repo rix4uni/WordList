@@ -1,0 +1,1 @@
+/wp-content/plugins/filter-custom-fields-taxonomies-light/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/rocket-maintenance-mode/readme.txt

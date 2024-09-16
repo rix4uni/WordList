@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-conditional-discount-rules-for-checkout/readme.txt

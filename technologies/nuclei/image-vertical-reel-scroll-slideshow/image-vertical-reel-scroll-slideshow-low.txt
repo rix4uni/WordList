@@ -1,0 +1,1 @@
+/wp-content/plugins/image-vertical-reel-scroll-slideshow/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/visual-form-builder/readme.txt

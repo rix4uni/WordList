@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-advance-search/readme.txt

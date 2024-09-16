@@ -1,0 +1,1 @@
+/wp-content/themes/flashnews/style.css

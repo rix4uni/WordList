@@ -1,0 +1,1 @@
+/wp-content/plugins/opt-in-panda/readme.txt

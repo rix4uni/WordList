@@ -1,0 +1,1 @@
+/wp-content/plugins/miniorange-login-security/readme.txt

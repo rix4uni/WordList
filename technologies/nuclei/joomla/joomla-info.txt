@@ -1,0 +1,7 @@
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml
+/libraries/joomla/database/
+/htaccess.txt
+/administrator/

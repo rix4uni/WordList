@@ -1,0 +1,1 @@
+/wp-content/plugins/leopard-wordpress-offload-media/readme.txt

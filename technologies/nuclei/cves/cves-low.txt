@@ -1,0 +1,4 @@
+/~user/%0D%0ASet-Cookie:crlfinjection
+/updating.jsp?url=https://example.com/
+/wp-content/plugins/phastpress/phast.php?service=scripts&src=https%3A%2F%2Fexample.com
+/community/?foro=signin&redirect_to=https://example.com/

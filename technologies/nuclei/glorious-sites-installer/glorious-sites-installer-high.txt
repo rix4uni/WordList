@@ -1,0 +1,1 @@
+/wp-content/plugins/glorious-sites-installer/readme.txt

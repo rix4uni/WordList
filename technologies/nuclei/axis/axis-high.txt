@@ -1,0 +1,2 @@
+/axis2-admin/login
+/axis2/axis2-admin/login

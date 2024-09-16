@@ -1,0 +1,1 @@
+/wp-content/plugins/yith-product-size-charts-for-woocommerce/readme.txt

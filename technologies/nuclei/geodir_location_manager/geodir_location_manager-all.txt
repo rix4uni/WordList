@@ -1,0 +1,1 @@
+/wp-content/plugins/geodir_location_manager/readme.txt

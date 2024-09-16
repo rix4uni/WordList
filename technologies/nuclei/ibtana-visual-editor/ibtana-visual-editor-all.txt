@@ -1,0 +1,1 @@
+/wp-content/plugins/ibtana-visual-editor/readme.txt

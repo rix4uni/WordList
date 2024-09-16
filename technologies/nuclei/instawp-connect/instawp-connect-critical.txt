@@ -1,0 +1,1 @@
+/wp-content/plugins/instawp-connect/readme.txt

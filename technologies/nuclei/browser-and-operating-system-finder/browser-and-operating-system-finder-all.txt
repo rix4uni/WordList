@@ -1,0 +1,1 @@
+/wp-content/plugins/browser-and-operating-system-finder/readme.txt

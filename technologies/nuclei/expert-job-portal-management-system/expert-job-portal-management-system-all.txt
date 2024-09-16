@@ -1,0 +1,1 @@
+/company_type_info.php?com_type=Agent

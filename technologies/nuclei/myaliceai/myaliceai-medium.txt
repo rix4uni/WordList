@@ -1,0 +1,1 @@
+/wp-content/plugins/myaliceai/readme.txt

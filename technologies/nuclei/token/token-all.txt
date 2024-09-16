@@ -1,0 +1,3 @@
+/hopfully404
+/config/initializers/secret_token.rb
+/config.json

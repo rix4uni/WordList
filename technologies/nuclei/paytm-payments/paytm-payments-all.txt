@@ -1,0 +1,1 @@
+/wp-content/plugins/paytm-payments/readme.txt

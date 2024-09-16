@@ -1,0 +1,2 @@
+/arsys/shared/login.jsp
+/rsso/admin/

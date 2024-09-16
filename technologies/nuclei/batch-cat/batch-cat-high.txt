@@ -1,0 +1,1 @@
+/wp-content/plugins/batch-cat/readme.txt

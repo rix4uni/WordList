@@ -1,0 +1,1 @@
+/wp-content/plugins/marketo-forms-and-tracking/readme.txt

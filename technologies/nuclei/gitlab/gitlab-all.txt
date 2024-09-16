@@ -1,0 +1,8 @@
+/users/sign_in
+/api/v4/ci/lint?include_merged_yaml=true
+/users/sign_up
+/api/v4/projects
+/explore/snippets
+/-/snippets
+/api/graphql
+/gitlab/build_now%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

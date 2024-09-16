@@ -1,0 +1,1 @@
+/wp-content/plugins/import-social-statistics/readme.txt

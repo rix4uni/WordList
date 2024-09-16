@@ -1,0 +1,1 @@
+/wp-content/plugins/knr-author-list-widget/readme.txt

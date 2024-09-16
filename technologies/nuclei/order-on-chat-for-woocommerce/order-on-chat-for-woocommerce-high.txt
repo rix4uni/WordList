@@ -1,0 +1,1 @@
+/wp-content/plugins/order-on-chat-for-woocommerce/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/better-wp-security/readme.txt

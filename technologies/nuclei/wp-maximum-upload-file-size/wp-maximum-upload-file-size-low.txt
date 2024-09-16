@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-maximum-upload-file-size/readme.txt

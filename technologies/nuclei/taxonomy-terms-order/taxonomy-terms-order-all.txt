@@ -1,0 +1,1 @@
+/wp-content/plugins/taxonomy-terms-order/readme.txt

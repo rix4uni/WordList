@@ -1,0 +1,7 @@
+/rest/V1/products
+/rest/V1/store/storeConfigs
+/rest/V1/store/storeViews
+/admin
+/graphql?query=+{customerDownloadableProducts+{+items+{+date+download_url}}+}
+/downloader/
+/magmi/web/js/magmi_utils.js

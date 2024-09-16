@@ -1,0 +1,1 @@
+/wp-content/plugins/wordpress-form-manager/readme.txt

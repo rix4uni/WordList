@@ -1,0 +1,1 @@
+/wp-content/plugins/safe-editor/readme.txt

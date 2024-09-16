@@ -1,0 +1,1 @@
+/wp-content/plugins/bp-job-manager-integration/readme.txt

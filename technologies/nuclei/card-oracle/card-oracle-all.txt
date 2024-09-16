@@ -1,0 +1,1 @@
+/wp-content/plugins/card-oracle/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/user-location-and-ip/readme.txt

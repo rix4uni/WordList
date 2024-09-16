@@ -1,0 +1,6 @@
+/debug/pprof/
+/debug/pprof/goroutine?debug=1
+/?SPX_KEY={{api_key}}&SPX_UI_URI=/
+/anything_here
+/_debugbar/open?max=20&offset=0
+/?pp=env

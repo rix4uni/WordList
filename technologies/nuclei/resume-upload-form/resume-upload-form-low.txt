@@ -1,0 +1,1 @@
+/wp-content/plugins/resume-upload-form/readme.txt

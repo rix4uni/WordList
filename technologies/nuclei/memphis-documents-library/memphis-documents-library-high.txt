@@ -1,0 +1,1 @@
+/wp-content/plugins/memphis-documents-library/readme.txt

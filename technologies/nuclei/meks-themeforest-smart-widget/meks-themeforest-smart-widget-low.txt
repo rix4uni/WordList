@@ -1,0 +1,1 @@
+/wp-content/plugins/meks-themeforest-smart-widget/readme.txt

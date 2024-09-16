@@ -1,0 +1,3 @@
+/wp-content/plugins/eshop/readme.txt
+/install/
+/Setup/index.php/

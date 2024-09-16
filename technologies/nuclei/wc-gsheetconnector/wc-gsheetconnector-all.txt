@@ -1,0 +1,1 @@
+/wp-content/plugins/wc-gsheetconnector/readme.txt

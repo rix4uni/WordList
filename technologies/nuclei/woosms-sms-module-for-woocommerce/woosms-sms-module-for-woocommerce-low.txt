@@ -1,0 +1,1 @@
+/wp-content/plugins/woosms-sms-module-for-woocommerce/readme.txt

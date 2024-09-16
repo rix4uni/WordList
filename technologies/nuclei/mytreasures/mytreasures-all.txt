@@ -1,0 +1,1 @@
+/wp-content/plugins/mytreasures/readme.txt

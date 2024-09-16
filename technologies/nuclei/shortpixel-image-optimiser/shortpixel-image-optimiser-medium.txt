@@ -1,0 +1,1 @@
+/wp-content/plugins/shortpixel-image-optimiser/readme.txt

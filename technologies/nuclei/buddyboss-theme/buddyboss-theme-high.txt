@@ -1,0 +1,1 @@
+/wp-content/themes/buddyboss-theme/style.css

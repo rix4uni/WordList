@@ -1,0 +1,1 @@
+/wp-content/plugins/onesignal-free-web-push-notifications/readme.txt

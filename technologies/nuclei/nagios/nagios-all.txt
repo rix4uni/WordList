@@ -1,0 +1,7 @@
+/nagios/side.php
+/nagios
+/nagios3
+/nagiosxi/login.php
+/nagios/cgi-bin/status.cgi
+/cgi-bin/nagios4/status.cgi
+/cgi-bin/nagios3/status.cgi

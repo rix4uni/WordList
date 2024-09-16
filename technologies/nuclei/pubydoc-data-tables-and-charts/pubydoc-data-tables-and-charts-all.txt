@@ -1,0 +1,1 @@
+/wp-content/plugins/pubydoc-data-tables-and-charts/readme.txt

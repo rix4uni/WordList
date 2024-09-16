@@ -1,0 +1,1 @@
+/wp-content/plugins/bo-wc-customer-review-watson/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/godaddy-email-marketing-sign-up-forms/readme.txt

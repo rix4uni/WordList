@@ -1,0 +1,1 @@
+/wp-content/plugins/fluid-responsive-slideshow/readme.txt

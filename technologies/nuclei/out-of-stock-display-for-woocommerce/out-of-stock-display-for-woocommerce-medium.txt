@@ -1,0 +1,1 @@
+/wp-content/plugins/out-of-stock-display-for-woocommerce/readme.txt

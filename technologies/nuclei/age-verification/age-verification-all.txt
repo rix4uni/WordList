@@ -1,0 +1,2 @@
+/wp-content/plugins/age-verification/readme.txt
+/wp-content/plugins/age-verification/age-verification.php?redirect_to=http%3A%2F%2Fwww.interact.sh

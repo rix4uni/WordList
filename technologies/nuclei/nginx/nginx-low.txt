@@ -1,0 +1,4 @@
+/nginx_status
+/nginx-status
+/status
+/dashboard.html

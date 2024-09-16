@@ -1,0 +1,3 @@
+/wp-content/plugins/duplicator/readme.txt
+/wp-content/backups-dup-lite/dup-installer/main.installer.php?is_daws=1
+/wp-content/dup-installer/main.installer.php?is_daws=1

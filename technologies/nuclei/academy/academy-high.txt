@@ -1,0 +1,1 @@
+/wp-content/plugins/academy/readme.txt

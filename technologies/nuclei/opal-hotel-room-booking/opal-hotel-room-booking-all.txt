@@ -1,0 +1,1 @@
+/wp-content/plugins/opal-hotel-room-booking/readme.txt

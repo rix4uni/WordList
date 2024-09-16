@@ -1,0 +1,1 @@
+/wp-content/plugins/gamipress-youtube-integration/readme.txt

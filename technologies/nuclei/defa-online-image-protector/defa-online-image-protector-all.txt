@@ -1,0 +1,1 @@
+/wp-content/plugins/defa-online-image-protector/readme.txt

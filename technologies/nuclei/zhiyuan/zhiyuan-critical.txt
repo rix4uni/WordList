@@ -1,0 +1,2 @@
+/seeyon/thirdpartyController.do.css/..;/ajax.do
+/seeyon/htmlofficeservlet

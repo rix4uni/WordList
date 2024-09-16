@@ -1,0 +1,1 @@
+/wp-content/plugins/display-admin-page-on-frontend/readme.txt

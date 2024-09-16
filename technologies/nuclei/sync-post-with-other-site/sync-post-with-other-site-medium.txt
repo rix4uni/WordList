@@ -1,0 +1,1 @@
+/wp-content/plugins/sync-post-with-other-site/readme.txt

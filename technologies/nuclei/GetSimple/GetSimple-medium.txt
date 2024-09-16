@@ -1,0 +1,2 @@
+/data/users/admin.xml
+/admin/index.php?redirect=http://example.com/?localhost/

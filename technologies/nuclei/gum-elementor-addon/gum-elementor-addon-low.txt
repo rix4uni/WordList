@@ -1,0 +1,1 @@
+/wp-content/plugins/gum-elementor-addon/readme.txt

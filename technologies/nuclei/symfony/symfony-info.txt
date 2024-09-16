@@ -1,0 +1,7 @@
+/_fragment
+/properties.ini
+/config/properties.ini
+/config/packages/security.yaml
+/app/config/security.yml
+/security.yml
+/config/security.yml

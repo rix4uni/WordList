@@ -1,0 +1,2 @@
+/download.rsp
+/wp-content/plugins/filedownload/readme.txt

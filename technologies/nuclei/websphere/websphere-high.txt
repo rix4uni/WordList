@@ -1,0 +1,6 @@
+/docpicker/internal_proxy/http/oast.me
+/wps/PA_WCM_Authoring_UI/proxy/http/oast.me
+/docpicker/internal_proxy/http/interact.sh
+/wps/PA_WCM_Authoring_UI/proxy/http/interact.sh
+/docpicker/internal_proxy/http/example.com
+/wps/PA_WCM_Authoring_UI/proxy/http/example.com

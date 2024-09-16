@@ -1,0 +1,1 @@
+/wp-content/plugins/protect-uploads-with-login-page/readme.txt

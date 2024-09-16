@@ -1,0 +1,1 @@
+/wp-content/plugins/optinly/readme.txt

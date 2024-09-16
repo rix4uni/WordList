@@ -1,0 +1,1 @@
+/wp-content/plugins/tenweb-speed-optimizer/readme.txt

@@ -1,0 +1,3 @@
+/webalizer/
+/stats/index.html
+/usage/

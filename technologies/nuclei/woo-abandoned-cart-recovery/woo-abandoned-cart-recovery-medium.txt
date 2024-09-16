@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-abandoned-cart-recovery/readme.txt

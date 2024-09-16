@@ -1,0 +1,1 @@
+/wp-content/plugins/indeed-membership-pro/readme.txt

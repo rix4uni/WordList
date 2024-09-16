@@ -1,0 +1,1 @@
+/wp-content/plugins/ps-phpcaptcha/readme.txt

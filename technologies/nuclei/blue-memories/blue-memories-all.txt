@@ -1,0 +1,1 @@
+/wp-content/themes/blue-memories/style.css

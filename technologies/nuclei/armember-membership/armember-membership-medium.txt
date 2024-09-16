@@ -1,0 +1,1 @@
+/wp-content/plugins/armember-membership/readme.txt

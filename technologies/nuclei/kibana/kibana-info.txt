@@ -1,0 +1,5 @@
+/login?next=%2F
+/bundles/login.bundle.js
+/bundles/kibana.style.css
+/login
+/app/kibana

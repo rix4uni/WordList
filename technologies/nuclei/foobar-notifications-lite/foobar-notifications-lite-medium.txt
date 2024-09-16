@@ -1,0 +1,1 @@
+/wp-content/plugins/foobar-notifications-lite/readme.txt

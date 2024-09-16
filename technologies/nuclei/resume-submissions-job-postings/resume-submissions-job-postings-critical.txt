@@ -1,0 +1,1 @@
+/wp-content/plugins/resume-submissions-job-postings/readme.txt

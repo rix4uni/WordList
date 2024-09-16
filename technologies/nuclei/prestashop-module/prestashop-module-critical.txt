@@ -1,0 +1,3 @@
+/modules/jmsthemelayout/config.xml
+/modules/jmsmegamenu/config.xml
+/modules/jmspagebuilder/config.xml

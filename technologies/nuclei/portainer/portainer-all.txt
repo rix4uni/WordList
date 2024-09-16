@@ -1,0 +1,2 @@
+/api/users/admin/check
+/#!/auth

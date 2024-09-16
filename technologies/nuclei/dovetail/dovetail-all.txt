@@ -1,0 +1,1 @@
+/wp-content/plugins/dovetail/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/zm-ajax-login-register/readme.txt

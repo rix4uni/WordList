@@ -1,0 +1,1 @@
+/wp-content/plugins/decon-wp-sms/readme.txt

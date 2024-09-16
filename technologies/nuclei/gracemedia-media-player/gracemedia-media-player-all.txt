@@ -1,0 +1,1 @@
+/wp-content/plugins/gracemedia-media-player/readme.txt

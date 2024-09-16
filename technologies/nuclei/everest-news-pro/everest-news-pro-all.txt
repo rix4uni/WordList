@@ -1,0 +1,1 @@
+/wp-content/themes/everest-news-pro/style.css

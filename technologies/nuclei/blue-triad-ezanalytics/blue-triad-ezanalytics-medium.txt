@@ -1,0 +1,1 @@
+/wp-content/plugins/blue-triad-ezanalytics/readme.txt

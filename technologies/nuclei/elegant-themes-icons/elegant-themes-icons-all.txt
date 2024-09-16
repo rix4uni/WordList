@@ -1,0 +1,1 @@
+/wp-content/plugins/elegant-themes-icons/readme.txt

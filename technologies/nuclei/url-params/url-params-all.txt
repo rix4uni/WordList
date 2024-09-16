@@ -1,0 +1,1 @@
+/wp-content/plugins/url-params/readme.txt

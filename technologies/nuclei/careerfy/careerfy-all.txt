@@ -1,0 +1,2 @@
+/wp-content/plugins/careerfy/readme.txt
+/wp-content/themes/careerfy/style.css

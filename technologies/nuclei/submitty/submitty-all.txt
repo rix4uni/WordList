@@ -1,0 +1,2 @@
+/authentication/login
+/authentication/login?old=http%3A%2F%2Flexample.com

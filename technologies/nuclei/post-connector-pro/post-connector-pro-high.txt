@@ -1,0 +1,1 @@
+/wp-content/plugins/post-connector-pro/readme.txt

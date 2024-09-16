@@ -1,0 +1,7 @@
+/new/newhttp://interact.sh
+/new/newhttp://example.com
+/metrics
+/api/metrics
+/service-discovery
+/prometheus
+/prometheus/prometheus

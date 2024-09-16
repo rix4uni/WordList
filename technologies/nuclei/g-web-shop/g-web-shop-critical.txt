@@ -1,0 +1,1 @@
+/wp-content/plugins/g-web-shop/readme.txt

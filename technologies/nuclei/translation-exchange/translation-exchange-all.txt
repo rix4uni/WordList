@@ -1,0 +1,1 @@
+/wp-content/plugins/translation-exchange/readme.txt

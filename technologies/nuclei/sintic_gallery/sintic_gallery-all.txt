@@ -1,0 +1,1 @@
+/wp-content/plugins/sintic_gallery/readme.txt

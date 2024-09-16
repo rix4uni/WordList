@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-photo-text-slider-50/readme.txt

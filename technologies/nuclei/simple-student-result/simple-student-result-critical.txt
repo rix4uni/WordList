@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-student-result/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/no-update-nag/readme.txt

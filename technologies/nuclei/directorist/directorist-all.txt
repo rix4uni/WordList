@@ -1,0 +1,2 @@
+/wp-content/plugins/directorist/readme.txt
+/wp-admin/admin-ajax.php?action=directorist_author_pagination

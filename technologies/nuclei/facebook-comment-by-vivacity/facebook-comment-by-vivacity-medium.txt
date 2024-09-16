@@ -1,0 +1,1 @@
+/wp-content/plugins/facebook-comment-by-vivacity/readme.txt

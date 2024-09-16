@@ -1,0 +1,4 @@
+/login/
+/manifest.json
+/minio/login
+/login

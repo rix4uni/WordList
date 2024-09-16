@@ -1,0 +1,2 @@
+/wp-content/plugins/member-hero/readme.txt
+/wp-admin/admin-ajax.php?action=memberhero_send_form&_memberhero_hook=phpinfo

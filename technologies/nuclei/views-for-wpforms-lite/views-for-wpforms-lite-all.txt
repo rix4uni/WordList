@@ -1,0 +1,1 @@
+/wp-content/plugins/views-for-wpforms-lite/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/calculated-fields-form/readme.txt

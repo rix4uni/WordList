@@ -1,0 +1,4 @@
+/vnc.html
+:6080/vnc.html
+//interact.sh/%2f..
+//example.com/%2f..

@@ -1,0 +1,1 @@
+/wp-content/plugins/mm-email2image/readme.txt

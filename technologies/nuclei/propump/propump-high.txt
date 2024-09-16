@@ -1,0 +1,1 @@
+/DataLogView.php?eventFileSelected=/etc/passwd

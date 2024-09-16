@@ -1,0 +1,1 @@
+/wp-content/plugins/ajax-random-post/readme.txt

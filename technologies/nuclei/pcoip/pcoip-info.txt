@@ -1,0 +1,2 @@
+/info/
+/login.html

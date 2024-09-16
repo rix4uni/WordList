@@ -1,0 +1,1 @@
+/wp-content/plugins/captcha-for-contact-form-7/readme.txt

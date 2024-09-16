@@ -1,0 +1,1 @@
+/wp-content/plugins/klarna-payments-for-woocommerce/readme.txt

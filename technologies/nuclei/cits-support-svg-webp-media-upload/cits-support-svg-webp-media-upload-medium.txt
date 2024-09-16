@@ -1,0 +1,1 @@
+/wp-content/plugins/cits-support-svg-webp-media-upload/readme.txt

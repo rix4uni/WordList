@@ -1,0 +1,1 @@
+/wp-content/plugins/trustmate-io-integration-for-woocommerce/readme.txt

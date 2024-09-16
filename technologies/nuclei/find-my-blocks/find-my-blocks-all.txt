@@ -1,0 +1,1 @@
+/wp-content/plugins/find-my-blocks/readme.txt

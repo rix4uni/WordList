@@ -1,0 +1,1 @@
+/wp-content/plugins/seriously-simple-podcasting/readme.txt

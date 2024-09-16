@@ -1,0 +1,1 @@
+/wp-content/plugins/tml-2fa/readme.txt

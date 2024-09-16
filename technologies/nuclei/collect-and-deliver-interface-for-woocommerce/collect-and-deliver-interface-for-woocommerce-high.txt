@@ -1,0 +1,1 @@
+/wp-content/plugins/collect-and-deliver-interface-for-woocommerce/readme.txt

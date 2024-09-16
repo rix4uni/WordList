@@ -1,0 +1,3 @@
+/general/status.html
+/dwr/index.html
+/.settings/rules.json?auth=FIREBASE_SECRET

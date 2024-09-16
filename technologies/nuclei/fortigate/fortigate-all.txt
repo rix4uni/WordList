@@ -1,0 +1,3 @@
+/remote/login
+/login?redir=/ng
+/remote/loginredir?redir=javascript:alert(document.domain)

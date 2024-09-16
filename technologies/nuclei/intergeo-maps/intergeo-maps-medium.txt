@@ -1,0 +1,1 @@
+/wp-content/plugins/intergeo-maps/readme.txt

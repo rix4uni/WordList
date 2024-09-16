@@ -1,0 +1,1 @@
+/wp-content/plugins/final-user-wp-frontend-user-profiles/readme.txt

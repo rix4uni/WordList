@@ -1,0 +1,1 @@
+/wp-content/plugins/tax-rate-upload/readme.txt

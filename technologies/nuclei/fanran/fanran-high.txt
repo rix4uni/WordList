@@ -1,0 +1,6 @@
+/seeyonreport/ReportServer?op=chart&cmd=get_geo_json&resourcepath=privilege.xml
+/ReportServer?op=chart&cmd=get_geo_json&resourcepath=privilege.xml
+/WebReport/ReportServer?op=chart&cmd=get_geo_json&resourcepath=privilege.xml
+/ReportServer?op=fr_server&cmd=sc_getconnectioninfo
+/seeyonreport/ReportServer?op=fr_server&cmd=sc_getconnectioninfo
+/WebReport/ReportServer?op=fr_server&cmd=sc_getconnectioninfo

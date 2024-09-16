@@ -1,0 +1,1 @@
+/wp-content/plugins/webappick-product-feed-for-woocommerce/readme.txt

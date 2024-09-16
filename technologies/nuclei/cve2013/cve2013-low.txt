@@ -1,0 +1,2 @@
+/index.action?redirect:http://www.example.com/
+/index.action?redirect:http://www.interact.sh/

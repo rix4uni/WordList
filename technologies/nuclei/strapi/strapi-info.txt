@@ -1,0 +1,4 @@
+/admin/auth/login
+/admin/init
+/documentation
+/documentation/login

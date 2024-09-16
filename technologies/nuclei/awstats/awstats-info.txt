@@ -1,0 +1,5 @@
+/awstats/
+/awstats.conf
+/awstats.pl
+/logs/awstats.pl
+/webstats/awstats.pl

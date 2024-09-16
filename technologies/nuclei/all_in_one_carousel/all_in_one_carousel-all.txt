@@ -1,0 +1,1 @@
+/wp-content/plugins/all_in_one_carousel/readme.txt

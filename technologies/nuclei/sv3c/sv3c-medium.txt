@@ -1,0 +1,3 @@
+/web/cgi-bin/hi3510/param.cgi?cmd=setmobilesnapattr&cururl=http%3A%2F%2Finteract.sh
+/web/cgi-bin/hi3510/param.cgi?cmd=setmobilesnapattr&cururl=http%3A%2F%2Fexample.com
+/web/cgi-bin/hi3510/param.cgi?cmd=setmobilesnapattr&cururl=http%3A%2F%2Fattacker.com

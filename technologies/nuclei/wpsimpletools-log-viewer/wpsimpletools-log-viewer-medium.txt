@@ -1,0 +1,1 @@
+/wp-content/plugins/wpsimpletools-log-viewer/readme.txt

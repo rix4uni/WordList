@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-clover-gateway-by-zaytech/readme.txt

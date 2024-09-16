@@ -1,0 +1,1 @@
+/wp-content/plugins/addify-price-calculator-for-woocommerce/readme.txt

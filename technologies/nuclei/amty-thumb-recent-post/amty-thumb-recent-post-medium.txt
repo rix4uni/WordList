@@ -1,0 +1,1 @@
+/wp-content/plugins/amty-thumb-recent-post/readme.txt

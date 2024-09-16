@@ -1,0 +1,1 @@
+/wp-content/plugins/evarisk/readme.txt

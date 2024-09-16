@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-githuber-md/readme.txt

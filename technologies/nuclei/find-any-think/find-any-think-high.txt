@@ -1,0 +1,1 @@
+/wp-content/plugins/find-any-think/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/ithemeland-bulk-posts-editing-lite/readme.txt

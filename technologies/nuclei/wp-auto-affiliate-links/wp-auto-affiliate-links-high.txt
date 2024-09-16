@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-auto-affiliate-links/readme.txt

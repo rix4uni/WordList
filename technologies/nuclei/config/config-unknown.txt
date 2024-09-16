@@ -1,0 +1,6 @@
+/config.rb
+/.chef/config.rb
+/assets/config.rb
+/env.js
+/config.js
+/_fragment

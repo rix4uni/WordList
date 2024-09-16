@@ -1,0 +1,1 @@
+/wp-content/plugins/private-messages-for-wordpress/readme.txt

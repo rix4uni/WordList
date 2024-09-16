@@ -1,0 +1,1 @@
+/wp-content/plugins/bsi-hotel-pro/readme.txt

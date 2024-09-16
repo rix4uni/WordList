@@ -1,0 +1,1 @@
+/wp-content/plugins/ad-blocking-detector/readme.txt

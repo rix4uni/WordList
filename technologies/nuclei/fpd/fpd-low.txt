@@ -1,0 +1,2 @@
+/admin/airflow/login
+/wp-admin/maint/repair.php

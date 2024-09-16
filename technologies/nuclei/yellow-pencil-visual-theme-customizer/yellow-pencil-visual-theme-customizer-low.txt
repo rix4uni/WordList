@@ -1,0 +1,1 @@
+/wp-content/plugins/yellow-pencil-visual-theme-customizer/readme.txt

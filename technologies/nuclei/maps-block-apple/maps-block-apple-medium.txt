@@ -1,0 +1,1 @@
+/wp-content/plugins/maps-block-apple/readme.txt

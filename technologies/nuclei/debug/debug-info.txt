@@ -1,0 +1,4 @@
+/test.php?action=config
+/metrics
+/?phpinfo=-1
+/wp-includes/rss-functions.php

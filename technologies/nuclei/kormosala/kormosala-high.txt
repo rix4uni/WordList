@@ -1,0 +1,1 @@
+/wp-content/themes/kormosala/style.css

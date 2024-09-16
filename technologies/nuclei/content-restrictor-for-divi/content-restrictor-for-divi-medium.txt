@@ -1,0 +1,1 @@
+/wp-content/plugins/content-restrictor-for-divi/readme.txt

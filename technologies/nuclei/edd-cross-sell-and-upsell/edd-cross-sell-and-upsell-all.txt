@@ -1,0 +1,1 @@
+/wp-content/plugins/edd-cross-sell-and-upsell/readme.txt

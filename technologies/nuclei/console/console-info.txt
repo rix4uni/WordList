@@ -1,0 +1,4 @@
+/h2-console/login.jsp
+/login.jsp
+/#/admin/dashboard
+/FrontController

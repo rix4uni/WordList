@@ -1,0 +1,2 @@
+/prweb/PRRestService/unauthenticatedAPI/v1/docs
+/prweb/PRAuth/app/default/

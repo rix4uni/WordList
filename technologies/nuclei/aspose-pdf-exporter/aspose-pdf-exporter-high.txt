@@ -1,0 +1,1 @@
+/wp-content/plugins/aspose-pdf-exporter/readme.txt

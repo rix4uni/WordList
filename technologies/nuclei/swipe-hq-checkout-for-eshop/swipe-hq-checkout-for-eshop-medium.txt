@@ -1,0 +1,1 @@
+/wp-content/plugins/swipe-hq-checkout-for-eshop/readme.txt

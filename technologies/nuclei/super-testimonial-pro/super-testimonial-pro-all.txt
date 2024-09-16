@@ -1,0 +1,1 @@
+/wp-content/plugins/super-testimonial-pro/readme.txt

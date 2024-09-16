@@ -1,0 +1,1 @@
+/wp-content/plugins/testimonial-slider-and-showcase/readme.txt

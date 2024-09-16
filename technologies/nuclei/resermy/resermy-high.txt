@@ -1,0 +1,1 @@
+/wp-content/plugins/resermy/readme.txt

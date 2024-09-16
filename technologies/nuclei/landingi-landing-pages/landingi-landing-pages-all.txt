@@ -1,0 +1,1 @@
+/wp-content/plugins/landingi-landing-pages/readme.txt

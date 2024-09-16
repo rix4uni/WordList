@@ -1,0 +1,1 @@
+/wp-content/plugins/facebook-button-plugin/readme.txt

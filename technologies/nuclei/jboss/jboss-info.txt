@@ -1,0 +1,3 @@
+/jbpm-console/app/tasks.jsf
+/juddi/
+/jmx-console/

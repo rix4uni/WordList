@@ -1,0 +1,1 @@
+/wp-content/plugins/different-menus-in-different-pages/readme.txt

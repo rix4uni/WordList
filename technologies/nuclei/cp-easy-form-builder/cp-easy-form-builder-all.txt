@@ -1,0 +1,1 @@
+/wp-content/plugins/cp-easy-form-builder/readme.txt

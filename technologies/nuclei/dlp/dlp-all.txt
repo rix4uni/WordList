@@ -1,0 +1,3 @@
+/login
+/DLPCenter/loginform.sms
+/DLPCenter/images/favicon.ico

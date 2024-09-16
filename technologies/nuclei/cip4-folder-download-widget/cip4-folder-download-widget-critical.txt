@@ -1,0 +1,1 @@
+/wp-content/plugins/cip4-folder-download-widget/readme.txt

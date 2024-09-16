@@ -1,0 +1,1 @@
+/wp-content/plugins/corona-virus-covid-19-banner/readme.txt

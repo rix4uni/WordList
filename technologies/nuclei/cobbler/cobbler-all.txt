@@ -1,0 +1,4 @@
+/cobbler_api
+/cobbler_web
+/cobbler/
+/cblr/

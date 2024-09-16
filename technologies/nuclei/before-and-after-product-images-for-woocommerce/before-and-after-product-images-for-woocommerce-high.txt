@@ -1,0 +1,1 @@
+/wp-content/plugins/before-and-after-product-images-for-woocommerce/readme.txt

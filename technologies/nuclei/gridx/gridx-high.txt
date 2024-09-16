@@ -1,0 +1,1 @@
+/tests/support/stores/test_grid_filter.php?query=phpinfo();

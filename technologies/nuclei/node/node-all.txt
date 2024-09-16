@@ -1,0 +1,8 @@
+/page?name={{range.constructor(\
+/node_modules/mqtt/test/helpers/
+/bun.lockb
+/npm-shrinkwrap.json
+/package.json
+/package-lock.json
+/pnpm-lock.yaml
+/metrics

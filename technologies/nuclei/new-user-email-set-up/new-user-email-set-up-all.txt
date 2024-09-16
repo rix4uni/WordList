@@ -1,0 +1,1 @@
+/wp-content/plugins/new-user-email-set-up/readme.txt

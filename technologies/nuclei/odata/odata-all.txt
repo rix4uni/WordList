@@ -1,0 +1,3 @@
+/odata/$metadata
+/OData/OData.svc/$metadata
+/OData/$metadata

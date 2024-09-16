@@ -1,0 +1,1 @@
+/wp-content/plugins/planso-forms/readme.txt

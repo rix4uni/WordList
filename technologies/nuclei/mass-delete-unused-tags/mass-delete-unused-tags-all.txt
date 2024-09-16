@@ -1,0 +1,1 @@
+/wp-content/plugins/mass-delete-unused-tags/readme.txt

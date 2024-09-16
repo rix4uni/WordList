@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-myghpay-payment-gateway/readme.txt

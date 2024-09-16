@@ -1,0 +1,1 @@
+/wp-content/plugins/work-the-flow-file-upload/readme.txt

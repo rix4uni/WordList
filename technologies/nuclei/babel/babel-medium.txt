@@ -1,0 +1,2 @@
+/modules/babel/redirect.php?newurl=http://example.com
+/modules/babel/redirect.php?newurl=http://interact.sh

@@ -1,0 +1,1 @@
+/wp-content/plugins/dewplayer-flash-mp3-player/readme.txt

@@ -1,0 +1,4 @@
+/index.html
+/fileman/index.html
+/fileman/php/fileslist.php
+/fileman/asp_net/main.ashx

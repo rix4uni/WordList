@@ -1,0 +1,1 @@
+/wp-content/plugins/beaver-themer/readme.txt

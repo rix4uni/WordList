@@ -1,0 +1,1 @@
+/account/sy_addmount.php?username=|id

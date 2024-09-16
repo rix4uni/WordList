@@ -1,0 +1,2 @@
+/
+/wp-content/plugins/sfwd-lms/readme.txt

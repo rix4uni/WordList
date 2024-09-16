@@ -1,0 +1,1 @@
+/wp-content/plugins/image-hover-effects-addon-for-elementor/readme.txt

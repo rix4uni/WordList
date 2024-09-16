@@ -1,0 +1,1 @@
+/wp-content/plugins/greyd_suite/readme.txt

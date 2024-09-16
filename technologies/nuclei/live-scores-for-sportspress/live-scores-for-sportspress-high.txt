@@ -1,0 +1,1 @@
+/wp-content/plugins/live-scores-for-sportspress/readme.txt

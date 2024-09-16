@@ -1,0 +1,1 @@
+/wp-content/plugins/freemage/readme.txt

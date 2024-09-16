@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-cart-all-in-one/readme.txt

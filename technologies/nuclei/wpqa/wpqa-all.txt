@@ -1,0 +1,2 @@
+/wp-content/plugins/wpqa/readme.txt
+/wp-json/wp/v2/asked-question

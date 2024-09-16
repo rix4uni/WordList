@@ -1,0 +1,1 @@
+/wp-content/plugins/xml-for-google-merchant-center/readme.txt

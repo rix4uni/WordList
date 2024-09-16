@@ -1,0 +1,1 @@
+/wp-content/plugins/woocommerce-extra-charges-to-payment-gateways/readme.txt

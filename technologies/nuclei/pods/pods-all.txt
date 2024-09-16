@@ -1,0 +1,2 @@
+/wp-content/plugins/pods/readme.txt
+/pods

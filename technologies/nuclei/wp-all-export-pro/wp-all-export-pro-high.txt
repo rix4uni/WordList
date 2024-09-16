@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-all-export-pro/readme.txt

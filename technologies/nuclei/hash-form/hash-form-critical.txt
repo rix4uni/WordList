@@ -1,0 +1,1 @@
+/wp-content/plugins/hash-form/readme.txt

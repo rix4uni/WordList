@@ -1,0 +1,1 @@
+/wp-content/plugins/fancy-facebook-comments/readme.txt

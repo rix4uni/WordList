@@ -1,0 +1,17 @@
+/app_dev.php/_profiler/open?file=app/config/parameters.yml
+/web/app_dev.php/_fragment?_path=_controller=phpcredits&flag=-1
+/web/_fragment?_path=_controller=phpcredits&flag=-1
+/app/_fragment?_path=_controller=phpcredits&flag=-1
+/_fragment?_path=_controller=phpcredits&flag=-1
+/config/databases.yml
+/_profiler/empty/search/results?limit=10
+/app_dev.php/_profiler/empty/search/results?limit=10
+/_fragment
+/properties.ini
+/config/properties.ini
+/config/packages/security.yaml
+/app/config/security.yml
+/security.yml
+/config/security.yml
+/app_dev.php/_profiler/phpinfo
+/js/routing?callback=fos.Router.setDatafoobarfoo

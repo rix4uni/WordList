@@ -1,0 +1,1 @@
+/wp-content/plugins/denk-internet-solutions/readme.txt

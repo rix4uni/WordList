@@ -1,0 +1,1 @@
+/wp-content/plugins/store-toolkit-for-wp-e-commerce/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/tm-woocommerce-compare-wishlist/readme.txt

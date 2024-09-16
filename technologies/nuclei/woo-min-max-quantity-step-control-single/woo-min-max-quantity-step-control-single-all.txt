@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-min-max-quantity-step-control-single/readme.txt

@@ -1,0 +1,4 @@
+/admin/index.php
+/admin/login.php
+/admin/index.php?login
+/index.php?login

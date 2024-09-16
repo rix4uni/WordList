@@ -1,0 +1,10 @@
+/service/v1/service-details
+/version.web
+/_vti_pvt/service.pwd
+/sm935/index.do
+/sm/ess.do
+/service/
+/login/sls/auth
+/apc/apc.php
+/apc.php
+/servicedesk/customer/user/signup

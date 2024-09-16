@@ -1,0 +1,1 @@
+/wp-content/plugins/motor-racing-league/readme.txt

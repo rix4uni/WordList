@@ -1,0 +1,1 @@
+/wp-content/plugins/sticky-menu-or-anything-on-scroll/readme.txt

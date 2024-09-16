@@ -1,0 +1,1 @@
+/wp-content/plugins/project-panorama-lite/readme.txt

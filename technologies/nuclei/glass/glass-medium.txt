@@ -1,0 +1,1 @@
+/wp-content/plugins/glass/readme.txt

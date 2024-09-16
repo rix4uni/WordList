@@ -1,0 +1,1 @@
+/wp-content/plugins/pirate-forms/readme.txt

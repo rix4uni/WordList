@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-travel-blocks/readme.txt

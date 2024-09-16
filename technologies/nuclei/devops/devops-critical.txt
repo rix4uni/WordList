@@ -1,0 +1,4 @@
+/script/
+/pods
+/api/v1/pods
+/images/json

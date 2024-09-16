@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-reroute-email/readme.txt

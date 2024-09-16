@@ -1,0 +1,1 @@
+/wp-content/plugins/recently-viewed-and-most-viewed-products/readme.txt

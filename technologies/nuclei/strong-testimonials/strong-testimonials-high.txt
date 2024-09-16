@@ -1,0 +1,1 @@
+/wp-content/plugins/strong-testimonials/readme.txt

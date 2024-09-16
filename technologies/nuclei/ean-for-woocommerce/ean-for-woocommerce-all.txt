@@ -1,0 +1,1 @@
+/wp-content/plugins/ean-for-woocommerce/readme.txt

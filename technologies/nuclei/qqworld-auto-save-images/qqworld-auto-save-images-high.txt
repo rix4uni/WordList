@@ -1,0 +1,1 @@
+/wp-content/plugins/qqworld-auto-save-images/readme.txt

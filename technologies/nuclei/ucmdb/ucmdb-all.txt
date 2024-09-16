@@ -1,0 +1,2 @@
+/ucmdb-api/connect
+/ucmdb-ui/cms/loginRequest.do;

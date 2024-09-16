@@ -1,0 +1,2 @@
+/yyoa/createMysql.jsp
+/yyoa/ext/createMysql.jsp

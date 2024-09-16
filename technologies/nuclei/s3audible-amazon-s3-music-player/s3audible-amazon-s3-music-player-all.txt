@@ -1,0 +1,1 @@
+/wp-content/plugins/s3audible-amazon-s3-music-player/readme.txt

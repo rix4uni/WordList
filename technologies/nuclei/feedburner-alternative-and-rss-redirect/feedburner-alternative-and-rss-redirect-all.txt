@@ -1,0 +1,1 @@
+/wp-content/plugins/feedburner-alternative-and-rss-redirect/readme.txt

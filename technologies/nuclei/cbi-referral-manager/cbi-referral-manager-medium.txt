@@ -1,0 +1,1 @@
+/wp-content/plugins/cbi-referral-manager/readme.txt

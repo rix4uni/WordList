@@ -1,0 +1,4 @@
+/login?next=http://interact.sh/?app.scan/
+/signup?next=http://interact.sh/?app.scan/
+/login?next=http://example.com/?app.scan/
+/signup?next=http://example.com/?app.scan/

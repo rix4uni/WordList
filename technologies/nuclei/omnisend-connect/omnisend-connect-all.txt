@@ -1,0 +1,1 @@
+/wp-content/plugins/omnisend-connect/readme.txt

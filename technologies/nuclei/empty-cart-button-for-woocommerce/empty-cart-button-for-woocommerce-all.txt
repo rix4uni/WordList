@@ -1,0 +1,1 @@
+/wp-content/plugins/empty-cart-button-for-woocommerce/readme.txt

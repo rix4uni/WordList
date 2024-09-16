@@ -1,0 +1,1 @@
+/wp-content/plugins/simplr-registration-form/readme.txt

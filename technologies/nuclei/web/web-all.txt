@@ -1,0 +1,10 @@
+/hp/device/this.LCDispatcher?nav=hp.DeviceStatus
+/hp/device/
+/info_deviceStatus.html?tab=Status&menu=DevStatus
+/hp/device/DeviceStatus/Index
+/hp/device/webAccess/index.htm
+/web/guest/en/websys/webArch/mainFrame.cgi
+/wt4/home?lang=en
+/?MAIN=TOPACCESS
+/stat.htm
+/home.html

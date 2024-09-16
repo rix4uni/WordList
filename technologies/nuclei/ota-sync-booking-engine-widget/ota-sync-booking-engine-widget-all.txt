@@ -1,0 +1,1 @@
+/wp-content/plugins/ota-sync-booking-engine-widget/readme.txt

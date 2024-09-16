@@ -1,0 +1,1 @@
+/wp-content/themes/freesia-empire/style.css

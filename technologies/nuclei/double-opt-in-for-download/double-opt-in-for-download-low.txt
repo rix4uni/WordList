@@ -1,0 +1,1 @@
+/wp-content/plugins/double-opt-in-for-download/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/drip-feed-content-extended-for-learndash/readme.txt

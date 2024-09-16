@@ -1,0 +1,1 @@
+/index.php?login_user={{login_user}}&time={{time}}&token={{token}}

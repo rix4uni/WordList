@@ -1,0 +1,1 @@
+/wp-content/plugins/nokia-mapsplaces/readme.txt

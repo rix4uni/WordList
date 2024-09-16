@@ -1,0 +1,1 @@
+/wp-content/plugins/feedzy-rss-feeds/readme.txt

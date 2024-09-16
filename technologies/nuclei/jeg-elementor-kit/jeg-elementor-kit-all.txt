@@ -1,0 +1,1 @@
+/wp-content/plugins/jeg-elementor-kit/readme.txt

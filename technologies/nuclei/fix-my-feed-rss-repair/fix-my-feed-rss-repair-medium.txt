@@ -1,0 +1,1 @@
+/wp-content/plugins/fix-my-feed-rss-repair/readme.txt

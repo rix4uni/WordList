@@ -1,0 +1,1 @@
+/wp-content/plugins/catalyst-connect-client-portal/readme.txt

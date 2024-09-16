@@ -1,0 +1,1 @@
+/wp-content/plugins/pray-for-me/readme.txt

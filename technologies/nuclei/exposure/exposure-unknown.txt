@@ -1,0 +1,16 @@
+/config.json
+/crx/explorer/browser/index.jsp
+/crx/explorer/ui/search.jsp
+/crx/explorer/ui/search.jsp?Path=&amp;Query=
+/crx/explorer/ui/search.jsp?Path=&Query=
+/etc/linkchecker.html
+/var/linkchecker.html
+/install/
+/config.rb
+/.chef/config.rb
+/assets/config.rb
+/install.php
+/env.js
+/config.js
+/setup/start
+/_fragment

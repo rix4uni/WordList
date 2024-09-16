@@ -1,0 +1,1 @@
+/wp-content/plugins/live-composer-page-builder/readme.txt

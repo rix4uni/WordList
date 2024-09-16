@@ -1,0 +1,2 @@
+/wp-content/plugins/highlight/readme.txt
+/wp-content/themes/highlight/style.css

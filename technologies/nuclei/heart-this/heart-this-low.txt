@@ -1,0 +1,1 @@
+/wp-content/plugins/heart-this/readme.txt

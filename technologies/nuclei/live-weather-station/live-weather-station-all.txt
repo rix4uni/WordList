@@ -1,0 +1,1 @@
+/wp-content/plugins/live-weather-station/readme.txt

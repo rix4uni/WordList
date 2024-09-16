@@ -1,0 +1,1 @@
+/wp-content/plugins/woorocks-magic-content-for-siteorigins-pagebuilder/readme.txt

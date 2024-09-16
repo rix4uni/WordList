@@ -1,0 +1,3 @@
+/auth/check
+/auth/newpassword
+/auth/requestreset

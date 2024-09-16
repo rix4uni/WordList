@@ -1,0 +1,16 @@
+/admin/setup-wizard
+/admin
+/login/
+/admin/airflow/login
+/admin/login
+/login.jsp
+/login
+/index.php
+/#/admin/dashboard
+/#/login?redirect=%2F
+/admin/config.php
+/solr/
+/auth/login
+/FrontController
+/pagespeed-global-admin/
+/setup/setup.do

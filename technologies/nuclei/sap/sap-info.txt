@@ -1,0 +1,13 @@
+/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html
+/hmc/hybris
+/hybris/hmc/hybris
+/occ/v2/d2OzBcy
+:8443
+/sap/hana/xs/formLogin/login.html
+/irj/portal
+/sap/bc/gui/sap/its/webgui
+/sf/start
+/inormalydonotexist
+/sap/wdisp/admin/public/default.html
+/fiori
+/irj/portal/fiori

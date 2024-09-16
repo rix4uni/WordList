@@ -1,0 +1,11 @@
+/glpi/
+/glpi2/
+/
+/php-fpm.conf
+/proxy
+/phpcs.xml
+/phpldapadmin
+/htdocs/index.php
+/.phpspec.yml
+/phpspec.yml
+/dashboard/

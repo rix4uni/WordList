@@ -1,0 +1,2 @@
+/e/ViewImg/index.html?url=javascript:alert(1)
+/web/xml/webuser-auth.xml

@@ -1,0 +1,1 @@
+/wp-content/plugins/link-juice-keeper/readme.txt

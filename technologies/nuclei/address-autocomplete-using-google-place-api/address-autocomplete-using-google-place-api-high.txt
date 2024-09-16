@@ -1,0 +1,1 @@
+/wp-content/plugins/address-autocomplete-using-google-place-api/readme.txt

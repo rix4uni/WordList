@@ -1,0 +1,5 @@
+/status.php
+/glpi/status.php
+/glpi2/status.php
+/nginx_status
+/nginx-status

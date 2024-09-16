@@ -1,0 +1,8 @@
+/glpi/
+/glpi2/
+/CHANGELOG.md
+/status.php
+/glpi/status.php
+/glpi2/status.php
+/ajax/telemetry.php
+/glpi/ajax/telemetry.php

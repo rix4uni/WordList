@@ -1,0 +1,1 @@
+/wp-content/plugins/yith-paypal-express-checkout-for-woocommerce/readme.txt

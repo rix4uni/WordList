@@ -1,0 +1,1 @@
+/wp-content/plugins/bird-feeder/readme.txt

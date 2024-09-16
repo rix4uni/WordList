@@ -1,0 +1,1 @@
+/wp-content/plugins/asf-allow-svg-files/readme.txt

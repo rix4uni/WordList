@@ -1,0 +1,1 @@
+/wp-content/plugins/vk-poster-group/readme.txt

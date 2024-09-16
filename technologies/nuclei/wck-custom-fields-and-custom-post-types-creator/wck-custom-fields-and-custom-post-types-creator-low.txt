@@ -1,0 +1,1 @@
+/wp-content/plugins/wck-custom-fields-and-custom-post-types-creator/readme.txt

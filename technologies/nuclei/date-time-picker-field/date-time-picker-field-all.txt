@@ -1,0 +1,1 @@
+/wp-content/plugins/date-time-picker-field/readme.txt

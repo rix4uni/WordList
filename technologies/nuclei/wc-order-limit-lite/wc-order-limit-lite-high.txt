@@ -1,0 +1,1 @@
+/wp-content/plugins/wc-order-limit-lite/readme.txt

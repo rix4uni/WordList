@@ -1,0 +1,1 @@
+/wp-content/plugins/callrail-phone-call-tracking/readme.txt

@@ -1,0 +1,2 @@
+/%252f%255cinteract.sh%252fa%253fb/
+/%252f%255cexample.com%252fa%253fb/

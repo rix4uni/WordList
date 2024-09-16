@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-team-showcase-and-slider/readme.txt

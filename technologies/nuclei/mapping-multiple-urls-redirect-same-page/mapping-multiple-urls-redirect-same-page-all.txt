@@ -1,0 +1,1 @@
+/wp-content/plugins/mapping-multiple-urls-redirect-same-page/readme.txt

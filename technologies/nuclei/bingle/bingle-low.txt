@@ -1,0 +1,1 @@
+/wp-content/themes/bingle/style.css

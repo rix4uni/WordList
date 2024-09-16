@@ -1,0 +1,3 @@
+/install/index.php
+/index.php
+/user.php?mod=login

@@ -1,0 +1,1 @@
+/wp-content/plugins/ari-cf7-connector/readme.txt

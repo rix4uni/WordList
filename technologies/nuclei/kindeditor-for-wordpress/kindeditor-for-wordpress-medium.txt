@@ -1,0 +1,1 @@
+/wp-content/plugins/kindeditor-for-wordpress/readme.txt

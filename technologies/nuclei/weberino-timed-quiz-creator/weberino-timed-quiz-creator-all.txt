@@ -1,0 +1,1 @@
+/wp-content/plugins/weberino-timed-quiz-creator/readme.txt

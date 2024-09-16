@@ -1,0 +1,1 @@
+/wp-content/plugins/cyclone-slider/readme.txt

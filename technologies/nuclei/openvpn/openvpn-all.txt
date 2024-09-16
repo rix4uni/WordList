@@ -1,0 +1,4 @@
+/openvpn-monitor/
+/login
+/index.php
+/?src=connect

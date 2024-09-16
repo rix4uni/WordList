@@ -1,0 +1,1 @@
+/wp-content/themes/hello-elementor/style.css

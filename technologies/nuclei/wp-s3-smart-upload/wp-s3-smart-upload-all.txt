@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-s3-smart-upload/readme.txt

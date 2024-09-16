@@ -1,0 +1,1 @@
+/wp-content/plugins/site-is-offline-plugin/readme.txt

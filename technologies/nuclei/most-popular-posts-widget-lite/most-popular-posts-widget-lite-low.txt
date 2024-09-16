@@ -1,0 +1,1 @@
+/wp-content/plugins/most-popular-posts-widget-lite/readme.txt

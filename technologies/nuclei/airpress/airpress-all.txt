@@ -1,0 +1,1 @@
+/wp-content/plugins/airpress/readme.txt

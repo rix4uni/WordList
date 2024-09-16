@@ -1,0 +1,1 @@
+/wp-content/plugins/loginpress-pro/readme.txt

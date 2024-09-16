@@ -1,0 +1,16 @@
+/wp-includes/ALFA_DATA/
+/wp-content/uploads/alm_templates/ALFA_DATA/alfacgiapi/
+/ALFA_DATA/alfacgiapi/
+/cgi-bin/ALFA_DATA/alfacgiapi/
+/Business/
+/wp-content/plugins/woocommerce/
+/wp-content/plugins/123contactform-for-wordpress/
+/wp-content/plugins/email-subscribers
+/wp-content/plugins/wp-mail-smtp/
+/wp-content/plugins/wp-mail-smtp-pro/
+/wp-content/plugins/mstore-api/
+/wp-content/plugins/1-flash-gallery/
+/blog/wp-content/plugins/1-flash-gallery/
+/wp-content/plugins/lifterlms/
+/wp-content/plugins/ultimate-member/
+/wp-content/plugins/super-forms/

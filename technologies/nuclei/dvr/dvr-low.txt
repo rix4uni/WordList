@@ -1,0 +1,1 @@
+/cgi-bin/nobody/Machine.cgi?action=get_capability

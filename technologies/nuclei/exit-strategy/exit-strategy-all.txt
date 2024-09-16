@@ -1,0 +1,1 @@
+/wp-content/plugins/exit-strategy/readme.txt

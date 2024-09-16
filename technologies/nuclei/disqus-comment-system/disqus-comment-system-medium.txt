@@ -1,0 +1,1 @@
+/wp-content/plugins/disqus-comment-system/readme.txt

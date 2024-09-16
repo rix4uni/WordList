@@ -1,0 +1,1 @@
+/wp-content/plugins/sina-extension-for-elementor/readme.txt

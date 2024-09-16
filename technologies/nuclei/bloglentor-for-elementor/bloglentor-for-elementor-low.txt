@@ -1,0 +1,1 @@
+/wp-content/plugins/bloglentor-for-elementor/readme.txt

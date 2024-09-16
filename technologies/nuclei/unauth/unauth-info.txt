@@ -1,0 +1,14 @@
+/
+/PRESENTATION/EPSONCONNECT
+/cgi-bin/home
+/browser/
+/aura
+/s/sfsites/aura
+/sfsites/aura
+/s/aura
+/s/fact
+/ui/index.html
+/config.html
+/grid/console
+/console
+/static/

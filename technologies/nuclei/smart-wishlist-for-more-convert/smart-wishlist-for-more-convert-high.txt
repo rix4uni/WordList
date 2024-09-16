@@ -1,0 +1,1 @@
+/wp-content/plugins/smart-wishlist-for-more-convert/readme.txt

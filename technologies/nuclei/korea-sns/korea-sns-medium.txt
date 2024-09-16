@@ -1,0 +1,1 @@
+/wp-content/plugins/korea-sns/readme.txt

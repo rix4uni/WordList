@@ -1,0 +1,1 @@
+/wp-content/plugins/baidu-tongji-generator/readme.txt

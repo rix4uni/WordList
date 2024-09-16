@@ -1,0 +1,3 @@
+/echo-server.html?code=test&state=http://www.interact.sh#
+/echo-server.html?code=test&state=http://www.example.com#
+/echo-server.html?code=test&state=http://www.attacker.com#

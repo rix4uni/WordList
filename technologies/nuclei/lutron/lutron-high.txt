@@ -1,0 +1,2 @@
+/login?login={{username}}&password={{password}}
+/login?login=lutron&password=lutron

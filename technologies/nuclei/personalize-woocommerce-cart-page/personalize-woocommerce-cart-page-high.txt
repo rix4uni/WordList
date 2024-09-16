@@ -1,0 +1,1 @@
+/wp-content/plugins/personalize-woocommerce-cart-page/readme.txt

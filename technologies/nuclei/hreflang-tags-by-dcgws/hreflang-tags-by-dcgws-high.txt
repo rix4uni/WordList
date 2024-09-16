@@ -1,0 +1,1 @@
+/wp-content/plugins/hreflang-tags-by-dcgws/readme.txt

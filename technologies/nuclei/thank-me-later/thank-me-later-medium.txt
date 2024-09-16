@@ -1,0 +1,1 @@
+/wp-content/plugins/thank-me-later/readme.txt

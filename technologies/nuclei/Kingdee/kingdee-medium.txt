@@ -1,0 +1,4 @@
+/admin/protected/selector/server_file/files?folder=C://&suffix=
+/admin/protected/selector/server_file/files?folder=/&suffix=
+/appmonitor/protected/selector/server_file/files?folder=C://&suffix=
+/appmonitor/protected/selector/server_file/files?folder=/&suffix=

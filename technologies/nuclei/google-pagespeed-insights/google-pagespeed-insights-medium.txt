@@ -1,0 +1,1 @@
+/wp-content/plugins/google-pagespeed-insights/readme.txt

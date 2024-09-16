@@ -1,0 +1,3 @@
+/base64/PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+
+/redirect-to?url=https%3A%2F%2Fexample.com
+/redirect-to?url=https%3A%2F%2Finteract.sh

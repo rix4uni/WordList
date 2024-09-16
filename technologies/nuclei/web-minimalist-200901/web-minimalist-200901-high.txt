@@ -1,0 +1,1 @@
+/wp-content/themes/web-minimalist-200901/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/pi-woocommerce-order-date-time-and-type/readme.txt

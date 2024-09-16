@@ -1,0 +1,1 @@
+/wp-content/plugins/wechat-broadcast/readme.txt

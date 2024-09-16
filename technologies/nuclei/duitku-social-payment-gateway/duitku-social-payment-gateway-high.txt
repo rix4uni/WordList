@@ -1,0 +1,1 @@
+/wp-content/plugins/duitku-social-payment-gateway/readme.txt

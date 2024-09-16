@@ -1,0 +1,1 @@
+/wp-content/plugins/remove-old-slugspermalinks/readme.txt

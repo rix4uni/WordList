@@ -1,0 +1,1 @@
+/wp-content/plugins/drop-shadow-boxes/readme.txt

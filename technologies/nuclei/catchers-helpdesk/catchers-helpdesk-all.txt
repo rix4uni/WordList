@@ -1,0 +1,1 @@
+/wp-content/plugins/catchers-helpdesk/readme.txt

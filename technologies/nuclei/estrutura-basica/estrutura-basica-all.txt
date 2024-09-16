@@ -1,0 +1,1 @@
+/wp-content/themes/estrutura-basica/style.css

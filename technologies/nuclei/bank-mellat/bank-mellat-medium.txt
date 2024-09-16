@@ -1,0 +1,1 @@
+/wp-content/plugins/bank-mellat/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/video-grid/readme.txt

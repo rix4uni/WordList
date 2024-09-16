@@ -1,0 +1,1 @@
+/wp-content/plugins/gsheetconnector-for-elementor-forms/readme.txt

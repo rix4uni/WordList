@@ -1,0 +1,1 @@
+/wp-content/plugins/faqs-manager/readme.txt

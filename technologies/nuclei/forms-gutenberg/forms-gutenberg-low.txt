@@ -1,0 +1,1 @@
+/wp-content/plugins/forms-gutenberg/readme.txt

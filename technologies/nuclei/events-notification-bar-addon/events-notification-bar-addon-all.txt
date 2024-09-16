@@ -1,0 +1,1 @@
+/wp-content/plugins/events-notification-bar-addon/readme.txt

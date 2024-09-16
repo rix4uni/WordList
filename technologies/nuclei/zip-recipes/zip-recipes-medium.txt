@@ -1,0 +1,1 @@
+/wp-content/plugins/zip-recipes/readme.txt

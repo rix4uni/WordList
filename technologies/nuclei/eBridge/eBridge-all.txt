@@ -1,0 +1,1 @@
+/taste/addTaste?company=111&userName=111&openid=111&source=111&mobile=111

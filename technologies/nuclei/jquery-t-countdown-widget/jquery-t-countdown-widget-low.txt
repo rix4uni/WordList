@@ -1,0 +1,1 @@
+/wp-content/plugins/jquery-t-countdown-widget/readme.txt

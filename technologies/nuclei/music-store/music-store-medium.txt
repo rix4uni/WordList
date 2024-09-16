@@ -1,0 +1,1 @@
+/wp-content/plugins/music-store/readme.txt

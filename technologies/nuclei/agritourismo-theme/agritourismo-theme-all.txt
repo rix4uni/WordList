@@ -1,0 +1,1 @@
+/wp-content/themes/agritourismo-theme/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/order-delivery-date-for-woocommerce/readme.txt

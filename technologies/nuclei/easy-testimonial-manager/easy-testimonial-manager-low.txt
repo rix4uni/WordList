@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-testimonial-manager/readme.txt

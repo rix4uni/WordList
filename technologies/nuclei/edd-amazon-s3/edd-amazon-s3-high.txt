@@ -1,0 +1,1 @@
+/wp-content/plugins/edd-amazon-s3/readme.txt

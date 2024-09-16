@@ -1,0 +1,1 @@
+/wp-content/plugins/digital-publications-by-supsystic/readme.txt

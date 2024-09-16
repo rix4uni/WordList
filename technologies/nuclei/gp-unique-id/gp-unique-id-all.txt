@@ -1,0 +1,1 @@
+/wp-content/plugins/gp-unique-id/readme.txt

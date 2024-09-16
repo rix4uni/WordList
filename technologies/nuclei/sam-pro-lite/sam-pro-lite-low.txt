@@ -1,0 +1,1 @@
+/wp-content/plugins/sam-pro-lite/readme.txt

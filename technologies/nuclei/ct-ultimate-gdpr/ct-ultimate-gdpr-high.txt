@@ -1,0 +1,1 @@
+/wp-content/plugins/ct-ultimate-gdpr/readme.txt

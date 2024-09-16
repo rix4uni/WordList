@@ -1,0 +1,10 @@
+/filex/read-raw?url=http://{{interactsh-url}}&cut=1
+/streampipes-backend/api/v2/auth/settings
+/streampipes-backend/api/openapi.json
+/api/clusters
+/api/clusters/malicious-cluster
+/api/clusters/malicious-cluster/metrics
+/config.php
+/config/config.php
+/include/config.php
+/includes/config.php

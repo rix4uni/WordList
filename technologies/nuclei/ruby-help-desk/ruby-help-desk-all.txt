@@ -1,0 +1,1 @@
+/wp-content/plugins/ruby-help-desk/readme.txt

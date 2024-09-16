@@ -1,0 +1,1 @@
+/wp-content/plugins/robin-image-optimizer/readme.txt

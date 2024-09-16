@@ -1,0 +1,1 @@
+/wp-content/plugins/video-posts-webcam-recorder/readme.txt

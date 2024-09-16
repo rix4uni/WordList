@@ -1,0 +1,3 @@
+/login?redirect=%2F
+/login
+/api/snapshots/:key

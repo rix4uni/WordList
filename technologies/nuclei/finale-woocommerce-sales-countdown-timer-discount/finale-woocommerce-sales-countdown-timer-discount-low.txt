@@ -1,0 +1,1 @@
+/wp-content/plugins/finale-woocommerce-sales-countdown-timer-discount/readme.txt

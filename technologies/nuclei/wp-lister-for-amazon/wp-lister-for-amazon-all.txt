@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-lister-for-amazon/readme.txt

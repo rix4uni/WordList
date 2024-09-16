@@ -1,0 +1,6 @@
+/artifactory/ui/repodata?deploy=true
+/api/system/version
+/api/system/ping
+/api/v1/system/readiness
+/api/v1/system/liveness
+/doesNotExist404

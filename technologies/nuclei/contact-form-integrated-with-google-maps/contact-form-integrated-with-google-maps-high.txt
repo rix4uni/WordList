@@ -1,0 +1,1 @@
+/wp-content/plugins/contact-form-integrated-with-google-maps/readme.txt

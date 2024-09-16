@@ -1,0 +1,1 @@
+/wp-content/plugins/buddypress-check-ins-pro/readme.txt

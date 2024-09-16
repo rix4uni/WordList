@@ -1,0 +1,4 @@
+/api/v1/status/config
+/graph
+/api/v1/status/flags
+/api/v1/targets

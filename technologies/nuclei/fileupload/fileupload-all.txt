@@ -1,0 +1,10 @@
+/configWizard/keyUpload.jsp
+/defaultroot/officeserverservlet
+/poc.jsp/
+/poc.jsp?cmd=cat+%2Fetc%2Fpasswd
+/laravel-filemanager/download?working_dir=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2F&type=&file=passwd
+/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/service/~baseapp/UploadServlet
+/laravel-filemanager?type=Files
+/Telerik.Web.UI.WebResource.axd?type=rau
+/RichWidgets/Popup_Upload.aspx

@@ -1,0 +1,1 @@
+/wp-content/plugins/dextaz-ping/readme.txt

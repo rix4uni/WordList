@@ -1,0 +1,1 @@
+/wp-content/plugins/mainwp-piwik-extension/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/netroics-blog-posts-grid/readme.txt

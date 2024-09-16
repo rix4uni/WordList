@@ -1,0 +1,1 @@
+/wp-content/plugins/ai-post-generator/readme.txt

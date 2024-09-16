@@ -1,0 +1,2 @@
+/(download)/etc/passwd
+/(download)/tmp/poc.txt

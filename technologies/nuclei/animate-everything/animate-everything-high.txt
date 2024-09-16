@@ -1,0 +1,1 @@
+/wp-content/plugins/animate-everything/readme.txt

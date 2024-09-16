@@ -1,0 +1,1 @@
+/wp-content/plugins/slide-show-pro/readme.txt

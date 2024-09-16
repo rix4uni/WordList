@@ -1,0 +1,1 @@
+/wp-content/plugins/login-or-logout-menu-item/readme.txt

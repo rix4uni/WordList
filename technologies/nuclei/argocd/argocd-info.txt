@@ -1,0 +1,3 @@
+/login
+/api/version
+/api/v1/settings

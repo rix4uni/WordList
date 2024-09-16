@@ -1,0 +1,1 @@
+/wp-content/plugins/hero-maps-pro/readme.txt

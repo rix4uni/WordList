@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-best-quiz/readme.txt

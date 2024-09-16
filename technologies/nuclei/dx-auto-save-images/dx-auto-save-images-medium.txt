@@ -1,0 +1,1 @@
+/wp-content/plugins/dx-auto-save-images/readme.txt

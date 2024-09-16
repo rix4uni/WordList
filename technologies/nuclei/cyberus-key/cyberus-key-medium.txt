@@ -1,0 +1,1 @@
+/wp-content/plugins/cyberus-key/readme.txt

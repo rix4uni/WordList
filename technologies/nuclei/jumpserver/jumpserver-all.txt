@@ -1,0 +1,2 @@
+/api/v1/terminal/sessions/
+/core/auth/login/

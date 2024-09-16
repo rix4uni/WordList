@@ -1,0 +1,1 @@
+/wp-content/plugins/ptengine-real-time-web-analytics-and-heatmap/readme.txt

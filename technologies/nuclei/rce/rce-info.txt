@@ -1,0 +1,9 @@
+/lui/
+/hub/
+/cf_scripts/scripts/ajax/package/cfajax.js
+/cf-scripts/scripts/ajax/package/cfajax.js
+/CFIDE/scripts/ajax/package/cfajax.js
+/cfide/scripts/ajax/package/cfajax.js
+/CF_SFSD/scripts/ajax/package/cfajax.js
+/cfide-scripts/ajax/package/cfajax.js
+/cfmx/CFIDE/scripts/ajax/package/cfajax.js

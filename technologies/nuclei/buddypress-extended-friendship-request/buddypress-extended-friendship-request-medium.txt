@@ -1,0 +1,1 @@
+/wp-content/plugins/buddypress-extended-friendship-request/readme.txt

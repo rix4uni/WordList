@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-permalink-manager/readme.txt

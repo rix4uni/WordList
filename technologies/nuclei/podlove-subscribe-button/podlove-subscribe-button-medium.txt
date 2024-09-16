@@ -1,0 +1,1 @@
+/wp-content/plugins/podlove-subscribe-button/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/iksweb/readme.txt

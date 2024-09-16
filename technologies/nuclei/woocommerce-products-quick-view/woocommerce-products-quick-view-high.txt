@@ -1,0 +1,1 @@
+/wp-content/plugins/woocommerce-products-quick-view/readme.txt

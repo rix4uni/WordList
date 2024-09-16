@@ -1,0 +1,1 @@
+/wp-content/plugins/standout-color-boxes-and-buttons/readme.txt

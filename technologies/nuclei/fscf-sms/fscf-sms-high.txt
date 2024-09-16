@@ -1,0 +1,1 @@
+/wp-content/plugins/fscf-sms/readme.txt

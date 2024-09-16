@@ -1,0 +1,1 @@
+/wp-content/plugins/mac-dock-gallery/readme.txt

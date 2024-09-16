@@ -1,0 +1,1 @@
+/wp-content/plugins/daext-autolinks-manager/readme.txt

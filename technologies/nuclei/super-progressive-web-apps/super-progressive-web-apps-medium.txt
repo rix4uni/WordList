@@ -1,0 +1,1 @@
+/wp-content/plugins/super-progressive-web-apps/readme.txt

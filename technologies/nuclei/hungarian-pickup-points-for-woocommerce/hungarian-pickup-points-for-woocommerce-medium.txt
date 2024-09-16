@@ -1,0 +1,1 @@
+/wp-content/plugins/hungarian-pickup-points-for-woocommerce/readme.txt

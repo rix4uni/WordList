@@ -1,0 +1,1 @@
+/wp-content/plugins/profilegrid-user-profiles-groups-and-communities/readme.txt

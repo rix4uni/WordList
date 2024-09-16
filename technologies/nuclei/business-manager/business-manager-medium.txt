@@ -1,0 +1,1 @@
+/wp-content/plugins/business-manager/readme.txt

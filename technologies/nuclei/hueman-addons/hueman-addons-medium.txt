@@ -1,0 +1,1 @@
+/wp-content/plugins/hueman-addons/readme.txt

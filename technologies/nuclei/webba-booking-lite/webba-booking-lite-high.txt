@@ -1,0 +1,1 @@
+/wp-content/plugins/webba-booking-lite/readme.txt

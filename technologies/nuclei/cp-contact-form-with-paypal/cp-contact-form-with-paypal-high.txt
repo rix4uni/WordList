@@ -1,0 +1,1 @@
+/wp-content/plugins/cp-contact-form-with-paypal/readme.txt

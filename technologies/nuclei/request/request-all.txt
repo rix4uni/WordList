@@ -1,0 +1,2 @@
+/api/imageProxy?url=https://pfelilpe.com/ping
+/wp-content/themes/uncode/core/inc/uncode-ajax.php

@@ -1,0 +1,1 @@
+/wp-content/plugins/blogroll-fun/readme.txt

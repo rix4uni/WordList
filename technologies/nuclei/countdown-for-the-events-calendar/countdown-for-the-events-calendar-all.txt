@@ -1,0 +1,1 @@
+/wp-content/plugins/countdown-for-the-events-calendar/readme.txt

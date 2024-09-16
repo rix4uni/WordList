@@ -1,0 +1,1 @@
+/wp-content/plugins/mainwp-file-uploader-extension/readme.txt

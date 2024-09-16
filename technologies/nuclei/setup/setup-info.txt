@@ -1,0 +1,4 @@
+/cgi-bin/webcm?getpage=../html/login.html
+/setup/setupLicense.action
+/setupAssistant.html
+/users/new

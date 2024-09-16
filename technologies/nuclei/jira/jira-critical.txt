@@ -1,0 +1,2 @@
+/secure/ContactAdministrators!default.jspa
+/InsightPluginShowGeneralConfiguration.jspa;

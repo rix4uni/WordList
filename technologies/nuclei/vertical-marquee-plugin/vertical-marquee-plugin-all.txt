@@ -1,0 +1,1 @@
+/wp-content/plugins/vertical-marquee-plugin/readme.txt

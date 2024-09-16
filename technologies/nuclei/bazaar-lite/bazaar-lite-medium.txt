@@ -1,0 +1,1 @@
+/wp-content/themes/bazaar-lite/style.css

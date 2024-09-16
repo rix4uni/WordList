@@ -1,0 +1,1 @@
+/wp-content/plugins/republish-old-posts/readme.txt

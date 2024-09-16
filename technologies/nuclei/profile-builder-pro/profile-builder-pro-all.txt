@@ -1,0 +1,1 @@
+/wp-content/plugins/profile-builder-pro/readme.txt

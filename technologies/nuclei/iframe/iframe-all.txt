@@ -1,0 +1,3 @@
+/lab.html?vpath=//interact.sh
+/lab.html?vpath=//example.com
+/wp-content/plugins/iframe/readme.txt

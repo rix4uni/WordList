@@ -1,0 +1,1 @@
+/wp-content/plugins/jquery-accordion-slideshow/readme.txt

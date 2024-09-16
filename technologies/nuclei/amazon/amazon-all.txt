@@ -1,0 +1,4 @@
+/.s3cfg
+/s3cmd.ini
+/index.html
+/awstats/data

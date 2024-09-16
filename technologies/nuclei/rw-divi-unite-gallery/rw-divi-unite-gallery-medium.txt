@@ -1,0 +1,1 @@
+/wp-content/plugins/rw-divi-unite-gallery/readme.txt

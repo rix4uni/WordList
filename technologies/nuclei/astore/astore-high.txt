@@ -1,0 +1,1 @@
+/wp-content/themes/astore/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/advanced-local-pickup-for-woocommerce/readme.txt

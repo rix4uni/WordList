@@ -1,0 +1,1 @@
+/wp-content/plugins/xo-security/readme.txt

@@ -1,0 +1,2 @@
+/wp-content/plugins/restricted-site-access/readme.txt
+/wp-content/themes/restricted-site-access/style.css

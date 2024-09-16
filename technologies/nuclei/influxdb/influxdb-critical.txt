@@ -1,0 +1,2 @@
+/query?db=db&q=SHOW%20DATABASES
+/query?q=SHOW%20DATABASES

@@ -1,0 +1,5 @@
+/containers/
+/api/stats
+/horizon/api/stats
+/#dashboard
+/transmission/web/

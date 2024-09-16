@@ -1,0 +1,1 @@
+/wp-content/plugins/webappick-pdf-invoice-for-woocommerce/readme.txt

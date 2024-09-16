@@ -1,0 +1,15 @@
+/libs/granite/core/content/login/favicon.ico
+/favicons/favicon.ico
+/favicons/favicon-144.png
+/login/imgs/favicon.ico
+/login/imgs/Corero-Logo-Full-Color.png
+/en-US/static/app/securewatch_analytics_tdd/img/favicon.png
+/en-US/static/app/securewatch_analytics_tdd/img/CoreroSecureWatchLogo.jpg
+/api/theme/faviconImage/D_32X32
+/api/theme/logoImage
+/api/logo/image
+/static/media/Corero-Logo-Full-Color.849b14ba.png
+/favicon.ico
+/{{path}}favicon.ico
+/sts/Content/Images/favicon.ico
+/en-US/static/img/favicon.ico

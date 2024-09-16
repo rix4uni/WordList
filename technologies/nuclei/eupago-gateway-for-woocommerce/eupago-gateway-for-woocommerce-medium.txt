@@ -1,0 +1,1 @@
+/wp-content/plugins/eupago-gateway-for-woocommerce/readme.txt

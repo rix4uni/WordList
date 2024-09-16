@@ -1,0 +1,1 @@
+/wp-content/plugins/cm-on-demand-search-and-replace/readme.txt

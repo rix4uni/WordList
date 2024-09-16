@@ -1,0 +1,1 @@
+/wp-content/plugins/addify-product-dynamic-pricing-and-discounts/readme.txt

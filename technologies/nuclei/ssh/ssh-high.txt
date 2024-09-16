@@ -1,0 +1,9 @@
+/my.ppk
+/putty.ppk
+/{{Hostname}}.ppk
+/.ssh/putty.ppk
+/.ssh/{{Hostname}}.ppk
+/.putty/my.ppk
+/.putty/putty.ppk
+/.putty/{{Hostname}}.ppk
+/.remote-sync.json

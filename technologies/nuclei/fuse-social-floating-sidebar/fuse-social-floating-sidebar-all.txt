@@ -1,0 +1,1 @@
+/wp-content/plugins/fuse-social-floating-sidebar/readme.txt

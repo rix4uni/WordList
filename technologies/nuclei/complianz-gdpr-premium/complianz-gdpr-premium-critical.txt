@@ -1,0 +1,1 @@
+/wp-content/plugins/complianz-gdpr-premium/readme.txt

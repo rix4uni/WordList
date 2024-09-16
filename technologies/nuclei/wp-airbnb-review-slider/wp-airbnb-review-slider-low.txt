@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-airbnb-review-slider/readme.txt

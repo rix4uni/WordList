@@ -1,0 +1,1 @@
+/wp-content/plugins/aviary-image-editor-add-on-for-gravity-forms/readme.txt

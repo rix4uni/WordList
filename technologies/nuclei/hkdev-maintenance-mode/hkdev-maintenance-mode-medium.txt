@@ -1,0 +1,1 @@
+/wp-content/plugins/hkdev-maintenance-mode/readme.txt

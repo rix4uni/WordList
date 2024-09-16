@@ -1,0 +1,1 @@
+/wp-content/plugins/templately/readme.txt

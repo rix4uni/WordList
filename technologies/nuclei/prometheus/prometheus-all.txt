@@ -1,0 +1,12 @@
+/api/v1/status/config
+/graph
+/api/v1/status/flags
+/api/v1/targets
+/prometheus
+/actuator/prometheus
+/new/newhttp://interact.sh
+/new/newhttp://example.com
+/metrics
+/api/metrics
+/service-discovery
+/prometheus/prometheus

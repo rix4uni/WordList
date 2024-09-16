@@ -1,0 +1,1 @@
+/wp-content/plugins/shareaholic/readme.txt

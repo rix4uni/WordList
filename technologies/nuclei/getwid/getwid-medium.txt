@@ -1,0 +1,1 @@
+/wp-content/plugins/getwid/readme.txt

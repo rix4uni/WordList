@@ -1,0 +1,1 @@
+/wp-content/plugins/obfuscate-email/readme.txt

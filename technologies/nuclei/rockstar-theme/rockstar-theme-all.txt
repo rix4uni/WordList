@@ -1,0 +1,1 @@
+/wp-content/themes/rockstar-theme/style.css

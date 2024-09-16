@@ -1,0 +1,10 @@
+/{{randstr}}
+/config.rb
+/.chef/config.rb
+/assets/config.rb
+/environment.rb
+/config/environment.rb
+/redmine/config/environment.rb
+/config/initializers/secret_token.rb
+/secret_token.rb
+/redmine/config/initializers/secret_token.rb

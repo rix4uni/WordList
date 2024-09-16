@@ -1,0 +1,1 @@
+/wp-content/plugins/dancepress-trwa/readme.txt

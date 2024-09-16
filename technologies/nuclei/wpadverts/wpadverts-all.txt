@@ -1,0 +1,1 @@
+/wp-content/plugins/wpadverts/readme.txt

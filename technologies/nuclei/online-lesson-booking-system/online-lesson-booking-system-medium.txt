@@ -1,0 +1,1 @@
+/wp-content/plugins/online-lesson-booking-system/readme.txt

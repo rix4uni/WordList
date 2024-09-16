@@ -1,0 +1,10 @@
+/configuration.yml
+/config/configuration.yml
+/redmine/config/configuration.yml
+/.redmine-cli
+/settings.yml
+/config/settings.yml
+/redmine/config/settings.yml
+/secret_token.rb
+/config/initializers/secret_token.rb
+/redmine/config/initializers/secret_token.rb

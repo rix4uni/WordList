@@ -1,0 +1,1 @@
+/wp-content/plugins/collage-for-divi/readme.txt

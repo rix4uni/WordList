@@ -1,0 +1,1 @@
+/wp-content/plugins/codup-woocommerce-dynamic-pricing-table-view/readme.txt

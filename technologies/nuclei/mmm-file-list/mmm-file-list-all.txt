@@ -1,0 +1,1 @@
+/wp-content/plugins/mmm-file-list/readme.txt

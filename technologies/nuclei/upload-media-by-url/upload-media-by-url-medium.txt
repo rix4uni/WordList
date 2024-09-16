@@ -1,0 +1,1 @@
+/wp-content/plugins/upload-media-by-url/readme.txt

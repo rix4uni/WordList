@@ -1,0 +1,1 @@
+/wp-content/plugins/be-popia-compliant/readme.txt

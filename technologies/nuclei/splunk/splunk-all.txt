@@ -1,0 +1,5 @@
+/en-US/account/login
+/en-US/static/img/favicon.ico
+/login?next=/
+/en-US/splunkd/__raw/services/server/info/server-info?output_mode=json
+/__raw/services/server/info/server-info?output_mode=json

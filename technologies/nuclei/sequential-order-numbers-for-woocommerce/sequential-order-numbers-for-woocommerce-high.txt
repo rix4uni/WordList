@@ -1,0 +1,1 @@
+/wp-content/plugins/sequential-order-numbers-for-woocommerce/readme.txt

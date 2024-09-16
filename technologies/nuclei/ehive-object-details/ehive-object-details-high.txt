@@ -1,0 +1,1 @@
+/wp-content/plugins/ehive-object-details/readme.txt

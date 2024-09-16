@@ -1,0 +1,4 @@
+/CMSInstall/install.aspx
+/index.php/install
+/concrete5/index.php/install
+/install

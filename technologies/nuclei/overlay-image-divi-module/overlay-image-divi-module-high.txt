@@ -1,0 +1,1 @@
+/wp-content/plugins/overlay-image-divi-module/readme.txt

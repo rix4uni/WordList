@@ -1,0 +1,3 @@
+/wp-content/plugins/backup-backup/readme.txt
+/wp-content/backup-migration/config.json
+/wp-content/backup-migration-xXxXxxXxXx/backups/BM_Backup_YYYY-MM-DD_00_00_00_xXxXxxXxXxxXxXxx.zip

@@ -1,0 +1,1 @@
+/wp-content/plugins/dynamic-font-replacement-4wp/readme.txt

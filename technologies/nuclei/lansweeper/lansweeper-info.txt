@@ -1,0 +1,2 @@
+/login.aspx
+/favicon.ico

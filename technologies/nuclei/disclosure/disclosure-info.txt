@@ -1,0 +1,4 @@
+/_framework/blazor.boot.json
+/#connection
+/openvpn-monitor/
+/yyoa/DownExcelBeanServlet?contenttype=username&contentvalue=&state=1&per_id=0

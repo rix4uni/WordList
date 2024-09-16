@@ -1,0 +1,1 @@
+/wp-content/plugins/soundy-audio-playlist/readme.txt

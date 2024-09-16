@@ -1,0 +1,1 @@
+/wp-content/plugins/school-management-system/readme.txt

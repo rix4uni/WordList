@@ -1,0 +1,1 @@
+/wp-content/plugins/cooked-pro/readme.txt

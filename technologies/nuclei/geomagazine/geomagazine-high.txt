@@ -1,0 +1,1 @@
+/wp-content/themes/geomagazine/style.css

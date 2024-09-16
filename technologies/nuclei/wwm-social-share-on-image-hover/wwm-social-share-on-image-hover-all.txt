@@ -1,0 +1,1 @@
+/wp-content/plugins/wwm-social-share-on-image-hover/readme.txt

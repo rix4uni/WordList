@@ -1,0 +1,1 @@
+/wp-content/plugins/advanced-coupons-for-woocommerce-free/readme.txt

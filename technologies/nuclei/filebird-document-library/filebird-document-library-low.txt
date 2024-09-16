@@ -1,0 +1,1 @@
+/wp-content/plugins/filebird-document-library/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/extend-filter-products-by-price-widget/readme.txt

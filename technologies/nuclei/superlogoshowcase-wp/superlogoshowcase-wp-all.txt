@@ -1,0 +1,1 @@
+/wp-content/plugins/superlogoshowcase-wp/readme.txt

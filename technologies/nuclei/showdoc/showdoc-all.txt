@@ -1,0 +1,1 @@
+/server/index.php?s=/api/user/login

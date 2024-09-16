@@ -1,0 +1,1 @@
+/wp-content/plugins/require-taxonomy-image-category-tag/readme.txt

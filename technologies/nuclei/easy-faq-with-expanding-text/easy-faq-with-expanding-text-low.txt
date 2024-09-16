@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-faq-with-expanding-text/readme.txt

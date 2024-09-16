@@ -1,0 +1,1 @@
+/wp-content/plugins/cc-bcc-for-woocommerce-order-emails/readme.txt

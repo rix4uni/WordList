@@ -1,0 +1,1 @@
+/wp-content/plugins/seo-automatic-wp-core-tweaks/readme.txt

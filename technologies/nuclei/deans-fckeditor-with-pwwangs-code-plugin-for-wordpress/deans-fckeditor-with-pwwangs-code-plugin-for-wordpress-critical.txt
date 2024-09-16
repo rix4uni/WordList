@@ -1,0 +1,1 @@
+/wp-content/plugins/deans-fckeditor-with-pwwangs-code-plugin-for-wordpress/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/autoresponder-gwa/readme.txt

@@ -1,0 +1,4 @@
+/%5C%5Cinteract.sh/%252e%252e%252f
+/wp-content/plugins/caddy/readme.txt
+//example.com/%2F..
+//interact.sh/%2F..

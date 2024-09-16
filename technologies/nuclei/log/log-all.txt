@@ -1,0 +1,7 @@
+/elmah.axd
+/lang/log/system.log
+/installer-log.txt
+/.badarg.log
+/wp-content/uploads/affwp-debug.log
+/wp-content/debug.log
+/downloader.log

@@ -1,0 +1,2 @@
+/scgi-bin/platform.cgi?page=portalLogin.htm&portal=SSLVPN
+/rootDesc.xml

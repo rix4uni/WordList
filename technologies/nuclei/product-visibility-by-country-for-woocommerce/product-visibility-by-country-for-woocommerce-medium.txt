@@ -1,0 +1,1 @@
+/wp-content/plugins/product-visibility-by-country-for-woocommerce/readme.txt

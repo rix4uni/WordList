@@ -1,0 +1,1 @@
+/wp-content/plugins/advanced-page-visit-counter/readme.txt

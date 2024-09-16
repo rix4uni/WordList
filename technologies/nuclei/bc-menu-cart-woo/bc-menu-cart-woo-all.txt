@@ -1,0 +1,1 @@
+/wp-content/plugins/bc-menu-cart-woo/readme.txt

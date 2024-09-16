@@ -1,0 +1,1 @@
+/wp-content/plugins/oliver-pos/readme.txt

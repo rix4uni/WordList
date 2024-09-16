@@ -1,0 +1,10 @@
+/costModule/faces/javax.faces.resource/web.xml?loc=../WEB-INF
+/costModule/faces/javax.faces.resource./WEB-INF/web.xml.jsf?ln=..
+/faces/javax.faces.resource/web.xml?loc=../WEB-INF
+/faces/javax.faces.resource./WEB-INF/web.xml.jsf?ln=..
+/secureader/javax.faces.resource/web.xml?loc=../WEB-INF
+/secureader/javax.faces.resource./WEB-INF/web.xml.jsf?ln=..
+/myaccount/javax.faces.resource/web.xml?loc=../WEB-INF
+/myaccount/javax.faces.resource./WEB-INF/web.xml.jsf?ln=..
+/SupportPortlet/faces/javax.faces.resource/web.xml?loc=../WEB-INF
+/SupportPortlet/faces/javax.faces.resource./WEB-INF/web.xml.jsf?ln=..

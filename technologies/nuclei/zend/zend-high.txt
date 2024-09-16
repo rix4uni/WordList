@@ -1,0 +1,13 @@
+/application/configs/application.ini
+/admin/configs/application.ini
+/application.ini
+/aplicacao/application/configs/application.ini
+/cloudexp/application/configs/application.ini
+/cms/application/configs/application.ini
+/moto/application/configs/application.ini
+/Partners/application/configs/application.ini
+/radio/application/configs/application.ini
+/seminovos/application/configs/application.ini
+/shop/application/configs/application.ini
+/site_cg/application/configs/application.ini
+/slr/application/configs/application.ini

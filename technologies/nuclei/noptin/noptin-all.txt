@@ -1,0 +1,2 @@
+/?noptin_ns=email_click&to=https://example.com
+/?noptin_ns=email_click&to=https://interact.sh

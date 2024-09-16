@@ -1,0 +1,1 @@
+/wp-content/plugins/premium-seo-pack/readme.txt

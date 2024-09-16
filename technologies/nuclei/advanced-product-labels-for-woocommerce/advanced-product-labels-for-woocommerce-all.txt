@@ -1,0 +1,1 @@
+/wp-content/plugins/advanced-product-labels-for-woocommerce/readme.txt

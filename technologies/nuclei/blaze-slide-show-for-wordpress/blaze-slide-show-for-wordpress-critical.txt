@@ -1,0 +1,1 @@
+/wp-content/plugins/blaze-slide-show-for-wordpress/readme.txt

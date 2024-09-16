@@ -1,0 +1,2 @@
+/system/mediafile/templateOfTaohong_manager.jsp?path=/../../../
+/service/~iufo/com.ufida.web.action.ActionServlet?TableSelectedID&TreeSelectedID&action=nc.ui.iufo.release.InfoReleaseAction&method=createBBSRelease

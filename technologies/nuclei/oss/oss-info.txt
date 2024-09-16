@@ -1,0 +1,15 @@
+/auth/login
+/v1/sys/debug
+/js/elfinder.min.js
+/js/elFinder.version.js
+/fuel/login
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml
+/ovirt-engine/userportal/
+/ovirt-engine/webadmin/
+/ocpu/
+/authentication/login
+/api/tenants
+/api/status

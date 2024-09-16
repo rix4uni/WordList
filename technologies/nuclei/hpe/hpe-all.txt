@@ -1,0 +1,2 @@
+/rest/v1/AccountService/Accounts
+/cpqlogin.htm

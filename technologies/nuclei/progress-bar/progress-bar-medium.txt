@@ -1,0 +1,1 @@
+/wp-content/plugins/progress-bar/readme.txt

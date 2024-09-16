@@ -1,0 +1,1 @@
+/wp-content/plugins/ignitiondeck/readme.txt

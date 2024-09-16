@@ -1,0 +1,1 @@
+/wp-content/plugins/wwc-amz-aff/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/tawkto-live-chat/readme.txt

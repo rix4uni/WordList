@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-dynamic-keywords-injector/readme.txt

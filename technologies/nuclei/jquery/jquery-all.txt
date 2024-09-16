@@ -1,0 +1,2 @@
+/wp-content/plugins/delightful-downloads/assets/vendor/jqueryFileTree/connectors/jqueryFileTree.php
+/jquery-file-upload/server/php/

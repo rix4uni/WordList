@@ -1,0 +1,1 @@
+/wp-content/plugins/conversation-watson/readme.txt

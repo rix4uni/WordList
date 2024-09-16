@@ -1,0 +1,2 @@
+/lab.html?vpath=//interact.sh
+/lab.html?vpath=//example.com

@@ -1,0 +1,4 @@
+/web/database/manager
+/data/pbootcms.db
+/database_credentials.inc
+/libraries/joomla/database/

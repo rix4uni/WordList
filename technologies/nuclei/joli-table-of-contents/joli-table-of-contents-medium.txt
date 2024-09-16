@@ -1,0 +1,1 @@
+/wp-content/plugins/joli-table-of-contents/readme.txt

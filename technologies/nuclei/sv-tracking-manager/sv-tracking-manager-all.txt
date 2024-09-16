@@ -1,0 +1,1 @@
+/wp-content/plugins/sv-tracking-manager/readme.txt

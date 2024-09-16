@@ -1,0 +1,1 @@
+/wp-content/plugins/post-content-xmlrpc/readme.txt

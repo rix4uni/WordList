@@ -1,0 +1,1 @@
+/wp-content/plugins/better-messages-wcfm-integration/readme.txt

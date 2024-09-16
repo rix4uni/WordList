@@ -1,0 +1,1 @@
+/wp-content/themes/zigcy-cosmetics/style.css

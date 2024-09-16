@@ -1,0 +1,1 @@
+/wp-content/themes/reganto-theme/style.css

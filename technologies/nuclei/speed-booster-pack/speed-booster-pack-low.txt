@@ -1,0 +1,1 @@
+/wp-content/plugins/speed-booster-pack/readme.txt

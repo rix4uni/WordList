@@ -1,0 +1,1 @@
+/wp-content/plugins/mq-woocommerce-products-price-bulk-edit/readme.txt

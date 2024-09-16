@@ -1,0 +1,2 @@
+/pentaho/api/userrolelist/systemRoles?require-cfg.js
+/api/userrolelist/systemRoles?require-cfg.js

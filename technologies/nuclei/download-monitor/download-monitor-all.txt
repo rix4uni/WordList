@@ -1,0 +1,2 @@
+/wp-content/plugins/download-monitor/readme.txt
+/wp-json/download-monitor/v1/user_data

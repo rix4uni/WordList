@@ -1,0 +1,1 @@
+/wp-content/plugins/about-me-3000/readme.txt

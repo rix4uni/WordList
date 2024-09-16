@@ -1,0 +1,12 @@
+/{{randstr}}
+/laravel-filemanager?type=Files
+/{{randstr}}.php
+/puppet-ca/v1/certificate_request/{{randstr}}
+/?s={{randstr}}&c={{randstr}}&a={{randstr}}&m={{randstr}}
+/docs/introduction.html
+/..;/manager/html
+/..;/..;/manager/html;/
+/..;/host-manager/html
+/..;/..;/host-manager/html;/
+/{{randstr}}/..;/manager/html
+/{{randstr}}/..;/host-manager/html

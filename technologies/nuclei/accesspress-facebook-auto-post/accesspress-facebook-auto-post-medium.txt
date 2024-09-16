@@ -1,0 +1,1 @@
+/wp-content/plugins/accesspress-facebook-auto-post/readme.txt

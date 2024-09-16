@@ -1,0 +1,1 @@
+/wp-content/plugins/porto-functionality/readme.txt

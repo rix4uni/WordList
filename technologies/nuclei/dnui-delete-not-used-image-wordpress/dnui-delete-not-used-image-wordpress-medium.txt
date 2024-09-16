@@ -1,0 +1,1 @@
+/wp-content/plugins/dnui-delete-not-used-image-wordpress/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/traffic-manager/readme.txt

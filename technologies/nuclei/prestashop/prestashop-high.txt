@@ -1,0 +1,2 @@
+/modules/blockwishlist/config.xml
+/install/index.php

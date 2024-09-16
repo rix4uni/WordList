@@ -1,0 +1,1 @@
+/wp-content/plugins/phpsword-favicon-manager/readme.txt

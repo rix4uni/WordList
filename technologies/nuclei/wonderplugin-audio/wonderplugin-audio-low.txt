@@ -1,0 +1,1 @@
+/wp-content/plugins/wonderplugin-audio/readme.txt

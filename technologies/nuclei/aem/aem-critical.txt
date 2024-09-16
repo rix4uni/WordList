@@ -1,0 +1,3 @@
+/groovyconsole
+/etc/groovyconsole.html
+/groovyconsole.html

@@ -1,0 +1,1 @@
+/wp-content/plugins/interactive-geo-maps/readme.txt

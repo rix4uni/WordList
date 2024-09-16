@@ -1,0 +1,1 @@
+/wp-content/plugins/weather-in-any-city-widget/readme.txt

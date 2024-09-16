@@ -1,0 +1,1 @@
+/wp-content/plugins/optima-express/readme.txt

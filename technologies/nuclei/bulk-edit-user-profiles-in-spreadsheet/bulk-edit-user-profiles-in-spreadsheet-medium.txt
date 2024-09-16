@@ -1,0 +1,1 @@
+/wp-content/plugins/bulk-edit-user-profiles-in-spreadsheet/readme.txt

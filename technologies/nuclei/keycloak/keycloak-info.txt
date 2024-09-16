@@ -1,0 +1,5 @@
+/auth/admin/master/console/
+/auth/admin
+/keycloak.json
+/.well-known/openid-configuration
+/auth/realms/master/.well-known/openid-configuration

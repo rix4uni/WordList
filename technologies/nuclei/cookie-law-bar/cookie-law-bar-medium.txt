@@ -1,0 +1,1 @@
+/wp-content/plugins/cookie-law-bar/readme.txt

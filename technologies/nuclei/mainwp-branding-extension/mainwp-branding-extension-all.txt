@@ -1,0 +1,1 @@
+/wp-content/plugins/mainwp-branding-extension/readme.txt

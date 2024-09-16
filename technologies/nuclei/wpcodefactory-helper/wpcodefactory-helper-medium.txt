@@ -1,0 +1,1 @@
+/wp-content/plugins/wpcodefactory-helper/readme.txt

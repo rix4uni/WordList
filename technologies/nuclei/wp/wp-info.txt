@@ -1,0 +1,10 @@
+/wp-content/plugins/dzs-zoomsounds/
+/wp-admin/install.php
+/feed/
+/?feed=rss2
+/readme.html
+/wp/readme.html
+/blog/wp/readme.html
+/wp-cron.php
+/wp-content/plugins/qards/
+/wp-login.php

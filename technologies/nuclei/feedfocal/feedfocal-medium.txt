@@ -1,0 +1,1 @@
+/wp-content/plugins/feedfocal/readme.txt

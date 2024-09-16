@@ -1,0 +1,2 @@
+/function/content/tamper/file_tamper_show.php?filename=file_tamper_show.php
+/db/wafconfig.db

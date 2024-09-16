@@ -1,0 +1,1 @@
+/wp-content/plugins/sell-downloads/readme.txt

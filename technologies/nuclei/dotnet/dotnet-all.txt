@@ -1,0 +1,3 @@
+/user/City_ajax.aspx?CityId=33
+/WebReport/ReportServer
+/ReportServer

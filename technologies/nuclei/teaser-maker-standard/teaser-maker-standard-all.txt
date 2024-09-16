@@ -1,0 +1,1 @@
+/wp-content/plugins/teaser-maker-standard/readme.txt

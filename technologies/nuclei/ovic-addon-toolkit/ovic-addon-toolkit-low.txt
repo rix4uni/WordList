@@ -1,0 +1,1 @@
+/wp-content/plugins/ovic-addon-toolkit/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/digital-climate-strike-wp/readme.txt

@@ -1,0 +1,2 @@
+/wp-content/themes/chameleon/style.css
+/wp-content/plugins/chameleon/readme.txt

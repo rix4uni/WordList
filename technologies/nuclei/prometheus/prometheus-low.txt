@@ -1,0 +1,3 @@
+/prometheus
+/graph
+/actuator/prometheus

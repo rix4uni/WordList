@@ -1,0 +1,1 @@
+/wp-content/plugins/stop-spammer-registrations-plugin/readme.txt

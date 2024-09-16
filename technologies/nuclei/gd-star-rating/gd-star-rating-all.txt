@@ -1,0 +1,1 @@
+/wp-content/plugins/gd-star-rating/readme.txt

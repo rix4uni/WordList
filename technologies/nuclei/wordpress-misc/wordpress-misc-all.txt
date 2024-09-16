@@ -1,0 +1,15 @@
+/wp-content/plugins/simply-gallery-block/readme.txt
+/wp-login.php?action=register
+/wp-content/uploads/
+/wp-content/uploads/2015/
+/wp-content/uploads/2016/
+/wp-content/uploads/2017/
+/wp-content/uploads/2018/
+/wp-content/uploads/2019/
+/wp-content/uploads/2020/
+/wp-content/uploads/2021/
+/wp-content/uploads/2022/
+/wp-content/uploads/2023/
+/wp-content/uploads/2024/
+/wp-content/uploads/2025/
+/wp-content/uploads/cfdb7_uploads/

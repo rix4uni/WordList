@@ -1,0 +1,1 @@
+/wp-content/plugins/meet-my-team/readme.txt

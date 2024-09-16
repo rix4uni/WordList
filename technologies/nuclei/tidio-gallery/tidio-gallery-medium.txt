@@ -1,0 +1,1 @@
+/wp-content/plugins/tidio-gallery/readme.txt

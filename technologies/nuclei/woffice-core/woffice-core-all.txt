@@ -1,0 +1,1 @@
+/wp-content/plugins/woffice-core/readme.txt

@@ -1,0 +1,2 @@
+/xxx/..;/admin/
+/./admin/

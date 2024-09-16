@@ -1,0 +1,6 @@
+/login
+/api/theme/themeConfiguration
+/en-US/account/login
+/api/jsonws
+/api/jsonws/invoke
+/webmail/

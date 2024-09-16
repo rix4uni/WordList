@@ -1,0 +1,1 @@
+/wp-content/themes/elegance/style.css

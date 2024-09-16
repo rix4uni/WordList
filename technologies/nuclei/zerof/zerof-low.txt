@@ -1,0 +1,1 @@
+/admin.back<img src=a onerror=alert(

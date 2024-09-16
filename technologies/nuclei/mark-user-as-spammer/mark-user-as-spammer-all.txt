@@ -1,0 +1,1 @@
+/wp-content/plugins/mark-user-as-spammer/readme.txt

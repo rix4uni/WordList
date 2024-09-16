@@ -1,0 +1,5 @@
+/en/WEB-INF/web.xml;.js
+/api/liferay
+/api/axis
+/api/jsonws
+/api/jsonws/invoke

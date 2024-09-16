@@ -1,0 +1,16 @@
+/CFIDE/administrator/images/mx_login.gif
+/cfide/administrator/images/mx_login.gif
+/CFIDE/administrator/images/background.jpg
+/cfide/administrator/images/background.jpg
+/CFIDE/administrator/images/componentutilslogin.jpg
+/cfide/administrator/images/componentutilslogin.jpg
+/_something_.cfm
+/CFIDE/componentutils/login.cfm
+/cfide/componentutils/login.cfm
+/cf_scripts/scripts/ajax/package/cfajax.js
+/cf-scripts/scripts/ajax/package/cfajax.js
+/CFIDE/scripts/ajax/package/cfajax.js
+/cfide/scripts/ajax/package/cfajax.js
+/CF_SFSD/scripts/ajax/package/cfajax.js
+/cfide-scripts/ajax/package/cfajax.js
+/cfmx/CFIDE/scripts/ajax/package/cfajax.js

@@ -1,0 +1,1 @@
+/wp-content/plugins/tnit-filter-gallery-for-beaver-builder/readme.txt

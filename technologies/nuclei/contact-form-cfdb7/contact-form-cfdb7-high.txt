@@ -1,0 +1,1 @@
+/wp-content/plugins/contact-form-cfdb7/readme.txt

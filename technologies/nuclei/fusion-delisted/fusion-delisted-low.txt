@@ -1,0 +1,1 @@
+/wp-content/themes/fusion-delisted/style.css

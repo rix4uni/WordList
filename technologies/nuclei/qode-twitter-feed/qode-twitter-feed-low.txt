@@ -1,0 +1,1 @@
+/wp-content/plugins/qode-twitter-feed/readme.txt

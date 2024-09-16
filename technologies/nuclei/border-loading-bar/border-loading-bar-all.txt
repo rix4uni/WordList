@@ -1,0 +1,1 @@
+/wp-content/plugins/border-loading-bar/readme.txt

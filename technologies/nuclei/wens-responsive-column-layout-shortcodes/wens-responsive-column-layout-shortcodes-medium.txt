@@ -1,0 +1,1 @@
+/wp-content/plugins/wens-responsive-column-layout-shortcodes/readme.txt

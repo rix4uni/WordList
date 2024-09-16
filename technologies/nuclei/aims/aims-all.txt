@@ -1,0 +1,2 @@
+/aims/ps/
+/aims/ps/default.aspx

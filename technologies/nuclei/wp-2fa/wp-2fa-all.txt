@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-2fa/readme.txt

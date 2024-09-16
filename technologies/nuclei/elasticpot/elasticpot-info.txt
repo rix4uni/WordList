@@ -1,0 +1,2 @@
+/_cluster/settings
+:9200/_cluster/settings

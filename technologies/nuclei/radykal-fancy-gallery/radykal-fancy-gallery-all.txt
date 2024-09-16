@@ -1,0 +1,1 @@
+/wp-content/plugins/radykal-fancy-gallery/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/adsplacer/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/chamber-dashboard-business-directory/readme.txt

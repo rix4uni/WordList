@@ -1,0 +1,1 @@
+/wp-content/plugins/wallet-system-for-woocommerce/readme.txt

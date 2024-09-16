@@ -1,0 +1,3 @@
+/openwin.php?redirurl=http%3A%2F%2Fwww.example.com
+/CMSPages/GetDocLink.ashx?link=https://example.com/
+/CMSPages/GetDocLink.ashx?link=https://interact.sh/

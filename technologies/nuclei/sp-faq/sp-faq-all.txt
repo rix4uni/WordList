@@ -1,0 +1,1 @@
+/wp-content/plugins/sp-faq/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/webpushr-web-push-notifications/readme.txt

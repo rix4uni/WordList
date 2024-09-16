@@ -1,0 +1,1 @@
+/wp-content/plugins/compact-wp-audio-player/readme.txt

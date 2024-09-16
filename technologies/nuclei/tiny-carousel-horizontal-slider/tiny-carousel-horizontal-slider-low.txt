@@ -1,0 +1,1 @@
+/wp-content/plugins/tiny-carousel-horizontal-slider/readme.txt

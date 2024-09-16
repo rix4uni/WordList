@@ -1,0 +1,1 @@
+/wp-content/plugins/custom-admin-login-styler-wpzest/readme.txt

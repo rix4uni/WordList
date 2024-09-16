@@ -1,0 +1,1 @@
+/wp-content/plugins/mainwp-page-speed-extension/readme.txt

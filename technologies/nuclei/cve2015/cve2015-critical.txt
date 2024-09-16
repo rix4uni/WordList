@@ -1,0 +1,2 @@
+/remote/info
+/res/login.jsf?javax.faces.ViewState=excis3

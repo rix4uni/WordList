@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-team-manager/readme.txt

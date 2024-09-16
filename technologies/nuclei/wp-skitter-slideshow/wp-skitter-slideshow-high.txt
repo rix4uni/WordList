@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-skitter-slideshow/readme.txt

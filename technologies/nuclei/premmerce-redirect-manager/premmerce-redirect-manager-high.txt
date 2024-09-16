@@ -1,0 +1,1 @@
+/wp-content/plugins/premmerce-redirect-manager/readme.txt

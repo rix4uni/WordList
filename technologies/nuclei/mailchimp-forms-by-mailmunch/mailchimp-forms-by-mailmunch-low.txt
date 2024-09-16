@@ -1,0 +1,1 @@
+/wp-content/plugins/mailchimp-forms-by-mailmunch/readme.txt

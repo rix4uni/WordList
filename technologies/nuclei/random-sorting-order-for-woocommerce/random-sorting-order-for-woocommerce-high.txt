@@ -1,0 +1,1 @@
+/wp-content/plugins/random-sorting-order-for-woocommerce/readme.txt

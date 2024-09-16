@@ -1,0 +1,1 @@
+/wp-content/plugins/caldera-forms-pro/readme.txt

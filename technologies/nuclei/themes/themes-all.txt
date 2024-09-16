@@ -1,0 +1,2 @@
+/wp-content/themes/Grimag/go.php?https://example.com
+/wp-content/themes/prostore/go.php?https://example.com/

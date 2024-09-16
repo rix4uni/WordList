@@ -1,0 +1,5 @@
+/datacenter/dataOrigin.ashx?c=login
+/~webtalk/webtalk.ini
+/config/config_global.php.bak
+/cgi-bin/main.cgi?oper=showsvr&encode=utf-8&username=admin&sid=1614345312&oper=showres
+/db/wafconfig.db

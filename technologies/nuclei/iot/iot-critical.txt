@@ -1,0 +1,7 @@
+/current_config/Sha1Account1
+/../../etc/passwd
+/password.jsn
+/about_state
+/html/setup.html
+/overview.asp
+/rootDesc.xml

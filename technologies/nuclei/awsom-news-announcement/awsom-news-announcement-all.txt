@@ -1,0 +1,1 @@
+/wp-content/plugins/awsom-news-announcement/readme.txt

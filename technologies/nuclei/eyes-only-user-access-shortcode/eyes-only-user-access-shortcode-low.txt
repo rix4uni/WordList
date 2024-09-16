@@ -1,0 +1,1 @@
+/wp-content/plugins/eyes-only-user-access-shortcode/readme.txt

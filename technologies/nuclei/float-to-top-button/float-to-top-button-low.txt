@@ -1,0 +1,1 @@
+/wp-content/plugins/float-to-top-button/readme.txt

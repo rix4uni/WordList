@@ -1,0 +1,1 @@
+/wp-content/plugins/sheets-to-wp-table-live-sync/readme.txt

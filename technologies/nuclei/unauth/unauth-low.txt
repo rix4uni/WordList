@@ -1,0 +1,17 @@
+/wp-admin/admin-post.php
+/unified-console.html
+/wp-admin/admin-ajax.php?action=heartbeat&admin_custom_language_toggle=1&admin_custom_language_return_url=https://example.com
+/?dev
+/_cat/indices?v
+/_all/_search
+/?pretty
+/ws/v1/cluster/info
+/ws/v1/cluster/apps/new-application
+/chpstrt.php?chppath=Home
+/web-console/ServerInfo.jsp
+/graphs/
+/?wp_nlm=confirmation&appurl=aHR0cDovL2F0dGFja2VyLmNvbQ==
+/?wp_nlm=confirmation&appurl=aHR0cDovL2ludGVyYWN0LnNo
+/api/system
+/cgi-bin/log.cgi
+/seeyon/personalBind.do.jpg/..;/ajax.do?method=ajaxAction&managerName=mMOneProfileManager&managerMethod=getOAProfile

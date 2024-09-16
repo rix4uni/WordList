@@ -1,0 +1,1 @@
+/wp-content/plugins/custom-order-statuses-woocommerce/readme.txt

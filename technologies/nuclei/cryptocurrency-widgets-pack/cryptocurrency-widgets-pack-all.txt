@@ -1,0 +1,1 @@
+/wp-content/plugins/cryptocurrency-widgets-pack/readme.txt

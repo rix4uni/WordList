@@ -1,0 +1,1 @@
+/wp-content/plugins/car-rental-system/readme.txt

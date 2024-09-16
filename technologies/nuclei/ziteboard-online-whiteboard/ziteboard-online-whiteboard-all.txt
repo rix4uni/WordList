@@ -1,0 +1,1 @@
+/wp-content/plugins/ziteboard-online-whiteboard/readme.txt

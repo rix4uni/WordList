@@ -1,0 +1,2 @@
+/C6/Jhsoft.Web.module/testbill/dj/download.asp?filename=/c6/web.config
+/C6/Jhsoft.Web.module/testbill/dj/download.asp?filename=download.asp

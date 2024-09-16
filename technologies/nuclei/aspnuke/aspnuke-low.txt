@@ -1,0 +1,3 @@
+/gotoURL.asp?url=google.com&id=43569
+/gotoURL.asp?url=interact.sh&id=43569
+/gotoURL.asp?url=example.com&id=43569

@@ -1,0 +1,1 @@
+/wp-content/plugins/rife-elementor-extensions/readme.txt

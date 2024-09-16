@@ -1,0 +1,12 @@
+/wp-content/plugins/contact-form-7/readme.txt
+/ddi/server/fileupload.php
+/servlet/com.sksoft.bill.ImageUpload?filepath=/&filename=ac59075b964b0715.jsp
+/seeyon/thirdpartyController.do.css/..;/ajax.do
+/seeyon/wpsAssistServlet?flag=save&realFileType=../../../../ApacheJetspeed/webapps/ROOT/debugggg.jsp&fileId=2
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc
+/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/js/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/static/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/servlet/FileReceiveServlet
+/upload.jsp
+/RichWidgets/Popup_Upload.aspx

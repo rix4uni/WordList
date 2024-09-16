@@ -1,0 +1,1 @@
+/wp-content/plugins/i-dump-iphone-to-wordpress-photo-uploader/readme.txt

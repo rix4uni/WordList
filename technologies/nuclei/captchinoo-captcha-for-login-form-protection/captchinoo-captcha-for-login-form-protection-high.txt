@@ -1,0 +1,1 @@
+/wp-content/plugins/captchinoo-captcha-for-login-form-protection/readme.txt

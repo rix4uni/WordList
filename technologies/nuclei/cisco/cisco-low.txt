@@ -1,0 +1,1 @@
+/CGI/Java/Serviceability?adapter=device.statistics.configuration

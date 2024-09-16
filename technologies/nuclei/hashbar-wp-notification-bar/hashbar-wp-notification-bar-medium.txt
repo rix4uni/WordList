@@ -1,0 +1,1 @@
+/wp-content/plugins/hashbar-wp-notification-bar/readme.txt

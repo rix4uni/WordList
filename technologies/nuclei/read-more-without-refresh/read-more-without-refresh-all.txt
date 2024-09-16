@@ -1,0 +1,1 @@
+/wp-content/plugins/read-more-without-refresh/readme.txt

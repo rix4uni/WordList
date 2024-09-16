@@ -1,0 +1,1 @@
+/wp-content/plugins/stackable-ultimate-gutenberg-blocks/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/darklup-lite-wp-dark-mode/readme.txt

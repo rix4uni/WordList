@@ -1,0 +1,2 @@
+/apiserver-etcd-client.key
+/clusters/local

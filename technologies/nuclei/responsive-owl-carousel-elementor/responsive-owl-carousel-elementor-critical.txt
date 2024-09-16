@@ -1,0 +1,1 @@
+/wp-content/plugins/responsive-owl-carousel-elementor/readme.txt

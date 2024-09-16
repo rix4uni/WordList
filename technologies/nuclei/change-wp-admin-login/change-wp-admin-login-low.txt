@@ -1,0 +1,1 @@
+/wp-content/plugins/change-wp-admin-login/readme.txt

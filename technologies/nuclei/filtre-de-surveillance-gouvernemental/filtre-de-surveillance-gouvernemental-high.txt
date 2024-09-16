@@ -1,0 +1,1 @@
+/wp-content/plugins/filtre-de-surveillance-gouvernemental/readme.txt

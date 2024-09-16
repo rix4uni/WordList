@@ -1,0 +1,9 @@
+/cgi-bin/login?LD_DEBUG=files
+/data/login
+/sysmgmt/2015/bmc/session
+/login.html
+/index2.html
+/data?get=prodServerGen
+/sysmgmt/2015/bmc/info
+/config/authentication_page.htm
+/ccm-web/

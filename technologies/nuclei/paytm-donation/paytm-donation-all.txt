@@ -1,0 +1,1 @@
+/wp-content/plugins/paytm-donation/readme.txt

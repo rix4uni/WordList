@@ -1,0 +1,7 @@
+/status
+/jkstatus
+/jkstatus-auth
+/jk-status
+/jkmanager
+/jkmanager-auth
+/jdkstatus

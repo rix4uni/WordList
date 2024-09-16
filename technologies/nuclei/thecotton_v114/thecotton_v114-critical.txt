@@ -1,0 +1,1 @@
+/wp-content/themes/thecotton_v114/style.css

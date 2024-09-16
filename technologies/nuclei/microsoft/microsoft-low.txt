@@ -1,0 +1,2 @@
+/_vti_inf.html
+/autodiscover/autodiscover.json/v1.0/{{randstr}}@interact.sh?Protocol=Autodiscoverv1

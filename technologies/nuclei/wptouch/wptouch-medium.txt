@@ -1,0 +1,2 @@
+/wp-content/plugins/wptouch/readme.txt
+/?wptouch_switch=desktop&redirect=http://interact.sh

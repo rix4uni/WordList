@@ -1,0 +1,1 @@
+/wp-content/plugins/wapppress-builds-android-app-for-website/readme.txt

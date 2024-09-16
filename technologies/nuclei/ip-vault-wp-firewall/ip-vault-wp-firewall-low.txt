@@ -1,0 +1,1 @@
+/wp-content/plugins/ip-vault-wp-firewall/readme.txt

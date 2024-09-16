@@ -1,0 +1,1 @@
+/wp-content/plugins/get-site-to-phone-by-qr-code/readme.txt

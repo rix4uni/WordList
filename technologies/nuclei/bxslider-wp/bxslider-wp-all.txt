@@ -1,0 +1,1 @@
+/wp-content/plugins/bxslider-wp/readme.txt

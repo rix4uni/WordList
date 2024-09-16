@@ -1,0 +1,1 @@
+/wp-content/plugins/google-analytics-opt-out/readme.txt

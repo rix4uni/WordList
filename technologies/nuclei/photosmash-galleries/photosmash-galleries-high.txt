@@ -1,0 +1,1 @@
+/wp-content/plugins/photosmash-galleries/readme.txt

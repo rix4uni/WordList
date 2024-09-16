@@ -1,0 +1,3 @@
+/login.html
+/images/logo_horizontal.png
+/images/logo_vertical.png

@@ -1,0 +1,1 @@
+/wp-content/plugins/php-everywhere/readme.txt

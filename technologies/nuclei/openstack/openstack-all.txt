@@ -1,0 +1,6 @@
+/user_secrets.yml
+/user_secrets.yml.old
+/dashboard/auth/login/
+/horizon/auth/login/?next=/horizon/
+/info
+/v1/info

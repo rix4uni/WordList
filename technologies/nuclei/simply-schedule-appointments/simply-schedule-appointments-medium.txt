@@ -1,0 +1,2 @@
+/wp-content/plugins/simply-schedule-appointments/readme.txt
+/wp-json/ssa/v1/users

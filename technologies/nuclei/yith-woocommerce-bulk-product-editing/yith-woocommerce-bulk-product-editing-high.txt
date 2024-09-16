@@ -1,0 +1,1 @@
+/wp-content/plugins/yith-woocommerce-bulk-product-editing/readme.txt

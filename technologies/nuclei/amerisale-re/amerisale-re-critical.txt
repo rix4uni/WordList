@@ -1,0 +1,1 @@
+/wp-content/plugins/amerisale-re/readme.txt

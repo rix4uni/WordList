@@ -1,0 +1,1 @@
+/wp-content/themes/spidermag/style.css

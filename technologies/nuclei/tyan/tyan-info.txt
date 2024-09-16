@@ -1,0 +1,5 @@
+/images/favicon.ico
+/images/logo-dark.png
+/images/banner.jpg
+/res/banner_left.jpg
+/res/banner_right.jpg

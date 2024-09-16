@@ -1,0 +1,1 @@
+/wp-content/plugins/learnpress-import-export/readme.txt

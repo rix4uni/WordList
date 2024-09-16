@@ -1,0 +1,1 @@
+/wp-content/plugins/scribble-maps/readme.txt

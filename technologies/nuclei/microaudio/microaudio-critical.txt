@@ -1,0 +1,1 @@
+/wp-content/plugins/microaudio/readme.txt

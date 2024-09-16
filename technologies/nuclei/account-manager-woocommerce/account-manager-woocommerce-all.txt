@@ -1,0 +1,1 @@
+/wp-content/plugins/account-manager-woocommerce/readme.txt

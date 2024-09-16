@@ -1,0 +1,1 @@
+/wp-content/plugins/include-lottie-animation-for-elementor/readme.txt

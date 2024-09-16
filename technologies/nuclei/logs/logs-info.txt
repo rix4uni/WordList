@@ -1,0 +1,11 @@
+/log/development.log
+/logs/development.log
+/development.log
+/fcgi-bin/echo
+/.git/logs/HEAD
+/monitorix-cgi/monitorix.cgi?mode=localhost&graph=all&when=1day
+/log/production.log
+/logs/production.log
+/production.log
+/installer-log.txt
+/wp-app.log

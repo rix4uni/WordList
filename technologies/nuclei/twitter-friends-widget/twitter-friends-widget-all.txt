@@ -1,0 +1,1 @@
+/wp-content/plugins/twitter-friends-widget/readme.txt

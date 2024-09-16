@@ -1,0 +1,1 @@
+/wp-content/plugins/svs-pricing-tables/readme.txt

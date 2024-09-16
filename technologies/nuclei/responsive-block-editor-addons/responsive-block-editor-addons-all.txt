@@ -1,0 +1,1 @@
+/wp-content/plugins/responsive-block-editor-addons/readme.txt

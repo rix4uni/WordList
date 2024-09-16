@@ -1,0 +1,1 @@
+/ui/vault/auth?with=oidc%2F

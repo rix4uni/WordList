@@ -1,0 +1,1 @@
+/wp-content/plugins/openpgp-form-encryption/readme.txt

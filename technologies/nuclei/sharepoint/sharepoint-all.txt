@@ -1,0 +1,2 @@
+/_layouts/15/listform.aspx?PageType=1&ListId=%7B13371337-1337-1337-1337-133713371337%7D
+/_vti_bin/lists.asmx?WSDL

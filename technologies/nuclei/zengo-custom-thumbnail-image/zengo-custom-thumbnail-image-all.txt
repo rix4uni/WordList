@@ -1,0 +1,1 @@
+/wp-content/plugins/zengo-custom-thumbnail-image/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/database-backups/readme.txt

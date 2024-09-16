@@ -1,0 +1,1 @@
+/wp-content/plugins/send-pdf-for-contact-form-7/readme.txt

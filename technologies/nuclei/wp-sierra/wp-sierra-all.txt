@@ -1,0 +1,1 @@
+/wp-content/themes/wp-sierra/style.css

@@ -1,0 +1,5 @@
+/openam/ui/PWResetUserValidation
+/OpenAM-11.0.0/ui/PWResetUserValidation
+/ui/PWResetUserValidation
+/action.php
+/scrm/crm/admin

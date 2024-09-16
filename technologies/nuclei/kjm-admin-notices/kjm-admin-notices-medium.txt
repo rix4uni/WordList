@@ -1,0 +1,1 @@
+/wp-content/plugins/kjm-admin-notices/readme.txt

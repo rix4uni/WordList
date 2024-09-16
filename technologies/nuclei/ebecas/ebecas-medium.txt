@@ -1,0 +1,1 @@
+/wp-content/plugins/ebecas/readme.txt

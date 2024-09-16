@@ -1,0 +1,1 @@
+/wp-content/plugins/imagelinks-interactive-image-builder-lite/readme.txt

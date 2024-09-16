@@ -1,0 +1,1 @@
+/wp-content/plugins/ninja-gdpr-compliance/readme.txt

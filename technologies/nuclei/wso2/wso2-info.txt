@@ -1,0 +1,2 @@
+/services/Version
+/carbon/admin/login.jsp

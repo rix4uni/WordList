@@ -1,0 +1,2 @@
+/setup/start
+/struts/webconsole.html?debug=console

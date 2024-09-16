@@ -1,0 +1,1 @@
+/wp-content/plugins/coming-soon-maintenance-mode/readme.txt

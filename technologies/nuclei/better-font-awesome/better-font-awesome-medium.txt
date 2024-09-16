@@ -1,0 +1,1 @@
+/wp-content/plugins/better-font-awesome/readme.txt

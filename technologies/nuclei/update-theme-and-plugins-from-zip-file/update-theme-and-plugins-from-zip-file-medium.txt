@@ -1,0 +1,1 @@
+/wp-content/plugins/update-theme-and-plugins-from-zip-file/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/woocommerce-product-payments/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/tripay-payment-gateway/readme.txt

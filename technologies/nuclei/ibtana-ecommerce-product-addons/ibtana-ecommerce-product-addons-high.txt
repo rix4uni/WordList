@@ -1,0 +1,1 @@
+/wp-content/plugins/ibtana-ecommerce-product-addons/readme.txt

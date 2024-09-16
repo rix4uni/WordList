@@ -1,0 +1,1 @@
+/wp-content/plugins/plg_novana/readme.txt

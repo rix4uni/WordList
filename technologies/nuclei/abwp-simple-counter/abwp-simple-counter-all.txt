@@ -1,0 +1,1 @@
+/wp-content/plugins/abwp-simple-counter/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/serp-rank/readme.txt

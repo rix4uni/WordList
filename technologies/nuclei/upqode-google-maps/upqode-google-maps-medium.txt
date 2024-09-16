@@ -1,0 +1,1 @@
+/wp-content/plugins/upqode-google-maps/readme.txt

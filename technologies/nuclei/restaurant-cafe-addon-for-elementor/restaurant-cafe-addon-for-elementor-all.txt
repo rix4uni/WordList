@@ -1,0 +1,1 @@
+/wp-content/plugins/restaurant-cafe-addon-for-elementor/readme.txt

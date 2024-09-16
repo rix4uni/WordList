@@ -1,0 +1,1 @@
+/wp-content/plugins/anymind-widget/readme.txt

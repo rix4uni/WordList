@@ -1,0 +1,1 @@
+/wp-content/plugins/n-media-wp-simple-quiz/readme.txt

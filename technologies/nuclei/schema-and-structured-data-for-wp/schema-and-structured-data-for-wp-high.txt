@@ -1,0 +1,1 @@
+/wp-content/plugins/schema-and-structured-data-for-wp/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/bulk-delete-users-by-email/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/html5-virtual-classroom/readme.txt

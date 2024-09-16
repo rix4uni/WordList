@@ -1,0 +1,7 @@
+/cgi-bin/nobody/VerifyCode.cgi?account={{base64(username +
+/general/status.html
+/#
+/hp/device/DeviceInformation/View
+/SSI/index.htm
+/default.htm
+/status.html

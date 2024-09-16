@@ -1,0 +1,1 @@
+/wp-content/plugins/remove-slug-from-custom-post-type/readme.txt

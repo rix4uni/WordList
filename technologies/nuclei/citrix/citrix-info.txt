@@ -1,0 +1,3 @@
+/logon/LogonPoint/index.html
+/logon/LogonPoint/custom.html
+/vpn/index.html

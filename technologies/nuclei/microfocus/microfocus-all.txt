@@ -1,0 +1,3 @@
+/ucmdb-api/connect
+/filr/login
+/ssf/s/portalLogin

@@ -1,0 +1,1 @@
+/wp-content/plugins/smart-custom-fields/readme.txt

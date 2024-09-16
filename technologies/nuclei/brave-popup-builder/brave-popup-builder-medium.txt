@@ -1,0 +1,1 @@
+/wp-content/plugins/brave-popup-builder/readme.txt

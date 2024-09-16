@@ -1,0 +1,1 @@
+/wp-content/plugins/paypal-currency-converter-basic-for-woocommerce/readme.txt

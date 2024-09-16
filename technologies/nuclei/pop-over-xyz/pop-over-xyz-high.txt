@@ -1,0 +1,1 @@
+/wp-content/plugins/pop-over-xyz/readme.txt

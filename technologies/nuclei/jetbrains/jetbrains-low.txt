@@ -1,0 +1,3 @@
+/.idea/WebServers.xml
+/.idea/webServers.xml
+/.idea/webservers.xml

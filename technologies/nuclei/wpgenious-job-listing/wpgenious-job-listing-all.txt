@@ -1,0 +1,1 @@
+/wp-content/plugins/wpgenious-job-listing/readme.txt

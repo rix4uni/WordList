@@ -1,0 +1,1 @@
+/wp-content/plugins/mooberry-book-manager/readme.txt

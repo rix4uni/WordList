@@ -1,0 +1,1 @@
+/wp-content/plugins/mailtree-log-mail/readme.txt

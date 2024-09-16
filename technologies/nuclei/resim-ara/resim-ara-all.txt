@@ -1,0 +1,1 @@
+/wp-content/plugins/resim-ara/readme.txt

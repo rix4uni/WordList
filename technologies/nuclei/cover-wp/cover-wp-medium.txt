@@ -1,0 +1,1 @@
+/wp-content/themes/cover-wp/style.css

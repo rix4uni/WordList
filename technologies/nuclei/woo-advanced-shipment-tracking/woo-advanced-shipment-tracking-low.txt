@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-advanced-shipment-tracking/readme.txt

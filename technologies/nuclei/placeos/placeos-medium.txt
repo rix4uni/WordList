@@ -1,0 +1,2 @@
+/auth/logout?continue=//interact.sh
+/auth/logout?continue=//example.com

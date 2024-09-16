@@ -1,0 +1,1 @@
+/wp-content/plugins/pricing-table-by-supsystic/readme.txt

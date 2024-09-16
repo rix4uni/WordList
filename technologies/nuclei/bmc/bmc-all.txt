@@ -1,0 +1,5 @@
+/ui/
+/adminlogin
+/login.html
+/arsys/shared/login.jsp
+/rsso/admin/

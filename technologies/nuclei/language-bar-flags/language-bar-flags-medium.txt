@@ -1,0 +1,1 @@
+/wp-content/plugins/language-bar-flags/readme.txt

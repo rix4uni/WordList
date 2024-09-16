@@ -1,0 +1,1 @@
+/wp-content/plugins/database-collation-fix/readme.txt

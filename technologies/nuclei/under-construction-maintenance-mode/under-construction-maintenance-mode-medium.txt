@@ -1,0 +1,1 @@
+/wp-content/plugins/under-construction-maintenance-mode/readme.txt

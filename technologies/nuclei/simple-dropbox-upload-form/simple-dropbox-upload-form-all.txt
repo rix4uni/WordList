@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-dropbox-upload-form/readme.txt

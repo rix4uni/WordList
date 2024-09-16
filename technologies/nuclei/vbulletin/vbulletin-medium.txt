@@ -1,0 +1,6 @@
+/redirector.php?url=https://interact.sh
+/redirector.php?do=nodelay&url=https://interact.sh
+//redirector.php?url=https://example.com
+/redirector.php?do=nodelay&url=https://example.com
+/redirector.php?url=https://attacker.com
+/redirector.php?do=nodelay&url=https://attacker.com

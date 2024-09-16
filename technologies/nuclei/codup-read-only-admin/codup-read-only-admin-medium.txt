@@ -1,0 +1,1 @@
+/wp-content/plugins/codup-read-only-admin/readme.txt

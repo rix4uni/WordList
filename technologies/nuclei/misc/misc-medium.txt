@@ -1,0 +1,17 @@
+/cf_scripts/scripts/ajax/package/cfajax.js
+/cf-scripts/scripts/ajax/package/cfajax.js
+/CFIDE/scripts/ajax/package/cfajax.js
+/cfide/scripts/ajax/package/cfajax.js
+/CF_SFSD/scripts/ajax/package/cfajax.js
+/cfide-scripts/ajax/package/cfajax.js
+/cfmx/CFIDE/scripts/ajax/package/cfajax.js
+/
+/administrator/manifests/files/joomla.xml
+/phpmyadmin/scripts/setup.php
+/_phpmyadmin/scripts/setup.php
+/forum/phpmyadmin/scripts/setup.php
+/php/phpmyadmin/scripts/setup.php
+/typo3/phpmyadmin/scripts/setup.php
+/web/phpmyadmin/scripts/setup.php
+/xampp/phpmyadmin/scripts/setup.php
+/sysadmin/phpMyAdmin/scripts/setup.php

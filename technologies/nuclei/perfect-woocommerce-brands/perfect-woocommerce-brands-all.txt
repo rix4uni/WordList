@@ -1,0 +1,1 @@
+/wp-content/plugins/perfect-woocommerce-brands/readme.txt

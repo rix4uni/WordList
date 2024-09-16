@@ -1,0 +1,1 @@
+/wp-content/plugins/phonetrack-meu-site-manager/readme.txt

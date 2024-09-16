@@ -1,0 +1,1 @@
+/wp-content/plugins/terms-and-conditions-popup-for-woocommerce/readme.txt

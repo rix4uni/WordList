@@ -1,0 +1,1 @@
+/wp-content/plugins/iva-business-hours-pro/readme.txt

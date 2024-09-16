@@ -1,0 +1,2 @@
+/wp-admin/admin-ajax.php?action=kc_get_thumbn&id=https://interact.sh
+/wp-admin/admin-ajax.php?action=kc_get_thumbn&id=https://example.com

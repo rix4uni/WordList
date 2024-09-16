@@ -1,0 +1,1 @@
+/wp-content/plugins/expert-invoice/readme.txt

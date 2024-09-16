@@ -1,0 +1,17 @@
+/debug/pprof/
+/debug/pprof/goroutine?debug=1
+/auth.json
+/ui/jobs
+/parameters.yml
+/app/config/parameters.yml
+/parameters.yml.dist
+/app/config/parameters.yml.dist
+/api/users/admin/check
+/configuration.yml
+/config/configuration.yml
+/redmine/config/configuration.yml
+/secrets.yml
+/config/secrets.yml
+/test/config/secrets.yml
+/redmine/config/secrets.yml
+/v2/keys/

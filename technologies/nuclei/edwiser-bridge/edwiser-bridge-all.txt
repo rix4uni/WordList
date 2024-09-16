@@ -1,0 +1,1 @@
+/wp-content/plugins/edwiser-bridge/readme.txt

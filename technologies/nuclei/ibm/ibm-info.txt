@@ -1,0 +1,6 @@
+/cgi-bin/cgi
+/maximo/webclient/login/login.jsp
+/ibmmq/console/login.html
+/names.nsf
+/service/
+/console

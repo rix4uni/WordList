@@ -1,0 +1,1 @@
+/wp-content/plugins/fma-products-tabs-pro/readme.txt

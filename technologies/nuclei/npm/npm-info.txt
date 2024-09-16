@@ -1,0 +1,8 @@
+/bun.lockb
+/.npm/anonymous-cli-metrics.json
+/anonymous-cli-metrics.json
+/npm-shrinkwrap.json
+/.npmrc
+/package.json
+/package-lock.json
+/pnpm-lock.yaml

@@ -1,0 +1,2 @@
+/restgui/start.html
+/login.html

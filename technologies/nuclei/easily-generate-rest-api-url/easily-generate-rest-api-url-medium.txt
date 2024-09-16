@@ -1,0 +1,1 @@
+/wp-content/plugins/easily-generate-rest-api-url/readme.txt

@@ -1,0 +1,2 @@
+/configWizard/keyUpload.jsp
+/defaultroot/officeserverservlet

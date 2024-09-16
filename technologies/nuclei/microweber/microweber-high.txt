@@ -1,0 +1,2 @@
+/api/users/search_authors
+/editor_tools/module?type=files/admin

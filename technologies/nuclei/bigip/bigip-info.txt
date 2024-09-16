@@ -1,0 +1,5 @@
+/tmui/login.jsp
+/tmui/tmui/login/welcome.jsp
+/mgmt/tm/sys/management-ip
+/my.policy
+/mgmt/shared/authn/login

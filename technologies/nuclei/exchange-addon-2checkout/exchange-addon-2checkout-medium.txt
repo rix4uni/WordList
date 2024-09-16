@@ -1,0 +1,1 @@
+/wp-content/plugins/exchange-addon-2checkout/readme.txt

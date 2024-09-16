@@ -1,0 +1,6 @@
+/system/deviceInfo?auth=YWRtaW46MTEK
+/favicon.ico
+/doc/page/login.asp
+/doc/script/common.js
+/Security/users?auth=YWRtaW46MTEK
+/config/user.xml

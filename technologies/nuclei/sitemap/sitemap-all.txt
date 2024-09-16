@@ -1,0 +1,4 @@
+/sitemap.xml
+/sitemap.xsl
+/sitemap.xsd
+/wp-content/plugins/sitemap/readme.txt

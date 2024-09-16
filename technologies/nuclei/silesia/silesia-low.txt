@@ -1,0 +1,1 @@
+/wp-content/themes/silesia/style.css

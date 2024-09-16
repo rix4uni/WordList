@@ -1,0 +1,1 @@
+/wp-content/plugins/two-factor-authentication/readme.txt

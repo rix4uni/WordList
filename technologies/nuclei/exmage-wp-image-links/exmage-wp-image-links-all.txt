@@ -1,0 +1,1 @@
+/wp-content/plugins/exmage-wp-image-links/readme.txt

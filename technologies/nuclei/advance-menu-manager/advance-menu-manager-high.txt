@@ -1,0 +1,1 @@
+/wp-content/plugins/advance-menu-manager/readme.txt

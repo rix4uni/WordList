@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-championship/readme.txt

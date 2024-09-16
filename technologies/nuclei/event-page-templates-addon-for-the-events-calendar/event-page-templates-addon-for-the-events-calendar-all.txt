@@ -1,0 +1,1 @@
+/wp-content/plugins/event-page-templates-addon-for-the-events-calendar/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/themes/parallelus-salutation/style.css

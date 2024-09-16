@@ -1,0 +1,1 @@
+/wp-content/plugins/nd-stats-for-envato-sales-by-item/readme.txt

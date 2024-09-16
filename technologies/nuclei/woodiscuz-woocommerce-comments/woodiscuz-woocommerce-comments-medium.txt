@@ -1,0 +1,1 @@
+/wp-content/plugins/woodiscuz-woocommerce-comments/readme.txt

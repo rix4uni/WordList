@@ -1,0 +1,1 @@
+/wp-content/plugins/game-tabs/readme.txt

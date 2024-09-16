@@ -1,0 +1,16 @@
+/jkstatus/
+/status
+/jkstatus
+/jkstatus-auth
+/jk-status
+/jkmanager
+/jkmanager-auth
+/jdkstatus
+/nagios/cgi-bin/status.cgi
+/cgi-bin/nagios4/status.cgi
+/cgi-bin/nagios3/status.cgi
+/opcache-status/
+/php-opcache-status/
+/opcache-status/opcache.php
+/cgi-bin/apcupsd/multimon.cgi
+/cgi-bin/multimon.cgi

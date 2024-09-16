@@ -1,0 +1,2 @@
+/wp-content/themes/Newspaper/style.css
+/wp-content/themes/newspaper/style.css

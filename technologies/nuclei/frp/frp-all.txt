@@ -1,0 +1,2 @@
+/api/proxy/tcp
+/static/

@@ -1,0 +1,1 @@
+/wp-content/plugins/sticky-chat-widget/readme.txt

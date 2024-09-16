@@ -1,0 +1,3 @@
+/data/pbootcms.db
+/sqlite/
+/sqlitemanager/

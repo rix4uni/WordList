@@ -1,0 +1,9 @@
+/ui/#navigate/Login
+/m/
+/remote/login
+/p/login/
+/WelcomeActions.jsp?action=ajaxGetWelcomeViewInfo
+/login
+/login?redir=/ng
+/auth/login
+/index.html

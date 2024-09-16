@@ -1,0 +1,1 @@
+/wp-content/plugins/gtm-server-side/readme.txt

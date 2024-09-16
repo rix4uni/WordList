@@ -1,0 +1,8 @@
+/nifi-api/process-groups/root
+/access/config
+/controller/config
+/controller/registry-clients
+/counters
+/flow/registries
+/system-diagnostics
+/nifi-api/access/config

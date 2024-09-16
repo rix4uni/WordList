@@ -1,0 +1,1 @@
+/wp-content/plugins/shopkeeper-extender/readme.txt

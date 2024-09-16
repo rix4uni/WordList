@@ -1,0 +1,1 @@
+/wp-content/plugins/lokalyze-call-now/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/tinymce-colorpicker/readme.txt

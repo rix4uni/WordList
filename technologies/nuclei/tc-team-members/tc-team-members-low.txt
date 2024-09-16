@@ -1,0 +1,1 @@
+/wp-content/plugins/tc-team-members/readme.txt

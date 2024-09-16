@@ -1,0 +1,1 @@
+/wp-content/plugins/xml-sitemaps-for-videos/readme.txt

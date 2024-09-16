@@ -1,0 +1,1 @@
+/wp-content/plugins/automatic-pages-for-privacy-policy-terms-about-and-contact/readme.txt

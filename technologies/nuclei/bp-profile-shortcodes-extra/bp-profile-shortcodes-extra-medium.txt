@@ -1,0 +1,1 @@
+/wp-content/plugins/bp-profile-shortcodes-extra/readme.txt

@@ -1,0 +1,4 @@
+/version
+/.dockercfg
+/.docker/config.json
+/api/users/admin/check

@@ -1,0 +1,2 @@
+/wp-content/plugins/brandfolder/callback.php?wp_abspath=https://interact.sh/
+/wp-content/plugins/brandfolder/callback.php?wp_abspath=https://example.com/

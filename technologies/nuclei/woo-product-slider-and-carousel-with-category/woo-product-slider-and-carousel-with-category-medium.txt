@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-product-slider-and-carousel-with-category/readme.txt

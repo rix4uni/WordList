@@ -1,0 +1,1 @@
+/wp-content/plugins/insta-gallery/readme.txt

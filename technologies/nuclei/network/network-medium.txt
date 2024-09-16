@@ -1,0 +1,4 @@
+/public/login.htm?type=probes
+/public/login.htm?type=requests
+/hosts
+/config/cam_portal.cgi

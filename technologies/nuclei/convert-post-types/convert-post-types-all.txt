@@ -1,0 +1,1 @@
+/wp-content/plugins/convert-post-types/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/houzez-crm/readme.txt

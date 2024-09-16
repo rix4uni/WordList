@@ -1,0 +1,11 @@
+/components/statestore
+/overview
+/controlplane
+/dashboard/auth/login
+/ganglia/
+/slurm/
+/containers/
+/api/stats
+/horizon/api/stats
+/#dashboard
+/transmission/web/

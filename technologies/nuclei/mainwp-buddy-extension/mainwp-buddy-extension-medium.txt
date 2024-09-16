@@ -1,0 +1,1 @@
+/wp-content/plugins/mainwp-buddy-extension/readme.txt

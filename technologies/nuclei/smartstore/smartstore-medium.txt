@@ -1,0 +1,2 @@
+/backend/admin/common/clearcache?previousUrl=http://www.interact.sh
+/backend/admin/common/clearcache?previousUrl=http://www.example.com

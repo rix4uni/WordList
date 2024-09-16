@@ -1,0 +1,1 @@
+/wp-content/plugins/cryptocurrency-widgets-for-elementor/readme.txt

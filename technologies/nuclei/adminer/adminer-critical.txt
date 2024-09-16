@@ -1,0 +1,1 @@
+/wp-content/plugins/adminer/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/wc-product-table-lite/readme.txt

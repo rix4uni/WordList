@@ -1,0 +1,1 @@
+/wp-content/plugins/ssl-atlas-free-ssl-certificate-https-redirect/readme.txt

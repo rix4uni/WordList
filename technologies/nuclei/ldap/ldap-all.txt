@@ -1,0 +1,6 @@
+/openam/ui/PWResetUserValidation
+/OpenAM-11.0.0/ui/PWResetUserValidation
+/ui/PWResetUserValidation
+/templates/login.php
+/lam/templates/login.php
+/templates/config/profmanage.php

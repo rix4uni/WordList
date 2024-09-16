@@ -1,0 +1,1 @@
+/wp-content/plugins/all-in-one-event-calendar/readme.txt

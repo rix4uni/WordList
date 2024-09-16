@@ -1,0 +1,1 @@
+/wp-content/plugins/map-location-picker-at-checkout-for-woocommerce/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/commerce-coinbase-for-woocommerce/readme.txt

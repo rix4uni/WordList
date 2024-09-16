@@ -1,0 +1,1 @@
+/wp-content/plugins/masterslider/readme.txt

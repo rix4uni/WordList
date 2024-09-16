@@ -1,0 +1,1 @@
+/wp-content/plugins/member-approval/readme.txt

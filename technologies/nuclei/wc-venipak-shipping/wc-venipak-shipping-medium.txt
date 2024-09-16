@@ -1,0 +1,1 @@
+/wp-content/plugins/wc-venipak-shipping/readme.txt

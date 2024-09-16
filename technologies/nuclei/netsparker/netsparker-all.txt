@@ -1,0 +1,2 @@
+/wizard/database/
+/account/signin?ReturnUrl=%2f

@@ -1,0 +1,3 @@
+/install/
+/finish-installation/register
+/install.php

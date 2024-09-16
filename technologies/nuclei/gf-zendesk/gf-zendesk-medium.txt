@@ -1,0 +1,1 @@
+/wp-content/plugins/gf-zendesk/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/metorik-helper/readme.txt

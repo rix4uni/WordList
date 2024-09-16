@@ -1,0 +1,3 @@
+/public/config.js
+/config.js
+/public/sample-config.js

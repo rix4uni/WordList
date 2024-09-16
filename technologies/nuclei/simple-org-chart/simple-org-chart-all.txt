@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-org-chart/readme.txt

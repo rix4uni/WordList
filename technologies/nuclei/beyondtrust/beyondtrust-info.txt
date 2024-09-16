@@ -1,0 +1,4 @@
+/WebConsole/api/security/auth/loginServers
+/WebConsole/
+/favicon.ico
+/appliance/login.ns

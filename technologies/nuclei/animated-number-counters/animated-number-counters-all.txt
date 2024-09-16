@@ -1,0 +1,1 @@
+/wp-content/plugins/animated-number-counters/readme.txt

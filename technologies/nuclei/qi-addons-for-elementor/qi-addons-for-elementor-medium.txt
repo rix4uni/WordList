@@ -1,0 +1,1 @@
+/wp-content/plugins/qi-addons-for-elementor/readme.txt

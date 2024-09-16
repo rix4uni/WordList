@@ -1,0 +1,3 @@
+/upload/setup/install.php
+/setup/install.php
+/login.php

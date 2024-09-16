@@ -1,0 +1,2 @@
+/wp-content/plugins/eventon/readme.txt
+/wp-admin/admin-ajax.php?action=eventon_ics_download&event_id=1

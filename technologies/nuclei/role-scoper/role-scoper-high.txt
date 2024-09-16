@@ -1,0 +1,1 @@
+/wp-content/plugins/role-scoper/readme.txt

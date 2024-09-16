@@ -1,0 +1,4 @@
+/.remote-sync.json
+/sftp-config.json
+/ftpsync.settings
+/deployment-config.json

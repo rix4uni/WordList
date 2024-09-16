@@ -1,0 +1,1 @@
+/wp-content/themes/geoplaces4/style.css

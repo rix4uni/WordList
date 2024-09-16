@@ -1,0 +1,1 @@
+/wp-content/plugins/ellipsis-human-presence-technology/readme.txt

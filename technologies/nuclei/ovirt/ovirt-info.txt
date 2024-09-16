@@ -1,0 +1,3 @@
+/ovirt-engine/
+/ovirt-engine/userportal/
+/ovirt-engine/webadmin/

@@ -1,0 +1,1 @@
+/wp-content/plugins/simply-gallery-block/readme.txt

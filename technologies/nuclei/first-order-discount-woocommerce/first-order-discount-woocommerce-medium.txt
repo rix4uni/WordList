@@ -1,0 +1,1 @@
+/wp-content/plugins/first-order-discount-woocommerce/readme.txt

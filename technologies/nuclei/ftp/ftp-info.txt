@@ -1,0 +1,3 @@
+/WebInterface/login.html
+/login
+/cgi-bin/upload/web-ftp.cgi

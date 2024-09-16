@@ -1,0 +1,2 @@
+/install/
+/s=set&_method=__construct&method=*&filter[]=system

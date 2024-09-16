@@ -1,0 +1,3 @@
+/typo3/
+/typo3/sysext/install/composer.json
+/typo3/install.php

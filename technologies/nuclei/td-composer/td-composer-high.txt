@@ -1,0 +1,1 @@
+/wp-content/plugins/td-composer/readme.txt

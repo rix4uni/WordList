@@ -1,0 +1,1 @@
+/wp-content/plugins/miniorange-login-with-eve-online-google-facebook/readme.txt

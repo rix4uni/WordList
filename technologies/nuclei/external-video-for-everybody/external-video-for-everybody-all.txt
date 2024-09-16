@@ -1,0 +1,1 @@
+/wp-content/plugins/external-video-for-everybody/readme.txt

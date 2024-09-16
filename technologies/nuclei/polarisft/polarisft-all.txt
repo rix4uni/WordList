@@ -1,0 +1,2 @@
+/IntellectMain.jsp?IntellectSystem=https://www.example.com
+/IntellectMain.jsp?IntellectSystem=https://www.interact.sh

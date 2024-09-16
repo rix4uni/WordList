@@ -1,0 +1,1 @@
+/wp-content/plugins/baggage-freight/readme.txt

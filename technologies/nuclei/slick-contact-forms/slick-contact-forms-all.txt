@@ -1,0 +1,1 @@
+/wp-content/plugins/slick-contact-forms/readme.txt

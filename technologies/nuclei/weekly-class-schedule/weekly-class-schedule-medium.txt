@@ -1,0 +1,1 @@
+/wp-content/plugins/weekly-class-schedule/readme.txt

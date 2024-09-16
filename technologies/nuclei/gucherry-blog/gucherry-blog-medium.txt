@@ -1,0 +1,1 @@
+/wp-content/themes/gucherry-blog/style.css

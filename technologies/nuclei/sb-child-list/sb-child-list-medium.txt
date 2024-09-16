@@ -1,0 +1,1 @@
+/wp-content/plugins/sb-child-list/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/blogintroduction-wordpress-plugin/readme.txt

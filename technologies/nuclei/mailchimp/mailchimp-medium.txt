@@ -1,0 +1,1 @@
+/wp-content/uploads/mc4wp-debug.log

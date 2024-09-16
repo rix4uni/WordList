@@ -1,0 +1,1 @@
+/wp-content/plugins/qtranslate-x/readme.txt

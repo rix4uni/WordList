@@ -1,0 +1,10 @@
+/html/setup.html
+/admin/install.php
+/zp-core/setup/index.php
+/zp/zp-core/setup/index.php
+/gallery/zp-core/setup/index.php
+/zenphoto/zp-core/setup/index.php
+/settings
+/secure/SetupMode!default.jspa
+/install/
+/setup/setupLicense.action

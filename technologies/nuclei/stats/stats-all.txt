@@ -1,0 +1,2 @@
+/wp-content/plugins/stats/readme.txt
+/usage/

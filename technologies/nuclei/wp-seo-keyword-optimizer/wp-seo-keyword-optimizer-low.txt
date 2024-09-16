@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-seo-keyword-optimizer/readme.txt

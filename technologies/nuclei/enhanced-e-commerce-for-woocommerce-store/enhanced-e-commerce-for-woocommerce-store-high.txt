@@ -1,0 +1,1 @@
+/wp-content/plugins/enhanced-e-commerce-for-woocommerce-store/readme.txt

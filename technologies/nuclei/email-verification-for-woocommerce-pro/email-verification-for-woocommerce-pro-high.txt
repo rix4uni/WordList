@@ -1,0 +1,1 @@
+/wp-content/plugins/email-verification-for-woocommerce-pro/readme.txt

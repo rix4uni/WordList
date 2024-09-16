@@ -1,0 +1,1 @@
+/wp-content/plugins/thecartpress/readme.txt

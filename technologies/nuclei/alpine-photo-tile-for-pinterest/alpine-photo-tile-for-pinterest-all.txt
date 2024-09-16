@@ -1,0 +1,1 @@
+/wp-content/plugins/alpine-photo-tile-for-pinterest/readme.txt

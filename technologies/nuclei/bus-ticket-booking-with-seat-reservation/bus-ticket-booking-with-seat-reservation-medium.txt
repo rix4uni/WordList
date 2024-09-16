@@ -1,0 +1,1 @@
+/wp-content/plugins/bus-ticket-booking-with-seat-reservation/readme.txt

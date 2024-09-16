@@ -1,0 +1,1 @@
+/wp-content/plugins/searchwp-live-ajax-search/readme.txt

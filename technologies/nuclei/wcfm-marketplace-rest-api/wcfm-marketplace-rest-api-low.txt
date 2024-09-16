@@ -1,0 +1,1 @@
+/wp-content/plugins/wcfm-marketplace-rest-api/readme.txt

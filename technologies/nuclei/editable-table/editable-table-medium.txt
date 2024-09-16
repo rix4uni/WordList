@@ -1,0 +1,1 @@
+/wp-content/plugins/editable-table/readme.txt

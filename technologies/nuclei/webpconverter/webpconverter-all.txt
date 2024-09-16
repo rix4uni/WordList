@@ -1,0 +1,2 @@
+/wp-content/plugins/webp-converter-for-media/includes/passthru.php?src=https://interact.sh
+/wp-content/plugins/webp-converter-for-media/includes/passthru.php?src=https://example.com

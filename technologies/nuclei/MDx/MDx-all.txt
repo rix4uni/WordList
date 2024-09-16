@@ -1,0 +1,1 @@
+/wp-content/themes/MDx/style.css

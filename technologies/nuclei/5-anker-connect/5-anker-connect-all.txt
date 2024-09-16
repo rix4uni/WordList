@@ -1,0 +1,1 @@
+/wp-content/plugins/5-anker-connect/readme.txt

@@ -1,0 +1,12 @@
+/cobbler_web
+/api/theme/themeConfiguration
+/en-US/account/login
+/ui
+/ui/
+/
+:8443
+/sap/bc/gui/sap/its/webgui
+/inormalydonotexist
+/sap/wdisp/admin/public/default.html
+/%5C%5Cinteract.sh/%252e%252e%252f
+/sap/public/info

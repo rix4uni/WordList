@@ -1,0 +1,1 @@
+/wp-content/plugins/dsp_dating/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/gf-freshdesk/readme.txt

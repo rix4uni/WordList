@@ -1,0 +1,1 @@
+/wp-content/plugins/surbma-gdpr-proof-google-analytics/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/amcharts-charts-and-maps/readme.txt

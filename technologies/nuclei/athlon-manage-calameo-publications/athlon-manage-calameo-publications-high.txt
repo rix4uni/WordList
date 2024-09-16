@@ -1,0 +1,1 @@
+/wp-content/plugins/athlon-manage-calameo-publications/readme.txt

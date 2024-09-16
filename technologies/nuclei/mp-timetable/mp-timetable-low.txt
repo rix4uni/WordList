@@ -1,0 +1,1 @@
+/wp-content/plugins/mp-timetable/readme.txt

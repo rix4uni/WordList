@@ -1,0 +1,1 @@
+/wp-content/plugins/data-tables-generator-by-supsystic/readme.txt

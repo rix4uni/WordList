@@ -1,0 +1,1 @@
+/wp-content/plugins/iframe-admin-pages/readme.txt

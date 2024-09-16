@@ -1,0 +1,3 @@
+/covenantuser/login
+/login
+/new/login

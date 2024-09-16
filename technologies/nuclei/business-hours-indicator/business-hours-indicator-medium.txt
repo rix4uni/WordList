@@ -1,0 +1,1 @@
+/wp-content/plugins/business-hours-indicator/readme.txt

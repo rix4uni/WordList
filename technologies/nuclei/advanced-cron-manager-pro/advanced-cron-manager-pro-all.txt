@@ -1,0 +1,1 @@
+/wp-content/plugins/advanced-cron-manager-pro/readme.txt

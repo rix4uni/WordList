@@ -1,0 +1,1 @@
+/wp-content/plugins/sb-uploader/readme.txt

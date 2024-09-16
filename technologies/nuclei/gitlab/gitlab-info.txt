@@ -1,0 +1,6 @@
+/users/sign_in
+/users/sign_up
+/api/v4/projects
+/explore/snippets
+/-/snippets
+/api/graphql

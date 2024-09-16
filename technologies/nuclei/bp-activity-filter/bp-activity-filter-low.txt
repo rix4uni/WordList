@@ -1,0 +1,1 @@
+/wp-content/plugins/bp-activity-filter/readme.txt

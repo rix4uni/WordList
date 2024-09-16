@@ -1,0 +1,4 @@
+/pme/media/
+/data/
+/_vti_pvt/service.pwd
+/wp-includes/sym404/root/etc/passwd

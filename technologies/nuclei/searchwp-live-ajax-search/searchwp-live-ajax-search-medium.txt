@@ -1,0 +1,2 @@
+/wp-content/plugins/searchwp-live-ajax-search/readme.txt
+/wp-admin/admin-ajax.php?action=searchwp_live_search&swpquery=a&post_status=draft

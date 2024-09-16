@@ -1,0 +1,3 @@
+/welcome
+/auth/login
+/home

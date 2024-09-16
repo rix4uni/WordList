@@ -1,0 +1,2 @@
+/wp-content/plugins/integrate-google-drive/readme.txt
+/wp-json/igd/v1/get-users-data

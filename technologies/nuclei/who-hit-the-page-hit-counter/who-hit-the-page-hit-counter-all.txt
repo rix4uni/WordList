@@ -1,0 +1,1 @@
+/wp-content/plugins/who-hit-the-page-hit-counter/readme.txt

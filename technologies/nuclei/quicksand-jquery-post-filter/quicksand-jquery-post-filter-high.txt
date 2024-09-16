@@ -1,0 +1,1 @@
+/wp-content/plugins/quicksand-jquery-post-filter/readme.txt

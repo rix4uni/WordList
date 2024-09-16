@@ -1,0 +1,1 @@
+/wp-content/plugins/deeper-comments/readme.txt

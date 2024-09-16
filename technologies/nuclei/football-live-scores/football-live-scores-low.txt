@@ -1,0 +1,1 @@
+/wp-content/plugins/football-live-scores/readme.txt

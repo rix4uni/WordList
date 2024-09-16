@@ -1,0 +1,1 @@
+/wp-content/plugins/favicon-rotator/readme.txt

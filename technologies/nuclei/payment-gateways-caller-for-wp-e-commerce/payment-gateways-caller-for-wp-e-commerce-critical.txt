@@ -1,0 +1,1 @@
+/wp-content/plugins/payment-gateways-caller-for-wp-e-commerce/readme.txt

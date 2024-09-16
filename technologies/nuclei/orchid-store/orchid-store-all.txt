@@ -1,0 +1,1 @@
+/wp-content/themes/orchid-store/style.css

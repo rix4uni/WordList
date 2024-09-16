@@ -1,0 +1,2 @@
+/dashboard/
+/cgi-bin/printenv.pl

@@ -1,0 +1,3 @@
+/__clockwork/app
+/index.php?s=/install/index/index
+/v2/keys/

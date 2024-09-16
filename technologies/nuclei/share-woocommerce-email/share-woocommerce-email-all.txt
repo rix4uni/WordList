@@ -1,0 +1,1 @@
+/wp-content/plugins/share-woocommerce-email/readme.txt

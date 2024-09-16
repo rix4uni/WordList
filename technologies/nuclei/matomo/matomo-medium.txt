@@ -1,0 +1,1 @@
+/wp-content/plugins/matomo/readme.txt

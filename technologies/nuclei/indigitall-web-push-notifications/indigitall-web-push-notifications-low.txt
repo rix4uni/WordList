@@ -1,0 +1,1 @@
+/wp-content/plugins/indigitall-web-push-notifications/readme.txt

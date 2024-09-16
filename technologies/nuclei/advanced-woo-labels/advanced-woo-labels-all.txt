@@ -1,0 +1,1 @@
+/wp-content/plugins/advanced-woo-labels/readme.txt

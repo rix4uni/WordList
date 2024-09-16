@@ -1,0 +1,3 @@
+/favicon.ico
+/doc/page/login.asp
+/doc/script/common.js

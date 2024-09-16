@@ -1,0 +1,1 @@
+/wp-content/plugins/exchange-addon-easy-canadian-sales-taxes/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/domain-check/readme.txt

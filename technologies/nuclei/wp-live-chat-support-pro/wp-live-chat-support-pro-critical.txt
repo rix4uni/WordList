@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-live-chat-support-pro/readme.txt

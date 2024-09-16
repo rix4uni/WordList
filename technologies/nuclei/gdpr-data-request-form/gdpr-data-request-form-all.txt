@@ -1,0 +1,1 @@
+/wp-content/plugins/gdpr-data-request-form/readme.txt

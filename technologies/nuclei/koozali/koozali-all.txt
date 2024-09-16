@@ -1,0 +1,1 @@
+/server-common/cgi-bin/login?back=https%253a%252f%252fwww.example.com%252F

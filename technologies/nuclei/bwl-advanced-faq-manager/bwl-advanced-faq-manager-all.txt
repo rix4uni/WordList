@@ -1,0 +1,1 @@
+/wp-content/plugins/bwl-advanced-faq-manager/readme.txt

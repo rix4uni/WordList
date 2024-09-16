@@ -1,0 +1,1 @@
+/wp-content/plugins/image-hover-effects-css3/readme.txt

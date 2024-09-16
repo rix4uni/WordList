@@ -1,0 +1,1 @@
+/wp-content/plugins/post-grid-elementor-addon/readme.txt

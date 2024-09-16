@@ -1,0 +1,1 @@
+/wp-content/plugins/ubigeo-peru/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/court-reservation/readme.txt

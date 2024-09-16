@@ -1,0 +1,12 @@
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/phpunit
+/vendor/phpunit/phpunit/phpunit
+/laravel_api/vendor/phpunit/phpunit/phpunit
+/api/vendor/phpunit/phpunit/phpunit
+/apps/vendor/phpunit/phpunit/phpunit
+/backup/vendor/phpunit/phpunit/phpunit
+/oldsite/vendor/phpunit/phpunit/phpunit
+/lib/phpunit/phpunit/phpunit
+/modules/vendor/phpunit/phpunit/phpunit
+/old/vendor/phpunit/phpunit/phpunit
+/zend/vendor/phpunit/phpunit/phpunit
+/yii/vendor/phpunit/phpunit/phpunit

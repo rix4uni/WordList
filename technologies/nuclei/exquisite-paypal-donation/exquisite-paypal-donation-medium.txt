@@ -1,0 +1,1 @@
+/wp-content/plugins/exquisite-paypal-donation/readme.txt

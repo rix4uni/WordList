@@ -1,0 +1,1 @@
+/wp-content/plugins/realbig-media/readme.txt

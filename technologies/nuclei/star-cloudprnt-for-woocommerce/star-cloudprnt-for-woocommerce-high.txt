@@ -1,0 +1,1 @@
+/wp-content/plugins/star-cloudprnt-for-woocommerce/readme.txt

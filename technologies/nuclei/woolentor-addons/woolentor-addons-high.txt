@@ -1,0 +1,1 @@
+/wp-content/plugins/woolentor-addons/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/saan-world-clock/readme.txt

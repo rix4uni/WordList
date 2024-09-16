@@ -1,0 +1,4 @@
+/admin%20/db
+/bitbucket-pipelines.yml
+/repos?visibility=public
+/bitbucket/repos?visibility=public

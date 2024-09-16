@@ -1,0 +1,1 @@
+/wp-content/plugins/logo-showcase-with-slick-slider/readme.txt

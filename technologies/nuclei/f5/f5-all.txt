@@ -1,0 +1,2 @@
+/my.policy
+/mgmt/shared/authn/login

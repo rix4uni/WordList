@@ -1,0 +1,7 @@
+/datacenter/dataOrigin.ashx?c=login
+/~webtalk/webtalk.ini
+/config/config_global.php.bak
+/cgi-bin/main.cgi?oper=showsvr&encode=utf-8&username=admin&sid=1614345312&oper=showres
+/db/wafconfig.db
+/data/users/admin.xml
+/goform/getStatus?random=&modules=internetStatus%2CdeviceStatistics%2CsystemInfo%2CwanAdvCfg%2CwifiRelay%2CwifiBasicCfg%2CsysTime

@@ -1,0 +1,1 @@
+/wp-content/plugins/video-embed-box/readme.txt

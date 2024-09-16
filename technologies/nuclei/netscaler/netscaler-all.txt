@@ -1,0 +1,2 @@
+/logon/LogonPoint/tmindex.html
+/vpn/index.html

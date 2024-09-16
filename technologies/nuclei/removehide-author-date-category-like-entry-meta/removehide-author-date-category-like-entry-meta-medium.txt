@@ -1,0 +1,1 @@
+/wp-content/plugins/removehide-author-date-category-like-entry-meta/readme.txt

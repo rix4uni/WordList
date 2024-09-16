@@ -1,0 +1,1 @@
+/wp-content/plugins/syncee-for-suppliers/readme.txt

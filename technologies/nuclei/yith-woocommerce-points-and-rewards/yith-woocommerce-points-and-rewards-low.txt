@@ -1,0 +1,1 @@
+/wp-content/plugins/yith-woocommerce-points-and-rewards/readme.txt

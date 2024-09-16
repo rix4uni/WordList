@@ -1,0 +1,2 @@
+/admin/setup-wizard
+/oauth2/authorize

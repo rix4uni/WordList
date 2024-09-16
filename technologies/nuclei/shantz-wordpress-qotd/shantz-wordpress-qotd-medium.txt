@@ -1,0 +1,1 @@
+/wp-content/plugins/shantz-wordpress-qotd/readme.txt

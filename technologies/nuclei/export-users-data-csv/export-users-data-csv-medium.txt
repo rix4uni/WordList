@@ -1,0 +1,1 @@
+/wp-content/plugins/export-users-data-csv/readme.txt

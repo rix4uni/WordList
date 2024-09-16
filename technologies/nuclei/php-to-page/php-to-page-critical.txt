@@ -1,0 +1,1 @@
+/wp-content/plugins/php-to-page/readme.txt

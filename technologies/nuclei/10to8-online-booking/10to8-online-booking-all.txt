@@ -1,0 +1,1 @@
+/wp-content/plugins/10to8-online-booking/readme.txt

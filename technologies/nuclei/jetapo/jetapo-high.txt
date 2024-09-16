@@ -1,0 +1,1 @@
+/wp-content/themes/jetapo/style.css

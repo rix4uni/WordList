@@ -1,0 +1,1 @@
+/wp-content/plugins/co-marquage-service-public/readme.txt

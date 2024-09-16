@@ -1,0 +1,2 @@
+/login.php?secret=
+/wp-content/plugins/nexus/readme.txt

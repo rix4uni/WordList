@@ -1,0 +1,1 @@
+/wp-content/themes/Grimag/style.css

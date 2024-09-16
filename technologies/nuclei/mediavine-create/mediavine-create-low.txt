@@ -1,0 +1,1 @@
+/wp-content/plugins/mediavine-create/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/swifty-bar/readme.txt

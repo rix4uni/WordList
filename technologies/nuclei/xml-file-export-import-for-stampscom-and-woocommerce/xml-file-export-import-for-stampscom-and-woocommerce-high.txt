@@ -1,0 +1,1 @@
+/wp-content/plugins/xml-file-export-import-for-stampscom-and-woocommerce/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/plugmatter-pricing-table/readme.txt

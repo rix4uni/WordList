@@ -1,0 +1,1 @@
+/wp-content/plugins/http-auth/readme.txt

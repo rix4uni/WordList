@@ -1,0 +1,2 @@
+/cors_proxy/https://oast.me/
+/cors_proxy/https://www.interact.sh

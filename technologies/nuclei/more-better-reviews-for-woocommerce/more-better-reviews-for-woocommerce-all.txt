@@ -1,0 +1,1 @@
+/wp-content/plugins/more-better-reviews-for-woocommerce/readme.txt

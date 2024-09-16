@@ -1,0 +1,2 @@
+/upload.jsp
+/RichWidgets/Popup_Upload.aspx

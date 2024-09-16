@@ -1,0 +1,1 @@
+/wp-content/plugins/timeline-and-history-slider/readme.txt

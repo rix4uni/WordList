@@ -1,0 +1,1 @@
+/wp-content/plugins/counter-yandex-metrica/readme.txt

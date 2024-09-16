@@ -1,0 +1,1 @@
+/wp-content/plugins/crm-customer-relationship-management-by-vcita/readme.txt

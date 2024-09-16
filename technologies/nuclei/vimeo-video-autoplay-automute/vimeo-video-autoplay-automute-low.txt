@@ -1,0 +1,1 @@
+/wp-content/plugins/vimeo-video-autoplay-automute/readme.txt

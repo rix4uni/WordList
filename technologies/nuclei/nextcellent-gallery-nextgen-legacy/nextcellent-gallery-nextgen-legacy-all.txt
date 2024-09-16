@@ -1,0 +1,1 @@
+/wp-content/plugins/nextcellent-gallery-nextgen-legacy/readme.txt

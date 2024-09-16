@@ -1,0 +1,1 @@
+/wp-content/themes/hasten-lite/style.css

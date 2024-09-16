@@ -1,0 +1,4 @@
+/setupAssistant.html
+/uapi/doc/
+/uapi/schema/
+/api/

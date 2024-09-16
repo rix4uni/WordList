@@ -1,0 +1,1 @@
+/cmscp/ext/collect/fetch_url.do?url=https://oast.live

@@ -1,0 +1,1 @@
+/wp-content/plugins/document-emberdder/readme.txt

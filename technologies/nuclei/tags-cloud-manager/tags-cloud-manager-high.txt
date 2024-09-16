@@ -1,0 +1,1 @@
+/wp-content/plugins/tags-cloud-manager/readme.txt

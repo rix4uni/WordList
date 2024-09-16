@@ -1,0 +1,2 @@
+/CMSPages/GetDocLink.ashx?link=https://example.com/
+/CMSPages/GetDocLink.ashx?link=https://interact.sh/

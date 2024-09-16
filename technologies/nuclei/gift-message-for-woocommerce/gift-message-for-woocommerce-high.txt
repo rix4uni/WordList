@@ -1,0 +1,1 @@
+/wp-content/plugins/gift-message-for-woocommerce/readme.txt

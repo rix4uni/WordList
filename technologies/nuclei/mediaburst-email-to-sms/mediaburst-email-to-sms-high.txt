@@ -1,0 +1,1 @@
+/wp-content/plugins/mediaburst-email-to-sms/readme.txt

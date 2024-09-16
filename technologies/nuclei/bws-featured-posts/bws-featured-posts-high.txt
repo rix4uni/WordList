@@ -1,0 +1,1 @@
+/wp-content/plugins/bws-featured-posts/readme.txt

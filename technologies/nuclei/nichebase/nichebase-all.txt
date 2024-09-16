@@ -1,0 +1,1 @@
+/wp-content/themes/nichebase/style.css

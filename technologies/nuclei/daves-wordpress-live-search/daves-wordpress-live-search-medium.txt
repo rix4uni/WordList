@@ -1,0 +1,1 @@
+/wp-content/plugins/daves-wordpress-live-search/readme.txt

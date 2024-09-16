@@ -1,0 +1,1 @@
+/wp-content/plugins/syncee-global-dropshipping/readme.txt

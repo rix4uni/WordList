@@ -1,0 +1,1 @@
+/wp-content/plugins/delete-duplicate-posts/readme.txt

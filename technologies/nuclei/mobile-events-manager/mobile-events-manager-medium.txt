@@ -1,0 +1,1 @@
+/wp-content/plugins/mobile-events-manager/readme.txt

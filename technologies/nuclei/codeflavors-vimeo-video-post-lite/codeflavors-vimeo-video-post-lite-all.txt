@@ -1,0 +1,1 @@
+/wp-content/plugins/codeflavors-vimeo-video-post-lite/readme.txt

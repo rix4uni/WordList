@@ -1,0 +1,1 @@
+/wp-content/plugins/vk-blocks/readme.txt

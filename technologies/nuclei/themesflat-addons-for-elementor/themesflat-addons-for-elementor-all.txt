@@ -1,0 +1,1 @@
+/wp-content/plugins/themesflat-addons-for-elementor/readme.txt

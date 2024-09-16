@@ -1,0 +1,7 @@
+/carbon/admin/login.jsp/
+/carbon/admin/index.jsp/
+/devportal/apis/
+/authenticationendpoint/login.do/
+/carbon/admin/docs/userguide.html/
+/carbon/product/about.html/
+/carbon/docs/signin_userguide.html

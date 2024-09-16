@@ -1,0 +1,1 @@
+/wp-content/plugins/ultra-elementor-addons/readme.txt

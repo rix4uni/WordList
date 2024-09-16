@@ -1,0 +1,11 @@
+/ads/www/delivery/lg.php?dest=http://example.com
+/adserve/www/delivery/lg.php?dest=http://example.com
+/adserver/www/delivery/lg.php?dest=http://example.com
+/openx/www/delivery/lg.php?dest=http://example.com
+/revive/www/delivery/lg.php?dest=http://example.com
+/www/delivery/lg.php?dest=http://example.com
+/wp-content/plugins/phastpress/phast.php?service=scripts&src=https%3A%2F%2Fexample.com
+/community/?foro=signin&redirect_to=https://example.com/
+/wp-admin/admin-ajax.php?action=heartbeat&admin_custom_language_toggle=1&admin_custom_language_return_url=https://example.com
+/sidekiq/queues/
+/auth/logout?continue=//example.com

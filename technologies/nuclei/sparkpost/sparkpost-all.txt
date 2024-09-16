@@ -1,0 +1,1 @@
+/wp-content/plugins/sparkpost/readme.txt

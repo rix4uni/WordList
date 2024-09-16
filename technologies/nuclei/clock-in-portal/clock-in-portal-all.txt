@@ -1,0 +1,1 @@
+/wp-content/plugins/clock-in-portal/readme.txt

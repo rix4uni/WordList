@@ -1,0 +1,1 @@
+/wp-content/plugins/custom-page-templates-by-vegacorp/readme.txt

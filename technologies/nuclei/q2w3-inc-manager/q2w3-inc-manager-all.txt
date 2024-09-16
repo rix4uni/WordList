@@ -1,0 +1,1 @@
+/wp-content/plugins/q2w3-inc-manager/readme.txt

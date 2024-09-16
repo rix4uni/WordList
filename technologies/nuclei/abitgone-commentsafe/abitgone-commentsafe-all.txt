@@ -1,0 +1,1 @@
+/wp-content/plugins/abitgone-commentsafe/readme.txt

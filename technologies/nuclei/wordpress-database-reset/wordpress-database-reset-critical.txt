@@ -1,0 +1,1 @@
+/wp-content/plugins/wordpress-database-reset/readme.txt

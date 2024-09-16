@@ -1,0 +1,1 @@
+/wp-content/plugins/support-genix-lite/readme.txt

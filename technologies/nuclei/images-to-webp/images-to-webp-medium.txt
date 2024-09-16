@@ -1,0 +1,1 @@
+/wp-content/plugins/images-to-webp/readme.txt

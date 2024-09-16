@@ -1,0 +1,2 @@
+/hp/device/DeviceStatus/Index
+/web/guest/en/websys/webArch/mainFrame.cgi

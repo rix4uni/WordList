@@ -1,0 +1,3 @@
+/novius-os/admin/nos/login?redirect=http://interact.sh
+/novius-os.5.0.1-elche/novius-os/admin/nos/login?redirect=http://example.com
+/novius-os/admin/nos/login?redirect=http://example.com

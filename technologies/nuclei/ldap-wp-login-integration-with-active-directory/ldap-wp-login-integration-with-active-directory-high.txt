@@ -1,0 +1,1 @@
+/wp-content/plugins/ldap-wp-login-integration-with-active-directory/readme.txt

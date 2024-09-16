@@ -1,0 +1,1 @@
+/wp-content/plugins/wp24-domain-check/readme.txt

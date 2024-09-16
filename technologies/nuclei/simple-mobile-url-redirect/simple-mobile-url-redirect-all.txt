@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-mobile-url-redirect/readme.txt

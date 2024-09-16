@@ -1,0 +1,1 @@
+/wp-content/plugins/store-locator-le/readme.txt

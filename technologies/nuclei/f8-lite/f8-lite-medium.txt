@@ -1,0 +1,1 @@
+/wp-content/themes/f8-lite/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/ether-and-erc20-tokens-woocommerce-payment-gateway/readme.txt

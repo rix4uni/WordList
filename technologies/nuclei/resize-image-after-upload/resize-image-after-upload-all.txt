@@ -1,0 +1,1 @@
+/wp-content/plugins/resize-image-after-upload/readme.txt

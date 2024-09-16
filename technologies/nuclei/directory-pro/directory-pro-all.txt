@@ -1,0 +1,1 @@
+/wp-content/plugins/directory-pro/readme.txt

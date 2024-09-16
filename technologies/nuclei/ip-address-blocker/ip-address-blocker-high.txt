@@ -1,0 +1,1 @@
+/wp-content/plugins/ip-address-blocker/readme.txt

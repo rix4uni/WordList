@@ -1,0 +1,9 @@
+/password.jsn
+/getcfg.php
+/manage/fileDownloader?sec=1
+/aj.html?a=devi
+/cgi-bin/ExportSettings.sh
+/rootDesc.xml
+/heapdump
+/actuator/heapdump
+/rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc

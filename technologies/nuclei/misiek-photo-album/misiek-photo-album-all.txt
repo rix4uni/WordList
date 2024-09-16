@@ -1,0 +1,1 @@
+/wp-content/plugins/misiek-photo-album/readme.txt

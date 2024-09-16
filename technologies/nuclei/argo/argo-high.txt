@@ -1,0 +1,4 @@
+/WEB-INF/classes/argo.properties
+/classes/argo.properties
+/argo.properties
+/WEB-INF/argo.properties

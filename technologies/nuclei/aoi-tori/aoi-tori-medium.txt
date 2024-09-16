@@ -1,0 +1,1 @@
+/wp-content/plugins/aoi-tori/readme.txt

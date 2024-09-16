@@ -1,0 +1,1 @@
+/wp-content/plugins/lifterlms-gateway-paypal/readme.txt

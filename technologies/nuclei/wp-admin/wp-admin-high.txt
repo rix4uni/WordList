@@ -1,0 +1,2 @@
+/wp-admin/setup-config.php?step=1
+/wp-admin/admin.php?page=MEC-ix&tab=MEC-export&mec-ix-action=export-events&format=xml

@@ -1,0 +1,1 @@
+/wp-content/plugins/fs-poster/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/ticker-ultimate/readme.txt

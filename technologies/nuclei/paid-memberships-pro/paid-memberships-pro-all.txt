@@ -1,0 +1,1 @@
+/wp-content/plugins/paid-memberships-pro/readme.txt

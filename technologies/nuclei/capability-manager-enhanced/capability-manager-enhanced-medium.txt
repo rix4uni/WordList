@@ -1,0 +1,1 @@
+/wp-content/plugins/capability-manager-enhanced/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/themes/parallelus-unite/style.css

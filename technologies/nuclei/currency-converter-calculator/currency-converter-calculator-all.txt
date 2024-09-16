@@ -1,0 +1,1 @@
+/wp-content/plugins/currency-converter-calculator/readme.txt

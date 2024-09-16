@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-salesforce-plugin-crm-perks/readme.txt

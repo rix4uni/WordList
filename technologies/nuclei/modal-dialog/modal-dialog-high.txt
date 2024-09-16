@@ -1,0 +1,1 @@
+/wp-content/plugins/modal-dialog/readme.txt

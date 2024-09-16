@@ -1,0 +1,1 @@
+/wp-content/plugins/ajax-domain-checker/readme.txt

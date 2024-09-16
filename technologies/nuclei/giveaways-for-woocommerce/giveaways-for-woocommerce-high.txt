@@ -1,0 +1,1 @@
+/wp-content/plugins/giveaways-for-woocommerce/readme.txt

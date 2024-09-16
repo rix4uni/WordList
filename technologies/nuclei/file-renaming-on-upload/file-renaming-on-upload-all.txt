@@ -1,0 +1,1 @@
+/wp-content/plugins/file-renaming-on-upload/readme.txt

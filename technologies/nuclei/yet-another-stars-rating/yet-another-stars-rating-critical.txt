@@ -1,0 +1,1 @@
+/wp-content/plugins/yet-another-stars-rating/readme.txt

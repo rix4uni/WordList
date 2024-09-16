@@ -1,0 +1,1 @@
+/wp-content/plugins/stax-addons-for-elementor/readme.txt

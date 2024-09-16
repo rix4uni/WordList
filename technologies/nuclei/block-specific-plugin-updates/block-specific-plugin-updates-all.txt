@@ -1,0 +1,1 @@
+/wp-content/plugins/block-specific-plugin-updates/readme.txt

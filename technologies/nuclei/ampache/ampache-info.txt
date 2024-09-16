@@ -1,0 +1,3 @@
+/test.php?action=config
+/login.php
+/public/login.php

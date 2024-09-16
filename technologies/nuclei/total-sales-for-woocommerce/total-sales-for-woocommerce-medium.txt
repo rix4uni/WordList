@@ -1,0 +1,1 @@
+/wp-content/plugins/total-sales-for-woocommerce/readme.txt

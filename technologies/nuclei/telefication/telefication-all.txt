@@ -1,0 +1,1 @@
+/wp-content/plugins/telefication/readme.txt

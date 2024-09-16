@@ -1,0 +1,1 @@
+/wp-content/plugins/horizontal-scrolling-announcements/readme.txt

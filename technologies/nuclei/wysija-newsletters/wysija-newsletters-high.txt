@@ -1,0 +1,1 @@
+/wp-content/plugins/wysija-newsletters/readme.txt

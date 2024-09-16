@@ -1,0 +1,1 @@
+/wp-content/plugins/jungbillig-portfolio-gallery/readme.txt

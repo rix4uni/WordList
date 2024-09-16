@@ -1,0 +1,1 @@
+/wp-content/plugins/slick-social-share-buttons/readme.txt

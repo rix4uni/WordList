@@ -1,0 +1,1 @@
+/wp-content/plugins/cbxwpbookmark/readme.txt

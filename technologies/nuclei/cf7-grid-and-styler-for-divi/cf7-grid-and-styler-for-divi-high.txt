@@ -1,0 +1,1 @@
+/wp-content/plugins/cf7-grid-and-styler-for-divi/readme.txt

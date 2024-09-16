@@ -1,0 +1,2 @@
+/wp-content/plugins/pdf-generator-for-wp/readme.txt
+/wp-content/plugins/pdf-generator-for-wp/package/lib/dompdf/vendor/dompdf/dompdf/I18N/Arabic/Examples/Query.php?keyword=

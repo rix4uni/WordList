@@ -1,0 +1,8 @@
+/examples/jsp/snp/snoop.jsp
+/examples/jsp/security/protected/index.jsp
+/examples/servlets/servlet/CookieExample
+/examples/servlets/servlet/RequestHeaderExample
+/jolokia/list
+/actuator/jolokia/list
+/jolokia/search/*:test=test
+/actuator/jolokia/search/*:test=test

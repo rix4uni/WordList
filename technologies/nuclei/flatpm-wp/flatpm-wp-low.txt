@@ -1,0 +1,1 @@
+/wp-content/plugins/flatpm-wp/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/events-widgets-for-elementor-and-the-events-calendar/readme.txt

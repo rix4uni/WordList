@@ -1,0 +1,1 @@
+/wp-content/plugins/aryo-activity-log/readme.txt

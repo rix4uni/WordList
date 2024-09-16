@@ -1,0 +1,1 @@
+/wp-content/plugins/yikes-inc-easy-mailchimp-extender/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-confirmation-email/readme.txt

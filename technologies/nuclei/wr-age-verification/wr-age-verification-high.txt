@@ -1,0 +1,1 @@
+/wp-content/plugins/wr-age-verification/readme.txt

@@ -1,0 +1,2 @@
+/mainpage/msg.aspx?user=1
+/mainpage/msglog.aspx?user=1

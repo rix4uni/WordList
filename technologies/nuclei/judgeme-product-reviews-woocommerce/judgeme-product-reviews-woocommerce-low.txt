@@ -1,0 +1,1 @@
+/wp-content/plugins/judgeme-product-reviews-woocommerce/readme.txt

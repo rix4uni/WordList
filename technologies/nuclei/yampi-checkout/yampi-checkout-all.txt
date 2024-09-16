@@ -1,0 +1,1 @@
+/wp-content/plugins/yampi-checkout/readme.txt

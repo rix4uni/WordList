@@ -1,0 +1,1 @@
+/wp-content/plugins/ns-woocommerce-watermark/readme.txt

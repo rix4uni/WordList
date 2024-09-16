@@ -1,0 +1,1 @@
+/wp-content/plugins/magical-addons-for-elementor/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/woocommerce-custom-product-tabs-lite/readme.txt

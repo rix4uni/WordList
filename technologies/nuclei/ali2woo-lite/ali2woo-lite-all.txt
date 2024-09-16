@@ -1,0 +1,1 @@
+/wp-content/plugins/ali2woo-lite/readme.txt

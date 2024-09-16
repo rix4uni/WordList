@@ -1,0 +1,1 @@
+/wp-content/plugins/simplemodal-contact-form-smcf/readme.txt

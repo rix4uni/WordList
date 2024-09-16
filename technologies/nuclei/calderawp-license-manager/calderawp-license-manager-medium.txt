@@ -1,0 +1,1 @@
+/wp-content/plugins/calderawp-license-manager/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/bp-user-profile-reviews/readme.txt

@@ -1,0 +1,5 @@
+/v1/metadata
+/v1/tasks
+/_dashboards/app/login
+/%c0
+/?torrent

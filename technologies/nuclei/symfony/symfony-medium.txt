@@ -1,0 +1,2 @@
+/_fragment?_path=_controller=phpcredits&flag=-1
+/js/routing?callback=fos.Router.setDatafoobarfoo

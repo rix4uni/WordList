@@ -1,0 +1,2 @@
+/CMSPages/GetDocLink.ashx?link=https://example.com/
+/website/lang/en_US?r=https://example.com/

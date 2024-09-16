@@ -1,0 +1,1 @@
+/wp-content/plugins/videojs-html5-video-player-for-wordpress/readme.txt

@@ -1,0 +1,2 @@
+/api/settings/values
+/api/components/search_projects

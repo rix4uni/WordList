@@ -1,0 +1,1 @@
+/auth/logout?continue=//example.com

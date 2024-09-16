@@ -1,0 +1,1 @@
+/wp-content/plugins/wiseagentleadform/readme.txt

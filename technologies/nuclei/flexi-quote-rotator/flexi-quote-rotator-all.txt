@@ -1,0 +1,1 @@
+/wp-content/plugins/flexi-quote-rotator/readme.txt

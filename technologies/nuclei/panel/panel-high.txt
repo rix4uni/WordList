@@ -1,0 +1,15 @@
+/install/index.php
+/login
+/cgi-bin/cosmobdf.cgi?function=0
+/cgi-bin/cosmobdf.cgi?function=1
+/client/index.html
+/ui/jobs
+/login?login=lutron&password=lutron
+/clusterList
+/web/database/manager
+/openvpn-monitor/
+/upload/setup/install.php
+/setup/install.php
+/api/users/admin/check
+/hoteldruid/inizio.php
+/inizio.php

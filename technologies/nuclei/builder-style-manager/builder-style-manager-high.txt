@@ -1,0 +1,1 @@
+/wp-content/plugins/builder-style-manager/readme.txt

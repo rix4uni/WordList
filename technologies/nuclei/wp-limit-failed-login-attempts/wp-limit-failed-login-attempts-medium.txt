@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-limit-failed-login-attempts/readme.txt

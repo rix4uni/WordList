@@ -1,0 +1,1 @@
+/wp-content/plugins/prismatic/readme.txt

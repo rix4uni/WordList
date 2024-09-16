@@ -1,0 +1,1 @@
+/wp-content/plugins/ldd-directory-lite/readme.txt

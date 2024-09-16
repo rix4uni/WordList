@@ -1,0 +1,3 @@
+/{{randstr}}
+/console/login/LoginForm.jsp
+/uddiexplorer/

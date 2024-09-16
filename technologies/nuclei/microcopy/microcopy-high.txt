@@ -1,0 +1,1 @@
+/wp-content/plugins/microcopy/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/woc-order-alert/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/s3bubble-amazon-s3-audio-streaming/readme.txt

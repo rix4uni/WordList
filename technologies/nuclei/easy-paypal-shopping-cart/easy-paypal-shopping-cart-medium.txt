@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-paypal-shopping-cart/readme.txt

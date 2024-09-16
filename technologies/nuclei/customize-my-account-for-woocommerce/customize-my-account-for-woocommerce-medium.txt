@@ -1,0 +1,1 @@
+/wp-content/plugins/customize-my-account-for-woocommerce/readme.txt

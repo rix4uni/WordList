@@ -1,0 +1,1 @@
+/wp-content/plugins/fancybox-for-wordpress/readme.txt

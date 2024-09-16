@@ -1,0 +1,7 @@
+/config/default.json
+/config.json
+/config/config.json
+/credentials/config.json
+/config/initializers/secret_token.rb
+/config/secrets.yml
+/.secrets

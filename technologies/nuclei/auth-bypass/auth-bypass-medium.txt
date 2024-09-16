@@ -1,0 +1,7 @@
+/reset/IjEi.YhAmmQ.cdQp7CnnVq02aQ05y8tSBddl-qs
+/redash/reset/IjEi.YhAmmQ.cdQp7CnnVq02aQ05y8tSBddl-qs
+/zabbix/setup.php
+/setup.php
+/passwordrecovered.cgi?id=nuclei
+/pentaho/api/userrolelist/systemRoles?require-cfg.js
+/api/userrolelist/systemRoles?require-cfg.js

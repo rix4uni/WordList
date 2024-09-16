@@ -1,0 +1,3 @@
+/elfinder.html
+/js/elfinder.min.js
+/js/elFinder.version.js

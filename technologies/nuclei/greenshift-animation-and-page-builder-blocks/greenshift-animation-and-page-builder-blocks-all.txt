@@ -1,0 +1,1 @@
+/wp-content/plugins/greenshift-animation-and-page-builder-blocks/readme.txt

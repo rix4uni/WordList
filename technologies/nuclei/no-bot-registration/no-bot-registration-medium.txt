@@ -1,0 +1,1 @@
+/wp-content/plugins/no-bot-registration/readme.txt

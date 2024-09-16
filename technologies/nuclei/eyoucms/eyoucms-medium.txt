@@ -1,0 +1,2 @@
+/index.php?m=user&c=Users&a=logout&referurl=https://interact.sh
+/index.php?m=user&c=Users&a=logout&referurl=https://example.com

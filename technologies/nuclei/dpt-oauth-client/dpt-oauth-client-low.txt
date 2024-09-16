@@ -1,0 +1,1 @@
+/wp-content/plugins/dpt-oauth-client/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-club-manager/readme.txt

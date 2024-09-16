@@ -1,0 +1,4 @@
+/api/clusters
+/api/clusters/malicious-cluster
+/api/clusters/malicious-cluster/metrics
+/jmx-console/

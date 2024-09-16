@@ -1,0 +1,2 @@
+/data/users/admin.xml
+/goform/getStatus?random=&modules=internetStatus%2CdeviceStatistics%2CsystemInfo%2CwanAdvCfg%2CwifiRelay%2CwifiBasicCfg%2CsysTime

@@ -1,0 +1,1 @@
+/wp-content/plugins/miniorange-login-with-whmcs/readme.txt

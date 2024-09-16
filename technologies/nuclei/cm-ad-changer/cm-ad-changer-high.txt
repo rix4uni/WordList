@@ -1,0 +1,1 @@
+/wp-content/plugins/cm-ad-changer/readme.txt

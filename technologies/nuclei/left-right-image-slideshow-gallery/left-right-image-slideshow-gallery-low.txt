@@ -1,0 +1,1 @@
+/wp-content/plugins/left-right-image-slideshow-gallery/readme.txt

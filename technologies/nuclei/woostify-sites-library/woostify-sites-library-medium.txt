@@ -1,0 +1,1 @@
+/wp-content/plugins/woostify-sites-library/readme.txt

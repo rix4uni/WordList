@@ -1,0 +1,2 @@
+/self.key
+/conf/nginx.conf

@@ -1,0 +1,1 @@
+/wp-content/themes/elevate-wp/style.css

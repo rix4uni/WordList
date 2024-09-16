@@ -1,0 +1,1 @@
+/wp-content/plugins/responsive-horizontal-vertical-and-accordion-tabs/readme.txt

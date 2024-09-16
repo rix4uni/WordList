@@ -1,0 +1,1 @@
+/wp-content/plugins/yikes-inc-easy-custom-woocommerce-product-tabs/readme.txt

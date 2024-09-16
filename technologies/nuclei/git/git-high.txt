@@ -1,0 +1,1 @@
+/git/notifyCommit?url={{randstr}}&branches={{randstr}}

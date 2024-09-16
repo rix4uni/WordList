@@ -1,0 +1,1 @@
+/wp-content/plugins/extended-search-plugin/readme.txt

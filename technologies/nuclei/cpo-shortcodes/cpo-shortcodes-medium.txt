@@ -1,0 +1,1 @@
+/wp-content/plugins/cpo-shortcodes/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/qr-code-composer/readme.txt

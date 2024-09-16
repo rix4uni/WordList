@@ -1,0 +1,1 @@
+/wp-content/plugins/racar-clear-cart-for-woocommerce/readme.txt

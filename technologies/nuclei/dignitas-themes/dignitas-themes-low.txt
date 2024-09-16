@@ -1,0 +1,1 @@
+/wp-content/themes/dignitas-themes/style.css

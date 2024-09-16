@@ -1,0 +1,1 @@
+/wp-content/plugins/cryptocurrency-donation-box/readme.txt

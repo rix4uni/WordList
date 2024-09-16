@@ -1,0 +1,5 @@
+/dotAdmin/
+/html/common/forward_js.jsp?FORWARD_URL=http://www.example.com
+/html/portlet/ext/common/page_preview_popup.jsp?hostname=example.com
+/html/common/forward_js.jsp?FORWARD_URL=http://www.interact.sh
+/html/portlet/ext/common/page_preview_popup.jsp?hostname=interact.sh

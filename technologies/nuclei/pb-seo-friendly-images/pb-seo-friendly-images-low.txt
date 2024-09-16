@@ -1,0 +1,1 @@
+/wp-content/plugins/pb-seo-friendly-images/readme.txt

@@ -1,0 +1,3 @@
+/actuator
+/favicon.ico
+/actuator/favicon.ico

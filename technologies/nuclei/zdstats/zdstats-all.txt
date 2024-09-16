@@ -1,0 +1,1 @@
+/wp-content/plugins/zdstats/readme.txt

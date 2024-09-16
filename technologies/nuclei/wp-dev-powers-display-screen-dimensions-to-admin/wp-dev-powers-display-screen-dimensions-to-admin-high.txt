@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-dev-powers-display-screen-dimensions-to-admin/readme.txt

@@ -1,0 +1,2 @@
+/js/zimbraMail/share/model/ZmSettings.js
+/zimbraAdmin/

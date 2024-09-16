@@ -1,0 +1,1 @@
+/wp-content/plugins/colorful-categories/readme.txt

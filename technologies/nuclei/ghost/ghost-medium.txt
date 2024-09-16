@@ -1,0 +1,2 @@
+/ghost/preview
+/wp-content/plugins/ghost/readme.txt

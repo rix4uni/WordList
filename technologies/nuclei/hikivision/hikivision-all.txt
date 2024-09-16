@@ -1,0 +1,5 @@
+/artemis/env
+/artemis-portal/artemis/env
+/artemis/actuator/env
+/artemis;/env;
+/artemis/1/..;/env

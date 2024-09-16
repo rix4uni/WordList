@@ -1,0 +1,1 @@
+/wp-content/plugins/media-from-ftp/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/chp-ads-block-detector/readme.txt

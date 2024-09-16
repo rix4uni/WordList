@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-swatches-manager/readme.txt

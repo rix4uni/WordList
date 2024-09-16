@@ -1,0 +1,1 @@
+/wp-content/plugins/login-logo-editor-by-oizuled/readme.txt

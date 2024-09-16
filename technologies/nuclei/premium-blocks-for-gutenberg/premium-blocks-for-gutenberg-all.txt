@@ -1,0 +1,1 @@
+/wp-content/plugins/premium-blocks-for-gutenberg/readme.txt

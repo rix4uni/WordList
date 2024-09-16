@@ -1,0 +1,1 @@
+/wp-content/plugins/email-artillery/readme.txt

@@ -1,0 +1,1 @@
+/v1/console/server/state?accessToken=&username=

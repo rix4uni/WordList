@@ -1,0 +1,1 @@
+/wp-content/themes/royal-elementor-kit/style.css

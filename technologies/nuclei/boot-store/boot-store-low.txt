@@ -1,0 +1,1 @@
+/wp-content/themes/boot-store/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/social-media-feather/readme.txt

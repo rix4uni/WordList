@@ -1,0 +1,1 @@
+/wp-content/plugins/bulk-image-title-attribute/readme.txt

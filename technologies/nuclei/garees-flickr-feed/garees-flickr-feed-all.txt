@@ -1,0 +1,1 @@
+/wp-content/plugins/garees-flickr-feed/readme.txt

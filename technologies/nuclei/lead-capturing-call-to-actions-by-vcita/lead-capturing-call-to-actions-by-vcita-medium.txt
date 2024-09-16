@@ -1,0 +1,1 @@
+/wp-content/plugins/lead-capturing-call-to-actions-by-vcita/readme.txt

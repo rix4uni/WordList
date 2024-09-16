@@ -1,0 +1,1 @@
+/wp-content/themes/chic-lite/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/luckywp-table-of-contents/readme.txt

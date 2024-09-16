@@ -1,0 +1,1 @@
+/wp-content/plugins/cardoza-wordpress-poll/readme.txt

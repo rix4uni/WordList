@@ -1,0 +1,1 @@
+/wp-content/plugins/company-updates-for-linkedin/readme.txt

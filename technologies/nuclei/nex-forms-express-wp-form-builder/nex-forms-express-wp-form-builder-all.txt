@@ -1,0 +1,1 @@
+/wp-content/plugins/nex-forms-express-wp-form-builder/readme.txt

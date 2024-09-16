@@ -1,0 +1,1 @@
+/wp-content/plugins/ldap-ad-staff-employee-directory-search/readme.txt

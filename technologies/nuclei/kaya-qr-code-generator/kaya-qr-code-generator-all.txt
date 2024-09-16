@@ -1,0 +1,1 @@
+/wp-content/plugins/kaya-qr-code-generator/readme.txt

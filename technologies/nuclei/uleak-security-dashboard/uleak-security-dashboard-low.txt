@@ -1,0 +1,1 @@
+/wp-content/plugins/uleak-security-dashboard/readme.txt

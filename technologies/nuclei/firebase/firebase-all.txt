@@ -1,0 +1,5 @@
+/public/config.js
+/config.js
+/public/sample-config.js
+/firebase-debug.log
+/.settings/rules.json?auth=FIREBASE_SECRET

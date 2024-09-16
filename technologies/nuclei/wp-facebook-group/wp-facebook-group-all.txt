@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-facebook-group/readme.txt

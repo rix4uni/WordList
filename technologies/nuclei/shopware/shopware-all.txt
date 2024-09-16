@@ -1,0 +1,3 @@
+/public/recovery/install/index.php
+/admin
+/backend

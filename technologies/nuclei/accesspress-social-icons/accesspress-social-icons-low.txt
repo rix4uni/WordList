@@ -1,0 +1,1 @@
+/wp-content/plugins/accesspress-social-icons/readme.txt

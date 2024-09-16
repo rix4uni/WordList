@@ -1,0 +1,1 @@
+/wp-content/plugins/xt-woo-points-rewards/readme.txt

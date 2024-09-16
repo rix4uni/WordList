@@ -1,0 +1,1 @@
+/wp-content/plugins/this-day-in-history/readme.txt

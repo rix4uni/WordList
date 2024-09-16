@@ -1,0 +1,1 @@
+/wp-content/plugins/random-image-gallery-with-pretty-photo-zoom/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/configurable-tag-cloud-widget/readme.txt

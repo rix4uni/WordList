@@ -1,0 +1,1 @@
+/wp-content/plugins/reset-course-progress-for-learndash/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/sunshine-photo-cart/readme.txt

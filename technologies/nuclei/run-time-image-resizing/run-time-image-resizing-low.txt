@@ -1,0 +1,1 @@
+/wp-content/plugins/run-time-image-resizing/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/imdb-info-box/readme.txt

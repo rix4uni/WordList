@@ -1,0 +1,1 @@
+/wp-content/plugins/mihdan-yandex-turbo-feed/readme.txt

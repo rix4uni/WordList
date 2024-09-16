@@ -1,0 +1,1 @@
+/wp-content/plugins/ht-mega-for-elementor/readme.txt

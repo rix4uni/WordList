@@ -1,0 +1,1 @@
+/wp-content/plugins/throws-spam-away/readme.txt

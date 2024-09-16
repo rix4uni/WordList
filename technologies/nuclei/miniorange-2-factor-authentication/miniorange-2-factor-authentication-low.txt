@@ -1,0 +1,1 @@
+/wp-content/plugins/miniorange-2-factor-authentication/readme.txt

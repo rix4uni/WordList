@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-fade-in-text-news/readme.txt

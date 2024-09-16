@@ -1,0 +1,1 @@
+/wp-content/plugins/no-api-amazon-affiliate/readme.txt

@@ -1,0 +1,3 @@
+/login
+/api/theme/themeConfiguration
+/en-US/account/login

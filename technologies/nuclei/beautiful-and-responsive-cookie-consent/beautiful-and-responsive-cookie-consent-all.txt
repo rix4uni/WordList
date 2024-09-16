@@ -1,0 +1,1 @@
+/wp-content/plugins/beautiful-and-responsive-cookie-consent/readme.txt

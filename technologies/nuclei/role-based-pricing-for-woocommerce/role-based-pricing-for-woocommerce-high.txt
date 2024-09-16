@@ -1,0 +1,1 @@
+/wp-content/plugins/role-based-pricing-for-woocommerce/readme.txt

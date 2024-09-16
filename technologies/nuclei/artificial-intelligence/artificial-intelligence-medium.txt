@@ -1,0 +1,1 @@
+/wp-content/themes/artificial-intelligence/style.css

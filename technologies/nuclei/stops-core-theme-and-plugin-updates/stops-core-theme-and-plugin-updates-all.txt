@@ -1,0 +1,1 @@
+/wp-content/plugins/stops-core-theme-and-plugin-updates/readme.txt

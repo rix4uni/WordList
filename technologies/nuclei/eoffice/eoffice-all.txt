@@ -1,0 +1,2 @@
+/building/backmgr/urlpage/mobileurl/configfile/jx2_config.ini
+/E-mobile/Data/downfile.php?url=/test

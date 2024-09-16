@@ -1,0 +1,1 @@
+/wp-content/plugins/wc-remove-tabs-and-fields/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/lawyer-directory/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/uploadify-integration/readme.txt

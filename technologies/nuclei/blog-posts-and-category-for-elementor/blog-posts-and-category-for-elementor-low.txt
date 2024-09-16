@@ -1,0 +1,1 @@
+/wp-content/plugins/blog-posts-and-category-for-elementor/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/post-grid-carousel-ultimate/readme.txt

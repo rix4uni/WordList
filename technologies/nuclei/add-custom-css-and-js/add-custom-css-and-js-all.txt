@@ -1,0 +1,1 @@
+/wp-content/plugins/add-custom-css-and-js/readme.txt

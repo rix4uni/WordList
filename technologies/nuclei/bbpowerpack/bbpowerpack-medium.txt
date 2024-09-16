@@ -1,0 +1,1 @@
+/wp-content/plugins/bbpowerpack/readme.txt

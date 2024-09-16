@@ -1,0 +1,1 @@
+/wp-content/plugins/sp-client-document-manager/readme.txt

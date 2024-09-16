@@ -1,0 +1,1 @@
+/wp-content/plugins/enqueue-anything/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/acumbamail-signup-forms/readme.txt

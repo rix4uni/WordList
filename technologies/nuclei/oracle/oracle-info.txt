@@ -1,0 +1,16 @@
+/fcgi-bin/echo
+/oamfed/idp/soap
+/atg/bcc
+/saw.dll?bieehome&startPage=1
+/dbaas_monitor/login
+/OA_HTML/ibeCAcpSSOReg.jsp
+/em/console/logon/logon
+/iPages/i_login.asp
+/OperaLogin/Welcome.do
+/reports/
+/ora/reports/
+/oracle/reports/
+/cgi-bin/test-cgi
+/welcome_webcenter.html
+/console/login/LoginForm.jsp
+/uddiexplorer/

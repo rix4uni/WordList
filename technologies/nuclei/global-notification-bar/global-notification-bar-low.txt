@@ -1,0 +1,1 @@
+/wp-content/plugins/global-notification-bar/readme.txt

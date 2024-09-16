@@ -1,0 +1,4 @@
+/base_import/static/c:/windows/win.ini
+/web/static/c:/windows/win.ini
+/base/static/c:/windows/win.ini
+/web/database/manager

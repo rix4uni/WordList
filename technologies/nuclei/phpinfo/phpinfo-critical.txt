@@ -1,0 +1,2 @@
+/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php
+/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php

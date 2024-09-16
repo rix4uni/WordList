@@ -1,0 +1,17 @@
+/atlassian-connect.json
+/plugins/servlet/oauth/view-consumer-info
+/confluence/plugins/servlet/oauth/view-consumer-info
+/secure/Dashboard.jspa
+/jira/secure/Dashboard.jspa
+/login.jsp
+/rest/api/latest/serverInfo
+/rest/menu/latest/admin
+/rest/api/2/dashboard?maxResults=100
+/rest/config/1.0/directory
+/rest/api/2/projectCategory?maxResults=1000
+/rest/api/2/project?maxResults=100
+/rest/api/2/resolution
+/rest/api/2/screens
+/secure/popups/UserPickerBrowser.jspa
+/servicedesk/customer/user/login
+/servicedesk/customer/portal/10/user/login

@@ -1,0 +1,1 @@
+/wp-content/plugins/p3-profiler/readme.txt

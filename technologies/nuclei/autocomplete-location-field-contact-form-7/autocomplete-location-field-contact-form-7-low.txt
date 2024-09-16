@@ -1,0 +1,1 @@
+/wp-content/plugins/autocomplete-location-field-contact-form-7/readme.txt

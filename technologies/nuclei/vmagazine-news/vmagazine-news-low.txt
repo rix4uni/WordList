@@ -1,0 +1,1 @@
+/wp-content/themes/vmagazine-news/style.css

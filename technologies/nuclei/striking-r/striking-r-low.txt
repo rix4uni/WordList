@@ -1,0 +1,1 @@
+/wp-content/themes/striking-r/style.css

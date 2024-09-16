@@ -1,0 +1,1 @@
+/wp-content/themes/twenty-twelve-edd/style.css

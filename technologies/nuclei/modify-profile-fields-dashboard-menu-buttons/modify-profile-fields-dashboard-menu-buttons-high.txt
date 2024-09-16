@@ -1,0 +1,1 @@
+/wp-content/plugins/modify-profile-fields-dashboard-menu-buttons/readme.txt

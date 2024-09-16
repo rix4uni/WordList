@@ -1,0 +1,12 @@
+/wp-content/plugins/wp-image-news-slider/readme.txt
+/wp-content/plugins/church-management/readme.txt
+/wp-content/plugins/mail-masta/readme.txt
+/wp-content/plugins/personalize-woocommerce-cart-page/readme.txt
+/wp-content/plugins/hrm/readme.txt
+/wp-content/plugins/participants-database/readme.txt
+/wp-content/plugins/user-registration/readme.txt
+/wp-content/plugins/all-in-one-seo-pack/readme.txt
+/wp-content/plugins/mainwp-child/readme.txt
+/wp-content/plugins/simple-slideshow-manager/readme.txt
+/wp-content/plugins/w3-total-cache/readme.txt
+/wp-content/plugins/wp-filebase/readme.txt

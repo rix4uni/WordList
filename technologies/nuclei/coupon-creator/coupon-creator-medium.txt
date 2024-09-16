@@ -1,0 +1,1 @@
+/wp-content/plugins/coupon-creator/readme.txt

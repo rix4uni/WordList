@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-custom-checkout-fields/readme.txt

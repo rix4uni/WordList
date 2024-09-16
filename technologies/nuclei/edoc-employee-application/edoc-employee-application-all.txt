@@ -1,0 +1,1 @@
+/wp-content/plugins/edoc-employee-application/readme.txt

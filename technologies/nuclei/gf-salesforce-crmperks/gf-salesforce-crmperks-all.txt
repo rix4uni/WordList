@@ -1,0 +1,1 @@
+/wp-content/plugins/gf-salesforce-crmperks/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/white-label-branding-elementor/readme.txt

@@ -1,0 +1,3 @@
+/login.html
+/view/viewer_index.shtml
+/pics/logo_70x29px.gif

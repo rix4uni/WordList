@@ -1,0 +1,1 @@
+/wp-content/plugins/schedule-posts-calendar/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/send-emails-with-mandrill/readme.txt

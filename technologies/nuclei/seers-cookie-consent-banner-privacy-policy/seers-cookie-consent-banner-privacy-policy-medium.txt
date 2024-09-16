@@ -1,0 +1,1 @@
+/wp-content/plugins/seers-cookie-consent-banner-privacy-policy/readme.txt

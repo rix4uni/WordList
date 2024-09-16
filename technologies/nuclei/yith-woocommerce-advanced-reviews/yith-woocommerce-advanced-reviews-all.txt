@@ -1,0 +1,1 @@
+/wp-content/plugins/yith-woocommerce-advanced-reviews/readme.txt

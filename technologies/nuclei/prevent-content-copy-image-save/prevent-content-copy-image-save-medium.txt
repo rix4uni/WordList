@@ -1,0 +1,1 @@
+/wp-content/plugins/prevent-content-copy-image-save/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/owm-weather/readme.txt

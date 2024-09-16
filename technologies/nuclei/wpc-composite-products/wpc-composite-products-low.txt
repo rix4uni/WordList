@@ -1,0 +1,1 @@
+/wp-content/plugins/wpc-composite-products/readme.txt

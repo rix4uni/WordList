@@ -1,0 +1,1 @@
+/wp-content/plugins/1-jquery-photo-gallery-slideshow-flash/readme.txt

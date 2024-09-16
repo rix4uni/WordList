@@ -1,0 +1,1 @@
+/wp-content/plugins/mabel-shoppable-images-lite/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/neshan-maps/readme.txt

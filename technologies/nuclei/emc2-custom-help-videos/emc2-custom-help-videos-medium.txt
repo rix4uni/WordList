@@ -1,0 +1,1 @@
+/wp-content/plugins/emc2-custom-help-videos/readme.txt

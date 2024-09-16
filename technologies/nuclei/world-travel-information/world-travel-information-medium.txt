@@ -1,0 +1,1 @@
+/wp-content/plugins/world-travel-information/readme.txt

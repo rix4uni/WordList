@@ -1,0 +1,2 @@
+/user/login/checkPermit
+/my_view_page.php

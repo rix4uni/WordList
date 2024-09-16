@@ -1,0 +1,1 @@
+/wp-content/plugins/cyr3lat/readme.txt

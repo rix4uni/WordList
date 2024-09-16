@@ -1,0 +1,1 @@
+/wp-content/plugins/dashboard-widgets-suite/readme.txt

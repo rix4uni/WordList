@@ -1,0 +1,1 @@
+/wp-content/themes/Avada/style.css

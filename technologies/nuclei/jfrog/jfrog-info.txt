@@ -1,0 +1,6 @@
+/api/system/version
+/ui/login/
+/api/system/ping
+/api/v1/system/readiness
+/api/v1/system/liveness
+/doesNotExist404

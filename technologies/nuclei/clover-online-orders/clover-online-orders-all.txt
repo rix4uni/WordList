@@ -1,0 +1,1 @@
+/wp-content/plugins/clover-online-orders/readme.txt

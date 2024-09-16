@@ -1,0 +1,1 @@
+/wp-content/plugins/e-unlocked-student-result/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/api-info-themes-plugins-wp-org/readme.txt

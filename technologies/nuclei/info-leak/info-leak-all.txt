@@ -1,0 +1,6 @@
+/config.php
+/config/config.php
+/include/config.php
+/includes/config.php
+/yyoa/createMysql.jsp
+/yyoa/ext/createMysql.jsp

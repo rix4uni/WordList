@@ -1,0 +1,4 @@
+/awstats/data
+/redirect-to?url=https%3A%2F%2Fexample.com
+/redirect-to?url=https%3A%2F%2Finteract.sh
+/Vagrantfile

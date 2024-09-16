@@ -1,0 +1,1 @@
+/wp-content/plugins/wpcf7-redirect/readme.txt

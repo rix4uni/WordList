@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-telegram-for-wp/readme.txt

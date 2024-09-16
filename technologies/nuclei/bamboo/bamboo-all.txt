@@ -1,0 +1,2 @@
+/setup/setupLicense.action
+/allPlans.action

@@ -1,0 +1,1 @@
+/wp-content/plugins/testimonial-rotator/readme.txt

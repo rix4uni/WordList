@@ -1,0 +1,1 @@
+/wp-content/plugins/3dady-real-time-web-stats/readme.txt

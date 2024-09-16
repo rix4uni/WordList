@@ -1,0 +1,1 @@
+/wp-content/plugins/vdz-google-analytics/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/athemes-starter-sites/readme.txt

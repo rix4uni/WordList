@@ -1,0 +1,1 @@
+/wp-content/plugins/boostify-header-footer-builder/readme.txt

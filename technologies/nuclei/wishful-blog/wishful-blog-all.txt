@@ -1,0 +1,1 @@
+/wp-content/themes/wishful-blog/style.css

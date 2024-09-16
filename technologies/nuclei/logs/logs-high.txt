@@ -1,0 +1,3 @@
+/darkstat/
+/storage/logs/laravel.log
+/_debugbar/open?max=20&offset=0

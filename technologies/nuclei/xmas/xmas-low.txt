@@ -1,0 +1,1 @@
+/wp-content/themes/xmas/style.css

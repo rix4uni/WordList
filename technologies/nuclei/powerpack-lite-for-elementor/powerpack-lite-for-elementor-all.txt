@@ -1,0 +1,1 @@
+/wp-content/plugins/powerpack-lite-for-elementor/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/bbpress-login-register-links-on-forum-topic-pages/readme.txt

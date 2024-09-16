@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-appointment-schedule-booking-system/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/wpupper-share-buttons/readme.txt

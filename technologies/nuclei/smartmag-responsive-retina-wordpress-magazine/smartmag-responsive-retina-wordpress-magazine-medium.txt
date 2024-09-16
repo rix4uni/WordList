@@ -1,0 +1,1 @@
+/wp-content/themes/smartmag-responsive-retina-wordpress-magazine/style.css

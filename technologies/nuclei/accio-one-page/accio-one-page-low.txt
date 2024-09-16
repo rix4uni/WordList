@@ -1,0 +1,1 @@
+/wp-content/themes/accio-one-page/style.css

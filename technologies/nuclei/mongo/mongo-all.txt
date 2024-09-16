@@ -1,0 +1,11 @@
+/mongo-express/
+/db/admin/system.users
+/
+/moadmin.php
+/wu-moadmin.php
+/moadmin
+/moadmin/moadmin.php
+/moadmin/wu-moadmin.php
+/wu-moadmin
+/wu-moadmin/moadmin.php
+/wu-moadmin/wu-moadmin.php

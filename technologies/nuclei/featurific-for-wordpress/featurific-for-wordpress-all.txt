@@ -1,0 +1,1 @@
+/wp-content/plugins/featurific-for-wordpress/readme.txt

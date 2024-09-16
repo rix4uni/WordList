@@ -1,0 +1,4 @@
+/api/graphql
+/autodiscover/autodiscover.json?Protocol=ActiveSync&Email={{rand_text_alpha(6)}}%40oast.pro&RedirectCount=1
+/feed/rdf
+/cucm-uds/users

@@ -1,0 +1,1 @@
+/wp-content/plugins/imagerecycle-pdf-image-compression/readme.txt

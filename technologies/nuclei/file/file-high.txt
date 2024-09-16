@@ -1,0 +1,4 @@
+/appmonitor/protected/selector/server_file/files?folder=C://&suffix=
+/appmonitor/protected/selector/server_file/files?folder=/&suffix=
+/.travis.yml
+/matomo/.travis.yml

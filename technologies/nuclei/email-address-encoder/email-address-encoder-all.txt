@@ -1,0 +1,1 @@
+/wp-content/plugins/email-address-encoder/readme.txt

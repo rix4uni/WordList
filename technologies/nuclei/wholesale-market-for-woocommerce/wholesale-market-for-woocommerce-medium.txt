@@ -1,0 +1,1 @@
+/wp-content/plugins/wholesale-market-for-woocommerce/readme.txt
