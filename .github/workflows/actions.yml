@@ -24,6 +24,14 @@ jobs:
       with:
         go-version: '1.20'  # Specify the version of Go you want to use
 
+    - name: Installing tar and unew via binary
+      run: |
+        sudo apt install tar
+        wget https://github.com/rix4uni/unew/releases/download/v0.0.4/unew-linux-amd64-0.0.4.tgz
+        tar -xvzf unew-linux-amd64-0.0.4.tgz
+        mv unew /usr/local/bin/unew
+        rm -rf unew-linux-amd64-0.0.4.tgz
+
     - name: Cloning https://github.com/rix4uni/cent-configuration.git
       run: |
         git clone https://github.com/rix4uni/cent-configuration.git --depth 1 wordlist-generator-tools/cent-configuration
