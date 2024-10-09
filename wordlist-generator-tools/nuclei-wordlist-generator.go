@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"flag"
 	"fmt"
 	"log"
 	"os"
@@ -14,18 +15,35 @@ import (
 const maxTokenSize = 10 * 1024 * 1024 // 10 MB, adjust as necessary
 
 func main() {
+	// Define the -file flag for specifying a custom root directory
+	fileFlag := flag.String("file", os.ExpandEnv("$HOME/cent-nuclei-templates"), "Root directory for nuclei templates")
+
+	// Define the -output-directory flag for specifying the output directory
+	outputDirFlag := flag.String("output-directory", "./technologies/nuclei-technologies", "Directory to save the output files")
+
+	flag.Parse()
+
 	// Root directory for nuclei templates
-	rootDir := os.ExpandEnv("$HOME/cent-nuclei-templates")
+	rootDir := *fileFlag
+
+	// Output directory where results will be saved
+	outputDir := *outputDirFlag
+
+	// Ensure the output directory exists, create it if it doesn't
+	err := os.MkdirAll(outputDir, 0755)
+	if err != nil {
+		log.Fatalf("Failed to create output directory '%s': %v", outputDir, err)
+	}
 
 	// Walk through the directory recursively and process .yaml files
-	err := filepath.Walk(rootDir, func(path string, info os.FileInfo, err error) error {
+	err = filepath.Walk(rootDir, func(path string, info os.FileInfo, err error) error {
 		if err != nil {
 			return err
 		}
 
 		// Process only .yaml files
 		if filepath.Ext(path) == ".yaml" {
-			processYAMLFile(path)
+			processYAMLFile(path, outputDir)
 		}
 		return nil
 	})
@@ -38,7 +56,7 @@ func main() {
 	fmt.Println("Running unew to create *-all.txt file for every directory...")
 
 	// List all directories
-	findCmd := exec.Command("find", ".", "-type", "d")
+	findCmd := exec.Command("find", outputDir, "-type", "d")
 	output, err := findCmd.Output()
 	if err != nil {
 		log.Fatalf("Failed to execute find command: %v", err)
@@ -67,7 +85,7 @@ func main() {
 }
 
 // processYAMLFile reads and processes each YAML file
-func processYAMLFile(templateFile string) {
+func processYAMLFile(templateFile, outputDir string) {
 	// Open the file for reading
 	file, err := os.Open(templateFile)
 	if err != nil {
@@ -120,47 +138,47 @@ func processYAMLFile(templateFile string) {
 	validTagRegex := regexp.MustCompile(`^[a-zA-Z0-9-_]+$`)
 
 	// Define a map to correct severity values
-    severityMapping := map[string]string{
-        "none":       "unknown",
-        "informative": "info",
-        "meduim": 	"medium",
-        "hight":      "high",
-        "highx":      "high",
-        "criticall":  "critical",
-        "ciritical":  "critical",
-        "cretical":   "critical",
-    }
+	severityMapping := map[string]string{
+		"none":       "unknown",
+		"informative": "info",
+		"meduim":     "medium",
+		"hight":      "high",
+		"highx":      "high",
+		"criticall":  "critical",
+		"ciritical":  "critical",
+		"cretical":   "critical",
+	}
 
-    // List of valid severities
-    validSeverities := map[string]bool{
-        "unknown":  true,
-        "info":     true,
-        "low":      true,
-        "medium":   true,
-        "high":     true,
-        "critical": true,
-    }
+	// List of valid severities
+	validSeverities := map[string]bool{
+		"unknown":  true,
+		"info":     true,
+		"low":      true,
+		"medium":   true,
+		"high":     true,
+		"critical": true,
+	}
 
-    // Get the correct severity value if there's a match in the mapping
-    correctedSeverity, exists := severityMapping[strings.ToLower(severity)]
-    if exists {
-        severity = correctedSeverity
-    }
+	// Get the correct severity value if there's a match in the mapping
+	correctedSeverity, exists := severityMapping[strings.ToLower(severity)]
+	if exists {
+		severity = correctedSeverity
+	}
 
-    // Skip if severity is not valid
-    if !validSeverities[strings.ToLower(severity)] {
-        fmt.Printf("Skipping invalid severity: '%s' in file: %s\n", severity, templateFile)
-        return
-    }
+	// Skip if severity is not valid
+	if !validSeverities[strings.ToLower(severity)] {
+		fmt.Printf("Skipping invalid severity: '%s' in file: %s\n", severity, templateFile)
+		return
+	}
 
-    // Check if no BaseURLs were extracted, skip file creation if so
-    if len(baseURLs) == 0 {
-        fmt.Printf("Skipping file creation for: %s because no BaseURLs were found.\n", templateFile)
-        return
-    }
+	// Check if no BaseURLs were extracted, skip file creation if so
+	if len(baseURLs) == 0 {
+		fmt.Printf("Skipping file creation for: %s because no BaseURLs were found.\n", templateFile)
+		return
+	}
 
 	// Extract the base filename from the template file path
-    baseFilename := filepath.Base(templateFile)
+	baseFilename := filepath.Base(templateFile)
 
 	for _, tag := range tagList {
 		tag = strings.TrimSpace(tag)
@@ -171,17 +189,18 @@ func processYAMLFile(templateFile string) {
 			continue
 		}
 
-		// Create directory for the tag
-		err := os.MkdirAll(tag, 0755)
+		// Create directory for the tag in the specified output directory
+		tagDir := filepath.Join(outputDir, tag)
+		err := os.MkdirAll(tagDir, 0755)
 		if err != nil {
-			log.Fatalf("Failed to create directory '%s': %v", tag, err)
+			log.Fatalf("Failed to create directory '%s': %v", tagDir, err)
 		}
 
 		// Convert severity to lowercase for the filename
-        lowercaseSeverity := strings.ToLower(severity)
+		lowercaseSeverity := strings.ToLower(severity)
 
-		// Define the output file name
-		outputFile := filepath.Join(tag, fmt.Sprintf("%s-%s.txt", tag, lowercaseSeverity))
+		// Define the output file name in the specified output directory
+		outputFile := filepath.Join(tagDir, fmt.Sprintf("%s-%s.txt", tag, lowercaseSeverity))
 
 		// Prepare a command to run `unew` with the BaseURLs through stdin
 		cmd := exec.Command("unew", "-t", "-el", "-q", outputFile)
@@ -193,6 +212,6 @@ func processYAMLFile(templateFile string) {
 		}
 
 		// Display the message in the format: SOURCE: <YAML File> => DESTINATION: <Output File>
-        fmt.Printf("SOURCE:%s => DESTINATION:%s\n", baseFilename, outputFile)
+		fmt.Printf("SOURCE:%s => DESTINATION:%s\n", baseFilename, outputFile)
 	}
 }

@@ -1,0 +1,52 @@
+name: Nuclei Wordlist Generator
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  push:
+    branches:
+      - main
+
+# Actions project permission
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v3
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.20'  # Specify the version of Go you want to use
+
+    - name: Cloning https://github.com/rix4uni/cent-configuration.git
+      run: |
+        git clone https://github.com/rix4uni/cent-configuration.git --depth 1 wordlist-generator-tools/cent-configuration
+
+    - name: Generating nuclei-technologies wordlist
+      run: |
+        go run wordlist-generator-tools/nuclei-wordlist-generator.go -file wordlist-generator-tools/cent-configuration -output-directory ../technologies/nuclei-technologies
+
+    - name: Removing wordlist-generator-tools/cent-configuration
+      run: |
+        rm -rf wordlist-generator-tools/cent-configuration
+
+    - name: Commit and push changes if there are any
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@users.noreply.github.com'
+        git add .
+
+        # Check if there are changes before committing
+        if ! git diff --cached --exit-code; then
+          IST_DATE=$(TZ='Asia/Kolkata' date +'%a %b %d %H:%M:%S IST %Y')
+          git commit -m "Updated List: $IST_DATE"
+          git push
+        else
+          echo "No changes to commit"
+        fi
