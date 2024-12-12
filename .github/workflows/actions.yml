@@ -32,17 +32,17 @@ jobs:
         mv unew /usr/local/bin/unew
         rm -rf unew-linux-amd64-0.0.4.tgz
 
-    - name: Cloning https://github.com/rix4uni/cent-configuration.git
+    - name: Cloning https://github.com/rix4uni/nucleihub-templates.git
       run: |
-        git clone https://github.com/rix4uni/cent-configuration.git --depth 1 wordlist-generator-tools/cent-configuration
+        git clone https://github.com/rix4uni/nucleihub-templates.git --depth 1 wordlist-generator-tools/nucleihub-templates
 
     - name: Generating nuclei-technologies wordlist
       run: |
-        go run wordlist-generator-tools/nuclei-wordlist-generator.go -file wordlist-generator-tools/cent-configuration -output-directory ../technologies/nuclei-technologies
+        go run wordlist-generator-tools/nuclei-wordlist-generator.go -file wordlist-generator-tools/nucleihub-templates/nucleihub-templates -output-directory ../technologies/nuclei-technologies
 
-    - name: Removing wordlist-generator-tools/cent-configuration
+    - name: Removing wordlist-generator-tools/nucleihub-templates
       run: |
-        rm -rf wordlist-generator-tools/cent-configuration
+        rm -rf wordlist-generator-tools/nucleihub-templates
 
     - name: Commit and push changes if there are any
       run: |
