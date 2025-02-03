@@ -81,3 +81,4 @@
 /user/City_ajax.aspx?CityId=33
 /tool/log/c.php?strip_slashes=md5&host={{randstr}}
 /seeyon/thirdpartyController.do.css/..;/ajax.do
+/listing/?&listing_list_view={{randstr}}&bt_bb_listing_field_my_lat={{randstr}}&bt_bb_listing_field_my_lng={{randstr}}&bt_bb_listing_field_my_lat_default=40.6976637&bt_bb_listing_field_my_lng_default=-74.119764&bt_bb_listing_field_keyword={{randstr}}&bt_bb_listing_field_category=all&bt_bb_listing_field_now_open=1&bt_bb_listing_field_location_autocomplete={{randstr}}&bt_bb_listing_field_distance=26&bt_bb_listing_field_distance_value=26&bt_bb_listing_field_price_range_from=1&bt_bb_listing_field_price_range_to=4&bt_bb_listing_field_sort=4

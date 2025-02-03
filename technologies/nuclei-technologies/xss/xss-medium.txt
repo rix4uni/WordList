@@ -929,3 +929,4 @@ request?info=<svg onload=alert(
 /?reflected=1
 /?PagePrincipale/rss&id=1%27%3Cscript%3Ealert(document.domain)%3C/script%3E
 /zabbix/zabbix.php?action=dashboard.list
+/editor_tools/module?type=files/admin

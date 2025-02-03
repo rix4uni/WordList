@@ -66,3 +66,5 @@
 /mdocs-posts/?mdocs-img-preview=../../../wp-config.php
 /?mdocs-img-preview=../../../wp-config.php
 /wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php?href=../../../../wp-config.php
+/wp-comments-post.php
+/wp-json/tutor/v1/lesson/{{topic-id}}
