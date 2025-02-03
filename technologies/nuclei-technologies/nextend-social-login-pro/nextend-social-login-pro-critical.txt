@@ -1,0 +1,1 @@
+/wp-content/plugins/nextend-social-login-pro/readme.txt

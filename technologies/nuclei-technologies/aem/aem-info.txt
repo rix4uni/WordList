@@ -22,3 +22,9 @@
 /system/sling/info.sessionInfo.json
 /system/sling/info.sessionInfo.txt
 /libs/cq/security/userinfo.json
+/bin/querybuilder.json/a.css?path=/home/users&type=nt:base
+/bin/querybuilder.json/a.html
+/bin/querybuilder.json/a.ico
+/bin/querybuilder.json/a.png
+/bin/querybuilder.json;%0aa.css
+/bin/querybuilder.json/a.1.json

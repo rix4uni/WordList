@@ -1,0 +1,1 @@
+/wp-content/plugins/advertising-management/readme.txt

@@ -12,3 +12,4 @@
 /pods
 /runningpods/
 /stats/summary
+/

@@ -1,0 +1,1 @@
+/wp-content/plugins/cryptocurrency-price-widget/readme.txt

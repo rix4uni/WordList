@@ -1,0 +1,1 @@
+/wp-content/plugins/filestack-upload/readme.txt

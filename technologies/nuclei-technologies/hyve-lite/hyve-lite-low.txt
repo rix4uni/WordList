@@ -1,0 +1,1 @@
+/wp-content/plugins/hyve-lite/readme.txt

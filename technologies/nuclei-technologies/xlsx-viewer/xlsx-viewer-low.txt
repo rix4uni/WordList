@@ -1,0 +1,1 @@
+/wp-content/plugins/xlsx-viewer/readme.txt

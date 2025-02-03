@@ -1,0 +1,1 @@
+/wp-content/plugins/gpx-viewer/readme.txt

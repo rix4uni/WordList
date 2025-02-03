@@ -1,0 +1,2 @@
+/api/admin/user/{{user_id}}
+/api/system/pfp/{{user_id}}

@@ -1,0 +1,1 @@
+/wp-content/plugins/dyn-business-panel/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/utech-spinning-earth/readme.txt

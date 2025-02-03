@@ -22,3 +22,6 @@
 /4/a
 /_ignition/health-check
 /{{randstr}}
+///////this-should-not-exist,.<>!@#$%^&*()_+
+/%00
+/metrics

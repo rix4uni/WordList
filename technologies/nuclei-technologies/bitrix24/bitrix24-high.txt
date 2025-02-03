@@ -1,0 +1,7 @@
+/.htaccess/тест/../..////////////////////////////bitrix//////////////////////////////virtual_file_system.php//////////////////////////////x/..
+/.git/HEAD/пистолетики/../../../
+/bitrix_server_test.php
+/bustest.php
+/s_test.php
+/server_test.php
+/server_test1.php

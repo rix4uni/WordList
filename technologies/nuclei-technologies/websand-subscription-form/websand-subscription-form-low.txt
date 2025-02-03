@@ -1,0 +1,1 @@
+/wp-content/plugins/websand-subscription-form/readme.txt

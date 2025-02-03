@@ -1,0 +1,1 @@
+/wp-content/plugins/epoll-wp-voting/readme.txt

@@ -1,0 +1,2 @@
+/i/?rid
+/i/?a=logs

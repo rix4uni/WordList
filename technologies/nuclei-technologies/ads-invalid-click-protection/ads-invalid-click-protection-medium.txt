@@ -1,0 +1,1 @@
+/wp-content/plugins/ads-invalid-click-protection/readme.txt

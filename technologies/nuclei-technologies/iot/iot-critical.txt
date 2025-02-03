@@ -5,3 +5,8 @@
 /html/setup.html
 /overview.asp
 /rootDesc.xml
+/web_shell_cmd.gch
+/portal/services/carQuery/getFaceCapture/searchJson/%7B%7D/pageJson/%7B%22orderBy%22:%221%20and%201=updatexml(1,concat(0x7e,(select%20md5(%27sycnb%27)),0x7e),1)--%22%7D/extend/%7B%7D
+/login?login={{username}}&password={{password}}
+/
+/update.php?jungle=id

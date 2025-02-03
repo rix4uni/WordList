@@ -1,0 +1,4 @@
+/components/statestore
+/overview
+/controlplane
+/api/v2.0/search?q=/

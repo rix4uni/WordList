@@ -1,0 +1,1 @@
+/wp-content/plugins/market-360-viewer/readme.txt

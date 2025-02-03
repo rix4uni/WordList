@@ -90,3 +90,6 @@
 /{{DN}}.{{EXT}}
 /{{SD}}.{{EXT}}
 /{{FILENAME}}.{{EXT}}
+{{dir}}{{filename}}.{{extension}}
+/config/settings.old.php
+{{paths}}

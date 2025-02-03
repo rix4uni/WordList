@@ -1,0 +1,1 @@
+/wp-content/plugins/bp-member-type-manager/readme.txt

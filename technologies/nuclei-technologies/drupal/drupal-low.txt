@@ -1,1 +1,2 @@
 /install.php?profile=default
+/core/install.php

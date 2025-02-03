@@ -1,0 +1,1 @@
+/wp-content/plugins/slivery-extender/readme.txt

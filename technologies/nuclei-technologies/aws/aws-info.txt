@@ -3,3 +3,5 @@
 /_dashboards/app/login
 /%c0
 /?torrent
+/*;jsessionid=*
+/no_op;jsessionid=*

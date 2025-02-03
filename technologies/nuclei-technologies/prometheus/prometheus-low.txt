@@ -1,3 +1,5 @@
 /prometheus
 /graph
 /actuator/prometheus
+/actuator/prometheus;%2f..%2f..%2f
+/metrics

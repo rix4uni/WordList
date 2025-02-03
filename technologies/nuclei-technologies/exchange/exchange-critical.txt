@@ -1,2 +1,3 @@
 /autodiscover/autodiscover.json?@test.com/owa/?&Email=autodiscover/autodiscover.json%3F@test.com
 /autodiscover/autodiscover.json?@test.com/mapi/nspi/?&Email=autodiscover/autodiscover.json%3F@test.com
+/autodiscover/autodiscover.json@Powershell.{{randstr}}.com/owa/

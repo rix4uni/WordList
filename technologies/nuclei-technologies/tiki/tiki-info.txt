@@ -1,0 +1,3 @@
+/
+/tiki-login_scr.php
+/tiki-login.php

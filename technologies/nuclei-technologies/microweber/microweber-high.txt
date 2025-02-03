@@ -1,2 +1,3 @@
 /api/users/search_authors
 /editor_tools/module?type=files/admin
+/api/logout?redirect_to=%0d%0aSet-Cookie:crlfinjection=1;

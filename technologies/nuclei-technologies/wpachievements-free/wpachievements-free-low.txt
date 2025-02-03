@@ -1,0 +1,1 @@
+/wp-content/plugins/wpachievements-free/readme.txt

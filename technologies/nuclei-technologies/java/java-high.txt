@@ -1,3 +1,4 @@
 /scheduler/ui/js/ffffffffbca41eb4/UIUtilJavaScriptJS?/..
 /ReportServer?op=fr_server&cmd=sc_getconnectioninfo
 /WebReport/ReportServer?op=fr_server&cmd=sc_getconnectioninfo
+/api/package/upload

@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-bookings-calendar/readme.txt

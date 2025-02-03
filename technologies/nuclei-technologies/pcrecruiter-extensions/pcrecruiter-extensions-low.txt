@@ -1,0 +1,1 @@
+/wp-content/plugins/pcrecruiter-extensions/readme.txt

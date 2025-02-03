@@ -1,0 +1,1 @@
+/officescan/console/html/cgi/cgiChkMasterPwd.exe

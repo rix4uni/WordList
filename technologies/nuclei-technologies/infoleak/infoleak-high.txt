@@ -1,0 +1,4 @@
+/portal/conf/config.properties
+/web/Report/Rpt/Config/Config.xml
+/actpt_5g.data
+/defaultroot/evoInterfaceServlet?paramType=user

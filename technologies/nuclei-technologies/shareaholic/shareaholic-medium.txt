@@ -1,1 +1,2 @@
 /wp-content/plugins/shareaholic/readme.txt
+/wp-admin/admin-ajax.php?action=shareaholic_debug_info

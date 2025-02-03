@@ -3,3 +3,4 @@
 /pods
 /runningpods/
 /stats/summary
+/

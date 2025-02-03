@@ -13,3 +13,5 @@
 /actuator/scheduledtasks
 /status
 /actuator/status
+/management
+/management/info

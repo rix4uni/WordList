@@ -1,0 +1,1 @@
+/wp-content/plugins/hide-category-by-user-role-for-woocommerce/readme.txt

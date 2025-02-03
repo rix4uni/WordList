@@ -5,3 +5,4 @@
 /service-discovery
 /prometheus
 /prometheus/prometheus
+/api/datasources/proxy/1/api/v1/query?query=114*514

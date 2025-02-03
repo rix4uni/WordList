@@ -1,0 +1,1 @@
+/wp-content/plugins/blizzard-quotes/readme.txt

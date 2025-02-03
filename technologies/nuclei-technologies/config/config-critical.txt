@@ -27,3 +27,4 @@
 /.env.{{SD}}
 /app_dev.php/_profiler/open?file=app/config/parameters.yml
 /.tugboat
+/_wpeprivate/config.json

@@ -4,3 +4,7 @@
 /anything_here
 /_debugbar/open?max=20&offset=0
 /?pp=env
+/_debugbar/open
+/admin_dev.php
+/index_dev.php
+/app_dev.php

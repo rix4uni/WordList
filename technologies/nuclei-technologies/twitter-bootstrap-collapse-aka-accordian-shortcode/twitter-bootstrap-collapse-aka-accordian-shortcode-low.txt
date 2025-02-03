@@ -1,0 +1,1 @@
+/wp-content/plugins/twitter-bootstrap-collapse-aka-accordian-shortcode/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/fruitcake-horsemanager/readme.txt

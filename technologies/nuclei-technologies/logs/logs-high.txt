@@ -1,3 +1,5 @@
 /darkstat/
 /storage/logs/laravel.log
 /_debugbar/open?max=20&offset=0
+/elmah
+/elmah.axd

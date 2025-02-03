@@ -1,0 +1,1 @@
+/wp-content/plugins/smart-blocks/readme.txt

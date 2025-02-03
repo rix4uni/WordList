@@ -14,3 +14,5 @@
 /config.js
 /setup/start
 /_fragment
+/config/env.js
+/config/runtime-env.js

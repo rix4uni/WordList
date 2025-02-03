@@ -1,3 +1,4 @@
 /Dockerrun.aws.json
 /.aws/config
 /_dashboards/app/login
+/index.html

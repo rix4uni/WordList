@@ -1,0 +1,4 @@
+/js/
+/assets/
+/static/
+/wp-content/

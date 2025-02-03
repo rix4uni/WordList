@@ -15,3 +15,8 @@
 /wp-content/themes/weekender/friend.php?id=MTA0&link=aHR0cHM6Ly9leGFtcGxlLmNvbQ==
 /wp-content/plugins/brandfolder/callback.php?wp_abspath=https://example.com/
 /?aiowpsec_do_log_out=1&after_logout=https://attacker.com
+/wp-content/themes/eatery/nav.php?-Menu-=https://interact.sh/
+/{{paths}}/debug.log
+/?aiowpsec_do_log_out=1&after_logout=https://interact.sh
+/wp-json/wp/v2/users/
+/?rest_route=/wp/v2/users/

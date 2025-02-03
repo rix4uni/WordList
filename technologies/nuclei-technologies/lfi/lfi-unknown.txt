@@ -1,0 +1,1 @@
+/?files=../admin&f=index.php

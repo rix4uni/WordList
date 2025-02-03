@@ -1,0 +1,1 @@
+/wp-content/plugins/geotagged-media/readme.txt

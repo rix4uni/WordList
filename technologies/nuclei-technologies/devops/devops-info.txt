@@ -49,3 +49,4 @@
 /.wget-hsts
 /wgetrc
 /.wgetrc
+/

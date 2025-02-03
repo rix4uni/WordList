@@ -6,3 +6,4 @@
 /sql.php
 /wp-content/plugins/adminer/adminer.php
 /admin.php
+/modules/sfkdbmanage/adminer.php

@@ -1,0 +1,1 @@
+/wp-content/plugins/moving-users/readme.txt

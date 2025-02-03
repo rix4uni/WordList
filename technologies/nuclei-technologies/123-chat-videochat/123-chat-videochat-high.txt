@@ -1,0 +1,1 @@
+/wp-content/plugins/123-chat-videochat/readme.txt

@@ -1,2 +1,3 @@
 /wp-content/plugins/backup/readme.txt
 /web/database/manager
+/api/v1/serverinfo

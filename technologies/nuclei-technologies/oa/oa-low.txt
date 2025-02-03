@@ -1,0 +1,1 @@
+/mobile/inc/get_contactlist.php?P=1&KWORD=%25&isuser_info=3

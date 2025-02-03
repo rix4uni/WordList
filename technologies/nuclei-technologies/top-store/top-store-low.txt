@@ -1,0 +1,1 @@
+/wp-content/themes/top-store/style.css

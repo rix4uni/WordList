@@ -10,3 +10,6 @@
 /..;/..;/host-manager/html;/
 /{{randstr}}/..;/manager/html
 /{{randstr}}/..;/host-manager/html
+/upload.jsp
+/Telerik.Web.UI.WebResource.axd?type=rau
+/RichWidgets/Popup_Upload.aspx

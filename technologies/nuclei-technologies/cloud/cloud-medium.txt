@@ -12,3 +12,4 @@
 /app/config/pimcore/google-api-private-key.json
 /pimcore/app/config/pimcore/google-api-private-key.json
 /login/?redirectTo=/tenant/e&service=</script><script>alert(document.domain)</script>
+/Citrix/teststoreAuth/SamlTest

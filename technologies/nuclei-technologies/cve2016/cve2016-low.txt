@@ -1,1 +1,2 @@
 /~user/%0D%0ASet-Cookie:crlfinjection
+/login

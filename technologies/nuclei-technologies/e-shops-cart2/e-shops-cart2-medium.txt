@@ -1,0 +1,1 @@
+/wp-content/plugins/e-shops-cart2/readme.txt

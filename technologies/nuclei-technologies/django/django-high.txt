@@ -5,3 +5,5 @@
 /django/settings.py
 /settings/settings.py
 /web/settings/settings.py
+/manage.py
+/{{app_name}}/settings.py

@@ -1,0 +1,1 @@
+/wp-content/plugins/greek-namedays-widget/readme.txt

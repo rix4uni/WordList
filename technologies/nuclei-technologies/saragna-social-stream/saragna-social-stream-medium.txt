@@ -1,0 +1,1 @@
+/wp-content/plugins/saragna-social-stream/readme.txt

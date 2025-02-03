@@ -1,0 +1,1 @@
+/wp-content/plugins/map-addons-for-elementor-waze-map/readme.txt

@@ -1,0 +1,2 @@
+/ruoyi/login
+/login

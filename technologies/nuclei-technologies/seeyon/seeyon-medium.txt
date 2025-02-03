@@ -2,3 +2,5 @@
 /yyoa/createMysql.jsp
 /yyoa/ext/createMysql.jsp
 /yyoa/ext/https/getSessionList.jsp?cmd=getAll
+/yyoa/assess/js/initDataAssess.jsp
+/seeyon/services/authorityService?wsdl

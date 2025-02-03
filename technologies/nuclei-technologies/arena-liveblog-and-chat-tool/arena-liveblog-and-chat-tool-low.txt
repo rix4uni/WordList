@@ -1,0 +1,1 @@
+/wp-content/plugins/arena-liveblog-and-chat-tool/readme.txt

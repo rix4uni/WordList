@@ -1,0 +1,1 @@
+/wp-content/plugins/compare-ninja-comparison-tables/readme.txt

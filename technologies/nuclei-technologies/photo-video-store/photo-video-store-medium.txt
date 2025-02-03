@@ -1,0 +1,1 @@
+/wp-content/plugins/photo-video-store/readme.txt

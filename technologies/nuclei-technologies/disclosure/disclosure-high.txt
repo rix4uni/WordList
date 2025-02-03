@@ -30,3 +30,9 @@
 /wp-config.php-backup
 /%c0
 /wt3/forceSave.php?file=/etc/passwd
+/modules/simpleimportproduct/send.php?phpinfo=1
+/modules/updateproducts/send.php?phpinfo=1
+/yyoa/createMysql.jsp
+/yyoa/ext/createMysql.jsp
+/js/../.htpasswd
+/webservices/WebUserLogin.asmx/GetUserInfoByUserID?userID=admin

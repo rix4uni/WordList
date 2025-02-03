@@ -1,0 +1,1 @@
+/wp-content/plugins/buooy-sticky-header/readme.txt

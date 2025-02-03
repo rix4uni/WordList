@@ -1,0 +1,4 @@
+/static/js/*.js
+/config*.json
+/token
+/.well-known/openid-configuration

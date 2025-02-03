@@ -1,0 +1,2 @@
+/verifyLogin
+/websites/submitWebsiteCreation

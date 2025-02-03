@@ -16,3 +16,7 @@
 /..;/examples/jsp/index.html
 /..;/examples/websocket/index.xhtml
 /?f=\[
+/manager/status
+/examples/
+/examples/servlets/servlet/SessionExample
+/..;/examples/servlets/servlet/SessionExample

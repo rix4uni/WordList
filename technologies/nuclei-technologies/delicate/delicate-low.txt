@@ -1,0 +1,1 @@
+/wp-content/themes/delicate/style.css

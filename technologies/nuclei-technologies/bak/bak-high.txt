@@ -1,0 +1,1 @@
+/bitrix/.settings.php.bak

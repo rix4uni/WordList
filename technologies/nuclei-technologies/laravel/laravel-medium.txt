@@ -6,3 +6,5 @@
 /_ignition/scripts/--><svg%20onload=alert(document.domain)>
 /telescope/requests
 /_ignition/scripts/--><svg%20onload=alert(1337)>
+///////this-should-not-exist,.<>!@#$%^&*()_+
+/%00

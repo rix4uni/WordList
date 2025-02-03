@@ -1,0 +1,1 @@
+/wp-content/plugins/apa-banner-slider/readme.txt

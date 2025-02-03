@@ -98,3 +98,5 @@
 /wp-content/plugins/wpforms-lite/readme.txt
 /wp-content/plugins/wps-hide-login/readme.txt
 /wp-content/plugins/yith-woocommerce-wishlist/readme.txt
+/wp-content/plugins/creame-whatsapp-me/readme.txt
+/wp-content/plugins/post-types-order/readme.txt

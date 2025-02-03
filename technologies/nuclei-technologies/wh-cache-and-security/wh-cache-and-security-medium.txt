@@ -1,0 +1,1 @@
+/wp-content/plugins/wh-cache-and-security/readme.txt

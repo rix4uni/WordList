@@ -1,0 +1,1 @@
+/wp-content/plugins/accept-authorize-net-payments-using-contact-form-7/readme.txt

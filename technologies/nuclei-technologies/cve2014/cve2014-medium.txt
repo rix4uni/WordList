@@ -34,3 +34,5 @@
 /wp-content/plugins/wp-planet/rss.class/scripts/magpie_debug.php?url=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /wp-content/plugins/wp–planet/rss.class/scripts/magpie_debug.php?url=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /remotereporter/load_logfiles.php?server=127.0.0.1&url=https://example.com/
+{{paths}}
+/wp-content/plugins/wp-easycart/inc/admin/phpinfo.php

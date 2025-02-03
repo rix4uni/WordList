@@ -1,1 +1,2 @@
 /centreon/index.php
+/

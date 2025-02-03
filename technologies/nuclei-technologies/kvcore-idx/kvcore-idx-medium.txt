@@ -1,0 +1,1 @@
+/wp-content/plugins/kvcore-idx/readme.txt

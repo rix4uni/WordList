@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-migrate-2-aws/readme.txt

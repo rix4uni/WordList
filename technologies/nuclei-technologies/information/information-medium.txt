@@ -1,1 +1,2 @@
 /yyoa/ext/https/getSessionList.jsp?cmd=getAll
+/{{author}}

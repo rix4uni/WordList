@@ -2,3 +2,5 @@
 /admin/init
 /documentation
 /documentation/login
+/admin/plugins/users-permissions/auth/login
+/

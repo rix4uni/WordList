@@ -18,3 +18,5 @@
 /am/json/serverinfo/*
 /openam/json/serverinfo/*
 /opensso/UI/Login
+{{paths}}
+/

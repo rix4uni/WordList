@@ -1,0 +1,1 @@
+/wp-content/plugins/property-hive-mortgage-calculator/readme.txt

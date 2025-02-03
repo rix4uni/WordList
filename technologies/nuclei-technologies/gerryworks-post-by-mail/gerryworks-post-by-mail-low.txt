@@ -1,0 +1,1 @@
+/wp-content/plugins/gerryworks-post-by-mail/readme.txt

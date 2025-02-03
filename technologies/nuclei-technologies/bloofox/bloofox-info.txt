@@ -1,1 +1,2 @@
 /admin/index.php
+/

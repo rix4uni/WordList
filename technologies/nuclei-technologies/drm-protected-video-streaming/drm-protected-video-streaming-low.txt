@@ -1,0 +1,1 @@
+/wp-content/plugins/drm-protected-video-streaming/readme.txt

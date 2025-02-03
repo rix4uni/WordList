@@ -1,0 +1,1 @@
+/wp-content/plugins/hb-audio-gallery/readme.txt

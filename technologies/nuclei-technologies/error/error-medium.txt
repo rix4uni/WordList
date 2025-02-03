@@ -1,1 +1,2 @@
 /__nuxt_error?stack=%0A<script>alert(document.domain)</script>
+/core/authorize.php

@@ -1,0 +1,1 @@
+/wp-content/plugins/lodgixcom-vacation-rental-listing-management-booking-plugin/readme.txt

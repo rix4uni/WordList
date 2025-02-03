@@ -1,1 +1,2 @@
 /wp-content/themes/sandbox/style.css
+/wp-content/plugins/sandbox/readme.txt

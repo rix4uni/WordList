@@ -1,0 +1,1 @@
+/wp-content/plugins/dashing-memberships/readme.txt

@@ -86,3 +86,7 @@
 /blog/wp/readme.html
 /wp-cli.yml
 /yarn.lock
+/certenroll/
+/CertEnroll/
+/artemis-portal/artemis/env
+{{paths}}

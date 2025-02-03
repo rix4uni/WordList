@@ -1,0 +1,1 @@
+/wp-content/plugins/skyboot-portfolio-gallery/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/ymc-states-map/readme.txt

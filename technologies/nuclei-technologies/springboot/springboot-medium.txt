@@ -16,3 +16,4 @@
 /jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVersion
 /gateway/routes
 /actuator/gateway/routes
+{{jolokia_paths}}{{mbean_paths}}

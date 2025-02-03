@@ -37,3 +37,5 @@
 /CF_SFSD/scripts/ajax/package/cfajax.js
 /cfide-scripts/ajax/package/cfajax.js
 /cfmx/CFIDE/scripts/ajax/package/cfajax.js
+/CFIDE/administrator/index.cfm
+/cfide/administrator/index.cfm

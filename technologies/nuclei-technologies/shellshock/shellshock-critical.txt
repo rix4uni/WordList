@@ -5,3 +5,4 @@
 /test.cgi
 /debug.cgi
 /cgi-bin/test-cgi
+{{paths}}

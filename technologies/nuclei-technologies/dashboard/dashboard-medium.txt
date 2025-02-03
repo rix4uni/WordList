@@ -3,3 +3,4 @@
 /horizon/api/stats
 /#dashboard
 /transmission/web/
+/slurm/

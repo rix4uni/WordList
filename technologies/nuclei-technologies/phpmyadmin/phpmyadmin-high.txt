@@ -11,3 +11,4 @@
 /admin/phpMyAdmin/server_import.php
 /phpmyadmin/index.php?db=information_schema
 /phpMyAdmin/index.php?db=information_schema
+{{paths}}

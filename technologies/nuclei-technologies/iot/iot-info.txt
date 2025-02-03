@@ -28,3 +28,5 @@
 /Solar_Menu.php
 /home.html
 /wt2parser.cgi?home_en
+/#
+/default.htm

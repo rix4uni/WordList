@@ -1,0 +1,1 @@
+/wp-content/plugins/mynx-page-builder/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/ts-comfort-database/readme.txt

@@ -1,3 +1,4 @@
 /.badarg.log
 /wp-content/uploads/affwp-debug.log
 /wp-content/debug.log
+/{{paths}}/debug.log

@@ -1,0 +1,1 @@
+/wp-content/plugins/conditional-extra-fees-for-woocommerce/readme.txt

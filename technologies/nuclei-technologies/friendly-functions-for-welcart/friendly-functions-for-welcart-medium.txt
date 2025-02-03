@@ -1,0 +1,1 @@
+/wp-content/plugins/friendly-functions-for-welcart/readme.txt

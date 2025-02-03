@@ -4,3 +4,6 @@
 /env.js
 /config.js
 /_fragment
+/status?full
+/config/env.js
+/config/runtime-env.js

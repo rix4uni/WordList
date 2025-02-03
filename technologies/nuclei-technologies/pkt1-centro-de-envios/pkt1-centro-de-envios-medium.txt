@@ -1,0 +1,1 @@
+/wp-content/plugins/pkt1-centro-de-envios/readme.txt

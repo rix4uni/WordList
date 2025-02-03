@@ -3,3 +3,4 @@
 /index.html
 /web/index.html
 /web/manifest.json
+/

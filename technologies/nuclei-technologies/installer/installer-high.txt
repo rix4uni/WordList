@@ -1,3 +1,8 @@
 /settings
 /secure/SetupMode!default.jspa
 /install/
+/install/index.php
+/install/install.php
+/sabnzbd/wizard/
+/wizard/
+/setup

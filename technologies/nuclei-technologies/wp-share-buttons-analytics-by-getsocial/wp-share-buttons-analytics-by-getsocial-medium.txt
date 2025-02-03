@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-share-buttons-analytics-by-getsocial/readme.txt

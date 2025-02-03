@@ -1,0 +1,1 @@
+/wp-content/plugins/official-saleswizard-crm/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/gmw-premium-settings/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/pie-register-premium/readme.txt

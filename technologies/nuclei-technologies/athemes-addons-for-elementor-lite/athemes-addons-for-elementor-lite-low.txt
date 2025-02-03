@@ -1,0 +1,1 @@
+/wp-content/plugins/athemes-addons-for-elementor-lite/readme.txt

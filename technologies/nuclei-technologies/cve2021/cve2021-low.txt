@@ -9,3 +9,4 @@
 /wp-admin/admin-ajax.php?action=heartbeat&admin_custom_language_toggle=1&admin_custom_language_return_url=https://example.com
 /sidekiq/queues/
 /auth/logout?continue=//example.com
+//example.com/%2f..

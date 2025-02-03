@@ -1,2 +1,4 @@
 /configWizard/keyUpload.jsp
 /remote/info
+/remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+/ems/cgi-bin/ezrf_upgrade_images.cgi?op_type=deleteprogressfile&progressfile={{url_encode(progressfile)}}

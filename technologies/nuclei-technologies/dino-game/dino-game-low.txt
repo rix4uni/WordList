@@ -1,0 +1,1 @@
+/wp-content/plugins/dino-game/readme.txt

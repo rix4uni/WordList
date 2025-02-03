@@ -125,3 +125,11 @@
 /cfide-scripts/ajax/package/cfajax.js
 /cfmx/CFIDE/scripts/ajax/package/cfajax.js
 /schema
+{{path}}
+/status.php
+/nc/status.php
+/oc/status.php
+/cloud/status.php
+/owncloud/status.php
+/Nextcloud/status.php
+/nextcloud/status.php

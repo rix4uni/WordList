@@ -1,1 +1,11 @@
 /umbraco
+/
+/umbraco/delivery/api/v1/content
+/umbraco/delivery/api/v2/content
+/umbraco/delivery/api/v1/media?fetch=children:/
+/umbraco/delivery/api/v2/media?fetch=children:/
+/umbraco/delivery/api/v1/content/item/site-settings
+/umbraco/delivery/api/v2/content/item/site-settings
+/umbraco/delivery/api/v1/content/item/settings
+/umbraco/delivery/api/v2/content/item/settings
+/umbraco/login

@@ -1,0 +1,1 @@
+/wp-content/plugins/sql-chart-builder/readme.txt

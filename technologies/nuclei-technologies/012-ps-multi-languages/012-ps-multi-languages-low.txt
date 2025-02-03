@@ -1,0 +1,1 @@
+/wp-content/plugins/012-ps-multi-languages/readme.txt

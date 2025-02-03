@@ -5,3 +5,4 @@
 /libraries/joomla/database/
 /htaccess.txt
 /administrator/
+/

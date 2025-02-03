@@ -1,0 +1,1 @@
+/wp-content/plugins/kopa-nictitate-toolkit/readme.txt

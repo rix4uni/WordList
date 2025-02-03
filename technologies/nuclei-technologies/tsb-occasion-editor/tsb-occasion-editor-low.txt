@@ -1,0 +1,1 @@
+/wp-content/plugins/tsb-occasion-editor/readme.txt

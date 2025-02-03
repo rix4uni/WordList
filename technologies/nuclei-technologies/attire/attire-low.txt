@@ -1,0 +1,1 @@
+/wp-content/themes/attire/style.css

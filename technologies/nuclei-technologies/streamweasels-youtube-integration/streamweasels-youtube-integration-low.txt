@@ -1,0 +1,1 @@
+/wp-content/plugins/streamweasels-youtube-integration/readme.txt

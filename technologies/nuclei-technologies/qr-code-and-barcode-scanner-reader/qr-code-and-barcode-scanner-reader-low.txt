@@ -1,0 +1,1 @@
+/wp-content/plugins/qr-code-and-barcode-scanner-reader/readme.txt

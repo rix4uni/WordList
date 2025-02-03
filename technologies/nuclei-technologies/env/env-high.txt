@@ -26,3 +26,5 @@
 /artemis/actuator/env
 /artemis;/env;
 /artemis/1/..;/env
+/bitrix/.settings.php.bak
+{{paths}}

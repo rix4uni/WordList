@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-bought-together/readme.txt

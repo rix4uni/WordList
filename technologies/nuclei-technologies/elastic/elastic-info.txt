@@ -1,0 +1,2 @@
+/login
+/app/kibana

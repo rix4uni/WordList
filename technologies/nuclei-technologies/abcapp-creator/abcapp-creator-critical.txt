@@ -1,0 +1,1 @@
+/wp-content/plugins/abcapp-creator/readme.txt

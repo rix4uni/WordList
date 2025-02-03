@@ -1,0 +1,1 @@
+/wp-content/plugins/tutor-lms-elementor-addons/readme.txt

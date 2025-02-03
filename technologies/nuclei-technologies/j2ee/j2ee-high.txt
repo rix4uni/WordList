@@ -12,3 +12,4 @@
 /../WEB-INF/web.xml
 /%c0%ae/WEB-INF/web.xml
 /en/WEB-INF/web.xml;.js
+{{paths}}

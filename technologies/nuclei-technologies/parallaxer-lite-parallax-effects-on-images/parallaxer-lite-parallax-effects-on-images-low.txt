@@ -1,0 +1,1 @@
+/wp-content/plugins/parallaxer-lite-parallax-effects-on-images/readme.txt

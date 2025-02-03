@@ -1,0 +1,1 @@
+/wp-content/plugins/better-follow-button-for-jetpack/readme.txt

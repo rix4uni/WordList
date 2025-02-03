@@ -1,0 +1,1 @@
+/wp-content/plugins/orbisius-simple-notice/readme.txt

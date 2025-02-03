@@ -11,3 +11,5 @@
 /sap/wdisp/admin/public/default.html
 /fiori
 /irj/portal/fiori
+/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?saml2=disabled
+/login

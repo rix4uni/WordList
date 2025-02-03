@@ -22,3 +22,11 @@
 /login.php/
 {{path}}/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
 {{path}}/index.php?redirect=true&meth=ajax
+/functions/scripts/find_full_subnets.php
+/usr/share/davical/htdocs/setup.php%3f
+/html/usr/share/davical/htdocs/setup.php%3f
+/usr/share/doc/websocketd/examples/php/dump-env.php%3f
+/html/usr/share/doc/websocketd/examples/php/dump-env.php%3f
+/{{paths}}/
+/.htdeployment
+/.deployment

@@ -1,1 +1,2 @@
 /core/config/databases.yml
+/uploads/

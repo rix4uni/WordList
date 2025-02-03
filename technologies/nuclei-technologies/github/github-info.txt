@@ -2,3 +2,4 @@
 /Gemfile
 /Gemfile.lock
 /_config.yml
+/saml/metadata

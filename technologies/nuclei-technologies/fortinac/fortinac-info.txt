@@ -1,1 +1,2 @@
 /WelcomeActions.jsp?action=ajaxGetWelcomeViewInfo
+/

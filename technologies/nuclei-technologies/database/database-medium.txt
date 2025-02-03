@@ -1,1 +1,2 @@
 /libraries/joomla/database/
+{{dir}}{{filename}}.{{extension}}

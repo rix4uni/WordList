@@ -1,0 +1,1 @@
+/wp-content/plugins/aweber-wp/readme.txt

@@ -4,3 +4,4 @@
 /env.test.js
 /env.dev.js
 /env.prod.js
+/__ENV.js

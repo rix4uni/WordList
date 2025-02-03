@@ -1,0 +1,1 @@
+/wp-content/plugins/news-ticker-widget-for-elementor/readme.txt

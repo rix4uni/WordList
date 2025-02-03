@@ -1,0 +1,1 @@
+/wp-content/plugins/extra-privacy-for-elementor/readme.txt

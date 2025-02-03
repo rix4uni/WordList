@@ -1,0 +1,1 @@
+/wp-content/plugins/advanced-what-should-we-write-about-next/readme.txt

@@ -2,3 +2,4 @@
 /assets/.gitignore
 /includes/.gitignore
 /uddiexplorer/
+/server/status

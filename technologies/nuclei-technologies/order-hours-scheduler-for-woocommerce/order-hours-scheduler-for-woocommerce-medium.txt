@@ -1,0 +1,1 @@
+/wp-content/plugins/order-hours-scheduler-for-woocommerce/readme.txt

@@ -33,3 +33,15 @@
 /%2e%2e/actuator/dump
 /..;/%2e/dump
 /..;/%2e/actuator/dump
+/datahub/admin/dump
+/..;/datahub/admin/dump
+/..;/datahub/admin/actuator/dump
+/datahub/actuator/dump
+/%2f/datahub/dump
+/%2f/datahub/actuator/dump
+/%2e/datahub/dump
+/%2e/datahub/actuator/dump
+/%2e%2e/datahub/dump
+/%2e%2e/datahub/actuator/dump
+/..;/%2e/datahub/dump
+/..;/%2e/datahub/actuator/dump

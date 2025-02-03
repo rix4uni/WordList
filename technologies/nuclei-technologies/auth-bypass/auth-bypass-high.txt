@@ -23,3 +23,12 @@
 /admin/group/x_group.php?id=1
 /scrm/crm/admin
 /lan.html
+/cms/admin/group/all
+/excel.php
+/pos-kasir-php/excel.php
+/Admin/Admin.aspx
+/res/../admin/diagnostic.jsp
+/.well-known/acme-challenge/../../admin/diagnostic.jsp
+/update/../admin/diagnostic.jsp
+/position.js
+/API/V1/credentials

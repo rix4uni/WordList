@@ -4,3 +4,7 @@
 /op/generate.aspx
 /op/wrongfiletype.htm
 /Reports/Pages/Folder.aspx
+/autodiscover/autodiscover.json?Protocol=ActiveSync&Email=user@domain.tld&RedirectCount=1
+/EWS/Exchange.asmx
+/owa/service.svc
+/RDWeb/

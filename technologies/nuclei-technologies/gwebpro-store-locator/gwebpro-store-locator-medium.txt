@@ -1,0 +1,1 @@
+/wp-content/plugins/gwebpro-store-locator/readme.txt

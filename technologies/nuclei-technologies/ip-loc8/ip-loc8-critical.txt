@@ -1,0 +1,1 @@
+/wp-content/plugins/ip-loc8/readme.txt

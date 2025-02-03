@@ -1,0 +1,1 @@
+/wp-content/plugins/clickbank-storefront/readme.txt

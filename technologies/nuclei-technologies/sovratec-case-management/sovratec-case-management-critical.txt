@@ -1,0 +1,1 @@
+/wp-content/plugins/sovratec-case-management/readme.txt

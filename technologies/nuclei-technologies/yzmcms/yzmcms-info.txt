@@ -1,1 +1,2 @@
 /admin/index/login.html
+/

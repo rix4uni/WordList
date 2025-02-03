@@ -1,0 +1,1 @@
+/wp-content/plugins/guild-armory-roster/readme.txt

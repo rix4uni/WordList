@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-mathjax-plus/readme.txt

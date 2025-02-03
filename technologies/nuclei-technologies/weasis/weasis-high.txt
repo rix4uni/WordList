@@ -1,0 +1,1 @@
+/weasis-core/persistence.properties

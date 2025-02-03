@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-one-click-upsell-funnel/readme.txt

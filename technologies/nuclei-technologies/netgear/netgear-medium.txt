@@ -1,2 +1,3 @@
 /scgi-bin/platform.cgi?page=portalLogin.htm&portal=SSLVPN
 /rootDesc.xml
+/downloadFile.php?file=config

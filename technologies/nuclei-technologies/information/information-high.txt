@@ -1,0 +1,5 @@
+/wp-content/plugins/gutenberg/readme.txt
+/wp-login.php
+/wp-admin/
+/login/
+/admin/

@@ -1,0 +1,1 @@
+/wp-content/plugins/shockingly-big-ie6-warning/readme.txt

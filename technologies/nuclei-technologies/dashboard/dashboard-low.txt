@@ -1,2 +1,3 @@
 /ganglia/
 /slurm/
+/sap/admin/public/index.html

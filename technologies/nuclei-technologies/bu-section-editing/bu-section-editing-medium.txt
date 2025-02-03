@@ -1,0 +1,1 @@
+/wp-content/plugins/bu-section-editing/readme.txt

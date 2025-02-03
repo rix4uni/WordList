@@ -1,0 +1,2 @@
+/terminals/1
+/terminals/2

@@ -1,3 +1,5 @@
 /nuxeo/login.jsp/pwn${31333333330+7}.xhtml
 /api/system/deviceinfo
 /audit/gui_detail_view.php?token=1&id=%5C&uid=%2Cchr(97))%20or%201:%20print%20chr(121)%2bchr(101)%2bchr(115)%0d%0a%23&login=shterm
+/setup/setup-s/%u002e%u002e/%u002e%u002e/log.jsp
+/?gf_page=randomstring

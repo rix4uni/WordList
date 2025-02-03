@@ -15,3 +15,6 @@
 /web/phpmyadmin/scripts/setup.php
 /xampp/phpmyadmin/scripts/setup.php
 /sysadmin/phpMyAdmin/scripts/setup.php
+/portal/
+/{{rand_base(10)}}/
+/Microsoft-Server-ActiveSync/

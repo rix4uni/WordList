@@ -33,3 +33,7 @@
 /SSI/Auth/ip_snmp.htm
 /hp/device/webAccess/index.htm?content=security
 /wt3/forceSave.php?file=/etc/passwd
+/psiBackupInfo
+/adminpasswd.cgi
+/lang/log/httpd.log
+/portal/conf/config.properties

@@ -1,0 +1,2 @@
+/?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
+/blog/?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=

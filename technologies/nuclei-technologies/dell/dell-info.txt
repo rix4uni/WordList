@@ -4,3 +4,4 @@
 /sysmgmt/2015/bmc/info
 /config/authentication_page.htm
 /ccm-web/
+/restgui/start.html

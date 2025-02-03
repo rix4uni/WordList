@@ -1,1 +1,2 @@
 /web/login
+/web/database/selector/

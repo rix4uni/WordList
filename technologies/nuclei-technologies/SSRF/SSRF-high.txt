@@ -1,0 +1,2 @@
+/docpicker/internal_proxy/https/{{interactsh-url}}
+/docpicker/internal_proxy/http/{{interactsh-url}}

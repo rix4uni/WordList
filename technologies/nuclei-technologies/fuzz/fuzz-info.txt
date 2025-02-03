@@ -170,3 +170,4 @@
 /api/views/search/metadata
 /api/views/search/sync
 /api/users
+{{path}}

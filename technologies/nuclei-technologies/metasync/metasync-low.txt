@@ -1,0 +1,1 @@
+/wp-content/plugins/metasync/readme.txt

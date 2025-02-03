@@ -1,0 +1,1 @@
+/wp-content/plugins/seo-blogger-to-wordpress-301-redirector/readme.txt

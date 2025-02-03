@@ -19,3 +19,6 @@
 /ws/v1/cluster/apps/new-application
 /server-status
 /cluster/cluster
+/ssi/printenv.shtml?%3Cscript%3Ealert(%27xss%27)%3C/script%3E
+/Wiki.jsp?page=SystemInfo
+/server-info

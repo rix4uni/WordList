@@ -27,3 +27,13 @@
 /perl-status
 /solr/
 /ui/clusters/kafka-ui/brokers
+/examples/jsp/snp/snoop.jsp;<script>alert(document.domain)</script>test.jsp
+/lui/
+/hub/
+/index.action?redirect:http://www.interact.sh/
+/solr/admin/metrics
+/usr/share/davical/htdocs/setup.php%3f
+/html/usr/share/davical/htdocs/setup.php%3f
+/usr/share/doc/websocketd/examples/php/dump-env.php%3f
+/html/usr/share/doc/websocketd/examples/php/dump-env.php%3f
+/appconfigs

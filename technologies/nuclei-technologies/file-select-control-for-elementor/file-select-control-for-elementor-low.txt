@@ -1,0 +1,1 @@
+/wp-content/plugins/file-select-control-for-elementor/readme.txt

@@ -1,1 +1,4 @@
 /index.php?q=file:///etc/passwd
+/weasis-core/persistence.properties
+/{{basket}}
+{{basket}}

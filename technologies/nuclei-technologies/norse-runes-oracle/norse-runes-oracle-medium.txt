@@ -1,0 +1,1 @@
+/wp-content/plugins/norse-runes-oracle/readme.txt

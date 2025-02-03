@@ -1,2 +1,8 @@
 /filr/login
 /ssf/s/portalLogin
+/nps/servlet/portalservice
+/nds
+/_LOGIN_SERVER_
+/login
+/welcome/
+/qcbin/

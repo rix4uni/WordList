@@ -1,0 +1,12 @@
+/extranet/js_personal/jszip.min.js
+/wp-activate.php
+/wp-admin/install.php
+/wp-includes/js/jquery/jquery-migrate.min.js
+/wp-includes/js/jquery/jquery.min.js
+/wp-includes/js/jquery/jquery.js
+/license.txt
+/wp-mail.php
+/readme.html
+/wp-links-opml.php
+/?feed=rss2
+?feed=comments-rss2

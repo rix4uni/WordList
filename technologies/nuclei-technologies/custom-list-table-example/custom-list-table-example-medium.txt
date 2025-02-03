@@ -1,0 +1,1 @@
+/wp-content/plugins/custom-list-table-example/readme.txt

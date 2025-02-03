@@ -1,0 +1,1 @@
+/wp-content/plugins/perfect-font-awesome-integration/readme.txt

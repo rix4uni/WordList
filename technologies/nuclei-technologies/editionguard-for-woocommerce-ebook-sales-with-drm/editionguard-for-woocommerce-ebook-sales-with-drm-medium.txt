@@ -1,0 +1,1 @@
+/wp-content/plugins/editionguard-for-woocommerce-ebook-sales-with-drm/readme.txt

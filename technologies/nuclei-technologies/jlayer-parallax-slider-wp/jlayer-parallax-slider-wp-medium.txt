@@ -1,0 +1,1 @@
+/wp-content/plugins/jlayer-parallax-slider-wp/readme.txt

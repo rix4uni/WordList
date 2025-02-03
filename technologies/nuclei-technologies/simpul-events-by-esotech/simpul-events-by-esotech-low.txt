@@ -1,0 +1,1 @@
+/wp-content/plugins/simpul-events-by-esotech/readme.txt

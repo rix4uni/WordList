@@ -1,3 +1,5 @@
 /components/statestore
 /overview
 /controlplane
+/#!/printer/Prusa_I3/print
+/#/dashboards

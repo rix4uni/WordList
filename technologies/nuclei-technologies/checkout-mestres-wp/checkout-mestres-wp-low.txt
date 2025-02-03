@@ -1,0 +1,1 @@
+/wp-content/plugins/checkout-mestres-wp/readme.txt

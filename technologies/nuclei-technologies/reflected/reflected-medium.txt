@@ -1,0 +1,111 @@
+/search?q=<script>alert(
+/search?q=<img src=x onerror=alert(
+/search?q=<svg onload=alert(
+/search?query=<script>alert(
+/search?query=<img src=x onerror=alert(
+/search?query=<svg onload=alert(
+/query?input=<script>alert(
+/query?input=<img src=x onerror=alert(
+/query?input=<svg onload=alert(
+/test?param=<script>alert(
+/test?param=<img src=x onerror=alert(
+/test?param=<svg onload=alert(
+/search.php?searchString=<script>alert(
+/api/search?q=<script>alert(
+/api/search?q=<img src=x onerror=alert(
+/api/search?q=<svg onload=alert(
+/api/query?input=<script>alert(
+/api/query?input=<img src=x onerror=alert(
+/api/query?input=<svg onload=alert(
+/search/index.php?query=<script>alert(
+/search/index.php?query=<img src=x onerror=alert(
+/search/index.php?query=<svg onload=alert(
+/dat/search?input=<script>alert(
+/data/search?input=<img src=x onerror=alert(
+/data/search?input=<svg onload=alert(
+/catalog?search=<script>alert(
+/catalog?search=<img src=x onerror=alert(
+/catalog?search=<svg onload=alert(
+/products?query=<script>alert(
+/products?query=<img src=x onerror=alert
+/products?query=<svg onload=alert(
+/items?search=<script>alert(
+/items?search=<img src=x onerror=alert(
+/items?search=<svg onload=aler(
+/list?query=<script>alert(
+/list?query=<img src=x onerror=alert(
+/list?query=<svg onload=alert(
+/login?username=<script>alert(
+/login?username=<img src=x onerror=alert(
+/login?username=<svg onload=alert(
+/signin?user=<script>alert(
+/signin?user=<img src=x onerrr=alert(
+/signin?user=<svg onload=alert(
+/signup?email=<script>alert(
+/signup?email=<img src=x onerror=alert(
+/signup?email=<svg onloadalert(
+/register?email=<script>alert(
+/register?email=<img src=x onerror=alert(
+/register?email=<svg onload=alert(
+/subscribe?email=<scipt>alert(
+/subscribe?email=<img src=x onerror=alert(
+/subscribe?email=<svg onload=alert(
+/comment?text=<script>alert(
+/commenttext=<img src=x onerror=alert(
+/comment?text=<svg onload=alert(
+/post?message=<script>alert(
+/post?message=<img src=x onerror=alert(
+/post?message=<svg onload=alert(
+/feedback?content=<script>alert(
+/feedback?content=<img src=x onerror=alert(
+/feedback?content=<svg onload=alert(
+/report?description=<script>alert(
+/report?description=<img src=x onerror=alert(
+/report?description=<svg onload=alert(
+/contact?message=<script>alrt(
+/contact?message=<img src=x onerror=alert(
+/contact?message=<svg onload=alert(
+/inquiry?details=<script>alert(
+/inquiry?detils=<img src=x onerror=alert(
+/inquiry?details=<svg onload=alert(
+/request?info=<script>alert(
+/request?info=<img src=x onerror=alert(
+request?info=<svg onload=alert(
+/message?text=<script>alert(
+/message?text=<img src=x onerror=alert(
+/message?text=<svg onload=alert(
+/otes?content=<script>alert(
+/notes?content=<img src=x onerror=alert(
+/notes?content=<svg onload=alert(
+/update?info=<script>alert(
+/update?info=<img src=x onerror=alert(
+/update?info=<svg onload=alert(
+/user/search?name=<script>alert(
+/user/search?name=<img src=x onerror=alert(
+/user/search?name=<svg onload=alert(
+/profile/search?name=<script>alert(
+/profile/search?name=<img src=x onerror=alert(
+/profile/search?name=<svg onoad=alert(
+/account/search?user=<script>alert(
+/account/search?user=<img src=x onerror=alert(
+/account/search?user=<svg onload=alert(
+/ashboard/search?term=<script>alert(
+/dashboard/search?term=<img src=x onerror=alert(
+/dashboard/search?term=<svg onload=alert(
+/admin/search?query=<script>alert(
+/admin/search?query=<img src=x onerror=alert(
+/admin/search?query=<svg onload=alert(
+/portal/search?keyword=<script>alert(
+/porta/search?keyword=<img src=x onerror=alert(
+/portal/search?keyword=<svg onload=alert(
+/services/search?query=<script>alert(
+/services/search?query=<img src=x onerroralert(
+/services/search?query=<svg onload=alert(
+/search.php?query=<script>alert(
+/search.php?query=<img src=x onerror=alert(
+/search.php?query=<svg onload=alert(
+/search.php?searchString=<img src=x onerror=alert(
+/search.php?searchString=<svg onload=alert(
+/index.php?searchString=<script>alert(
+/index.php?searchString=<img src=x onerror=alert(
+/index.php?searchString=<svg onload=alert(

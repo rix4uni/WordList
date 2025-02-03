@@ -1,1 +1,2 @@
 /server-common/cgi-bin/login
+/portal/

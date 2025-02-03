@@ -1,0 +1,1 @@
+/wp-content/plugins/enable-shortcodes-inside-widgetscomments-and-experts/readme.txt

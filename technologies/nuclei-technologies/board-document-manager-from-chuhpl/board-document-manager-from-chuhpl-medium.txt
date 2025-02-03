@@ -1,0 +1,1 @@
+/wp-content/plugins/board-document-manager-from-chuhpl/readme.txt

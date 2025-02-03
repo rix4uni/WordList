@@ -1,2 +1,3 @@
 /apc/apc.php
 /apc.php
+/wp-content/plugins/service/readme.txt

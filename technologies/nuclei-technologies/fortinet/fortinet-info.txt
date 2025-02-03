@@ -7,3 +7,7 @@
 /login?redir=/ng
 /auth/login
 /index.html
+/gui/login
+/api/v1
+/signin
+/wlm/login?next=/wlm

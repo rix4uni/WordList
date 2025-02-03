@@ -99,3 +99,9 @@
 /wp-content/themes/Grimag/go.php?https://interact.sh
 /wp-content/themes/prostore/go.php?https://interact.sh/
 /?aiowpsec_do_log_out=1&after_logout=https://attacker.com
+/login
+/?redirect=/\example.com
+/index.php?c=weixin&m=sync&url=http://example.com
+//example.com/%2f..
+/wp-content/themes/eatery/nav.php?-Menu-=https://interact.sh/
+/?aiowpsec_do_log_out=1&after_logout=https://interact.sh

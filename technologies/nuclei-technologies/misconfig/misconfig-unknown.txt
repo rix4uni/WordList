@@ -14,3 +14,6 @@
 /setup/start
 /struts/webconsole.html?debug=console
 /_fragment
+/cdn-cgi/image/width=1000,format=auto/https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg
+/status?full
+/keyinfo.html

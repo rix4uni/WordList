@@ -1,0 +1,1 @@
+/wp-content/plugins/pta-member-directory/readme.txt

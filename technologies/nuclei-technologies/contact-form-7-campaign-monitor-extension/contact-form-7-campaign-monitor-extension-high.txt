@@ -1,0 +1,1 @@
+/wp-content/plugins/contact-form-7-campaign-monitor-extension/readme.txt

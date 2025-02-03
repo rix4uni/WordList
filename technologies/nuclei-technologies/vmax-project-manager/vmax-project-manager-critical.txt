@@ -1,0 +1,1 @@
+/wp-content/plugins/vmax-project-manager/readme.txt

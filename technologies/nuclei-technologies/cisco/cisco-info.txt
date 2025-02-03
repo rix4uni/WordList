@@ -14,3 +14,7 @@
 /CACHE/sdesktop/install/start.htm
 /pages/sdcall/Login.jsp
 /webvpn.html
+/
+/ui/login
+/cuadmin/home.do
+/admin/

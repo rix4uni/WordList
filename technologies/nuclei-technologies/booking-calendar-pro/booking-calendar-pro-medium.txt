@@ -1,0 +1,1 @@
+/wp-content/plugins/booking-calendar-pro/readme.txt

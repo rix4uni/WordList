@@ -1,0 +1,1 @@
+/wp-content/plugins/strx-magic-floating-sidebar-maker/readme.txt

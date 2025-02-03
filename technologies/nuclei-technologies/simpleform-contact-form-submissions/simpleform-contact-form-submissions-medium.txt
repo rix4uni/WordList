@@ -1,0 +1,1 @@
+/wp-content/plugins/simpleform-contact-form-submissions/readme.txt

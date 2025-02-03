@@ -70,3 +70,4 @@
 /vite.config.js
 /ws_ftp.ini
 /cgi-bin/printenv.pl
+{{paths}}

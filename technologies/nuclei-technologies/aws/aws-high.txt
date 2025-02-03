@@ -1,3 +1,8 @@
 /.aws/credentials
 /wp-config.php-backup
 /%c0
+/static/js/*.js
+/config*.json
+/token
+/.well-known/openid-configuration
+/tox.ini

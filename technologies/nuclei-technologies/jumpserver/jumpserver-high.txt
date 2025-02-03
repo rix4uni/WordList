@@ -1,1 +1,3 @@
 /api/v1/terminal/sessions/
+/api/v1/terminal/sessions/?limit=1
+/api/v1/terminal/sessions/?limit=10

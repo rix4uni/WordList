@@ -6,3 +6,7 @@
 /sap/public/info
 /sap/public/bc/icf/logoff?redirecturl=https://example.com
 /sap/public/bc/icf/logoff?redirecturl=https://interact.sh
+/index.php/video/?dl=L2V0Yy9wYXNzd2Q=
+/api/sso/v2/sso/jwt?goto=https://rdf.pwn
+/api/sso/v2/sso/jwt?error_url=https://rdf.pwn
+/widgets/experience?destination_url=https://rdf.pwn

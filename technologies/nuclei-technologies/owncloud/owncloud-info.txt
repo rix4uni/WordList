@@ -1,1 +1,7 @@
 /status.php
+/nc/status.php
+/oc/status.php
+/cloud/status.php
+/owncloud/status.php
+/Nextcloud/status.php
+/nextcloud/status.php

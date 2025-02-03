@@ -9,3 +9,6 @@
 /.phpspec.yml
 /phpspec.yml
 /dashboard/
+/composer
+/phpmyadmin/doc/html/index.html
+/doc/html/index.html

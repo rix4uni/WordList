@@ -1,0 +1,1 @@
+/wp-content/plugins/fancy-roller-scroller/readme.txt

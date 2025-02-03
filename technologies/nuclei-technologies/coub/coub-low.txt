@@ -1,0 +1,1 @@
+/wp-content/plugins/coub/readme.txt

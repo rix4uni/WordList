@@ -1,0 +1,1 @@
+/wp-content/plugins/buy-one-click-woocommerce/readme.txt

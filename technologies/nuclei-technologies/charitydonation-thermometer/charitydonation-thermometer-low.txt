@@ -1,0 +1,1 @@
+/wp-content/plugins/charitydonation-thermometer/readme.txt

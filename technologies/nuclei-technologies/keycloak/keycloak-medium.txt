@@ -4,3 +4,16 @@
 /realms/master/clients-registrations/default
 /realms/master/clients-registrations/openid-connect
 /auth/realms/master/protocol/openid-connect/auth?client_id=&redirect_uri=http%3A%2F%2Finteract.sh&state=72526a4b-d5b6-4424-90db-cc0f7c2001a7&response_mode=fragment&response_type=code&scope=openid&nonce=33e890be-c19f-463f-bd0e-7fdcd065c0fb
+/auth/realms/master/clients-registrations/default/security-admin-console
+/auth/realms/master
+/auth/realms/master/
+/auth/admin/master/console/
+/auth/realms/master/account
+/realms/master
+/realms/master/
+/admin/master/console/
+/realms/master/account
+/auth-cluster/realms/master
+/auth-cluster/realms/master/
+/auth-cluster/admin/master/console/
+/auth-cluster/realms/master/account

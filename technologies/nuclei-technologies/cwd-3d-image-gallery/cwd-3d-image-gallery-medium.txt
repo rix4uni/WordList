@@ -1,0 +1,1 @@
+/wp-content/plugins/cwd-3d-image-gallery/readme.txt

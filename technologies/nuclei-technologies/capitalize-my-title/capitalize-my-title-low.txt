@@ -1,0 +1,1 @@
+/wp-content/plugins/capitalize-my-title/readme.txt

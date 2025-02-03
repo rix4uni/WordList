@@ -1,0 +1,1 @@
+/wp-content/plugins/void-visual-whmcs-element/readme.txt

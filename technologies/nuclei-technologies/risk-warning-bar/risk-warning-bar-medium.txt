@@ -1,0 +1,1 @@
+/wp-content/plugins/risk-warning-bar/readme.txt

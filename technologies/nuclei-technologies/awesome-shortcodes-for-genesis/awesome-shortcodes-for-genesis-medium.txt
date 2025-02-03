@@ -1,0 +1,1 @@
+/wp-content/plugins/awesome-shortcodes-for-genesis/readme.txt

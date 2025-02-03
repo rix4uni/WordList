@@ -16,3 +16,4 @@
 /latest/samples/old/replacebyclass.html
 /Content/ckeditor/samples/old/replacebyclass.html
 /ckeditor/samples/plugins/htmlwriter/outputhtml.html
+{{paths}}

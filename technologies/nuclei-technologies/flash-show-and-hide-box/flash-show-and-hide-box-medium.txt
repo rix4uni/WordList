@@ -1,0 +1,1 @@
+/wp-content/plugins/flash-show-and-hide-box/readme.txt

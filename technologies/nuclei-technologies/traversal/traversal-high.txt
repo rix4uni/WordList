@@ -35,3 +35,5 @@
 /appmonitor/protected/selector/server_file/files?folder=/&suffix=
 /logs/downloadMainLog?fname=../../../../../../..//etc/passwd
 /logs/downloadMainLog?fname=../../../../../../..///config/MPXnode/www/appConfig/userDB.json
+/installed_emanual_list.html
+/blog/.env

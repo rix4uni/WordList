@@ -1,0 +1,1 @@
+/wp-content/plugins/sw-contact-form/readme.txt

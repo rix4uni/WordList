@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-baidu-map/readme.txt

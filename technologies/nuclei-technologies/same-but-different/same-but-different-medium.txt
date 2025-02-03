@@ -1,0 +1,1 @@
+/wp-content/plugins/same-but-different/readme.txt

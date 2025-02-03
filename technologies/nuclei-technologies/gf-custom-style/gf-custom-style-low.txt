@@ -1,0 +1,1 @@
+/wp-content/plugins/gf-custom-style/readme.txt

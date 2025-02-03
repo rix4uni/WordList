@@ -1,0 +1,1 @@
+/wp-content/plugins/unique-ux/readme.txt

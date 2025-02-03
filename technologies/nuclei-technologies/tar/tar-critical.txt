@@ -1,0 +1,2 @@
+/ssl-vpn/hipreport.esp
+/global-protect/portal/js/jquery.{{RandomString}}.js

@@ -103,3 +103,6 @@
 /%5c%27%22%20teste=efx-URI
 /%27%22>%27%22%20teste=efx-URI
 /JyIgdGVzdGU9ZWZ4LQ==
+?protocol=efxtech.com&domain=efxtech.com&subdomain=efxtech.com&host=efxtech.com&pageurl=efxtech.com&url=efxtech.com
+?protocol=/%5cefxtech.com&domain=/%5cefxtech.com&subdomain=/%5cefxtech.com&host=/%5cefxtech.com&pageurl=/%5cefxtech.com&url=/%5cefxtech.com
+/?{{xss_param}}

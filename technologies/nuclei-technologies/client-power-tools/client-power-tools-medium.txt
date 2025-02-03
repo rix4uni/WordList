@@ -1,0 +1,1 @@
+/wp-content/plugins/client-power-tools/readme.txt

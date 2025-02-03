@@ -1,0 +1,1 @@
+/wp-content/plugins/yaad-sarig-payment-gateway-for-wc/readme.txt

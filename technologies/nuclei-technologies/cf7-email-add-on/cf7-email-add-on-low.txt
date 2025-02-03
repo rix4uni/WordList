@@ -1,0 +1,1 @@
+/wp-content/plugins/cf7-email-add-on/readme.txt

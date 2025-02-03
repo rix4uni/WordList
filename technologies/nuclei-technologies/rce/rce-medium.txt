@@ -81,3 +81,16 @@
 /info
 /actuator/info
 /logfile
+/?p={{post_id}}&0=echo+{{base64(string)}}|base64+-d
+/?p={{post_id}}&0=type+C:\\windows\\win.ini
+/?p={{post_id}}&0=type+..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini
+/admin/login
+/admin/upgrade
+/exploit.php
+/cf_scripts/scripts/ajax/package/cfajax.js
+/cf-scripts/scripts/ajax/package/cfajax.js
+/CFIDE/scripts/ajax/package/cfajax.js
+/cfide/scripts/ajax/package/cfajax.js
+/CF_SFSD/scripts/ajax/package/cfajax.js
+/cfide-scripts/ajax/package/cfajax.js
+/cfmx/CFIDE/scripts/ajax/package/cfajax.js

@@ -1,1 +1,2 @@
 /solr/
+/solr/admin/metrics

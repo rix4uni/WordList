@@ -1,0 +1,1 @@
+/wp-content/plugins/rich-web-share-button/readme.txt

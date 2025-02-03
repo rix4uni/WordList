@@ -1,0 +1,1 @@
+/wp-content/themes/th-shop-mania/style.css

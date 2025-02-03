@@ -27,3 +27,4 @@
 /application/logs/default.log
 /error_log.txt
 /php_errors.log
+{{paths}}

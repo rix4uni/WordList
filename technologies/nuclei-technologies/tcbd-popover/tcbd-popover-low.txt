@@ -1,0 +1,1 @@
+/wp-content/plugins/tcbd-popover/readme.txt

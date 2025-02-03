@@ -1,2 +1,5 @@
 /behat.yml
 /behat.yml.dist
+/.gitlab-ci.yml
+/gitlab-ci.yml
+/.gitlab-ci/variables.yml

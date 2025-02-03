@@ -1,0 +1,1 @@
+/wp-content/plugins/import-users-to-mailchimp/readme.txt

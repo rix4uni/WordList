@@ -1,2 +1,6 @@
 /my.policy
 /mgmt/shared/authn/login
+/pre/config.php?version=2.0
+/pre/config.php?version=3.0
+/tmui/login.jsp
+/gui/login

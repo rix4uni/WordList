@@ -1,3 +1,4 @@
 /wp-content/plugins/elementor/readme.txt
 /wp-content/plugins/elementor/assets/js/frontend.min.js
 /#elementor-action:action=lightbox&settings=eyJ0eXBlIjoibnVsbCIsImh0bWwiOiI8c2NyaXB0PmFsZXJ0KCd4c3MnKTwvc2NyaXB0PiJ9
+/#elementor-action:action=lightbox&settings=eyJ0eXBlIjoidmlkZW8iLCJ1cmwiOiJodHRwOi8vIiwidmlkZW9UeXBlIjoiaG9zdGVkIiwidmlkZW9QYXJhbXMiOnsib25lcnJvciI6ImFsZXJ0KGRvY3VtZW50LmRvbWFpbikifX0=

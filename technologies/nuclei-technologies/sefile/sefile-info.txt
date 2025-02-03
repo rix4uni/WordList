@@ -1,1 +1,2 @@
 /accounts/login/
+/media/favicons/favicon.png

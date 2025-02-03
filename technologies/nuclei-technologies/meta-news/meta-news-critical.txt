@@ -1,0 +1,1 @@
+/wp-content/themes/meta-news/style.css

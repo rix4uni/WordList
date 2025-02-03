@@ -15,3 +15,7 @@
 /api/system
 /cgi-bin/log.cgi
 /seeyon/personalBind.do.jpg/..;/ajax.do?method=ajaxAction&managerName=mMOneProfileManager&managerMethod=getOAProfile
+/cgi-bin/info.cgi
+/_cluster/health?pretty
+/_/resize:fill:10:10:0/gravity:sm/plain/{{img_url}}
+/cap.js

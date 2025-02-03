@@ -1,2 +1,7 @@
 /admin/setup-wizard
 /admin
+/setup/setup-s/%u002e%u002e/%u002e%u002e/log.jsp
+/wp-login.php
+/wp-admin/
+/login/
+/admin/

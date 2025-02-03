@@ -14,3 +14,12 @@
 /welcome_webcenter.html
 /console/login/LoginForm.jsp
 /uddiexplorer/
+/oam/pages/login.jsp
+/em/console/ias/oc4j/home
+/atg/user/html/login.jsp
+/analytics/saw.dll?bieehome&startPage=1
+/analytics/saw.dll?Dashboard
+/OA_HTML/AppsLogin
+/{{path}}
+:7001/console/login/LoginForm.jsp
+:7002/console/login/LoginForm.jsp

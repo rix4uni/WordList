@@ -18,3 +18,17 @@
 /intikal/storage/
 /elocker_old/storage/
 /wp-content/uploads/mc4wp-debug.log
+/roundcube/logs/sendmail
+/roundcube/logs/errors.log
+/roundcube/logs/errors
+/webmail/logs/sendmail
+/webmail/logs/errors.log
+/webmail/logs/errors
+/mail/logs/sendmail
+/mail/logs/errors.log
+/mail/logs/errors
+/logs/sendmail
+/logs/errors.log
+/logs/errors
+/tcpconfig.html
+/files/ldap.debug.txt

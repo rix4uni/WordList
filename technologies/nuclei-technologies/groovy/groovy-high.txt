@@ -1,0 +1,10 @@
+/bin/groovyconsole/post.servlet
+/aem/bin/groovyconsole/post.servlet
+/app/bin/groovyconsole/post.servlet
+/../../../../groovyconsole/post.servlet
+/etc/bin/groovyconsole/post.servlet
+%2fbin%2fgroovyconsole%2fpost.servlet
+%2faem%2fbin%2fgroovyconsole%2fpost.servlet
+%2fapp%2fbin/%2fgroovyconsole%2fpost.servlet
+%2f..%2f..%2f..%2f..%2fgroovyconsole%fpost.servlet
+%2fetc%2fbin%2fgroovyconsole%2fpost.servlet

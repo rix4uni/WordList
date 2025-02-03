@@ -1,0 +1,1 @@
+/wp-content/plugins/leira-cron-jobs/readme.txt

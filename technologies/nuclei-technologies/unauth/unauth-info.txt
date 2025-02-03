@@ -12,3 +12,5 @@
 /grid/console
 /console
 /static/
+/?dev
+/web-console/ServerInfo.jsp

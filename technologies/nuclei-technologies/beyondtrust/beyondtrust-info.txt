@@ -2,3 +2,6 @@
 /WebConsole/
 /favicon.ico
 /appliance/login.ns
+/login/login
+/login/pre_login_agreement
+/

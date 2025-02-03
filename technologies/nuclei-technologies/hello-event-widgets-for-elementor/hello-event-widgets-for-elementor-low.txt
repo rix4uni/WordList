@@ -1,0 +1,1 @@
+/wp-content/plugins/hello-event-widgets-for-elementor/readme.txt

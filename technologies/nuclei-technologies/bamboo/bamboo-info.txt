@@ -1,1 +1,2 @@
 /setup/setupLicense.action
+/userlogin!doDefault.action?os_destination=%2Fstart.action

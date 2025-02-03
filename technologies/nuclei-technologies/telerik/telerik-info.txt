@@ -17,3 +17,4 @@
 /Telerik.Web.UI.DialogHandler.axd?dp=1
 /Telerik.Web.UI.WebResource.axd?type=rau
 /Account/Login
+{{paths}}

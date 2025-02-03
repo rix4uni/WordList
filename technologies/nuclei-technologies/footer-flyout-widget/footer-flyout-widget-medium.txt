@@ -1,0 +1,1 @@
+/wp-content/plugins/footer-flyout-widget/readme.txt

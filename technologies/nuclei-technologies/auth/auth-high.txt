@@ -28,3 +28,9 @@
 /salesforce.js
 /sftp-config.json
 /ws-config.json
+/setup/setup-s/%u002e%u002e/%u002e%u002e/log.jsp
+/user_secrets.yml
+/user_secrets.yml.old
+/deployment-config.json
+/tox.ini
+/ventrilo_srv.ini

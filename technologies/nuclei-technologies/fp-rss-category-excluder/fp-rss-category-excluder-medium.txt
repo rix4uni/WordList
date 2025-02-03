@@ -1,0 +1,1 @@
+/wp-content/plugins/fp-rss-category-excluder/readme.txt

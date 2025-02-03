@@ -1,0 +1,1 @@
+/wp-content/plugins/safetymails-forms/readme.txt

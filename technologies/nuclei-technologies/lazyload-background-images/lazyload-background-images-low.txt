@@ -1,0 +1,1 @@
+/wp-content/plugins/lazyload-background-images/readme.txt

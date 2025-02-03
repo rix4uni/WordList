@@ -1,0 +1,3 @@
+/admin/login
+/admin/upgrade
+/exploit.php

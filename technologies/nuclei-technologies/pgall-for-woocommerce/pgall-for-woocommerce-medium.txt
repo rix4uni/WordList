@@ -1,0 +1,1 @@
+/wp-content/plugins/pgall-for-woocommerce/readme.txt

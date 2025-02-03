@@ -6,3 +6,4 @@
 /confluence/plugins/servlet/oauth/view-consumer-info
 /servicedesk/customer/user/login
 /servicedesk/customer/portal/10/user/login
+/

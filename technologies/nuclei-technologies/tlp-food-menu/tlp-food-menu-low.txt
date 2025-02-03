@@ -1,0 +1,1 @@
+/wp-content/plugins/tlp-food-menu/readme.txt

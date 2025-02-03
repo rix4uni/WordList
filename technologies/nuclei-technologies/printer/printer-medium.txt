@@ -2,3 +2,4 @@
 /net/net/net.html
 /PRESENTATION/EPSONCONNECT
 /./../../../../../../../../../../etc/passwd
+/sessionlist.html

@@ -2,3 +2,4 @@
 /imp/login.php
 /cgi-bin/sqwebmail
 /cgi-bin/webmail
+/

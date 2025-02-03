@@ -41,3 +41,7 @@
 /threaddump
 /actuator/threaddump
 /trace
+/integrationgraph
+/actuator/integrationgraph
+/startup
+/actuator/startup

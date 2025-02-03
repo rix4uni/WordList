@@ -1,0 +1,1 @@
+/wp-content/plugins/ancient-world-linked-data-for-wordpress/readme.txt

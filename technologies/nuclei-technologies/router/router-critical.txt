@@ -4,3 +4,6 @@
 /cgi-bin/admin.cgi?Command=sysCommand&Cmd={{cmd}}
 /cgi-bin/export-cgi?category=config&arg0=startup-config.conf
 /rootDesc.xml
+/wlsecurity.html
+/ubus/
+/update.php?jungle=id

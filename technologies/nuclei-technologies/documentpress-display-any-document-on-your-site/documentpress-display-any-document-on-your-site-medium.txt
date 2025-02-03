@@ -1,0 +1,1 @@
+/wp-content/plugins/documentpress-display-any-document-on-your-site/readme.txt

@@ -125,3 +125,4 @@
 /gql
 /graphql?query={__typename}
 /api/graphql?query={__typename}
+{{paths}}

@@ -1,0 +1,1 @@
+/wp-content/plugins/yotpo-social-reviews-for-woocommerce/readme.txt

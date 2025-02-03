@@ -2,3 +2,4 @@
 /getCorsFile?urlPath=file:///c://windows/win.ini
 /getCorsFile?urlPath={{base64(
 /onlinePreview?url={{base64(https://example.com)}}
+/onlinePreview?url={{base64(

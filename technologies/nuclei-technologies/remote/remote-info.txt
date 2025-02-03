@@ -1,0 +1,5 @@
+/v2/
+/v2/_catalog
+/sitemap.xml
+/sitemap.xsl
+/sitemap.xsd

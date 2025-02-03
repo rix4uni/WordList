@@ -1,0 +1,1 @@
+/wp-content/plugins/google-org-chart/readme.txt

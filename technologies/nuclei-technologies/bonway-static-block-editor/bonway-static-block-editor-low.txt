@@ -1,0 +1,1 @@
+/wp-content/plugins/bonway-static-block-editor/readme.txt

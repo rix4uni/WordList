@@ -1,0 +1,1 @@
+/wp-content/plugins/sksdev-toolkit/readme.txt

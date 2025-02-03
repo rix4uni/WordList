@@ -1,2 +1,3 @@
 /graphql
 /
+/console/index.html

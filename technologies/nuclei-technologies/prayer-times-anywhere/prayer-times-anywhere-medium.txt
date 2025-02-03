@@ -1,0 +1,1 @@
+/wp-content/plugins/prayer-times-anywhere/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/maximum-products-per-user-for-woocommerce/readme.txt

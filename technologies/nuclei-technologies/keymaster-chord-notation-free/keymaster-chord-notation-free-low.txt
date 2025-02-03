@@ -1,0 +1,1 @@
+/wp-content/plugins/keymaster-chord-notation-free/readme.txt

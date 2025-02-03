@@ -1,0 +1,1 @@
+/wp-content/plugins/bne-gallery-extended/readme.txt

@@ -1,2 +1,3 @@
 /wp-content/plugins/wpml/readme.txt
 /wp-login.php?wp_lang=en_US%27
+/wp-admin/admin.php

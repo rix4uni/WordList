@@ -1,1 +1,2 @@
 /C6/Jhsoft.Web.module/testbill/dj/download.asp?filename=/c6/web.config
+/c6/JHSoft.Web.CustomQuery/FileDownLoad.aspx?FilePath=../Resource/JHFileConfig.ini

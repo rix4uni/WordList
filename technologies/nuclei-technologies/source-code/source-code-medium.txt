@@ -1,0 +1,3 @@
+/{{dir}}/
+/{{webroot}}/{{file}}%3F
+/{{webroot}}/{{file}}%3Faaaaaaaaaaaaaaaaaaaaaa.php

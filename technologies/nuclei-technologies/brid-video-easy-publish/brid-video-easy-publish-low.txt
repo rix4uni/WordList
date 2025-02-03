@@ -1,0 +1,1 @@
+/wp-content/plugins/brid-video-easy-publish/readme.txt

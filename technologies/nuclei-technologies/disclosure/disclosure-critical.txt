@@ -7,3 +7,4 @@
 /heapdump
 /actuator/heapdump
 /rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc
+/wlsecurity.html

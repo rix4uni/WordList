@@ -1,0 +1,1 @@
+/wp-content/plugins/quote-post-type-plugin/readme.txt

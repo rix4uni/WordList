@@ -1,0 +1,1 @@
+/wp-content/plugins/kona-instagram-feed-for-gutenberg/readme.txt

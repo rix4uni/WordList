@@ -1,1 +1,3 @@
 /wp-content/plugins/html5-video-player/readme.txt
+/?rest_route=/h5vp/v1/view/1&id=1
+/wp-json/h5vp/v1/video/0?id=

@@ -1,0 +1,1 @@
+/wp-content/plugins/emoji-shortcode/readme.txt

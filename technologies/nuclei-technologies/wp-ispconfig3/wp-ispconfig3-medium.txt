@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-ispconfig3/readme.txt

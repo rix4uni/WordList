@@ -1,1 +1,2 @@
 /aj.html?a=devi
+/cgi-bin/file_transfer.cgi

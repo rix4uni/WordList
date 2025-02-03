@@ -1,0 +1,1 @@
+/wp-content/plugins/koalendar-free-booking-widget/readme.txt

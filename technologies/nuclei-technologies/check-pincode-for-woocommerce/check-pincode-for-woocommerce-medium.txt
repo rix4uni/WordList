@@ -1,0 +1,1 @@
+/wp-content/plugins/check-pincode-for-woocommerce/readme.txt

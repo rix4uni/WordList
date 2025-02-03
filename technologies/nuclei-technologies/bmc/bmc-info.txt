@@ -3,3 +3,5 @@
 /login.html
 /arsys/shared/login.jsp
 /rsso/admin/
+/arsys/
+/webUI/userHome.do

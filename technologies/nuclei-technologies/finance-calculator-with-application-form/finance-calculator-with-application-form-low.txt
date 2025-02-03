@@ -1,0 +1,1 @@
+/wp-content/plugins/finance-calculator-with-application-form/readme.txt

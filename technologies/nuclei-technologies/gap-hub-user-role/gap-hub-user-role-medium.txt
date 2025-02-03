@@ -1,0 +1,1 @@
+/wp-content/plugins/gap-hub-user-role/readme.txt

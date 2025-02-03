@@ -1,0 +1,1 @@
+/wp-content/plugins/digital-lottery/readme.txt

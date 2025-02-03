@@ -1,0 +1,1 @@
+/wp-content/plugins/nias-course/readme.txt

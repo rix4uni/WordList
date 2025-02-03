@@ -1,0 +1,1 @@
+/wp-content/plugins/scalable-vector-graphics-svg/readme.txt

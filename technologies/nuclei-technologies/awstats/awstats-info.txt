@@ -3,3 +3,4 @@
 /awstats.pl
 /logs/awstats.pl
 /webstats/awstats.pl
+/cgi-bin/awstats.pl

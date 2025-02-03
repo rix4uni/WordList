@@ -1,0 +1,1 @@
+/wp-content/plugins/bamazoo-button-generator/readme.txt

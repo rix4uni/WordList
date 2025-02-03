@@ -1,0 +1,1 @@
+/wp-content/themes/storepress/style.css

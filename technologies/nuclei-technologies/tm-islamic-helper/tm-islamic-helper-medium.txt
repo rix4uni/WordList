@@ -1,0 +1,1 @@
+/wp-content/plugins/tm-islamic-helper/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/gdpr-personal-data-reports/readme.txt

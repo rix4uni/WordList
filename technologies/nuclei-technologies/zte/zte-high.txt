@@ -1,1 +1,3 @@
 /web_shell_cmd.gch
+/adminpasswd.cgi
+/rom-0

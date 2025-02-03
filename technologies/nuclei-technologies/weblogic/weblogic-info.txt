@@ -1,3 +1,5 @@
 /{{randstr}}
 /console/login/LoginForm.jsp
 /uddiexplorer/
+:7001/console/login/LoginForm.jsp
+:7002/console/login/LoginForm.jsp

@@ -45,3 +45,6 @@
 /general/userinfo.php?UID=1
 /wp-content/backups-dup-lite/tmp/
 /wp-content/backups-dup-lite
+/wp-content/plugins/wp-easycart/inc/admin/phpinfo.php
+/wp-content/backups-dup-lite/dup-installer/main.installer.php?view=1
+/{{route}}search=@

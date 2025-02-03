@@ -13,3 +13,4 @@
 /shop/routes/configs/routes.ini
 /site_cg/routes/configs/routes.ini
 /slr/routes/configs/routes.ini
+{{paths}}

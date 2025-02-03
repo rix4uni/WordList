@@ -11,3 +11,6 @@
 /xampp/phpmyadmin/
 /phpMyAdmin/
 /admin//phpmyadmin/
+{{paths}}
+/phpmyadmin/doc/html/index.html
+/doc/html/index.html

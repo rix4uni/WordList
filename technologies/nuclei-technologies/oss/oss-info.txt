@@ -13,3 +13,4 @@
 /authentication/login
 /api/tenants
 /api/status
+/

@@ -1,0 +1,1 @@
+/wp-content/plugins/spice-starter-sites/readme.txt

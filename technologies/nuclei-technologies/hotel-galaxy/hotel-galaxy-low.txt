@@ -1,0 +1,1 @@
+/wp-content/themes/hotel-galaxy/style.css

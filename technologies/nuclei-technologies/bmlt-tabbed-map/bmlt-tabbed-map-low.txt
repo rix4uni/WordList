@@ -1,0 +1,1 @@
+/wp-content/plugins/bmlt-tabbed-map/readme.txt

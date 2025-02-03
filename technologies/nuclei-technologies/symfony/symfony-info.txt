@@ -5,3 +5,5 @@
 /app/config/security.yml
 /security.yml
 /config/security.yml
+/js/routing?callback=fos.Router.setDatafoobarfoo
+/

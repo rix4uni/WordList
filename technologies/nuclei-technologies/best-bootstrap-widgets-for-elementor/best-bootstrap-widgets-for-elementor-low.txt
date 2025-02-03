@@ -1,0 +1,1 @@
+/wp-content/plugins/best-bootstrap-widgets-for-elementor/readme.txt

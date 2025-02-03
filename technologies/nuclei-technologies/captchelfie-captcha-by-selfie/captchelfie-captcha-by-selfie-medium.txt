@@ -1,0 +1,1 @@
+/wp-content/plugins/captchelfie-captcha-by-selfie/readme.txt

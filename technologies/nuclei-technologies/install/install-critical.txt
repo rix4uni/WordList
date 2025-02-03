@@ -2,3 +2,6 @@
 /index.php/install
 /concrete5/index.php/install
 /install
+/Install/InstallWizard.aspx?__VIEWSTATE
+/upload/setup/install.php
+/setup/install.php

@@ -1,3 +1,5 @@
 /jbpm-console/app/tasks.jsf
 /juddi/
 /jmx-console/
+/css/footer.js
+/web-console/ServerInfo.jsp

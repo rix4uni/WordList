@@ -1,0 +1,1 @@
+/wp-content/plugins/simplistic-seo/readme.txt

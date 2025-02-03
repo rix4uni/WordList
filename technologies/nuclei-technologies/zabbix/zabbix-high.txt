@@ -1,1 +1,2 @@
 /setup.php
+/api_jsonrpc.php

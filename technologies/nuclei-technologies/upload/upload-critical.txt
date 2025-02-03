@@ -2,3 +2,4 @@
 /ddi/server/fileupload.php
 /servlet/com.sksoft.bill.ImageUpload?filepath=/&filename=ac59075b964b0715.jsp
 /seeyon/thirdpartyController.do.css/..;/ajax.do
+/defaultroot/officeserverservlet

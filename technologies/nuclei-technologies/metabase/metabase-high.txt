@@ -1,1 +1,2 @@
 /api/geojson?url=file:///etc/passwd
+/api/geojson?url=file:///c://windows/win.ini

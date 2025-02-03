@@ -1,0 +1,1 @@
+/wp-content/plugins/ds-cf7-math-captcha/readme.txt

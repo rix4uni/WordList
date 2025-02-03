@@ -1,0 +1,1 @@
+/wp-content/plugins/masjidal/readme.txt

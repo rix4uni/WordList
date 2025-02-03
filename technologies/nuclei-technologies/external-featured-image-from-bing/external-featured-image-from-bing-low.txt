@@ -1,0 +1,1 @@
+/wp-content/plugins/external-featured-image-from-bing/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/form-to-chat/readme.txt

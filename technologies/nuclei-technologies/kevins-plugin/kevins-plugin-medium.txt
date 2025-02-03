@@ -1,0 +1,1 @@
+/wp-content/plugins/kevins-plugin/readme.txt

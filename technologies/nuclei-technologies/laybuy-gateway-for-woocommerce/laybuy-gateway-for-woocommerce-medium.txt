@@ -1,0 +1,1 @@
+/wp-content/plugins/laybuy-gateway-for-woocommerce/readme.txt

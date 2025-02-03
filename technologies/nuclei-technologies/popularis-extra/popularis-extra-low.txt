@@ -1,0 +1,1 @@
+/wp-content/plugins/popularis-extra/readme.txt

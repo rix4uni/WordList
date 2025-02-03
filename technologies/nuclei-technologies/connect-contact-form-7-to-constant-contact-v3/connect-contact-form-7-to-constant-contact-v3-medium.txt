@@ -1,0 +1,1 @@
+/wp-content/plugins/connect-contact-form-7-to-constant-contact-v3/readme.txt

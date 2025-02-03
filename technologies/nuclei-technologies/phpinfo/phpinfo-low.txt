@@ -25,3 +25,4 @@
 /l.php?act=phpinfo
 /tool/view/phpinfo.view.php
 /app_dev.php/_profiler/phpinfo
+{{paths}}

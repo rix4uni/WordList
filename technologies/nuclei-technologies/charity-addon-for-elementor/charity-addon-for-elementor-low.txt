@@ -1,0 +1,1 @@
+/wp-content/plugins/charity-addon-for-elementor/readme.txt

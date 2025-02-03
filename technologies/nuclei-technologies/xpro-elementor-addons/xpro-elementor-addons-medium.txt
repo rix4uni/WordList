@@ -1,0 +1,1 @@
+/wp-content/plugins/xpro-elementor-addons/readme.txt

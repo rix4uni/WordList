@@ -1,0 +1,1 @@
+/wp-content/plugins/authentication-via-otp-using-firebase/readme.txt

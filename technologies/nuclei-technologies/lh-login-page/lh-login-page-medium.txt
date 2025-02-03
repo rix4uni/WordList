@@ -1,0 +1,1 @@
+/wp-content/plugins/lh-login-page/readme.txt

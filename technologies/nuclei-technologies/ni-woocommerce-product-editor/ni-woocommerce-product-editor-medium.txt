@@ -1,0 +1,1 @@
+/wp-content/plugins/ni-woocommerce-product-editor/readme.txt

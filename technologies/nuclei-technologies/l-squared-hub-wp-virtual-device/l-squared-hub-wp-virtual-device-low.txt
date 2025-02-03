@@ -1,0 +1,1 @@
+/wp-content/plugins/l-squared-hub-wp-virtual-device/readme.txt

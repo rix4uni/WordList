@@ -1,0 +1,8 @@
+/api/__api_party/MyEndpoint
+/api/__api_party/__proto__
+/api/v1/userlist?pageindex=0&pagesize=10
+/logs/debug.log
+/logs/info.log
+/logs/error.log
+/ma/emp/maEmp/download?fileName=../../../../etc/passwd
+/ords/f?p=4600:32:0::NO

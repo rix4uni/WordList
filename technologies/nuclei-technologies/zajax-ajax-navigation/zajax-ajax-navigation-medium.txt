@@ -1,0 +1,1 @@
+/wp-content/plugins/zajax-ajax-navigation/readme.txt

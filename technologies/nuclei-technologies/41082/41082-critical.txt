@@ -1,0 +1,1 @@
+/autodiscover/autodiscover.json@Powershell.{{randstr}}.com/owa/

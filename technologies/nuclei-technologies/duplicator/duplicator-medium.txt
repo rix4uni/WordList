@@ -1,1 +1,2 @@
 /wp-content/plugins/duplicator/readme.txt
+/wp-content/backups-dup-lite/dup-installer/main.installer.php?view=1

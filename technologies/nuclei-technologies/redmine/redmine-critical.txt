@@ -1,0 +1,2 @@
+/html/usr/share/redmine/instances/default/config/secret_key.txt%3f
+/usr/share/redmine/instances/default/config/secret_key.txt%3f

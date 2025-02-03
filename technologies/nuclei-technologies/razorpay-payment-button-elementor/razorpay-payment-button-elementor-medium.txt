@@ -1,0 +1,1 @@
+/wp-content/plugins/razorpay-payment-button-elementor/readme.txt

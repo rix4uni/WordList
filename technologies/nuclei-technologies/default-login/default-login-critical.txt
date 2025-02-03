@@ -1,3 +1,4 @@
 /server/
 /api/get_device_details
 /index.php
+/login?login={{username}}&password={{password}}

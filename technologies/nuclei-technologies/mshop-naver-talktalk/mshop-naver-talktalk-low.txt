@@ -1,0 +1,1 @@
+/wp-content/plugins/mshop-naver-talktalk/readme.txt

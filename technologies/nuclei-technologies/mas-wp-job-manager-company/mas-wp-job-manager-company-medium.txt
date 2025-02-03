@@ -1,0 +1,1 @@
+/wp-content/plugins/mas-wp-job-manager-company/readme.txt

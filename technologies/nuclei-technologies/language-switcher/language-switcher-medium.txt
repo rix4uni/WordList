@@ -1,0 +1,1 @@
+/wp-content/plugins/language-switcher/readme.txt

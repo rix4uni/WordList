@@ -1,0 +1,1 @@
+/wp-content/plugins/ar-for-woocommerce/readme.txt

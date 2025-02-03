@@ -1,1 +1,2 @@
 /templates/config/profmanage.php
+/files/ldap.debug.txt

@@ -21,3 +21,6 @@
 /css/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc/passwd
 /setup.cgi?next_file=debug.htm&x=currentsetting.htm
 /wifi_base.shtml
+/psiBackupInfo
+/adminpasswd.cgi
+/backupsettings.conf

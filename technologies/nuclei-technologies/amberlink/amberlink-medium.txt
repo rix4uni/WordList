@@ -1,0 +1,1 @@
+/wp-content/plugins/amberlink/readme.txt

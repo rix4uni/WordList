@@ -1,0 +1,1 @@
+/wp-content/plugins/paygreen-payment-gateway/readme.txt

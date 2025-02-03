@@ -4,3 +4,7 @@
 /Items/RemoteSearch/Image?ImageUrl=https://oast.me/&ProviderName=TheMovieDB
 /Images/Remote?imageUrl=http://{{interactsh-url}}
 /Items/RemoteSearch/Image?ImageUrl=http://{{interactsh-url}}&ProviderName=TheMovieDB
+/Images/Remote?imageUrl=https://{{interactsh-url}}/
+/Items/RemoteSearch/Image?ImageUrl=https://{{interactsh-url}}/&ProviderName=TheMovieDB
+/Images/Remote?imageUrl=http://interact.sh/
+/Items/RemoteSearch/Image?ImageUrl=http://interact.sh/&ProviderName=TheMovieDB

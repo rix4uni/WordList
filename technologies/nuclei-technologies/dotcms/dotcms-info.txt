@@ -1,1 +1,3 @@
 /dotAdmin/
+/api/v1/appconfiguration
+/

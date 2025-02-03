@@ -1,0 +1,1 @@
+/admin/index.php?redirect=http://example.com/?localhost/

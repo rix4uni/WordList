@@ -1,0 +1,1 @@
+/wp-content/plugins/apa-register-newsletter-form/readme.txt

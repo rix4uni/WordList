@@ -1,0 +1,1 @@
+/wp-content/plugins/wpdash-notes/readme.txt

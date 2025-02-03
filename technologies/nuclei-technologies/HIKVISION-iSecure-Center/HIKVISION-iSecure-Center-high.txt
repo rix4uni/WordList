@@ -1,0 +1,4 @@
+/artemis-portal/artemis/env
+/artemis/env
+/artemis/humpdump
+/ngx/proxy?i={{base64(dns)}}

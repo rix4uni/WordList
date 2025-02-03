@@ -1,0 +1,1 @@
+/wp-content/plugins/community-yard-sale/readme.txt

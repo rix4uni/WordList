@@ -2,3 +2,4 @@
 /live_mfg.shtml
 /cgi-bin/ExportLogs.sh
 /wifi_base.shtml
+/live_mfg.html

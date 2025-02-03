@@ -1,0 +1,4 @@
+/OA_HTML/ibeCAcdLogin.jsp?username=ttttttttttt\
+/OA_HTML/ibeCAcdLogin.jsp?ref=ttttttttttt\
+/OA_HTML/ibeCAcpCustomLogin.jsp?ref=ttttttttttt\
+/OA_HTML/custibeCAcdPwdAssist.jsp?email=ttttttttttt\

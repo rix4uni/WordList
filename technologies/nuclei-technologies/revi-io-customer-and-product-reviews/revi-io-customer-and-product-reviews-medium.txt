@@ -1,0 +1,1 @@
+/wp-content/plugins/revi-io-customer-and-product-reviews/readme.txt

@@ -20,3 +20,8 @@
 /wp-config.php.original
 /_wpeprivate/config.json
 /wp-admin/admin-ajax.php?jvfrm_spot_get_json&fn=../../wp-config.php&callback=jQuery
+/wp-content/plugins/db-backup/download.php?file=../../../wp-config.php
+/backupsettings.conf
+{{paths}}
+/home/{{DN}}WORDPRESS.txt
+/home/{{DN}}-WORDPRESS.txt

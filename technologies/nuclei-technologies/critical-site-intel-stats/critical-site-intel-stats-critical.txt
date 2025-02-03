@@ -1,0 +1,1 @@
+/wp-content/plugins/critical-site-intel-stats/readme.txt

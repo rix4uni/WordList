@@ -1,0 +1,1 @@
+/wp-content/plugins/lsd-google-maps-embedder/readme.txt

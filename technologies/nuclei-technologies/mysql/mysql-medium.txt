@@ -20,3 +20,4 @@
 /users.sql
 /wp-content/uploads/dump.sql
 /wp-content/mysql.sql
+{{paths}}

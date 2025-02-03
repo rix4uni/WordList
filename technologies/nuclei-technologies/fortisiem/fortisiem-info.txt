@@ -1,0 +1,2 @@
+/phoenix/login.html
+/phoenix/js/login.min.js

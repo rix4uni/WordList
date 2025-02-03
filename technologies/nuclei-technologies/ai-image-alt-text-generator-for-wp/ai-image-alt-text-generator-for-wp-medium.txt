@@ -1,0 +1,1 @@
+/wp-content/plugins/ai-image-alt-text-generator-for-wp/readme.txt

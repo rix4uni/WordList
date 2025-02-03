@@ -1,1 +1,2 @@
 /pagespeed-global-admin/
+/sap/admin/public/index.html

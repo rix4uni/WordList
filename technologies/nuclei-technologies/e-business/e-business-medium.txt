@@ -1,0 +1,2 @@
+/oracle-apps-framework-file-upload
+/path/to/vulnerable/component

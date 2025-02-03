@@ -1,0 +1,1 @@
+/wp-content/plugins/adbuddy-adblocker-detection/readme.txt

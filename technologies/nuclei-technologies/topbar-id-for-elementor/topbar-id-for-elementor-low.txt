@@ -1,0 +1,1 @@
+/wp-content/plugins/topbar-id-for-elementor/readme.txt

@@ -1,1 +1,2 @@
 /wp-content/plugins/analytics-insights/readme.txt
+/wp-content/plugins/analytics-insights/tools/oauth2callback.php?state=https://oast.me/%3f&code=x

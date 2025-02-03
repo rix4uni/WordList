@@ -78,3 +78,4 @@
 /..;/environment.rb
 /..;/proc/self/environ
 /..;/redmine/config/environment.rb
+{{paths}}

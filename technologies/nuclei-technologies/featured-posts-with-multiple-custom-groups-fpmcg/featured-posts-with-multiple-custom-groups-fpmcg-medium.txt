@@ -1,0 +1,1 @@
+/wp-content/plugins/featured-posts-with-multiple-custom-groups-fpmcg/readme.txt

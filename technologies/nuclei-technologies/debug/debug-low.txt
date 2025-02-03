@@ -12,3 +12,8 @@
 /web/debug/default/view
 /sapi/debug/default/view
 /debug/default
+/server-info
+/%ff
+/%FF
+/%5c/
+/%ff/

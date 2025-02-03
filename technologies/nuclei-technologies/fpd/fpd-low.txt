@@ -1,2 +1,4 @@
 /admin/airflow/login
 /wp-admin/maint/repair.php
+/index.php?board[]=2.0
+/?feed[]

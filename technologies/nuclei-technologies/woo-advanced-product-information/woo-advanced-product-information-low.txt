@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-advanced-product-information/readme.txt

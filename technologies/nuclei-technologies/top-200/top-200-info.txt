@@ -212,3 +212,7 @@
 /wp-content/plugins/wpvivid-backuprestore/readme.txt
 /wp-content/plugins/yith-woocommerce-compare/readme.txt
 /wp-content/plugins/yith-woocommerce-wishlist/readme.txt
+/wp-content/plugins/extendify/readme.txt
+/wp-content/plugins/image-optimization/readme.txt
+/wp-content/plugins/sticky-header-effects-for-elementor/readme.txt
+/wp-content/plugins/woocommerce-legacy-rest-api/readme.txt

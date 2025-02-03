@@ -1,0 +1,1 @@
+/wp-content/plugins/bp-activity-plus-reloaded/readme.txt

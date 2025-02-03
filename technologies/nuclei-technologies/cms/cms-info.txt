@@ -22,3 +22,11 @@
 /wp-admin/install.php
 /feed/
 /?feed=rss2
+/bin/querybuilder.json/a.css?path=/home/users&type=nt:base
+/bin/querybuilder.json/a.html
+/bin/querybuilder.json/a.ico
+/bin/querybuilder.json/a.png
+/bin/querybuilder.json;%0aa.css
+/bin/querybuilder.json/a.1.json
+/wp-content/
+/wp-admin/

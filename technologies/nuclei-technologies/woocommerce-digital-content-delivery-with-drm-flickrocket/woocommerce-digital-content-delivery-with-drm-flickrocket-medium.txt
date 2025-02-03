@@ -1,0 +1,1 @@
+/wp-content/plugins/woocommerce-digital-content-delivery-with-drm-flickrocket/readme.txt

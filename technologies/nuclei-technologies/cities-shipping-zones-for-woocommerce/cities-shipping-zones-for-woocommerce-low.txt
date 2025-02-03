@@ -1,0 +1,1 @@
+/wp-content/plugins/cities-shipping-zones-for-woocommerce/readme.txt

@@ -1,3 +1,6 @@
 /config.properties
 /config.properties.bak
 /ui_config.properties
+/collibra.properties
+/app/collibra.properties
+/src/collibra.properties

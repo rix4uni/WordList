@@ -1,0 +1,2 @@
+/api/v1/info
+/api/v1/serverinfo

@@ -10,3 +10,4 @@
 /static/css//../../../../../../../../etc/passwd
 /render.html?url=https://oast.live
 /install
+/umbraco/management/api/v1/server/status

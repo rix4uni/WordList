@@ -1,0 +1,1 @@
+/wp-content/plugins/connatix-video-embed/readme.txt

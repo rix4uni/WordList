@@ -143,3 +143,15 @@
 /wp-content/themes/wplocalplaces/style.css
 /wp-content/themes/yaaburnee-themes/style.css
 /wp-content/themes/yvora/style.css
+/wp-content/themes/wplms/style.css
+/wp-content/themes/adforest/style.css
+/wp-content/themes/bootstrap-ultimate/style.css
+/wp-content/themes/realhomes/style.css
+/wp-content/themes/sweetdate/style.css
+/wp-content/themes/mags/style.css
+/wp-content/themes/newscard/style.css
+/wp-content/themes/meta-news/style.css
+/wp-content/themes/clean-retina/style.css
+/wp-content/themes/xin/style.css
+/wp-content/themes/airin-blog/style.css
+/wp-content/themes/travelscape/readme.txt

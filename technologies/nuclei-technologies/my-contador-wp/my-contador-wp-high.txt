@@ -1,0 +1,1 @@
+/wp-content/plugins/my-contador-wp/readme.txt

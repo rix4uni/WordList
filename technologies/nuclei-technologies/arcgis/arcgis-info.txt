@@ -2,3 +2,7 @@
 /server/sdk/rest/index.html
 /arcgis/rest/services
 /arcgis/tokens/
+/portal/sharing/rest
+/portal/portalhelp/en/rest/
+/server/rest/services
+/arcgis/

@@ -1,0 +1,1 @@
+/wp-content/plugins/twitter-anywhere-plus/readme.txt

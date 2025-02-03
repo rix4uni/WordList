@@ -1,1 +1,7 @@
 /ui/vault/auth
+/v1/agent/self
+/ui/
+/session
+/v1/sys/health
+/ui/auth
+/v1/sys/health?help=1

@@ -1,0 +1,5 @@
+/.git/config
+/search?query=test
+/sensitive-data
+/.env
+/integrity-check

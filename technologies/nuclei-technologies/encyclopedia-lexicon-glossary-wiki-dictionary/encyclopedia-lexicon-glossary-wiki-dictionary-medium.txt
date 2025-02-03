@@ -1,0 +1,1 @@
+/wp-content/plugins/encyclopedia-lexicon-glossary-wiki-dictionary/readme.txt

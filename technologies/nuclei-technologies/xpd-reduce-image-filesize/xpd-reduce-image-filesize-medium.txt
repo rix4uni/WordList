@@ -1,0 +1,1 @@
+/wp-content/plugins/xpd-reduce-image-filesize/readme.txt

@@ -4,3 +4,4 @@
 /api/v1/system/readiness
 /api/v1/system/liveness
 /doesNotExist404
+/ui/favicon.ico

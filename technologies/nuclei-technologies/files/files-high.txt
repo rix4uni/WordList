@@ -23,3 +23,9 @@
 /backup/config.xml
 /ws-config.json
 /ws-config.example.json
+/manage.py
+/{{app_name}}/settings.py
+/{{path}}
+/sftp.json
+/.config/sftp.json
+/.vscode/sftp.json

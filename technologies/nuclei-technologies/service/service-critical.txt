@@ -1,1 +1,2 @@
 /service/v1/service-details
+/axis/services/randomBBB

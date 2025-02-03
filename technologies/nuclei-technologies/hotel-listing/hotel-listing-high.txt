@@ -1,0 +1,1 @@
+/wp-content/plugins/hotel-listing/readme.txt

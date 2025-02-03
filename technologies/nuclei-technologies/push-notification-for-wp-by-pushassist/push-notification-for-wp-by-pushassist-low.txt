@@ -1,0 +1,1 @@
+/wp-content/plugins/push-notification-for-wp-by-pushassist/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/pjw-mime-config/readme.txt

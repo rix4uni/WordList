@@ -1,0 +1,1 @@
+/wp-content/plugins/fraudlabs-pro-sms-verification/readme.txt

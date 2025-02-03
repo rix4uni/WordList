@@ -1,0 +1,1 @@
+/wp-content/plugins/featured-product-by-category-name/readme.txt

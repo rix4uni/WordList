@@ -3,3 +3,4 @@
 /bundles/kibana.style.css
 /login
 /app/kibana
+/

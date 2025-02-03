@@ -1,0 +1,1 @@
+/wp-content/plugins/themedy-toolbox/readme.txt

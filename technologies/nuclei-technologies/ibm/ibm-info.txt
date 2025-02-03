@@ -4,3 +4,15 @@
 /names.nsf
 /service/
 /console
+/cgi-bin/cgi?form=1
+/favicon.ico
+/modules/ibm_apim/ibm_apim.info.yml
+/auth/manager/sign-in/
+/ciloginmanager?authType=basic
+/teamserver/faces/login.jsp
+/DecisionRunner/
+/res/login.jsf
+/DecisionService/
+/maximo/webclient/login/login.jsp?appservauth=true
+/webredir.nsf
+/decisioncenter/login

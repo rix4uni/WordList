@@ -25,3 +25,8 @@
 /cs/idcplg?IdcService=GET_SEARCH_RESULTS&ResultTemplate=StandardResults&ResultCount=20&FromPageUrl=/cs/idcplg?IdcService=GET_DYNAMIC_PAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 /OA_HTML/cabo/jsps/a.jsp?_t=fredRC&configName=&redirect=%2f%5cexample.com
 /passwordrecovered.cgi?id=nuclei
+/p/user/ftoken/activate/user/guest/?action=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E%3Cscript%3E
+/__session_start__/%0aSet-Cookie:%20crlfinjection=1;
+/web/session/logout?redirect=https://oast.me
+/web/session/logout?redirect=https%3a%2f%2foast.me%2f
+/web/dbredirect?redirect=https%3a%2f%2foast.me%2f

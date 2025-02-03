@@ -1,1 +1,2 @@
 /wp-content/plugins/travelpayouts/readme.txt
+/?travelpayouts_redirect=https://oast.me

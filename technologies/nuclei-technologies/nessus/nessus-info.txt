@@ -1,1 +1,2 @@
 /server/status
+/nessus6.js

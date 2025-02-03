@@ -1,0 +1,1 @@
+/wp-content/plugins/personalization-by-flowcraft/readme.txt

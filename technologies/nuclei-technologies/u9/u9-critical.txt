@@ -1,0 +1,1 @@
+/CS/Office/AutoUpdates/{{file_name}}

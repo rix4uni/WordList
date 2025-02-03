@@ -1,0 +1,1 @@
+/wp-content/plugins/cs-element-bucket/readme.txt

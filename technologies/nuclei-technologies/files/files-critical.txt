@@ -1,0 +1,3 @@
+/admin/weichatcfg/getsysteminfo
+/runtime/admin_log_conf.cache
+/cgi-bin/gateway/agentinfo

@@ -1,0 +1,1 @@
+/wp-content/plugins/embed-power-bi-reports/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/slope-widgets/readme.txt

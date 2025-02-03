@@ -1,0 +1,1 @@
+/wp-content/plugins/assist24it/readme.txt

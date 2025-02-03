@@ -1,0 +1,7 @@
+/usr/share/davical/htdocs/setup.php%3f
+/html/usr/share/davical/htdocs/setup.php%3f
+/AggreSpy
+/servlet/AggreSpy
+/dms/AggreSpy
+/dms0/AggreSpy
+/dmsoc4j/AggreSpy

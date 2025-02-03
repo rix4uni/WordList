@@ -1,0 +1,1 @@
+/wp-content/plugins/jb-horizontal-scroller-news-ticker/readme.txt

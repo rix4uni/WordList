@@ -1,3 +1,7 @@
 /logon/LogonPoint/index.html
 /logon/LogonPoint/custom.html
 /vpn/index.html
+/js/app/init.js
+/logon/LogonPoint/tmindex.html
+/Authentication/Login
+/zdm/login_xdm_uc.jsp

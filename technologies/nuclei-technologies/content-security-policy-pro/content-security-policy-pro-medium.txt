@@ -1,0 +1,1 @@
+/wp-content/plugins/content-security-policy-pro/readme.txt

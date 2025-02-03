@@ -68,3 +68,5 @@
 /etc/reports/diskusage.html?path=/content/dam
 /bin.tidy.infinity.json
 /cfcache.map
+{{paths}}
+/crx/de/index.jsp

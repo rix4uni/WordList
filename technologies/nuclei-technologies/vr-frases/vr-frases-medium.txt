@@ -1,0 +1,1 @@
+/wp-content/plugins/vr-frases/readme.txt

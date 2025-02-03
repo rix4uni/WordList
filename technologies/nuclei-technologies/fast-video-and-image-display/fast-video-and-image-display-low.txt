@@ -1,0 +1,1 @@
+/wp-content/plugins/fast-video-and-image-display/readme.txt

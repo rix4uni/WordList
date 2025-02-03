@@ -1,0 +1,1 @@
+/wp-content/plugins/xpresslane-integration-for-woocommerce/readme.txt

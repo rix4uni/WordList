@@ -1,0 +1,1 @@
+/wp-content/plugins/smooth-streaming-player/readme.txt

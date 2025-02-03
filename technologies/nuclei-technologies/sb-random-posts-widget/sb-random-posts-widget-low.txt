@@ -1,0 +1,1 @@
+/wp-content/plugins/sb-random-posts-widget/readme.txt

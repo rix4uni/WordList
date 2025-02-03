@@ -1,0 +1,1 @@
+/wp-content/plugins/automatic-internal-links-for-seo/readme.txt

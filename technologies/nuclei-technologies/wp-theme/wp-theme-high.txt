@@ -418,3 +418,13 @@
 /wp-content/themes/zigcy-cosmetics/style.css
 /wp-content/themes/zigcy-lite/style.css
 /wp-content/themes/zoner/style.css
+/wp-content/themes/jobify/style.css
+/wp-content/themes/brooklyn/style.css
+/wp-content/themes/rehub-theme/style.css
+/wp-content/themes/revivenews/style.css
+/wp-content/themes/blockbooster/style.css
+/wp-content/themes/fotawp/style.css
+/wp-content/themes/blogpoet/style.css
+/wp-content/themes/envo-multipurpose/style.css
+/wp-content/themes/udesign/style.css
+/wp-content/themes/vw-automobile-lite/style.css

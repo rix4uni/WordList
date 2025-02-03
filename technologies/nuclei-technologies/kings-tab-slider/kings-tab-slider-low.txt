@@ -1,0 +1,1 @@
+/wp-content/plugins/kings-tab-slider/readme.txt

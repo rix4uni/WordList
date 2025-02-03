@@ -1,0 +1,1 @@
+/wp-content/plugins/arabic-webfonts/readme.txt

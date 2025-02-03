@@ -1,0 +1,1 @@
+/wp-content/plugins/glofox-shortcodes/readme.txt

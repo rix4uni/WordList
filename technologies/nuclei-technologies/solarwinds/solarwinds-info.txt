@@ -1,1 +1,2 @@
 /Orion/Login.aspx
+/helpdesk/i18n.js

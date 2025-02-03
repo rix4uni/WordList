@@ -1,0 +1,1 @@
+/wp-content/plugins/the-buffer-button/readme.txt

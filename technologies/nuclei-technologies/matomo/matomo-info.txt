@@ -1,1 +1,3 @@
 /matomo
+/index.php
+/plugins/CoreHome/images/favicon.png

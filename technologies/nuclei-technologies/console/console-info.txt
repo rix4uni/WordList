@@ -2,3 +2,4 @@
 /login.jsp
 /#/admin/dashboard
 /FrontController
+/ui/login

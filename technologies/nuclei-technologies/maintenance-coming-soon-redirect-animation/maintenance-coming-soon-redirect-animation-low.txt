@@ -1,0 +1,1 @@
+/wp-content/plugins/maintenance-coming-soon-redirect-animation/readme.txt

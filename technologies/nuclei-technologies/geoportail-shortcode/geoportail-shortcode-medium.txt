@@ -1,0 +1,1 @@
+/wp-content/plugins/geoportail-shortcode/readme.txt

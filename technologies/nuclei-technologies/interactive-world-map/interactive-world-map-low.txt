@@ -1,0 +1,1 @@
+/wp-content/plugins/interactive-world-map/readme.txt

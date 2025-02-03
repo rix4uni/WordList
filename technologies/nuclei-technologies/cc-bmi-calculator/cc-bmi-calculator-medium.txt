@@ -1,0 +1,1 @@
+/wp-content/plugins/cc-bmi-calculator/readme.txt

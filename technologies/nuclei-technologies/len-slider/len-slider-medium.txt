@@ -1,0 +1,1 @@
+/wp-content/plugins/len-slider/readme.txt

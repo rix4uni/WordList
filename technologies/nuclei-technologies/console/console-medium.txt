@@ -1,2 +1,3 @@
 /h2-console/login.jsp
 /#dashboard
+/overview

@@ -1,0 +1,1 @@
+/wp-content/themes/store-commerce/style.css

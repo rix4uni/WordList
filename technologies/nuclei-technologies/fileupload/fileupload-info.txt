@@ -1,3 +1,8 @@
 /laravel-filemanager?type=Files
 /Telerik.Web.UI.WebResource.axd?type=rau
 /RichWidgets/Popup_Upload.aspx
+/upload.jsp
+/index.html
+/fileman/index.html
+/fileman/php/fileslist.php
+/fileman/asp_net/main.ashx

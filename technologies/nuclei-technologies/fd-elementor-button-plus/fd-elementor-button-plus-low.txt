@@ -1,0 +1,1 @@
+/wp-content/plugins/fd-elementor-button-plus/readme.txt

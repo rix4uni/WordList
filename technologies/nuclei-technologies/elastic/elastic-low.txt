@@ -1,3 +1,4 @@
 /_cat/indices?v
 /_all/_search
 /?pretty
+/_cluster/health?pretty

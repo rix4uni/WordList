@@ -1,0 +1,1 @@
+/wp-content/plugins/payments-stripe-gateway/readme.txt

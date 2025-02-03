@@ -1,0 +1,2 @@
+/auth/logout?id=$(id)
+/auth/logout

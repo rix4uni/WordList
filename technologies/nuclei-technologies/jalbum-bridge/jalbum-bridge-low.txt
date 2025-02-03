@@ -1,0 +1,1 @@
+/wp-content/plugins/jalbum-bridge/readme.txt

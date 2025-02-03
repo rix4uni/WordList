@@ -1,2 +1,3 @@
 /install/froxlor.sql
 /index.php/javascript%26colon%3Balert(document.domain);dd%26sol%3b%26sol%3b
+/index.php?showmessage=4&customermail=\

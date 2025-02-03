@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-quote-calculator-order/readme.txt

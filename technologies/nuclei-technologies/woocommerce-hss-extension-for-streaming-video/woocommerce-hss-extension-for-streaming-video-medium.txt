@@ -1,0 +1,1 @@
+/wp-content/plugins/woocommerce-hss-extension-for-streaming-video/readme.txt

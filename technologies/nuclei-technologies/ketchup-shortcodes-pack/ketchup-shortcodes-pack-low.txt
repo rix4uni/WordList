@@ -1,0 +1,1 @@
+/wp-content/plugins/ketchup-shortcodes-pack/readme.txt

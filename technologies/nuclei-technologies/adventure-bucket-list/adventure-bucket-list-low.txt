@@ -1,0 +1,1 @@
+/wp-content/plugins/adventure-bucket-list/readme.txt

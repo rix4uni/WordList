@@ -1,0 +1,1 @@
+/wp-content/plugins/weaver-themes-shortcode-compatibility/readme.txt

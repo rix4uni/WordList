@@ -1,0 +1,1 @@
+/wp-content/plugins/posts-date-ranges/readme.txt

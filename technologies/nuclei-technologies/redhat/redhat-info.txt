@@ -1,1 +1,7 @@
 /users/login
+/jbpm-console/app/tasks.jsf
+/juddi/
+/css/footer.js
+/jmx-console/
+/auth/admin
+/auth/admin/master/console/

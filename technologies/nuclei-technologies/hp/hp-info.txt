@@ -11,3 +11,4 @@
 /cpqlogin.htm
 /wt4/home?lang=en
 /home.html
+/

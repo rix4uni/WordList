@@ -1,1 +1,2 @@
 /cpqlogin.htm
+/html/login.html

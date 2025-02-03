@@ -1,0 +1,1 @@
+/wp-content/plugins/lh-copy-media-file/readme.txt

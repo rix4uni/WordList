@@ -1,0 +1,3 @@
+/php/utils/createRemoteAppwebSession.php/watchTowr.js.map
+/index.php/.js.map
+/unauth/{{randstr}}.php

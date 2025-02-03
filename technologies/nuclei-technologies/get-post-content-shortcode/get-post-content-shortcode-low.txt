@@ -1,0 +1,1 @@
+/wp-content/plugins/get-post-content-shortcode/readme.txt

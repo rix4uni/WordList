@@ -4,3 +4,4 @@
 /explore/snippets
 /-/snippets
 /api/graphql
+/explore

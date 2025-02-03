@@ -1,0 +1,1 @@
+/wp-content/plugins/publishpress-authors/readme.txt

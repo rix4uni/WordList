@@ -1,3 +1,5 @@
 /debug/vars
 /go.mod
 /go/add-on/business-continuity/api/cipher.aes
+/debug/pprof/heap?debug=1
+/pprof/heap?debug=1

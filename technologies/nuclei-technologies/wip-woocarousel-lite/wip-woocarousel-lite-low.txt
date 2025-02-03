@@ -1,0 +1,1 @@
+/wp-content/plugins/wip-woocarousel-lite/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/beautiful-taxonomy-filters/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/caching-compatible-cookie-optin-and-javascript/readme.txt

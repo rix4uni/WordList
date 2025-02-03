@@ -1,0 +1,3 @@
+/auth/jwt/register
+/auth-demo/register/classic
+/auth-demo/register/modern

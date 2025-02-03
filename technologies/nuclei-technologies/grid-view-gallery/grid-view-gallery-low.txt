@@ -1,0 +1,1 @@
+/wp-content/plugins/grid-view-gallery/readme.txt

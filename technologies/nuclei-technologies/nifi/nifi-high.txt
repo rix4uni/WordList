@@ -1,1 +1,2 @@
 /nifi-api/process-groups/root
+/nifi-api/access/config

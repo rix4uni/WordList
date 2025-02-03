@@ -8,3 +8,4 @@
 /wp-cron.php
 /wp-content/plugins/qards/
 /wp-login.php
+/wp-content/themes/bricks/readme.txt

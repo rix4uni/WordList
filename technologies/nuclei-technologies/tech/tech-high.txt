@@ -1,3 +1,6 @@
 /__clockwork/app
 /index.php?s=/install/index/index
 /v2/keys/
+/{{randstr}}
+/docs/introduction.html
+/v1/cs/configs?export=true&group=&tenant=&appName=&ids=&dataId=

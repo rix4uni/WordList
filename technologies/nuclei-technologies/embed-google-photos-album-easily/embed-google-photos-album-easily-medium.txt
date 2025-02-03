@@ -1,0 +1,1 @@
+/wp-content/plugins/embed-google-photos-album-easily/readme.txt

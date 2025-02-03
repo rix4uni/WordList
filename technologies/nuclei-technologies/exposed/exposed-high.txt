@@ -1,0 +1,2 @@
+/backupsettings.conf
+/i/?a=logs

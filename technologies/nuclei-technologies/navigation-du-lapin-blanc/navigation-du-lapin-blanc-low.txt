@@ -1,0 +1,1 @@
+/wp-content/plugins/navigation-du-lapin-blanc/readme.txt

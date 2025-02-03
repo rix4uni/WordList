@@ -1,0 +1,4 @@
+/{{payload}}
+//{{payload}}
+/?{{vulnerable_parameter}}={{payload}}
+?{{vulnerable_parameter}}={{payload}}

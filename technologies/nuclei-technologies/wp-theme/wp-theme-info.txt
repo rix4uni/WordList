@@ -4,3 +4,4 @@
 /wp-content/themes/altair/functions/
 /wp-content/themes/altair/images/flip/
 /wp-content/themes/altair/images/
+/wp-content/themes/bricks/readme.txt

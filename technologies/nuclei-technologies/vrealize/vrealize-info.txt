@@ -1,2 +1,3 @@
 /ui/login.action
 /login?loginUrl=%2Findex
+/app/login

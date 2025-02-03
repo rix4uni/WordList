@@ -8,3 +8,4 @@
 /myaccount/javax.faces.resource./WEB-INF/web.xml.jsf?ln=..
 /SupportPortlet/faces/javax.faces.resource/web.xml?loc=../WEB-INF
 /SupportPortlet/faces/javax.faces.resource./WEB-INF/web.xml.jsf?ln=..
+{{paths}}

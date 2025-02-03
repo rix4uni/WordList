@@ -1,0 +1,1 @@
+/wp-content/themes/sominx/style.css

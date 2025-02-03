@@ -1,0 +1,1 @@
+/wp-content/plugins/competition-form/readme.txt

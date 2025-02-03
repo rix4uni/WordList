@@ -7,3 +7,6 @@
 /.putty/putty.ppk
 /.putty/{{Hostname}}.ppk
 /.remote-sync.json
+/sftp.json
+/.config/sftp.json
+/.vscode/sftp.json

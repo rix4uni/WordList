@@ -18,3 +18,4 @@
 /am/XUI/Login
 /am/json/serverinfo/*
 /openam/json/serverinfo/*
+{{paths}}

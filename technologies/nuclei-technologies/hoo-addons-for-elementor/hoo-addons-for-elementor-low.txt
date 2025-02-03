@@ -1,0 +1,1 @@
+/wp-content/plugins/hoo-addons-for-elementor/readme.txt

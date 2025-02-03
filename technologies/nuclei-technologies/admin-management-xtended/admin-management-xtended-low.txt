@@ -1,0 +1,1 @@
+/wp-content/plugins/admin-management-xtended/readme.txt

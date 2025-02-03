@@ -1,0 +1,1 @@
+/wp-content/plugins/pricer-ninja-pricing-tables/readme.txt

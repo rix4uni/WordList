@@ -1,0 +1,1 @@
+/wp-content/plugins/verbalize-wp/readme.txt

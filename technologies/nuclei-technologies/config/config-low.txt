@@ -98,3 +98,5 @@
 /vite.config.js
 /wp-admin/maint/repair.php
 /xprober.php
+/__ENV.js
+{{paths}}

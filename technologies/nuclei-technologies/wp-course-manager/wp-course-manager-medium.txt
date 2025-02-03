@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-course-manager/readme.txt

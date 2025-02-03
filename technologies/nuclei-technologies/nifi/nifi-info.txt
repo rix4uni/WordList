@@ -5,3 +5,4 @@
 /flow/registries
 /system-diagnostics
 /nifi-api/access/config
+/

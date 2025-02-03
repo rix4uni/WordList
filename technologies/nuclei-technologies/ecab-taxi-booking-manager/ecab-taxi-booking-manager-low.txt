@@ -1,0 +1,1 @@
+/wp-content/plugins/ecab-taxi-booking-manager/readme.txt

@@ -1,0 +1,4 @@
+/system/config_menu.htm
+/selfservice/selfservice/module/scgroup/web/login_judge.jsf?view=./WEB-INF/web.xml%3F
+/
+/update.php?jungle=id

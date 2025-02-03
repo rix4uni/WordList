@@ -1,0 +1,1 @@
+/wp-content/plugins/bebetter-social-icons/readme.txt

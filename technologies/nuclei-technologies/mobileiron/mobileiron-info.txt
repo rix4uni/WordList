@@ -2,3 +2,6 @@
 /mifs/user/login.jsp
 /mifs/c/d/android.html
 /mics/login.jsp
+/favicon.ico
+/images/favicon.ico
+/api/v2/ui-page-metadata

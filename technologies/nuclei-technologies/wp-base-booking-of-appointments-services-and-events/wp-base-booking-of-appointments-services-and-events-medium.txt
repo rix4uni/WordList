@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-base-booking-of-appointments-services-and-events/readme.txt

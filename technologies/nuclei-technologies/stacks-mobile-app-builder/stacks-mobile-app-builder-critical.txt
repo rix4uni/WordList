@@ -1,0 +1,1 @@
+/wp-content/plugins/stacks-mobile-app-builder/readme.txt

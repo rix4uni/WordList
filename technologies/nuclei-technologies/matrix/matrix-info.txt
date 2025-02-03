@@ -1,3 +1,5 @@
 /.well-known/matrix/server
 /.well-known/matrix/client
 /_matrix/federation/v1/version
+/manifest.json
+/version

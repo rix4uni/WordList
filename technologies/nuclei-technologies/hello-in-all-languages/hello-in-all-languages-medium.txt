@@ -1,0 +1,1 @@
+/wp-content/plugins/hello-in-all-languages/readme.txt

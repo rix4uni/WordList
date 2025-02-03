@@ -3,3 +3,12 @@
 /#
 /web_caps/webCapsConfig
 /default.htm
+/_vti_inf.html
+/index.action?redirect:http://www.interact.sh/
+/mobile/error-not-supported-platform.html?desktop_url={{BaseURL}}.evil.com
+/SSI/index.htm
+/web-console/ServerInfo.jsp
+/wp-content/plugins/email-subscribers
+/wp-content/plugins/super-forms/
+/wp-json/wp/v2/users/
+/?rest_route=/wp/v2/users/

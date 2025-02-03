@@ -1,0 +1,1 @@
+/wp-content/plugins/edunext-openedx-integrator/readme.txt

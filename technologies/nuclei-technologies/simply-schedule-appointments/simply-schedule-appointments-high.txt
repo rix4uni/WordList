@@ -1,0 +1,1 @@
+/wp-content/plugins/simply-schedule-appointments/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/endless-posts-navigation/readme.txt

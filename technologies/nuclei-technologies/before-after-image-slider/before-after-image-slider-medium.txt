@@ -1,0 +1,1 @@
+/wp-content/plugins/before-after-image-slider/readme.txt

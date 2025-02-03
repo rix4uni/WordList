@@ -1,1 +1,3 @@
 /plugins/search/..\..\..\conf\openfire.xml
+/setup/setup-s/%u002e%u002e/%u002e%u002e/log.jsp
+/setup/index.jsp

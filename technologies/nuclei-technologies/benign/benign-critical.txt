@@ -1,0 +1,4 @@
+/zentao/repo-create-1?HTTP_X_REQUESTED_WITH=XMLHttpRequest
+/zentao/upgrade-moveExtFiles-1
+/zentao/repo-create-1
+/zentao/x.php?mode=id

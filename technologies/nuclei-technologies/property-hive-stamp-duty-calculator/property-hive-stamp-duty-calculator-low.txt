@@ -1,0 +1,1 @@
+/wp-content/plugins/property-hive-stamp-duty-calculator/readme.txt

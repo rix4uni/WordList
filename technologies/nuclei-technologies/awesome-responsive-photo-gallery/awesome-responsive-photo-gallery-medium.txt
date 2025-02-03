@@ -1,0 +1,1 @@
+/wp-content/plugins/awesome-responsive-photo-gallery/readme.txt

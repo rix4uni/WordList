@@ -1,1 +1,2 @@
 /druid/index.html
+/submitLogin

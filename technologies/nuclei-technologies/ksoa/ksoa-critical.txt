@@ -1,0 +1,2 @@
+/common/dept.jsp?deptid=1
+/servlet/com.sksoft.bill.QueryService?service=query&content=SELECT%20HashBytes(

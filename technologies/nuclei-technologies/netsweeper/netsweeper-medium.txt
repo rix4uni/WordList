@@ -7,3 +7,4 @@
 /remotereporter/load_logfiles.php?server=127.0.0.1&url=https://example.com/
 /webadmin/authportal/bounce.php?url=https://example.com/
 /webadmin/reporter/view_server_log.php?server=localhost&act=stats&filename=&offset=1&count=1000&sortorder=&log=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&offset=&sortitem=&filter=
+/webadmin/authportal/bounce.php?url=https://interact.sh/

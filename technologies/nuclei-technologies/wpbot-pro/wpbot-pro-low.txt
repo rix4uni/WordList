@@ -1,0 +1,1 @@
+/wp-content/plugins/wpbot-pro/readme.txt

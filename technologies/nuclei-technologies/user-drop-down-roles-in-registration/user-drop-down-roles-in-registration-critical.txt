@@ -1,0 +1,1 @@
+/wp-content/plugins/user-drop-down-roles-in-registration/readme.txt

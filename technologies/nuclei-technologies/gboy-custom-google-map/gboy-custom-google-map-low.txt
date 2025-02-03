@@ -1,0 +1,1 @@
+/wp-content/plugins/gboy-custom-google-map/readme.txt
