@@ -69,3 +69,4 @@
 /wp-content/uploads/prime-mover-export-files/1/
 /{{basket}}
 {{basket}}
+/bitrix/.settings.php.bak

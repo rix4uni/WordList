@@ -7781,3 +7781,8 @@
 /wp-content/plugins/wpm-news-api/readme.txt
 /wp-content/plugins/wpsol/readme.txt
 /wp-content/plugins/zephyr-modern-admin-theme/readme.txt
+/wp-content/plugins/chatter/readme.txt
+/wp-content/plugins/gdreseller/readme.txt
+/wp-content/plugins/mdc-youtube-downloader/readme.txt
+/wp-content/plugins/nv-slider/readme.txt
+/wp-content/plugins/wordpress-gallery-plugin/readme.txt

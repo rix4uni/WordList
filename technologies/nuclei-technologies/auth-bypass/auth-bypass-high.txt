@@ -32,3 +32,4 @@
 /update/../admin/diagnostic.jsp
 /position.js
 /API/V1/credentials
+/rest/rights/

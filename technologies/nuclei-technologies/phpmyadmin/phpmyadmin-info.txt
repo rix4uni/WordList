@@ -14,3 +14,4 @@
 {{paths}}
 /phpmyadmin/doc/html/index.html
 /doc/html/index.html
+/

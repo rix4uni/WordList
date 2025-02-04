@@ -1,3 +1,9 @@
 /index.php?s=example
 /?lang=../../thinkphp/base
 /?lang=../../../../../vendor/topthink/think-trace/src/TraceDebug
+/public/?lang=../../../../../public/{{random-path}}
+/index.php?lang=../../../../../public/{{random-path}}
+/?lang=../../../../../public/{{random-path}}
+/public/index.php
+/index.php
+/

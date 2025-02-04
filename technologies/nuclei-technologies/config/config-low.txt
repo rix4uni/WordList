@@ -100,3 +100,4 @@
 /xprober.php
 /__ENV.js
 {{paths}}
+/tox.ini

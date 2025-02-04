@@ -1,0 +1,1 @@
+/wp-content/plugins/wordpress-gallery-plugin/readme.txt

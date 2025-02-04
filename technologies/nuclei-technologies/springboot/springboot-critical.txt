@@ -45,3 +45,6 @@
 /%2e%2e/datahub/actuator/dump
 /..;/%2e/datahub/dump
 /..;/%2e/datahub/actuator/dump
+/api/heapdump
+/actuator/api/heapdump
+/cabinet/stripeapi/actuator/heapdump

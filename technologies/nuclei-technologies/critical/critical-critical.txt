@@ -1696,3 +1696,4 @@
 /wp-content/plugins/wp-query-console/readme.txt
 /wp-content/plugins/wp-users-masquerade/readme.txt
 /wp-content/plugins/wpc-shop-as-customer/readme.txt
+/wp-content/plugins/swift-performance-lite/readme.txt

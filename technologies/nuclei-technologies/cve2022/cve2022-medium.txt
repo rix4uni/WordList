@@ -151,3 +151,4 @@
 /shib_logout.php?action=logout&return=https://oast.me
 /ilias/shib_logout.php?action=logout&return=https://oast.me
 {{paths}}
+/wp-admin/admin-ajax.php?action=searchwp_live_search&swpquery=a&post_status=draft

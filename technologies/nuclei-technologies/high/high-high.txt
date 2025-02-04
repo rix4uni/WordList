@@ -5158,3 +5158,5 @@
 /?InternalDir=../../../../../Windows&InternalFile=win.ini
 /?InternalDir=\\..\\..\\..\\..\\usr\\local\\Serv-U&InternalFile=Serv-U-StartupLog.txt
 /?InternalDir=\\..\\..\\..\\..\\etc&InternalFile=passwd
+/wp-content/plugins/ays-chatgpt-assistant/readme.txt
+/wp-content/plugins/sastra-essential-addons-for-elementor/readme.txt

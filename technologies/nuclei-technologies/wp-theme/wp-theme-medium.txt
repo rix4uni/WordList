@@ -579,3 +579,5 @@
 /wp-content/themes/wp-foodbakery/style.css
 /wp-content/themes/Grimag/go.php?https://interact.sh
 /wp-content/themes/zilom/style.css
+/forums/search/z-->%22%3e%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/
+/wp-content/themes/flashy/style.css

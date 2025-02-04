@@ -299,3 +299,9 @@
 /actuator/startup
 /server
 /{{paths}}/debug.log
+/.well-known/jwks
+/.well-known/openid-configuration/jwks.json
+/.well-known/openid-configuration/jwks
+/jwks
+/browser/
+/tox.ini

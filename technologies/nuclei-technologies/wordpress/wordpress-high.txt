@@ -5588,3 +5588,5 @@
 /home/{{DN}}-WORDPRESS.txt
 /wp-content/plugins/wpsso/readme.txt
 /wp-content/plugins/xola-bookings-for-tours-activities/readme.txt
+/wp-content/plugins/ays-chatgpt-assistant/readme.txt
+/wp-content/plugins/sastra-essential-addons-for-elementor/readme.txt

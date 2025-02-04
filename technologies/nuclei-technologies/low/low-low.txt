@@ -6596,3 +6596,11 @@
 /wp-content/plugins/yacp/readme.txt
 /wp-content/plugins/yeemail/readme.txt
 /wp-content/plugins/zartis-job-plugin/readme.txt
+/wp-content/plugins/adifier-system/readme.txt
+/wp-content/plugins/extensions-for-cf7/readme.txt
+/wp-content/plugins/faq-builder-ays/readme.txt
+/wp-content/plugins/fat-event-lite/readme.txt
+/wp-content/plugins/google-map-professional/readme.txt
+/wp-content/plugins/marmoset-viewer/readme.txt
+/wp-content/plugins/octrace-support/readme.txt
+/wp-content/plugins/wp-fullcalendar/readme.txt

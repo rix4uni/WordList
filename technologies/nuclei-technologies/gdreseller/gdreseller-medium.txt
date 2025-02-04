@@ -1,0 +1,1 @@
+/wp-content/plugins/gdreseller/readme.txt

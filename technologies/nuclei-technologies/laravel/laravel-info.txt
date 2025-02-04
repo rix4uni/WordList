@@ -1,1 +1,2 @@
 /laravel-filemanager?type=Files
+/

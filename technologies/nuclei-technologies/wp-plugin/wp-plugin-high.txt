@@ -4849,3 +4849,5 @@
 /wp-admin/admin-post.php?alg_wc_pif_download_file=../../../../../wp-config.php
 /wp-content/plugins/wpsso/readme.txt
 /wp-content/plugins/xola-bookings-for-tours-activities/readme.txt
+/wp-content/plugins/ays-chatgpt-assistant/readme.txt
+/wp-content/plugins/sastra-essential-addons-for-elementor/readme.txt
