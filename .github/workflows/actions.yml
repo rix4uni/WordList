@@ -38,6 +38,17 @@ jobs:
         go run wordlist-generator-tools/nuclei-wordlist-generator.go -file wordlist-generator-tools/nucleihub-templates/nucleihub-templates -output-directory technologies/nuclei-technologies
         rm -rf wordlist-generator-tools/nucleihub-templates
 
+    - name: Generating nuclei wordlist based on severity
+      run: |
+        mkdir -p nuclei-severity
+        cat technologies/nuclei-technologies/*/*-unknown.txt | unew -q nuclei-severity/nuclei-unknown.txt
+        cat technologies/nuclei-technologies/*/*-info.txt | unew -q nuclei-severity/nuclei-info.txt
+        cat technologies/nuclei-technologies/*/*-low.txt | unew -q nuclei-severity/nuclei-low.txt
+        cat technologies/nuclei-technologies/*/*-medium.txt | unew -q nuclei-severity/nuclei-medium.txt
+        cat technologies/nuclei-technologies/*/*-high.txt | unew -q nuclei-severity/nuclei-high.txt
+        cat technologies/nuclei-technologies/*/*-critical.txt | unew -q nuclei-severity/nuclei-critical.txt
+        cat technologies/nuclei-technologies/*/*-all.txt | unew -q nuclei-severity/nuclei-all.txt
+
     - name: Commit and push changes if there are any
       run: |
         git config --global user.name 'GitHub Actions'
