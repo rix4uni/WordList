@@ -6260,3 +6260,6 @@
 /wp-content/plugins/marmoset-viewer/readme.txt
 /wp-content/plugins/octrace-support/readme.txt
 /wp-content/plugins/wp-fullcalendar/readme.txt
+/wp-content/plugins/boombox-theme-extensions/readme.txt
+/wp-content/plugins/oshine-modules/readme.txt
+/wp-content/plugins/traveler-layout-essential-for-elementor/readme.txt

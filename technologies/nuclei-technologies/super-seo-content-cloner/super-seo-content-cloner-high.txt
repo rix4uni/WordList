@@ -1,0 +1,1 @@
+/wp-content/plugins/super-seo-content-cloner/readme.txt

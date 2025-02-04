@@ -1,0 +1,1 @@
+/wp-content/plugins/fare-calculator/readme.txt

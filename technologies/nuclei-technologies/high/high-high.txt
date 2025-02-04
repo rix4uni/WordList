@@ -5160,3 +5160,8 @@
 /?InternalDir=\\..\\..\\..\\..\\etc&InternalFile=passwd
 /wp-content/plugins/ays-chatgpt-assistant/readme.txt
 /wp-content/plugins/sastra-essential-addons-for-elementor/readme.txt
+/wp-content/plugins/eventer/readme.txt
+/wp-content/plugins/oshine-modules/readme.txt
+/wp-content/plugins/document/readme.txt
+/wp-content/themes/socialv/style.css
+/wp-content/plugins/super-seo-content-cloner/readme.txt

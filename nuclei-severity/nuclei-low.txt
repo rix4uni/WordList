@@ -7428,3 +7428,8 @@
 /xmlrpc.php
 /XMLRPC.php
 /admin.back<img src=a onerror=alert(
+/wp-content/plugins/boombox-theme-extensions/readme.txt
+/wp-content/themes/socialv/style.css
+/wp-content/plugins/oshine-modules/readme.txt
+/wp-content/plugins/traveler-layout-essential-for-elementor/readme.txt
+/uddiexplorer/

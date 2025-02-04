@@ -2,3 +2,4 @@
 /api/axis
 /api/jsonws
 /api/jsonws/invoke
+/

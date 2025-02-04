@@ -7870,3 +7870,8 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /yyoa/common/js/menu/test.jsp?doType=101&S1=(SELECT%20MD5(123))
 /service/~iufo/com.ufida.web.action.ActionServlet?action=nc.ui.iufo.release.InfoReleaseAction&method=createBBSRelease&TreeSelectedID=&TableSelectedID=
 /yyoa/ext/trafaxserver/ExtnoManage/setextno.jsp?user_ids=(99999) union all select 1,2,(md5(123)),4#
+/wp-content/plugins/eventer/readme.txt
+/wp-content/plugins/oshine-modules/readme.txt
+/wp-content/plugins/document/readme.txt
+/wp-content/themes/socialv/style.css
+/wp-content/plugins/super-seo-content-cloner/readme.txt

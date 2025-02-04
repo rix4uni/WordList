@@ -2984,3 +2984,6 @@ pathCache.php
 /wp-admin/admin.php?page=asgarosforum-options
 /wordpress/installer.php
 /seeyon/htmlofficeservlet
+/wp-content/plugins/morkva-ua-shipping/readme.txt
+/wp-content/plugins/traveler-code/readme.txt
+/wp-content/plugins/dzs-zoomsounds/admin/upload.php

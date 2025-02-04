@@ -281,3 +281,4 @@
 /wp-config.wp-config.php.swp
 /wp-config.zip
 /_wpeprivate/config.json
+/wp-json/wp/v2/lesson/1

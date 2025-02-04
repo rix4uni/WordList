@@ -1,0 +1,1 @@
+/wp-content/plugins/hesabfa-accounting/readme.txt

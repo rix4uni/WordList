@@ -428,3 +428,4 @@
 /wp-content/themes/envo-multipurpose/style.css
 /wp-content/themes/udesign/style.css
 /wp-content/themes/vw-automobile-lite/style.css
+/wp-content/themes/socialv/style.css

@@ -48,3 +48,4 @@
 /web/database/manager
 /systemstatus.xml
 /api/v1/info
+/uddiexplorer/
