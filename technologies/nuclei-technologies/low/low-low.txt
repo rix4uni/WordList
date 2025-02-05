@@ -6608,3 +6608,4 @@
 /wp-content/themes/socialv/style.css
 /wp-content/plugins/oshine-modules/readme.txt
 /wp-content/plugins/traveler-layout-essential-for-elementor/readme.txt
+/wp-content/plugins/contact-manager/readme.txt

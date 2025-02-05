@@ -2987,3 +2987,6 @@ pathCache.php
 /wp-content/plugins/morkva-ua-shipping/readme.txt
 /wp-content/plugins/traveler-code/readme.txt
 /wp-content/plugins/dzs-zoomsounds/admin/upload.php
+/wp-json/api/flutter_user/apple_login
+/wp-content/plugins/dzs-zoomsounds/savepng.php?location=a.php
+/?__proto__[poc]=polluted

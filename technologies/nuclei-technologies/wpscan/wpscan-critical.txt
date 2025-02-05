@@ -45,3 +45,6 @@
 /?alg_wc_ev_verify_email=eyJpZCI6MSwiY29kZSI6MH0=
 /wordpress/installer.php
 /
+/wp-json/api/flutter_user/apple_login
+/wp-content/plugins/dzs-zoomsounds/savepng.php?location=a.php
+/?__proto__[poc]=polluted
