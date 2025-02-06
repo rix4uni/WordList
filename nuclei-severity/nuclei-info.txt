@@ -2252,3 +2252,4 @@
 /?author=1
 /xmlrpc.php
 /wp-signup.php
+/ip

