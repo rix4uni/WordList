@@ -96,3 +96,4 @@
 /wp-json/download-monitor/v1/user_data
 /solr/solrdefault/debug/dump?param=ContentStreams&stream.url=file://{{path}}
 /royal_event/btndates_report.php#?=
+/index.php?rest_route=/whm/v3/themesettings

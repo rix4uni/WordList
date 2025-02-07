@@ -7878,3 +7878,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-json/lp/v1/courses/archive-course?&order_by=1+AND+(SELECT+1+FROM+(SELECT(SLEEP(6)))X)&limit=-1
 /path-to-wishlist-handler
 /download/file.zip
+/index.php?rest_route=/whm/v3/themesettings

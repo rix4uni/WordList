@@ -6659,3 +6659,4 @@
 /wp-content/plugins/oshine-modules/readme.txt
 /wp-content/plugins/traveler-layout-essential-for-elementor/readme.txt
 /wp-content/plugins/contact-manager/readme.txt
+/wp-content/plugins/builder-shortcode-extras/readme.txt

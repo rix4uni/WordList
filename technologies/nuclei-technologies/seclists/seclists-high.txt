@@ -33,3 +33,4 @@
 /wp-admin/tools.php?content=attachment&wp-attachment-export-download=true
 /wp-admin/tools.php?content=&wp-attachment-export-download=true
 /%2e%2e/%2e%2e/etc/passwd
+/path/to/vulnerable/endpoint
