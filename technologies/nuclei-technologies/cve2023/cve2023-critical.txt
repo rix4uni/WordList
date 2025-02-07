@@ -50,3 +50,5 @@
 /index.php?rest_route=%2Fessential-blocks%2Fv1%2Fproducts&is_frontend=true&attributes={
 /wp-content/plugins/essential-blocks/readme.txt
 /php/ping.php
+/wp-content/plugins/my-calendar/readme.txt
+/?rest_route=/my-calendar/v1/events&from=1

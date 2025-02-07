@@ -2990,3 +2990,5 @@ pathCache.php
 /wp-json/api/flutter_user/apple_login
 /wp-content/plugins/dzs-zoomsounds/savepng.php?location=a.php
 /?__proto__[poc]=polluted
+/?rest_route=/my-calendar/v1/events&from=1
+/wp-admin/admin.php?page=fluent_forms&form_id=1&route=entries

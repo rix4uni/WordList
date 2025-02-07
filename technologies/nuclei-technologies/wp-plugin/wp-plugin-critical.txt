@@ -1573,3 +1573,4 @@
 /wp-content/plugins/swift-performance-lite/readme.txt
 /wp-content/plugins/morkva-ua-shipping/readme.txt
 /wp-content/plugins/traveler-code/readme.txt
+/?rest_route=/my-calendar/v1/events&from=1
