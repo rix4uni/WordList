@@ -6660,3 +6660,4 @@
 /wp-content/plugins/traveler-layout-essential-for-elementor/readme.txt
 /wp-content/plugins/contact-manager/readme.txt
 /wp-content/plugins/builder-shortcode-extras/readme.txt
+/wp-content/plugins/simple-add-pages-or-posts/readme.txt
