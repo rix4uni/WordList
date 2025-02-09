@@ -32,3 +32,4 @@
 /nifi-api/process-groups/root
 /html/usr/share/redmine/instances/default/config/secret_key.txt%3f
 /usr/share/redmine/instances/default/config/secret_key.txt%3f
+/portal/displayAPSForm.action?debug=command&expression={{first}}*{{second}}

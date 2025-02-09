@@ -1,0 +1,7 @@
+/ajax/reload_basket_fly.php
+/ajax/show_basket_fly.php
+/ajax/show_basket_popup.php
+/include/mainpage/comp_catalog_ajax.php
+/bitrix/components/aspro/oneclickbuy.max/script.php
+/bitrix/components/aspro/form.allcorp2/component.php
+/ajax/form.php

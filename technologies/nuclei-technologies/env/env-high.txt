@@ -28,3 +28,6 @@
 /artemis/1/..;/env
 /bitrix/.settings.php.bak
 {{paths}}
+/log.txt
+/log.log
+/__bx_log.log

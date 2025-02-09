@@ -305,3 +305,4 @@
 /jwks
 /browser/
 /tox.ini
+/wpad.dat

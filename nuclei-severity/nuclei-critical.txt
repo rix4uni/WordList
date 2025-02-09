@@ -2993,3 +2993,15 @@ pathCache.php
 /?rest_route=/my-calendar/v1/events&from=1
 /wp-admin/admin.php?page=fluent_forms&form_id=1&route=entries
 /wp-content/plugins/wp-all-export-pro/readme.txt
+/portal/displayAPSForm.action?debug=command&expression={{first}}*{{second}}
+/cgi-bin/php-cgi.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/php-cgi/php-cgi.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/cgi-bin/php.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/php-cgi/php.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/index.php?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/index.test?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+?--configPath=/{{randstr}}
+/wp-content/plugins/wp-directorybox-manager/readme.txt
+/{{randstr}}
+/_admin/imgdownload.php?filename=imgdownload.php
+/wp-includes/meta.php?meta_key=unprotected_meta_key&action=delete

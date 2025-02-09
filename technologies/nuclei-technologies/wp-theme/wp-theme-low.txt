@@ -366,3 +366,4 @@
 /wp-content/themes/sweetdate/style.css
 /wp-content/themes/vandana-lite/style.css
 /wp-content/themes/socialv/style.css
+/wp-content/themes/dwt-listing/style.css

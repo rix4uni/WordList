@@ -1,2 +1,3 @@
 /Login?!
 /ftpsync.settings
+/sftp-config.json

@@ -1741,3 +1741,4 @@
 /wp-content/plugins/traveler-code/readme.txt
 /?rest_route=/my-calendar/v1/events&from=1
 /wp-content/plugins/wp-all-export-pro/readme.txt
+/wp-content/plugins/wp-directorybox-manager/readme.txt

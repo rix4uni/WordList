@@ -181,3 +181,12 @@
 /{{paths}}/faq.php?cmd=echo%20-n%20{{num}}|md5sum
 /{{paths}}/forum.php?x=shell_exec&y=echo%20-n%20{{num}}|md5sum
 /wp-admin/admin-ajax.php
+/ajax/reload_basket_fly.php
+/ajax/show_basket_fly.php
+/ajax/show_basket_popup.php
+/include/mainpage/comp_catalog_ajax.php
+/bitrix/components/aspro/oneclickbuy.max/script.php
+/bitrix/components/aspro/form.allcorp2/component.php
+/ajax/form.php
+/bitrix/restore.php?lang=en
+/restore.php?lang=en

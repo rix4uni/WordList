@@ -14,3 +14,4 @@
 /hoteldruid/inizio.php
 /inizio.php
 /ords/f?p=4600:32:0::NO
+/bitrixsetup.php

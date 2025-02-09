@@ -11,3 +11,17 @@
 /server_test.php
 /server_test1.php
 /bitrix/.settings.php.bak
+/ajax/reload_basket_fly.php
+/ajax/show_basket_fly.php
+/ajax/show_basket_popup.php
+/include/mainpage/comp_catalog_ajax.php
+/bitrix/components/aspro/oneclickbuy.max/script.php
+/bitrix/components/aspro/form.allcorp2/component.php
+/ajax/form.php
+/log.txt
+/log.log
+/__bx_log.log
+/bitrixsetup.php
+/bitrix/components/bitrix/socialnetwork.events_dyn/get_message_2.php?log_cnt=<img%20onerror=alert(document.domain)%20src=1>
+/bitrix/restore.php?lang=en
+/restore.php?lang=en

@@ -1,1 +1,2 @@
 /module/AIP/get_file.php?MODULE=/&ATTACHMENT_NAME=php&ATTACHMENT_ID=.._webroot/inc/oa_config
+/_admin/imgdownload.php?filename=imgdownload.php

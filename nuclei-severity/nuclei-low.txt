@@ -7436,3 +7436,6 @@
 /wp-content/plugins/contact-manager/readme.txt
 /wp-content/plugins/builder-shortcode-extras/readme.txt
 /wp-content/plugins/simple-add-pages-or-posts/readme.txt
+/wpad.dat
+/wp-content/themes/dwt-listing/style.css
+/_fragment

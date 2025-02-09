@@ -1700,3 +1700,4 @@
 /wp-content/plugins/morkva-ua-shipping/readme.txt
 /wp-content/plugins/traveler-code/readme.txt
 /wp-content/plugins/wp-all-export-pro/readme.txt
+/wp-content/plugins/wp-directorybox-manager/readme.txt

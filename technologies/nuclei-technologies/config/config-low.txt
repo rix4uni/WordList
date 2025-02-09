@@ -101,3 +101,4 @@
 /__ENV.js
 {{paths}}
 /tox.ini
+/wpad.dat

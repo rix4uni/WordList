@@ -12,3 +12,9 @@
 /wp-content/uploads/2024/
 /wp-content/uploads/2025/
 /wp-content/uploads/cfdb7_uploads/
+/wp-content/themes/
+/wp-content/plugins/
+/wp-includes/
+/emergency.php
+/installer-log.txt
+/xmlrpc.php

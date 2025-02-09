@@ -52,3 +52,4 @@
 /wp-admin/admin.php?page=fluent_forms&form_id=1&route=entries
 /wp-content/plugins/my-calendar/readme.txt
 /?rest_route=/my-calendar/v1/events&from=1
+/wp-includes/meta.php?meta_key=unprotected_meta_key&action=delete

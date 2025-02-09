@@ -5165,3 +5165,5 @@
 /wp-content/plugins/document/readme.txt
 /wp-content/themes/socialv/style.css
 /wp-content/plugins/super-seo-content-cloner/readme.txt
+/wp-content/plugins/products-stock-manager-with-excel/readme.txt
+/wp-content/plugins/pdf-generator-addon-for-elementor-page-builder/readme.txt

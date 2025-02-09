@@ -1,0 +1,2 @@
+/bitrix/restore.php?lang=en
+/restore.php?lang=en

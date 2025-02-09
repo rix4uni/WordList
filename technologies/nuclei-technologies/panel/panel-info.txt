@@ -833,3 +833,6 @@
 /MyDevice/Login
 /yunohost/admin
 /login?route=%2Fworkspaces%2Fdefault%3F
+/bitrix/admin/index.php#authorize
+/ololo/?SEF_APPLICATION_CUR_PAGE_URL=/bitrix/admin/#authorize
+/glpi2/

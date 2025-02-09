@@ -260,3 +260,4 @@
 /tcpconfig.html
 /Server/.git/config
 /StudioServer/.git/config
+/sftp-config.json

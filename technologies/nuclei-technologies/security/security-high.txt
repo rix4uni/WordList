@@ -7,3 +7,8 @@
 /server_test.php
 /server_test1.php
 /bitrix/.settings.php.bak
+/log.txt
+/log.log
+/__bx_log.log
+/bitrix/restore.php?lang=en
+/restore.php?lang=en

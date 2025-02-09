@@ -505,3 +505,4 @@
 /serviceAccountCredentials.json
 /config/settings.old.php
 /files/ldap.debug.txt
+/sftp-config.json

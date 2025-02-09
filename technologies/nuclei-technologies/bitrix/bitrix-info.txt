@@ -31,3 +31,5 @@
 /bitrix/modules/bitrix.siteinfoportal/install/wizards/bitrix/infoportal/site/public/ru/personal/profile/index.php?register=yes
 /bitrix/modules/bitrix.siteinfoportal/install/wizards/bitrix/infoportal/site/public/ru/board/my/index.php?register=yes
 /bitrix/modules/forum/install/admin/forum_index.php
+/bitrix/admin/index.php#authorize
+/ololo/?SEF_APPLICATION_CUR_PAGE_URL=/bitrix/admin/#authorize

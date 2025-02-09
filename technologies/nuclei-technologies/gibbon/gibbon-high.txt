@@ -1,1 +1,2 @@
 /installer/install.php
+/?q=./gibbon.sql

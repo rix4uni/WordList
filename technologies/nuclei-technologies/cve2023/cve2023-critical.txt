@@ -52,3 +52,4 @@
 /php/ping.php
 /wp-content/plugins/my-calendar/readme.txt
 /?rest_route=/my-calendar/v1/events&from=1
+/_admin/imgdownload.php?filename=imgdownload.php

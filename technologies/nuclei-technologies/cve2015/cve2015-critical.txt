@@ -2,3 +2,4 @@
 /res/login.jsf?javax.faces.ViewState=excis3
 /wlsecurity.html
 /Install/InstallWizard.aspx?__VIEWSTATE
+/{{randstr}}

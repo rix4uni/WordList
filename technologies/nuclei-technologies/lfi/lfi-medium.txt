@@ -187,3 +187,5 @@
 {{paths}}
 /cgi-bin/ExportSettings.sh
 /wp-content/plugins/brandfolder/callback.php?wp_abspath=https://interact.sh/
+/assets/built%2F..%2F..%2F/package.json
+/assets/built%2F..%2F..%2F%E0%A4%A/package.json

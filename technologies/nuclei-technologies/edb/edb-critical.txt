@@ -43,3 +43,4 @@
 /?s=index/index/index
 /rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc
 /mainfile.php?username=test&password=testpoc&_login=1&Logon=%27%3Becho%20md5(TestPoc)%3B%27
+/portal/displayAPSForm.action?debug=command&expression={{first}}*{{second}}
