@@ -253,3 +253,4 @@
 /MyDevice/Login
 /yunohost/admin
 /ip
+/generatedHomepage.html
