@@ -6662,3 +6662,4 @@
 /wp-content/plugins/builder-shortcode-extras/readme.txt
 /wp-content/plugins/simple-add-pages-or-posts/readme.txt
 /wp-content/themes/dwt-listing/style.css
+/wp-content/themes/Attitude/go.php?https://interact.sh/

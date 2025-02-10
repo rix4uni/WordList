@@ -7439,3 +7439,4 @@
 /wpad.dat
 /wp-content/themes/dwt-listing/style.css
 /_fragment
+/wp-content/themes/Attitude/go.php?https://interact.sh/

@@ -105,3 +105,4 @@
 //example.com/%2f..
 /wp-content/themes/eatery/nav.php?-Menu-=https://interact.sh/
 /?aiowpsec_do_log_out=1&after_logout=https://interact.sh
+/wp-content/themes/Attitude/go.php?https://interact.sh/
