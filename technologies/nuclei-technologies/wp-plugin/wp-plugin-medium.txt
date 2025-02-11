@@ -7824,3 +7824,4 @@
 /wp-content/plugins/attire-blocks/readme.txt
 /wp-content/plugins/woo-quick-view/readme.txt
 /wp-content/plugins/radius-blocks/readme.txt
+/wp-content/plugins/latepoint/readme.txt

@@ -53,3 +53,4 @@
 /wp-content/plugins/my-calendar/readme.txt
 /?rest_route=/my-calendar/v1/events&from=1
 /wp-includes/meta.php?meta_key=unprotected_meta_key&action=delete
+/wpb-show-core/download-file.php?path=http://{{interactsh-url}}

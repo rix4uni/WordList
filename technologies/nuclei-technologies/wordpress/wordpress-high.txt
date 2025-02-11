@@ -5606,3 +5606,6 @@
 /
 /wp-content/plugins/ap-twig-bridge/readme.txt
 /wp-content/plugins/content-template-engine/readme.txt
+/wp-content/plugins/custom-login-admin-front-end-css-with-multisite-support/readme.txt
+/wp-content/plugins/latepoint/readme.txt
+/wp-content/plugins/woothemes-sensei/readme.txt

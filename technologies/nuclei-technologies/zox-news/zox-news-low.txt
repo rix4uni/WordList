@@ -1,1 +1,2 @@
 /wp-content/themes/zox-news/style.css
+/wp-content/plugins/zox-news/readme.txt

@@ -6656,3 +6656,9 @@
 /wp-content/plugins/people-lists/readme.txt
 /wp-content/plugins/advanced-notifications/readme.txt
 /wp-content/plugins/ht-contactform/readme.txt
+/wp-content/plugins/catch-scroll-progress-bar/readme.txt
+/wp-content/plugins/advanced-product-labels-for-woocommerce/readme.txt
+/wp-content/themes/sparklestore/style.css
+/wp-content/plugins/zox-news/readme.txt
+/wp-content/themes/accountra/style.css
+/wp-content/plugins/latepoint/readme.txt

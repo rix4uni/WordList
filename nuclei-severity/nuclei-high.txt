@@ -7911,3 +7911,6 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/content-template-engine/readme.txt
 /wp-content/plugins/wp-base-booking-of-appointments-services-and-events/readme.txt
 /wp-content/plugins/traveler-layout-essential-for-elementor/readme.txt
+/wp-content/plugins/custom-login-admin-front-end-css-with-multisite-support/readme.txt
+/wp-content/plugins/latepoint/readme.txt
+/wp-content/plugins/woothemes-sensei/readme.txt

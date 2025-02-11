@@ -11091,3 +11091,6 @@ request?info=<svg onload=alert(
 /wp-content/plugins/woocommerce-cloak-affiliate-links/readme.txt
 /wp-content/plugins/woo-quick-view/readme.txt
 /wp-content/plugins/radius-blocks/readme.txt
+/wp-content/plugins/latepoint/readme.txt
+/wp-content/themes/my-zebra/style.css
+/wp-admin/admin-ajax.php?action=eventon&eid=

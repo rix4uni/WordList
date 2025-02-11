@@ -3009,3 +3009,5 @@ pathCache.php
 /wp-content/plugins/onetone-companion/readme.txt
 /wp-content/plugins/wp-foodbakery/readme.txt
 /wp-content/plugins/virtual-bot/readme.txt
+/wp-content/plugins/simple-post-thumbnails/readme.txt
+/wpb-show-core/download-file.php?path=http://{{interactsh-url}}

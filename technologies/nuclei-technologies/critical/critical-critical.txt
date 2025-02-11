@@ -1705,3 +1705,4 @@
 /wp-content/plugins/wp-foodbakery/readme.txt
 /wp-content/plugins/4ecps-webforms/readme.txt
 /wp-content/plugins/virtual-bot/readme.txt
+/wp-content/plugins/simple-post-thumbnails/readme.txt
