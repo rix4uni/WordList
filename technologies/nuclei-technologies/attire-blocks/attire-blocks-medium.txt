@@ -1,0 +1,1 @@
+/wp-content/plugins/attire-blocks/readme.txt

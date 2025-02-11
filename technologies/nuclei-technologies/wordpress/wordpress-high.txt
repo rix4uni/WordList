@@ -5599,3 +5599,10 @@
 /index.php?rest_route=/whm/v3/themesettings
 /wp-content/plugins/products-stock-manager-with-excel/readme.txt
 /wp-content/plugins/pdf-generator-addon-for-elementor-page-builder/readme.txt
+/wp-content/plugins/contact-manager/readme.txt
+/wp-content/plugins/wp-base-booking-of-appointments-services-and-events/readme.txt
+/wp-content/plugins/traveler-layout-essential-for-elementor/readme.txt
+/wp-content/plugins/build-private-store-for-woocommerce/readme.txt
+/
+/wp-content/plugins/ap-twig-bridge/readme.txt
+/wp-content/plugins/content-template-engine/readme.txt

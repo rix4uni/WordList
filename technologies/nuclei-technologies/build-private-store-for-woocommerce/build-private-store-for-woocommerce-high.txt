@@ -1,0 +1,1 @@
+/wp-content/plugins/build-private-store-for-woocommerce/readme.txt

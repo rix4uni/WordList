@@ -1742,3 +1742,7 @@
 /?rest_route=/my-calendar/v1/events&from=1
 /wp-content/plugins/wp-all-export-pro/readme.txt
 /wp-content/plugins/wp-directorybox-manager/readme.txt
+/wp-content/plugins/onetone-companion/readme.txt
+/wp-content/plugins/wp-foodbakery/readme.txt
+/wp-content/plugins/4ecps-webforms/readme.txt
+/wp-content/plugins/virtual-bot/readme.txt

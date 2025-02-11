@@ -1,0 +1,1 @@
+/wp-content/plugins/traveler-layout-essential-for-elementor/readme.txt

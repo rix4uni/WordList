@@ -1,0 +1,1 @@
+/wp-content/plugins/xola-bookings-for-tours-activities/readme.txt

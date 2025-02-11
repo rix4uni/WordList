@@ -3005,3 +3005,7 @@ pathCache.php
 /{{randstr}}
 /_admin/imgdownload.php?filename=imgdownload.php
 /wp-includes/meta.php?meta_key=unprotected_meta_key&action=delete
+/wp-content/plugins/4ecps-webforms/readme.txt
+/wp-content/plugins/onetone-companion/readme.txt
+/wp-content/plugins/wp-foodbakery/readme.txt
+/wp-content/plugins/virtual-bot/readme.txt

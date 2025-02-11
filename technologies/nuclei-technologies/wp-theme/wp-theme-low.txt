@@ -368,3 +368,4 @@
 /wp-content/themes/socialv/style.css
 /wp-content/themes/dwt-listing/style.css
 /wp-content/themes/Attitude/go.php?https://interact.sh/
+/wp-content/themes/envo-multipurpose/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/super-block-slider/readme.txt

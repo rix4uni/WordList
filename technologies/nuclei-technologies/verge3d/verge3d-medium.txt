@@ -1,0 +1,1 @@
+/wp-content/plugins/verge3d/readme.txt
