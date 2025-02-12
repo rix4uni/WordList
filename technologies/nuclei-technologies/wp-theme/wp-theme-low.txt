@@ -371,3 +371,6 @@
 /wp-content/themes/envo-multipurpose/style.css
 /wp-content/themes/sparklestore/style.css
 /wp-content/themes/accountra/style.css
+/wp-content/themes/zoxpress/style.css
+/wp-content/themes/click-mag/style.css
+/wp-content/themes/puzzles/style.css

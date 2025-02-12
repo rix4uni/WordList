@@ -7825,3 +7825,6 @@
 /wp-content/plugins/woo-quick-view/readme.txt
 /wp-content/plugins/radius-blocks/readme.txt
 /wp-content/plugins/latepoint/readme.txt
+/wp-content/plugins/book-a-room/readme.txt
+/wp-content/plugins/aforms-eats/readme.txt
+/wp-content/plugins/houzez-property-feed/readme.txt

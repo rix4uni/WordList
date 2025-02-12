@@ -3011,3 +3011,13 @@ pathCache.php
 /wp-content/plugins/virtual-bot/readme.txt
 /wp-content/plugins/simple-post-thumbnails/readme.txt
 /wpb-show-core/download-file.php?path=http://{{interactsh-url}}
+/wp-content/plugins/wp-job-board-pro/readme.txt
+/wp-content/plugins/security-malware-firewall/readme.txt
+/wp-content/themes/realestate-7/style.css
+/wp-content/plugins/ebook-downloader/readme.txt
+/wp-content/plugins/small-package-quotes-ups-edition/readme.txt
+/wp-content/plugins/ltl-freight-quotes-unishippers-edition/readme.txt
+/wp-content/plugins/ltl-freight-quotes-fedex-freight-edition/readme.txt
+/wp-content/plugins/ltl-freight-quotes-xpo-edition/readme.txt
+/wp-content/plugins/shipengine-shipping-quotes/readme.txt
+/wp-content/plugins/small-package-quotes-purolator-edition/readme.txt

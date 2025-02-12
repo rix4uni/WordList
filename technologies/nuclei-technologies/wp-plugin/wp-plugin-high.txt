@@ -4869,3 +4869,5 @@
 /wp-content/plugins/custom-login-admin-front-end-css-with-multisite-support/readme.txt
 /wp-content/plugins/latepoint/readme.txt
 /wp-content/plugins/woothemes-sensei/readme.txt
+/wp-content/plugins/majestic-support/readme.txt
+/wp-content/plugins/qa-heatmap-analytics/readme.txt

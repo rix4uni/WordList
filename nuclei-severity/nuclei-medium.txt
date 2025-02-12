@@ -11094,3 +11094,6 @@ request?info=<svg onload=alert(
 /wp-content/plugins/latepoint/readme.txt
 /wp-content/themes/my-zebra/style.css
 /wp-admin/admin-ajax.php?action=eventon&eid=
+/wp-content/plugins/aforms-eats/readme.txt
+/wp-content/plugins/book-a-room/readme.txt
+/wp-content/plugins/houzez-property-feed/readme.txt

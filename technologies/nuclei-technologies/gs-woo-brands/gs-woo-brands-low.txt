@@ -1,0 +1,1 @@
+/wp-content/plugins/gs-woo-brands/readme.txt
