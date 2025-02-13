@@ -2,3 +2,10 @@
 /view/viewer_index.shtml
 /pics/logo_70x29px.gif
 /index.html
+/favicon.png
+/images/versalogo.png
+/images/versalogo2.png
+/common/images/Logo.png
+/versa/dist/images/versa-logo.png
+/versa/styles/img/versa-logo.png
+/versa/app/img/versa-logo.png

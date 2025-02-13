@@ -1,2 +1,3 @@
 /www/admin/index.php
 /admin/index.php
+/www/admin/

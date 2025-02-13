@@ -202,3 +202,6 @@
 /auth/manager/sign-in/
 {{paths}}
 /api-description
+/swagger-ui/springfox.js
+/swagger-ui/swagger-ui-standalone-preset.js
+/swagger-ui/swagger-ui/swagger-ui-bundle.js

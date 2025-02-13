@@ -506,3 +506,4 @@
 /config/settings.old.php
 /files/ldap.debug.txt
 /sftp-config.json
+/xwiki/rest/wikis/xwiki/spaces/Main/pages/WebHome/history

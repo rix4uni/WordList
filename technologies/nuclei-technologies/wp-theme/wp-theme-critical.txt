@@ -156,3 +156,5 @@
 /wp-content/themes/airin-blog/style.css
 /wp-content/themes/travelscape/readme.txt
 /wp-content/themes/realestate-7/style.css
+/wp-content/themes/campress/style.css
+/wp-content/themes/puzzles/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-certain-time-to-show-content/readme.txt

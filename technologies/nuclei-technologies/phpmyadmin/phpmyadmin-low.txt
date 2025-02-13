@@ -1,0 +1,12 @@
+/phpmyadmin/
+/admin//phpmyadmin/
+/_phpmyadmin/
+/administrator/components/com_joommyadmin/phpmyadmin/
+/apache-default/phpmyadmin/
+/blog/phpmyadmin/
+/forum/phpmyadmin/
+/php/phpmyadmin/
+/typo3/phpmyadmin/
+/web/phpmyadmin/
+/xampp/phpmyadmin/
+/phpMyAdmin/

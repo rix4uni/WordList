@@ -1,0 +1,1 @@
+/wp-content/plugins/sendpulse-email-marketing-newsletter/readme.txt

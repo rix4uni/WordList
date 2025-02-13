@@ -4,3 +4,4 @@
 /redir?target={{RedirectURL}}
 /out?link={{RedirectURL}}
 /go?to={{RedirectURL}}
+{{params}}

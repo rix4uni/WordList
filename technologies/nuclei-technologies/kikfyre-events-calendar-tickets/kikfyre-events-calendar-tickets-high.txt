@@ -1,0 +1,1 @@
+/wp-content/plugins/kikfyre-events-calendar-tickets/readme.txt

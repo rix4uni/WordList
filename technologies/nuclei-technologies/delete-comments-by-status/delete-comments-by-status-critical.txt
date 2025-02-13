@@ -1,0 +1,1 @@
+/wp-content/plugins/delete-comments-by-status/readme.txt

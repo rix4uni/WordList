@@ -1,0 +1,1 @@
+/wp-content/plugins/alert-box-block/readme.txt

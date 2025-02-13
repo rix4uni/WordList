@@ -1,1 +1,2 @@
 /service/rest/swagger.json
+/nexus/service/rest/swagger.json

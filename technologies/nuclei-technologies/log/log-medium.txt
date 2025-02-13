@@ -1,1 +1,2 @@
 /downloader.log
+/html/log

@@ -582,3 +582,5 @@
 /forums/search/z-->%22%3e%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/
 /wp-content/themes/flashy/style.css
 /wp-content/themes/my-zebra/style.css
+/wp-content/themes/listivo/style.css
+/wp-content/themes/sensible-wp/style.css

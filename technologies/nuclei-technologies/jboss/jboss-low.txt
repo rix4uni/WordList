@@ -1,2 +1,3 @@
 /web-console/ServerInfo.jsp
 /jbossws/services
+/juddi/

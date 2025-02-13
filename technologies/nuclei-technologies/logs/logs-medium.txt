@@ -32,3 +32,4 @@
 /logs/errors
 /tcpconfig.html
 /files/ldap.debug.txt
+{{paths}}

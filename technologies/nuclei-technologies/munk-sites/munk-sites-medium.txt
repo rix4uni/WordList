@@ -1,0 +1,1 @@
+/wp-content/plugins/munk-sites/readme.txt

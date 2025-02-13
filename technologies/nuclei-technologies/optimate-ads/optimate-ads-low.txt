@@ -1,0 +1,1 @@
+/wp-content/plugins/optimate-ads/readme.txt

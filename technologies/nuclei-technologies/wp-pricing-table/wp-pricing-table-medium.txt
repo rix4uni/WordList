@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-pricing-table/readme.txt

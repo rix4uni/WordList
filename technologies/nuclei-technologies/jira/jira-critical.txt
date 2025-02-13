@@ -1,3 +1,5 @@
 /secure/ContactAdministrators!default.jspa
 /InsightPluginShowGeneralConfiguration.jspa;
 /secure/WBSGanttManageScheduleJobAction.jspa;
+/rest/menu/latest/admin
+/rest/api/2/dashboard?maxResults=100

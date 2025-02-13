@@ -10,3 +10,4 @@
 /wp-content/plugins/simple-slideshow-manager/readme.txt
 /wp-content/plugins/w3-total-cache/readme.txt
 /wp-content/plugins/wp-filebase/readme.txt
+/wp-content/plugins/advanced-custom-fields-pro/readme.txt
