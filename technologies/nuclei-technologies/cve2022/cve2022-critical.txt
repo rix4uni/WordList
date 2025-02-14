@@ -44,3 +44,4 @@
 /ubus/
 /badging/badge_template_print.php?tpl=aa.xml&idt=1337%20UNION%20SELECT%20NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,
 /autodiscover/autodiscover.json@Powershell.{{randstr}}.com/owa/
+/cmd?cmd=connect

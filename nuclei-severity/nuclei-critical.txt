@@ -3036,3 +3036,4 @@ pathCache.php
 /ajax-api/2.0/mlflow/model-versions/create
 /model-versions/get-artifact?path=random&name=poc&version=1
 /vulnerable/path
+/cmd?cmd=connect

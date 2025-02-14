@@ -40,3 +40,4 @@
 /nacos/v1/auth/users
 /v1/auth/users
 /scrm/crm/admin
+/cmd?cmd=connect
