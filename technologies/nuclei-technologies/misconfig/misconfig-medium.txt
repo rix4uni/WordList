@@ -133,3 +133,4 @@
 /zp/zp-core/setup/index.php
 /gallery/zp-core/setup/index.php
 /zp-core/setup/index.php
+/devices.php

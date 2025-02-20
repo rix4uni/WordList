@@ -3037,3 +3037,4 @@ pathCache.php
 /model-versions/get-artifact?path=random&name=poc&version=1
 /vulnerable/path
 /cmd?cmd=connect
+/admin/

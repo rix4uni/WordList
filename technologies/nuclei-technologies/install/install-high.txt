@@ -67,3 +67,4 @@
 /install/make-config.php
 /umbraco/management/api/v1/server/status
 /#welcome
+/finish-installation/register

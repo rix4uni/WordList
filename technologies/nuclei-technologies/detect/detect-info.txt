@@ -254,3 +254,6 @@
 /yunohost/admin
 /ip
 /generatedHomepage.html
+/reports/api/v2.0/System
+/reports/browse
+/veracore/Home/#systems

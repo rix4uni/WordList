@@ -79,3 +79,4 @@
 /..;/proc/self/environ
 /..;/redmine/config/environment.rb
 {{paths}}
+/install/

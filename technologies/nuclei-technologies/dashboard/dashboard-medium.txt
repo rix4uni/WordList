@@ -4,3 +4,4 @@
 /#dashboard
 /transmission/web/
 /slurm/
+/devices.php

@@ -479,3 +479,4 @@
 /wp-config.wp-config.php.swp
 /wp-config.zip
 /_wpeprivate/config.json
+/finish-installation/register

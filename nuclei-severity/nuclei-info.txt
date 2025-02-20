@@ -2261,3 +2261,6 @@
 /swagger-ui/swagger-ui/swagger-ui-bundle.js
 /nexus/service/rest/swagger.json
 /www/admin/
+/reports/api/v2.0/System
+/reports/browse
+/veracore/Home/#systems

@@ -1,1 +1,2 @@
 /api/v1/info
+/sign-in
