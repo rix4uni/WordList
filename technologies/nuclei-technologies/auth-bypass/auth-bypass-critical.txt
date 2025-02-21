@@ -41,3 +41,4 @@
 /v1/auth/users
 /scrm/crm/admin
 /cmd?cmd=connect
+/unauth/%252e%252e/php/ztp_gate.php/PAN_help/x.css
