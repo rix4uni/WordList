@@ -1,0 +1,1 @@
+/wp-content/plugins/multicarousel/readme.txt

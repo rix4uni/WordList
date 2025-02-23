@@ -216,3 +216,4 @@
 ///etc.children.json/FNZ.html
 ///etc.children.json/FNZ.png
 ///etc.children.json/FNZ.ico
+/config.html

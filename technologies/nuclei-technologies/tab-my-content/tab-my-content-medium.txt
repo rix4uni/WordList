@@ -1,0 +1,1 @@
+/wp-content/plugins/tab-my-content/readme.txt

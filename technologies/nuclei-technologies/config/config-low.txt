@@ -102,3 +102,9 @@
 {{paths}}
 /tox.ini
 /wpad.dat
+/.pre-commit-config.yaml
+/pre-commit-config.yaml
+/pubspec.yaml
+/assets/pubspec.yaml
+/ws-config.json
+/ws-config.example.json

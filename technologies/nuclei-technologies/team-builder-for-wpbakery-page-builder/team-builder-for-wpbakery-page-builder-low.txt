@@ -1,0 +1,1 @@
+/wp-content/plugins/team-builder-for-wpbakery-page-builder/readme.txt

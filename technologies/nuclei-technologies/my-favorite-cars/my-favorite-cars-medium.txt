@@ -1,0 +1,1 @@
+/wp-content/plugins/my-favorite-cars/readme.txt

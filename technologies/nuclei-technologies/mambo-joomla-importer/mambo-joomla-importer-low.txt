@@ -1,0 +1,1 @@
+/wp-content/plugins/mambo-joomla-importer/readme.txt

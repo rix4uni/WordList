@@ -1,0 +1,1 @@
+/wp-content/plugins/events-planner/readme.txt

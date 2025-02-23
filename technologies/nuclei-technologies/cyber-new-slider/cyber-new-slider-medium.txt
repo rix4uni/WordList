@@ -1,0 +1,1 @@
+/wp-content/plugins/cyber-new-slider/readme.txt

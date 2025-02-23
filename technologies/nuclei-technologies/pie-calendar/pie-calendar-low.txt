@@ -1,0 +1,1 @@
+/wp-content/plugins/pie-calendar/readme.txt

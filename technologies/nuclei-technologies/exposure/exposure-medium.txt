@@ -507,3 +507,15 @@
 /files/ldap.debug.txt
 /sftp-config.json
 /xwiki/rest/wikis/xwiki/spaces/Main/pages/WebHome/history
+/.git/HEAD
+/.git/index
+/log/system.log
+/log/vpn.log
+/log/access.log
+/log/warn.log
+/log/error.log
+/log/debug.log
+/log/mobile.log
+/log/firewall.log
+/wgetrc
+/.wgetrc

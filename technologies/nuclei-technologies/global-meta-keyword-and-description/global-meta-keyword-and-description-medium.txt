@@ -1,0 +1,1 @@
+/wp-content/plugins/global-meta-keyword-and-description/readme.txt

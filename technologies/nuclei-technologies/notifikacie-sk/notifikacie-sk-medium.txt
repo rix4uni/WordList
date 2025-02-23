@@ -1,0 +1,1 @@
+/wp-content/plugins/notifikacie-sk/readme.txt

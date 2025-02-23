@@ -1,0 +1,1 @@
+/wp-content/plugins/vstemplate-creator/readme.txt

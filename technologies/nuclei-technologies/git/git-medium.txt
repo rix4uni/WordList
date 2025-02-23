@@ -2,3 +2,5 @@
 /.git/
 /Server/.git/config
 /StudioServer/.git/config
+/.git/HEAD
+/.git/index

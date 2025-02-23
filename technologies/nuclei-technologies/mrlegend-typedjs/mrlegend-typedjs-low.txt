@@ -1,0 +1,1 @@
+/wp-content/plugins/mrlegend-typedjs/readme.txt

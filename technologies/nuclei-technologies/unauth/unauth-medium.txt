@@ -94,3 +94,4 @@ preview.php?controller=Load&action=index&catid=moztj%22%3E%3Cscript%3Ealert(docu
 /s/
 /wp-admin/admin-ajax.php?page=social-metrics-tracker-export&smt_download_export_file=1
 /devices.php
+/?PagePrincipale/rss&id=1%27%3Cscript%3Ealert(document.domain)%3C/script%3E

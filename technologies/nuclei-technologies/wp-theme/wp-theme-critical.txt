@@ -158,3 +158,4 @@
 /wp-content/themes/realestate-7/style.css
 /wp-content/themes/campress/style.css
 /wp-content/themes/puzzles/style.css
+/wp-content/themes/carspot/style.css

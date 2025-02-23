@@ -7,3 +7,4 @@
 /status?full
 /config/env.js
 /config/runtime-env.js
+/.s3cfg

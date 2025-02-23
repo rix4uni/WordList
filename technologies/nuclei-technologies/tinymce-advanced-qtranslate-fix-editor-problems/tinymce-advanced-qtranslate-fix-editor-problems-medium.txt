@@ -1,0 +1,1 @@
+/wp-content/plugins/tinymce-advanced-qtranslate-fix-editor-problems/readme.txt

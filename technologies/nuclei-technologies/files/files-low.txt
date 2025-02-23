@@ -71,3 +71,5 @@
 /ws_ftp.ini
 /cgi-bin/printenv.pl
 {{paths}}
+/ws-config.json
+/ws-config.example.json

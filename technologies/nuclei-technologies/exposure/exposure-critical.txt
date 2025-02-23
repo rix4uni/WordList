@@ -111,3 +111,5 @@
 /mysql/config.json
 /postgres/config.json
 /mongodb/config.json
+/wp-login.php?action=register
+/wp/wp-login.php?action=register

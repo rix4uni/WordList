@@ -1,0 +1,1 @@
+/wp-content/plugins/report-broken-links/readme.txt

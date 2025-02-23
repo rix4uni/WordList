@@ -347,3 +347,11 @@
 /swagger-resources/restservices/v2/api-docs
 /classicapi/doc/
 /api/v1/openapi
+/behat.yml
+/behat.yml.dist
+/.pre-commit-config.yaml
+/pre-commit-config.yaml
+/pubspec.yaml
+/assets/pubspec.yaml
+/ws-config.json
+/ws-config.example.json

@@ -1,0 +1,1 @@
+/wp-content/plugins/jma-youtube-playlists-with-schema/readme.txt

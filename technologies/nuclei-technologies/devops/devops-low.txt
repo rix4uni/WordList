@@ -16,3 +16,9 @@
 /search/token.json
 /.viminfo
 /vite.config.js
+/behat.yml
+/behat.yml.dist
+/.pre-commit-config.yaml
+/pre-commit-config.yaml
+/pubspec.yaml
+/assets/pubspec.yaml

@@ -61,3 +61,6 @@
 /web/phpmyadmin/
 /xampp/phpmyadmin/
 /phpMyAdmin/
+/~sicom/mgrng/LoginForm.php
+/config.html
+/sws/index.sws

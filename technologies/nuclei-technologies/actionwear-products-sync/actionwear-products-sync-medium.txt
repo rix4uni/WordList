@@ -1,0 +1,1 @@
+/wp-content/plugins/actionwear-products-sync/readme.txt

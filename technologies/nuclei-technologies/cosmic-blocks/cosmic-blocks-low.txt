@@ -1,0 +1,1 @@
+/wp-content/plugins/cosmic-blocks/readme.txt

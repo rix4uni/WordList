@@ -1,0 +1,1 @@
+/wp-content/plugins/romancart-on-wordpress/readme.txt

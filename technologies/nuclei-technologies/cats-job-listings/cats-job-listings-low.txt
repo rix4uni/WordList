@@ -1,0 +1,1 @@
+/wp-content/plugins/cats-job-listings/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/badr-naver-syndication/readme.txt

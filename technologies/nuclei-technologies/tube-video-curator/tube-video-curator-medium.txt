@@ -1,0 +1,1 @@
+/wp-content/plugins/tube-video-curator/readme.txt

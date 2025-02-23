@@ -1,0 +1,1 @@
+/wp-content/plugins/amo-team-showcase/readme.txt

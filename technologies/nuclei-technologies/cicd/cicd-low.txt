@@ -1,1 +1,7 @@
 /codeception.yml
+/behat.yml
+/behat.yml.dist
+/.pre-commit-config.yaml
+/pre-commit-config.yaml
+/pubspec.yaml
+/assets/pubspec.yaml

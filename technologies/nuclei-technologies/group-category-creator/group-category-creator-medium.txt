@@ -1,0 +1,1 @@
+/wp-content/plugins/group-category-creator/readme.txt

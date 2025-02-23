@@ -1,0 +1,3 @@
+/.git/HEAD
+/.git/index
+/.git/config

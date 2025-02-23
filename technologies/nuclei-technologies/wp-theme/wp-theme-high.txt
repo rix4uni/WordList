@@ -429,3 +429,5 @@
 /wp-content/themes/udesign/style.css
 /wp-content/themes/vw-automobile-lite/style.css
 /wp-content/themes/socialv/style.css
+/wp-content/themes/uncode/style.css
+/wp-content/themes/pressmart/style.css

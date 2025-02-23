@@ -1,0 +1,1 @@
+/wp-content/plugins/bigbuy-wc-dropshipping-connector/readme.txt

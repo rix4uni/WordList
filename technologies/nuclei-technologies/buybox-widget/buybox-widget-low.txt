@@ -1,0 +1,1 @@
+/wp-content/plugins/buybox-widget/readme.txt
