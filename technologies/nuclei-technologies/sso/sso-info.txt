@@ -1,1 +1,2 @@
 /static/dist/assets/icons/icon.png
+/shibboleth-idp
