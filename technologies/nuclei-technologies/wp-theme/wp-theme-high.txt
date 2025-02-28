@@ -431,3 +431,6 @@
 /wp-content/themes/socialv/style.css
 /wp-content/themes/uncode/style.css
 /wp-content/themes/pressmart/style.css
+/wp-content/themes/enfold/style.css
+/wp-content/themes/medicenter/style.css
+/wp-content/themes/photography/style.css

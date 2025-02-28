@@ -1,0 +1,1 @@
+/wp-content/plugins/yawave/readme.txt

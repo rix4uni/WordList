@@ -4,3 +4,5 @@
 /api/v1/targets
 /prometheus/graph
 /
+/metrics
+/api/metrics

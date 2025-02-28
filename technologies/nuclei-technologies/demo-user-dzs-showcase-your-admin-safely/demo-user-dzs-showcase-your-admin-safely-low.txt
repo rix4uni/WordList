@@ -1,0 +1,1 @@
+/wp-content/plugins/demo-user-dzs-showcase-your-admin-safely/readme.txt

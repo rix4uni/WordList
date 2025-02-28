@@ -376,3 +376,4 @@
 /wp-content/themes/puzzles/style.css
 /wp-content/themes/uncode/style.css
 /wp-content/themes/pressmart/style.css
+/wp-content/themes/photography/style.css

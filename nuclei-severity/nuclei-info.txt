@@ -2265,3 +2265,4 @@
 /reports/browse
 /veracore/Home/#systems
 /shibboleth-idp
+/api/metrics

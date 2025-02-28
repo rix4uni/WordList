@@ -1,0 +1,1 @@
+/wp-content/plugins/realtyna-provisioning/readme.txt

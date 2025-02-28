@@ -1,2 +1,7 @@
 /jolokia/read/Users:database=UserDatabase,type=UserDatabase
 /actuator/jolokia/read/Users:database=UserDatabase,type=UserDatabase
+/manager/status
+:8080/manager/status
+:8000/manager/status
+:{{jmx_ports}}
+/manager/jmxproxy

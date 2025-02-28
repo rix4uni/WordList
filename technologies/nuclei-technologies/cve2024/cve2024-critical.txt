@@ -62,3 +62,4 @@
 /index.php?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 /index.test?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 ?--configPath=/{{randstr}}
+/test.php?%ADd+allow_url_include=1+%ADd+auto_prepend_file=php://input

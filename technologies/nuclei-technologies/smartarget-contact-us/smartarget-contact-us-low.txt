@@ -1,0 +1,1 @@
+/wp-content/plugins/smartarget-contact-us/readme.txt

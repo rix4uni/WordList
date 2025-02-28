@@ -8,3 +8,8 @@
 /forum/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
 /forums/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
 /vb/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/manager/status
+:8080/manager/status
+:8000/manager/status
+:{{jmx_ports}}
+/manager/jmxproxy

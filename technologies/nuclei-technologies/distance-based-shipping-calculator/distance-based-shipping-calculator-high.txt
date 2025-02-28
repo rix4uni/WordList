@@ -1,0 +1,1 @@
+/wp-content/plugins/distance-based-shipping-calculator/readme.txt

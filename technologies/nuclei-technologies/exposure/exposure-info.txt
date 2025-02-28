@@ -359,3 +359,4 @@
 /swagger-ui/springfox.js
 /swagger-ui/swagger-ui-standalone-preset.js
 /swagger-ui/swagger-ui/swagger-ui-bundle.js
+/api/metrics

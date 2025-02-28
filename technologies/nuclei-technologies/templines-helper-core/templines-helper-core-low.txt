@@ -1,0 +1,1 @@
+/wp-content/plugins/templines-helper-core/readme.txt

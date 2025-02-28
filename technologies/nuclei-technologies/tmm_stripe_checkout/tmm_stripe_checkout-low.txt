@@ -1,0 +1,1 @@
+/wp-content/plugins/tmm_stripe_checkout/readme.txt

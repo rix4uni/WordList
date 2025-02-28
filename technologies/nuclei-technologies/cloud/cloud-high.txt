@@ -6,3 +6,4 @@
 /config/secrets.yml
 /test/config/secrets.yml
 /redmine/config/secrets.yml
+/wp-content/plugins/cloud/readme.txt

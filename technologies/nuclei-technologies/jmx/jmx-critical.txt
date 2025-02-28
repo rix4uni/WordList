@@ -1,3 +1,8 @@
 /api/clusters
 /api/clusters/malicious-cluster
 /api/clusters/malicious-cluster/metrics
+/manager/status
+:8080/manager/status
+:8000/manager/status
+:{{jmx_ports}}
+/manager/jmxproxy

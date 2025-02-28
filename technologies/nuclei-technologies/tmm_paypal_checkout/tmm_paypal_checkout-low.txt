@@ -1,0 +1,1 @@
+/wp-content/plugins/tmm_paypal_checkout/readme.txt

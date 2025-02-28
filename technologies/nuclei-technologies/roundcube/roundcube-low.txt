@@ -1,0 +1,3 @@
+/roundcube/
+/mail/
+/webmail/

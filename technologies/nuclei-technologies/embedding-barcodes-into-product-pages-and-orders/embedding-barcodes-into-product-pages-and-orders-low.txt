@@ -1,0 +1,1 @@
+/wp-content/plugins/embedding-barcodes-into-product-pages-and-orders/readme.txt

@@ -3,3 +3,4 @@
 /android/app/google-services.json
 /token.json
 /search/token.json
+/wp-content/plugins/cloud/readme.txt

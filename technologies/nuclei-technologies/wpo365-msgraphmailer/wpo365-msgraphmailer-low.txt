@@ -1,0 +1,1 @@
+/wp-content/plugins/wpo365-msgraphmailer/readme.txt

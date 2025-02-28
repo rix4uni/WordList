@@ -1785,3 +1785,13 @@
 /wp-content/plugins/multicarousel/readme.txt
 /wp-content/plugins/muzaara-adwords-optimize-dashboard/readme.txt
 /wp-content/plugins/wooexim/readme.txt
+/wp-content/plugins/k-elements/readme.txt
+/wp-content/plugins/yawave/readme.txt
+/wp-content/plugins/login-me-now/readme.txt
+/wp-content/plugins/simplified/readme.txt
+/wp-content/plugins/cookie-monster/readme.txt
+/wp-content/plugins/ppv-live-webcams/readme.txt
+/wp-content/plugins/nova-poshta-ttn/readme.txt
+/wp-content/plugins/save-as-pdf-by-pdfcrowd/readme.txt
+/wp-content/plugins/calculator-builder/readme.txt
+/wp-content/plugins/chaty-pro/readme.txt

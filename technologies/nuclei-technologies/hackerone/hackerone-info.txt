@@ -1,3 +1,5 @@
 /mysql.initial.sql
 /wp-content/plugins/.git/config
 /wp-content/themes/.git/config
+/metrics
+/api/metrics

@@ -1,0 +1,1 @@
+/wp-content/plugins/a1post-bg-shipping-for-woocommerce/readme.txt

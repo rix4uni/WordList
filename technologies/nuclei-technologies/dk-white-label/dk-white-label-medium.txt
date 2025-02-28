@@ -1,0 +1,1 @@
+/wp-content/plugins/dk-white-label/readme.txt

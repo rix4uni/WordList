@@ -122,3 +122,4 @@
 /cgi-bin/apcupsd/multimon.cgi
 /cgi-bin/multimon.cgi
 /?phpinfo=-1
+/api/metrics

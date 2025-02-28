@@ -1,0 +1,1 @@
+/wp-content/plugins/hss-embed-streaming-video/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/drivr-google-drive-file-picker/readme.txt

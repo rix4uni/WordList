@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-pricing-table/readme.txt
