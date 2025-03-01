@@ -3080,3 +3080,10 @@ pathCache.php
 /wp-content/plugins/nova-poshta-ttn/readme.txt
 /wp-content/plugins/save-as-pdf-by-pdfcrowd/readme.txt
 /test.php?%ADd+allow_url_include=1+%ADd+auto_prepend_file=php://input
+/wp-content/plugins/academist-membership/readme.txt
+/wp-content/plugins/alloggio-membership/readme.txt
+/wp-content/themes/nokri/style.css
+/wp-content/plugins/dhvc-form/readme.txt
+/wp-content/plugins/woocommerce-ultimate-gift-card/readme.txt
+/wp-content/plugins/whmpress/readme.txt
+/wp-content/plugins/setsail-membership/readme.txt

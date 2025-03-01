@@ -1,0 +1,1 @@
+/wp-content/plugins/WHMpress_Client_Area_Api/readme.txt

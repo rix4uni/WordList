@@ -8426,3 +8426,7 @@
 /wp-content/plugins/simple-membership-custom-messages/readme.txt
 /wp-content/plugins/easy-popups/readme.txt
 /wp-content/plugins/a1post-bg-shipping-for-woocommerce/readme.txt
+/wp-content/plugins/order-attachments-for-woocommerce/readme.txt
+/wp-content/plugins/sku-for-woocommerce/readme.txt
+/wp-content/plugins/ratemyagent-official/readme.txt
+/wp-content/themes/cardealer/style.css

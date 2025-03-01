@@ -11427,3 +11427,7 @@ request?info=<svg onload=alert(
 /wp-content/plugins/realtyna-provisioning/readme.txt
 /wp-content/plugins/simple-membership-custom-messages/readme.txt
 /wp-content/plugins/easy-popups/readme.txt
+/wp-content/themes/cardealer/style.css
+/wp-content/plugins/order-attachments-for-woocommerce/readme.txt
+/wp-content/plugins/sku-for-woocommerce/readme.txt
+/wp-content/plugins/ratemyagent-official/readme.txt

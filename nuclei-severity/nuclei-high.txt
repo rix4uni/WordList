@@ -8004,3 +8004,7 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/distance-based-shipping-calculator/readme.txt
 /wp-content/themes/medicenter/style.css
 /wp-content/themes/photography/style.css
+/wp-content/plugins/booking-calendar-and-notification/readme.txt
+/wp-content/plugins/exertio-framework/readme.txt
+/wp-content/plugins/site-mailer/readme.txt
+/wp-content/plugins/ip2location-redirection/readme.txt

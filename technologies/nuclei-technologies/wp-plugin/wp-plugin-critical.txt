@@ -1625,3 +1625,9 @@
 /wp-content/plugins/save-as-pdf-by-pdfcrowd/readme.txt
 /wp-content/plugins/calculator-builder/readme.txt
 /wp-content/plugins/chaty-pro/readme.txt
+/wp-content/plugins/dhvc-form/readme.txt
+/wp-content/plugins/woocommerce-ultimate-gift-card/readme.txt
+/wp-content/plugins/whmpress/readme.txt
+/wp-content/plugins/setsail-membership/readme.txt
+/wp-content/plugins/alloggio-membership/readme.txt
+/wp-content/plugins/academist-membership/readme.txt

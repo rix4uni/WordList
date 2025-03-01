@@ -5249,3 +5249,7 @@
 /wp-content/themes/medicenter/style.css
 /wp-content/plugins/bulk-menu-edit/readme.txt
 /wp-content/themes/photography/style.css
+/wp-content/plugins/exertio-framework/readme.txt
+/wp-content/plugins/booking-calendar-and-notification/readme.txt
+/wp-content/plugins/site-mailer/readme.txt
+/wp-content/plugins/ip2location-redirection/readme.txt
