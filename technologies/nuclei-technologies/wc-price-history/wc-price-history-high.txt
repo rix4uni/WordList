@@ -1,0 +1,1 @@
+/wp-content/plugins/wc-price-history/readme.txt

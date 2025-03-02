@@ -3087,3 +3087,4 @@ pathCache.php
 /wp-content/plugins/woocommerce-ultimate-gift-card/readme.txt
 /wp-content/plugins/whmpress/readme.txt
 /wp-content/plugins/setsail-membership/readme.txt
+/wp-content/plugins/two-factor-login-telegram/readme.txt

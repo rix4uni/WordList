@@ -5253,3 +5253,12 @@
 /wp-content/plugins/booking-calendar-and-notification/readme.txt
 /wp-content/plugins/site-mailer/readme.txt
 /wp-content/plugins/ip2location-redirection/readme.txt
+/wp-content/plugins/ai-responsive-gallery-album/readme.txt
+/wp-content/plugins/cm-answers/readme.txt
+/wp-content/plugins/cubewp-framework/readme.txt
+/wp-content/plugins/hive-support/readme.txt
+/wp-content/plugins/mimo-woocommerce-order-tracking/readme.txt
+/wp-content/plugins/notibar/readme.txt
+/wp-content/plugins/securesubmit/readme.txt
+/wp-content/plugins/wc-price-history/readme.txt
+/wp-content/plugins/widget-options/readme.txt

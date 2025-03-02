@@ -1,0 +1,1 @@
+/wp-content/plugins/hive-support/readme.txt

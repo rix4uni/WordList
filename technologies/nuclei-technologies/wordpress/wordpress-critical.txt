@@ -1802,3 +1802,4 @@
 /wp-content/plugins/setsail-membership/readme.txt
 /wp-content/plugins/alloggio-membership/readme.txt
 /wp-content/plugins/academist-membership/readme.txt
+/wp-content/plugins/two-factor-login-telegram/readme.txt

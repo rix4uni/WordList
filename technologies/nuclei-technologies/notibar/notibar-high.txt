@@ -1,0 +1,1 @@
+/wp-content/plugins/notibar/readme.txt
