@@ -1,0 +1,1 @@
+/wp-content/plugins/google-maps-gpx-viewer/readme.txt

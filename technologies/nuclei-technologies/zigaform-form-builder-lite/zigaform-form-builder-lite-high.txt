@@ -1,0 +1,1 @@
+/wp-content/plugins/zigaform-form-builder-lite/readme.txt

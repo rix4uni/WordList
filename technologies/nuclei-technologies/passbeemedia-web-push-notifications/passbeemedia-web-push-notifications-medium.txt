@@ -1,0 +1,1 @@
+/wp-content/plugins/passbeemedia-web-push-notifications/readme.txt

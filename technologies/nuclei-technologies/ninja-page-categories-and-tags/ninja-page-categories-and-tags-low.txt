@@ -1,0 +1,1 @@
+/wp-content/plugins/ninja-page-categories-and-tags/readme.txt

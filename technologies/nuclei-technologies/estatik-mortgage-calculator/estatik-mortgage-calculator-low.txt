@@ -1,0 +1,1 @@
+/wp-content/plugins/estatik-mortgage-calculator/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/woocommerce-display-products-by-tags/readme.txt

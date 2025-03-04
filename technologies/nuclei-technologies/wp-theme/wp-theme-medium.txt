@@ -585,3 +585,4 @@
 /wp-content/themes/listivo/style.css
 /wp-content/themes/sensible-wp/style.css
 /wp-content/themes/cardealer/style.css
+/wp-content/themes/newscrunch/style.css

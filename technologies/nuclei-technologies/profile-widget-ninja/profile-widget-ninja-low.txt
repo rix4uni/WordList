@@ -1,0 +1,1 @@
+/wp-content/plugins/profile-widget-ninja/readme.txt

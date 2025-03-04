@@ -1,0 +1,1 @@
+/wp-content/plugins/edd-google-sheet-connector-pro/readme.txt

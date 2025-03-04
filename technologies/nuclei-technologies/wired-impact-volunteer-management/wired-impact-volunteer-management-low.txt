@@ -1,0 +1,1 @@
+/wp-content/plugins/wired-impact-volunteer-management/readme.txt

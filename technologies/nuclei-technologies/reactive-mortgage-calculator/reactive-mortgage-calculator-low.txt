@@ -1,0 +1,1 @@
+/wp-content/plugins/reactive-mortgage-calculator/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/limit-bio/readme.txt

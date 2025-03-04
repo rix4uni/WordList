@@ -1,0 +1,1 @@
+/wp-content/plugins/wc-place-order-without-payment/readme.txt

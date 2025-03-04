@@ -4949,3 +4949,14 @@
 /wp-content/plugins/securesubmit/readme.txt
 /wp-content/plugins/wc-price-history/readme.txt
 /wp-content/plugins/widget-options/readme.txt
+/wp-content/plugins/wallet-system-for-woocommerce/readme.txt
+/wp-content/plugins/small-package-quotes-unishippers-edition/readme.txt
+/wp-content/plugins/zigaform-form-builder-lite/readme.txt
+/wp-content/plugins/zigaform-calculator-cost-estimation-form-builder-lite/readme.txt
+/wp-content/plugins/mapfig-premium-leaflet-map-maker/readme.txt
+/wp-content/plugins/wp-asambleas/readme.txt
+/wp-content/plugins/css-live/readme.txt
+/wp-content/plugins/kush-micro-news/readme.txt
+/wp-content/plugins/animated-text-block/readme.txt
+/wp-content/plugins/defend-wp-firewall/readme.txt
+/wp-content/plugins/sticky-header-on-scroll/readme.txt

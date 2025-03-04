@@ -1,0 +1,1 @@
+/wp-content/plugins/add-linked-images-to-gallery-v01/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/smart-maintenance-countdown/readme.txt

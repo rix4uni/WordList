@@ -1,0 +1,1 @@
+/wp-content/plugins/mapfig-premium-leaflet-map-maker/readme.txt

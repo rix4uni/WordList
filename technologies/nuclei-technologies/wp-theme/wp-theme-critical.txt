@@ -160,3 +160,4 @@
 /wp-content/themes/puzzles/style.css
 /wp-content/themes/carspot/style.css
 /wp-content/themes/nokri/style.css
+/wp-content/themes/pearl/style.css

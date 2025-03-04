@@ -1,0 +1,1 @@
+/wp-content/plugins/defend-wp-firewall/readme.txt

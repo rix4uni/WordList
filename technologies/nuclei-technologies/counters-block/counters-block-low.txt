@@ -1,0 +1,1 @@
+/wp-content/plugins/counters-block/readme.txt
