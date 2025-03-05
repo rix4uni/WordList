@@ -850,3 +850,4 @@
 /nexus/service/rest/swagger.json
 /www/admin/
 /shibboleth-idp
+/.pomerium/index.js

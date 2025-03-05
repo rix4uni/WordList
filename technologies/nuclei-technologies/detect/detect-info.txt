@@ -258,3 +258,4 @@
 /reports/browse
 /veracore/Home/#systems
 /shibboleth-idp
+/.pomerium/index.js

@@ -1646,3 +1646,5 @@
 /wp-content/plugins/saoshyant-slider/readme.txt
 /wp-content/plugins/ssquiz/readme.txt
 /wp-content/plugins/chatlive/readme.txt
+/wp-content/plugins/rac/readme.txt
+/wp-content/plugins/wp-realestate-manager/readme.txt

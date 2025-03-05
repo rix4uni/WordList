@@ -300,3 +300,5 @@
 /ololo/?SEF_APPLICATION_CUR_PAGE_URL=/bitrix/admin/#authorize
 /servlet/BrowserServlet
 /veracore/Home/#systems
+/dex/auth
+/dblang.dcw

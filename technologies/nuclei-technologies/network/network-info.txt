@@ -9,3 +9,4 @@
 /versa/dist/images/versa-logo.png
 /versa/styles/img/versa-logo.png
 /versa/app/img/versa-logo.png
+/wsman

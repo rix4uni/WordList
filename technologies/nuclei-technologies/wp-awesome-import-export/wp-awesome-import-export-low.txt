@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-awesome-import-export/readme.txt

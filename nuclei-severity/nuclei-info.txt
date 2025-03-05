@@ -2266,3 +2266,8 @@
 /veracore/Home/#systems
 /shibboleth-idp
 /api/metrics
+/.pomerium/index.js
+/dex/auth
+/dblang.dcw
+/wfc/logon
+/wsman

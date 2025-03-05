@@ -434,3 +434,4 @@
 /wp-content/themes/enfold/style.css
 /wp-content/themes/medicenter/style.css
 /wp-content/themes/photography/style.css
+/wp-content/themes/sparkling/style.css

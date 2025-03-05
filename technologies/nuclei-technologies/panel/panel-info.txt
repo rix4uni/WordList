@@ -840,3 +840,6 @@
 /reports/api/v2.0/System
 /reports/browse
 /veracore/Home/#systems
+/dex/auth
+/dblang.dcw
+/wfc/logon

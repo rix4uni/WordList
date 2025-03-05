@@ -381,3 +381,7 @@
 /wp-content/themes/pathway/style.css
 /wp-content/themes/vw-storefront/style.css
 /wp-content/themes/newscrunch/style.css
+/wp-content/themes/veda/style.css
+/wp-content/themes/zass/style.css
+/wp-content/themes/lafka/style.css
+/wp-content/themes/listingo/style.css

@@ -5705,3 +5705,6 @@
 /wp-content/plugins/animated-text-block/readme.txt
 /wp-content/plugins/defend-wp-firewall/readme.txt
 /wp-content/plugins/sticky-header-on-scroll/readme.txt
+/wp-content/themes/sparkling/style.css
+/wp-content/plugins/designthemes-core-features/readme.txt
+/wp-content/plugins/onlinecontract/readme.txt

@@ -8067,3 +8067,6 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/kush-micro-news/readme.txt
 /wp-content/plugins/defend-wp-firewall/readme.txt
 /wp-content/plugins/sticky-header-on-scroll/readme.txt
+/wp-content/themes/sparkling/style.css
+/wp-content/plugins/designthemes-core-features/readme.txt
+/wp-content/plugins/onlinecontract/readme.txt

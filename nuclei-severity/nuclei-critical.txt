@@ -3103,3 +3103,6 @@ pathCache.php
 /wp-content/plugins/residential-address-detection/readme.txt
 /wp-content/plugins/saoshyant-slider/readme.txt
 /wp-content/plugins/ssquiz/readme.txt
+/wp-content/themes/homey/style.css
+/wp-content/plugins/rac/readme.txt
+/wp-content/plugins/wp-realestate-manager/readme.txt
