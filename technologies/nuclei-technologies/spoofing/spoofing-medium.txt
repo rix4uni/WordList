@@ -1,3 +1,4 @@
 /bitrix/components/bitrix/mobileapp.list/ajax.php?items[1][TITLE]=TEXT+INJECTION!+PLEASE+CLICK+HERE!&items[1][DETAIL_LINK]=https://metascan.ru
 /bitrix/tools/imagepg.php?img=//metascan.ru/assets/images/logo.svg
 /bitrix/components/bitrix/mobileapp.list/ajax.php?items[1][TITLE]=TEXT+INJECTION!+PLEASE+CLICK+HERE!&items[1][DETAIL_LINK]=https://google.com
+/bitrix/tools/imagepg.php?img=//metascan.ru/poc.svg

@@ -10,3 +10,4 @@
 /upload/setup/install.php
 /setup/install.php
 /wp-admin/install.php?step=1
+/wp-admin/install.php

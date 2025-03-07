@@ -162,3 +162,4 @@
 /wp-content/themes/nokri/style.css
 /wp-content/themes/pearl/style.css
 /wp-content/themes/homey/style.css
+/wp-content/themes/medzone-lite/style.css

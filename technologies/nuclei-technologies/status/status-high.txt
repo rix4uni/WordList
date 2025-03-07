@@ -1,3 +1,4 @@
 /index.php?option=com_userstatus&controller=../../../../../../../../../../etc/passwd%00
 /jkstatus
 /jkstatus;
+/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E

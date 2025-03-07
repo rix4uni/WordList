@@ -40,3 +40,4 @@
 /usr/lib/cgi-bin/test.cgi%3F
 {{payloads}}
 /
+/jk_status

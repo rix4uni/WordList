@@ -1,1 +1,2 @@
 /phpmyadmin/
+/wp-admin/admin.php?page=tiempocom/app/admin.php&action=delete&shortcode=1

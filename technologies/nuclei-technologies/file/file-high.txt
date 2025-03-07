@@ -3,3 +3,4 @@
 /.travis.yml
 /matomo/.travis.yml
 /axis/services/AdminService
+{{paths}}

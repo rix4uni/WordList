@@ -6,3 +6,4 @@
 /opt/resources/{{file_name}}
 /lGMXG.txt
 /seeyon/thirdpartyController.do.css/..;/ajax.do
+/wp-content/plugins/contact-form-7/readme.txt

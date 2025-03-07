@@ -76,3 +76,5 @@
 /__bx_log.log
 /bitrix/components/bitrix/socialnetwork.events_dyn/get_message_2.php?log_cnt=<img%20onerror=alert(document.domain)%20src=1>
 /?q=./gibbon.sql
+/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php
+/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php

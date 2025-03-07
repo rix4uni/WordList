@@ -134,3 +134,4 @@
 /gallery/zp-core/setup/index.php
 /zp-core/setup/index.php
 /devices.php
+/admin/pma/setup/index.php

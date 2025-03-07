@@ -73,3 +73,4 @@
 /path-to-wishlist-handler
 /download/file.zip
 /wp-admin/admin-post.php
+/wp-content/plugins/wp-statistics/readme.txt

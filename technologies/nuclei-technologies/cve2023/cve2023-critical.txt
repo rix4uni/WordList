@@ -53,3 +53,5 @@
 /wp-content/plugins/my-calendar/readme.txt
 /?rest_route=/my-calendar/v1/events&from=1
 /_admin/imgdownload.php?filename=imgdownload.php
+/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
+/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css

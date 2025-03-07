@@ -87,3 +87,4 @@
 /ajax-api/2.0/mlflow/registered-models/create
 /ajax-api/2.0/mlflow/model-versions/create
 /model-versions/get-artifact?path=random&name=poc&version=1
+/wp-content/plugins/contact-form-7/readme.txt

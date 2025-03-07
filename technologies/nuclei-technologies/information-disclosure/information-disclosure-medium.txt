@@ -2,3 +2,4 @@
 :52311/cgi-bin/bfenterprise/BESMirrorRequest.exe
 :52311/masthead/masthead.axfm
 :52311/cgi-bin/bfenterprise/clientregister.exe?RequestType=FetchCommands
+/queryDevInfo

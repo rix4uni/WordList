@@ -3,3 +3,4 @@
 ///////../../../etc/passwd
 /static///////../../../../etc/passwd
 ///../app.js
+/status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E

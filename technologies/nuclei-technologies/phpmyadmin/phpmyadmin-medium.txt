@@ -18,3 +18,4 @@
 /phpmyadmin/setup/
 /setup/index.php
 {{paths}}
+/admin/pma/setup/index.php

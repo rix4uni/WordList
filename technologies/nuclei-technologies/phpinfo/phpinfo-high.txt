@@ -5,3 +5,5 @@
 /apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 /_profiler/phpinfo?+--env=dev
+/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php
+/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php

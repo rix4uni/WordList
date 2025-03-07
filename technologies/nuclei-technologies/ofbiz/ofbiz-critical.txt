@@ -1,0 +1,6 @@
+/webtools/control/forgotPassword;/ProgramExport
+/webtools/control/showDateTime/ProgramExport
+/webtools/control/TestService/ProgramExport
+/webtools/control/view/ProgramExport
+/webtools/control/main/ProgramExport
+/webtools/control/main%3B/ProgramExport

@@ -5,3 +5,4 @@
 /web/session/logout?redirect=https%3a%2f%2foast.me%2f
 /web/dbredirect?redirect=https%3a%2f%2foast.me%2f
 /website/lang/en_US?r=https://interact.sh/
+/web/set_profiling?profile=0&collector=<script>alert(document.domain)</script>

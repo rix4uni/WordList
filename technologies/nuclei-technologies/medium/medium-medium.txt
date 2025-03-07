@@ -8502,3 +8502,10 @@
 /wp-content/themes/listingo/style.css
 /wp-content/plugins/razorpay-subscription-button-elementor/readme.txt
 /wp-content/plugins/gloria-assistant-by-webtronic-labs/readme.txt
+/wp-content/plugins/pica-photo-gallery/readme.txt
+/wp-content/plugins/mklasens-photobox/readme.txt
+/wp-content/plugins/formidable-sms/readme.txt
+/wp-content/plugins/fscf-sms/readme.txt
+/wp-content/plugins/thrive-quiz-builder/readme.txt
+/wp-content/plugins/easy-facebook-likebox-premium/readme.txt
+/wp-content/plugins/stop-wp-emails-going-to-spam/readme.txt
