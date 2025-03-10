@@ -843,3 +843,4 @@
 /dex/auth
 /dblang.dcw
 /wfc/logon
+/web/login.html

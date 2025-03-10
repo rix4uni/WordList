@@ -302,3 +302,4 @@
 /veracore/Home/#systems
 /dex/auth
 /dblang.dcw
+/web/login.html
