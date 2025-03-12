@@ -6,3 +6,5 @@
 /boafrm/formWlanRedirect?redirect-url=http://example.com&wlan_id=1
 /rootDesc.xml
 /<style%20onload=alert`document.domain`;>../..%2f
+/login/hostinfo.cgi
+/login/hostinfo2.cgi

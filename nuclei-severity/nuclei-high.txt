@@ -8090,3 +8090,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/wp-sendgrid-mailer/readme.txt
 /wp-content/plugins/wp-table-manager/readme.txt
 /status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
+/RST_status.htm%00currentsetting.htm

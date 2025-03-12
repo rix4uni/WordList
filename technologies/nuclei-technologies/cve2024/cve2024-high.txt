@@ -64,3 +64,4 @@
 /?InternalDir=\\..\\..\\..\\..\\etc&InternalFile=passwd
 /rest/rights/
 /clients/MyCRL
+/RST_status.htm%00currentsetting.htm

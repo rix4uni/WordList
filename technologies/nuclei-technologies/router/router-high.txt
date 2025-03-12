@@ -24,3 +24,4 @@
 /psiBackupInfo
 /adminpasswd.cgi
 /backupsettings.conf
+/RST_status.htm%00currentsetting.htm

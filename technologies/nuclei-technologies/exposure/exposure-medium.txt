@@ -519,3 +519,5 @@
 /log/firewall.log
 /wgetrc
 /.wgetrc
+/login/hostinfo.cgi
+/login/hostinfo2.cgi

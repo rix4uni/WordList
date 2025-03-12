@@ -45,3 +45,5 @@
 /api/chat/get-chat-session/1?is_shared=True
 /<style%20onload=alert`document.domain`;>../..%2f
 /xwiki/rest/wikis/xwiki/spaces/Main/pages/WebHome/history
+/login/hostinfo.cgi
+/login/hostinfo2.cgi

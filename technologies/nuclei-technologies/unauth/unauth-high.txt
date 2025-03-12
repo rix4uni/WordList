@@ -114,3 +114,4 @@
 /#/devices
 /favicon.ico
 /api/v1/namespaces/default/workflows?query=
+/RST_status.htm%00currentsetting.htm

@@ -11548,3 +11548,5 @@ request?info=<svg onload=alert(
 /admin/pma/setup/index.php
 /wp-content/uploads/photo-gallery/xss.svg
 /wp-admin/admin.php?page=Accessibility&%22%3E%3Cscript%3Ealert(/XSS/)%3C/script%3E
+/login/hostinfo.cgi
+/login/hostinfo2.cgi
