@@ -1,0 +1,1 @@
+/wp-content/plugins/killer-theme-options/readme.txt

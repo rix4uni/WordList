@@ -4977,3 +4977,9 @@
 /wp-content/plugins/wp-experiments-free/readme.txt
 /wp-content/plugins/wp-sendgrid-mailer/readme.txt
 /wp-content/plugins/wp-table-manager/readme.txt
+/wp-content/plugins/fwduvp/readme.txt
+/wp-content/plugins/gtbabel/readme.txt
+/wp-content/plugins/greek-multi-tool/readme.txt
+/wp-content/plugins/interactive-page-hierarchy/readme.txt
+/wp-content/plugins/radslide/readme.txt
+/wp-content/plugins/wpjournal/readme.txt

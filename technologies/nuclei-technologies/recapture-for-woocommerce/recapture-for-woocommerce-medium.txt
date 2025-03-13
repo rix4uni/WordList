@@ -1,0 +1,1 @@
+/wp-content/plugins/recapture-for-woocommerce/readme.txt

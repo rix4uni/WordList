@@ -1,0 +1,1 @@
+/wp-content/plugins/page-health-o-meter/readme.txt

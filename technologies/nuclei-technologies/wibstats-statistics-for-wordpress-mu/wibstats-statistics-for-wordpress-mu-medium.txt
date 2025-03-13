@@ -1,0 +1,1 @@
+/wp-content/plugins/wibstats-statistics-for-wordpress-mu/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/pit-login-welcome/readme.txt

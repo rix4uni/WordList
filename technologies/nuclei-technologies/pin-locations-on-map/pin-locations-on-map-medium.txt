@@ -1,0 +1,1 @@
+/wp-content/plugins/pin-locations-on-map/readme.txt

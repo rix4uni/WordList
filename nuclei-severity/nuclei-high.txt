@@ -8091,3 +8091,9 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/wp-table-manager/readme.txt
 /status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
 /RST_status.htm%00currentsetting.htm
+/wp-content/plugins/fwduvp/readme.txt
+/wp-content/plugins/gtbabel/readme.txt
+/wp-content/plugins/greek-multi-tool/readme.txt
+/wp-content/plugins/interactive-page-hierarchy/readme.txt
+/wp-content/plugins/radslide/readme.txt
+/wp-content/plugins/wpjournal/readme.txt

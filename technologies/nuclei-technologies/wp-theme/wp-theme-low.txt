@@ -387,3 +387,4 @@
 /wp-content/themes/listingo/style.css
 /wp-content/themes/fitness-park/style.css
 /wp-content/themes/zeever/style.css
+/wp-content/themes/flex-mag/style.css

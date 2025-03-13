@@ -1,0 +1,1 @@
+/wp-content/plugins/track-page-scroll/readme.txt

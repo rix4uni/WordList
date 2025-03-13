@@ -1822,3 +1822,10 @@
 /wp-content/plugins/rac/readme.txt
 /wp-content/plugins/wp-realestate-manager/readme.txt
 /wp-content/themes/medzone-lite/style.css
+/wp-content/plugins/all-in-one-wp-migration/readme.txt
+/wp-content/plugins/woocommerce-multi-currency/readme.txt
+/wp-content/plugins/workreap/readme.txt
+/wp-content/plugins/javo-core/readme.txt
+/wp-content/plugins/iwjob/readme.txt
+/wp-content/plugins/arielbrailovsky-viralad/readme.txt
+/wp-content/plugins/sms-alert/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/mycbgenie-clickbank-storefront/readme.txt

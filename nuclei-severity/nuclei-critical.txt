@@ -3118,3 +3118,10 @@ pathCache.php
 /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 /wp-content/themes/medzone-lite/style.css
 /?search==%00{.exec|cmd.exe+/c+ping+127.0.0.1+-n+10.}
+/wp-content/plugins/all-in-one-wp-migration/readme.txt
+/wp-content/plugins/arielbrailovsky-viralad/readme.txt
+/wp-content/plugins/woocommerce-multi-currency/readme.txt
+/wp-content/plugins/workreap/readme.txt
+/wp-content/plugins/javo-core/readme.txt
+/wp-content/plugins/iwjob/readme.txt
+/wp-content/plugins/sms-alert/readme.txt

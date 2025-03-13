@@ -119,3 +119,4 @@
 /wp-content/plugins/gtranslate/url_addon/gtranslate.php?glang=en&gurl=/oast.me
 /wp-content/plugins/wpify-woo/deps/dragonbe/vies/examples/async_processing/queue.php/
 /forums/search/z-->%22%3e%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E/
+/wp-content/plugins/seo-automatic-seo-tools/feedcommander/rssread.php?src=1%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cscript%3E

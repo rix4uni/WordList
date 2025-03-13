@@ -1,0 +1,1 @@
+/wp-content/plugins/reservit-hotel/readme.txt
