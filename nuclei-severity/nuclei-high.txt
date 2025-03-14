@@ -8097,3 +8097,10 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/interactive-page-hierarchy/readme.txt
 /wp-content/plugins/radslide/readme.txt
 /wp-content/plugins/wpjournal/readme.txt
+/wp-content/plugins/aoa-downloadable/readme.txt
+/wp-content/themes/civi/style.css
+/wp-content/plugins/vidorev-extensions/readme.txt
+/wp-content/themes/resido/style.css
+/wp-content/themes/design-comuni-wordpress-theme/style.css
+/wp-content/plugins/hide-my-wp/readme.txt
+/wp-content/plugins/staff-directory-pro/readme.txt

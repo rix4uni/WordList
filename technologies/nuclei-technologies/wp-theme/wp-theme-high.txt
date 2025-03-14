@@ -435,3 +435,6 @@
 /wp-content/themes/medicenter/style.css
 /wp-content/themes/photography/style.css
 /wp-content/themes/sparkling/style.css
+/wp-content/themes/civi/style.css
+/wp-content/themes/resido/style.css
+/wp-content/themes/design-comuni-wordpress-theme/style.css

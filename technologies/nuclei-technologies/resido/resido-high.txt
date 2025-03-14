@@ -1,0 +1,1 @@
+/wp-content/themes/resido/style.css

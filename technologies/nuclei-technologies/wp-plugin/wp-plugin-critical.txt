@@ -1655,3 +1655,6 @@
 /wp-content/plugins/iwjob/readme.txt
 /wp-content/plugins/arielbrailovsky-viralad/readme.txt
 /wp-content/plugins/sms-alert/readme.txt
+/wp-content/plugins/wp-jobhunt/readme.txt
+/wp-content/plugins/analyticswp/readme.txt
+/wp-content/plugins/realteo/readme.txt

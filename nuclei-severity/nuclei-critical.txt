@@ -3125,3 +3125,8 @@ pathCache.php
 /wp-content/plugins/javo-core/readme.txt
 /wp-content/plugins/iwjob/readme.txt
 /wp-content/plugins/sms-alert/readme.txt
+/wp-content/plugins/analyticswp/readme.txt
+/wp-content/themes/civi/style.css
+/wp-content/themes/ciyashop/style.css
+/wp-content/plugins/wp-jobhunt/readme.txt
+/wp-content/plugins/realteo/readme.txt

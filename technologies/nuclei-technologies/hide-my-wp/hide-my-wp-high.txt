@@ -1,1 +1,2 @@
 /?gf_page=randomstring
+/wp-content/plugins/hide-my-wp/readme.txt

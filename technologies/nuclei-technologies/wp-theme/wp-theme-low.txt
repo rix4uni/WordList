@@ -388,3 +388,6 @@
 /wp-content/themes/fitness-park/style.css
 /wp-content/themes/zeever/style.css
 /wp-content/themes/flex-mag/style.css
+/wp-content/themes/industrial/style.css
+/wp-content/themes/eco-nature/style.css
+/wp-content/themes/zegen/style.css

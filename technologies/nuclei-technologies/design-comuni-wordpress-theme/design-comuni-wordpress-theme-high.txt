@@ -1,0 +1,1 @@
+/wp-content/themes/design-comuni-wordpress-theme/style.css

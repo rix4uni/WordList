@@ -6615,3 +6615,7 @@
 /wp-content/plugins/platformly-for-woocommerce/readme.txt
 /wp-content/plugins/smooth-dynamic-slider/readme.txt
 /wp-content/plugins/solace-extra/readme.txt
+/wp-content/plugins/wp-svg-upload/readme.txt
+/wp-content/plugins/ip-based-login/readme.txt
+/wp-content/plugins/soundrise-music/readme.txt
+/wp-content/plugins/aoa-downloadable/readme.txt
