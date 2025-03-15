@@ -3130,3 +3130,4 @@ pathCache.php
 /wp-content/themes/ciyashop/style.css
 /wp-content/plugins/wp-jobhunt/readme.txt
 /wp-content/plugins/realteo/readme.txt
+/wp-content/themes/massive-dynamic/style.css

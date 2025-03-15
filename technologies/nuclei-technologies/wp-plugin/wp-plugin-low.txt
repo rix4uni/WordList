@@ -6619,3 +6619,14 @@
 /wp-content/plugins/ip-based-login/readme.txt
 /wp-content/plugins/soundrise-music/readme.txt
 /wp-content/plugins/aoa-downloadable/readme.txt
+/wp-content/plugins/wp-responsive-thumbnail-slider/readme.txt
+/wp-content/plugins/wc-affiliate/readme.txt
+/wp-content/plugins/socialsnap/readme.txt
+/wp-content/plugins/portfolio-and-projects/readme.txt
+/wp-content/plugins/coronavirus-covid-19-notice-message/readme.txt
+/wp-content/plugins/wp01/readme.txt
+/wp-content/plugins/wah-forms/readme.txt
+/wp-content/plugins/woo-update-variations-in-cart/readme.txt
+/wp-content/plugins/popliup/readme.txt
+/wp-content/plugins/rj-quickcharts/readme.txt
+/wp-content/plugins/glasses-for-woocommerce/readme.txt

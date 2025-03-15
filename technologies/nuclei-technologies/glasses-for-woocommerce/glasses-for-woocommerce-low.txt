@@ -1,0 +1,1 @@
+/wp-content/plugins/glasses-for-woocommerce/readme.txt

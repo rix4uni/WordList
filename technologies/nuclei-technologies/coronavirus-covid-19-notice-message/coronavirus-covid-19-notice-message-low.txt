@@ -1,0 +1,1 @@
+/wp-content/plugins/coronavirus-covid-19-notice-message/readme.txt

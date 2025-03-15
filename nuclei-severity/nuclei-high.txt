@@ -8104,3 +8104,8 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/themes/design-comuni-wordpress-theme/style.css
 /wp-content/plugins/hide-my-wp/readme.txt
 /wp-content/plugins/staff-directory-pro/readme.txt
+/wp-content/plugins/wp-test-email/readme.txt
+/wp-content/plugins/ep4-more-embeds/readme.txt
+/wp-content/plugins/unitimetable/readme.txt
+/wp-content/plugins/wp-less-compiler/readme.txt
+/wp-content/plugins/wah-forms/readme.txt

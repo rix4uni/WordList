@@ -165,3 +165,4 @@
 /wp-content/themes/medzone-lite/style.css
 /wp-content/themes/civi/style.css
 /wp-content/themes/ciyashop/style.css
+/wp-content/themes/massive-dynamic/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-school-registration/readme.txt
