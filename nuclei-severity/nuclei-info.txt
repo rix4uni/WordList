@@ -2272,3 +2272,7 @@
 /wfc/logon
 /wsman
 /web/login.html
+/api/database
+/flutter_service_worker.js
+/main.dart.js
+/flutter_bootstrap.js

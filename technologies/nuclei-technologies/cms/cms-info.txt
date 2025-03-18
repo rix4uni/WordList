@@ -30,3 +30,4 @@
 /bin/querybuilder.json/a.1.json
 /wp-content/
 /wp-admin/
+/api/database

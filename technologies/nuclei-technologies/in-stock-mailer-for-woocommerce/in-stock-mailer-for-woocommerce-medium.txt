@@ -1,0 +1,1 @@
+/wp-content/plugins/in-stock-mailer-for-woocommerce/readme.txt

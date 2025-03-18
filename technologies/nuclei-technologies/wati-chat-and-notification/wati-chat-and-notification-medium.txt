@@ -1,0 +1,1 @@
+/wp-content/plugins/wati-chat-and-notification/readme.txt

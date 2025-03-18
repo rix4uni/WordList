@@ -8109,3 +8109,7 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/unitimetable/readme.txt
 /wp-content/plugins/wp-less-compiler/readme.txt
 /wp-content/plugins/wah-forms/readme.txt
+/wp-content/plugins/block-spam-by-math-reloaded/readme.txt
+/wp-content/plugins/gs-logo-slider/readme.txt
+/wp-content/plugins/responsive-google-map/readme.txt
+/wp-content/plugins/wp-performance-pack/readme.txt

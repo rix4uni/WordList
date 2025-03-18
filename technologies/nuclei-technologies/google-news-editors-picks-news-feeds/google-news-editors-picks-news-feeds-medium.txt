@@ -1,0 +1,1 @@
+/wp-content/plugins/google-news-editors-picks-news-feeds/readme.txt

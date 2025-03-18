@@ -1,0 +1,1 @@
+/wp-content/plugins/remove-date-and-gravatar-under-comment/readme.txt

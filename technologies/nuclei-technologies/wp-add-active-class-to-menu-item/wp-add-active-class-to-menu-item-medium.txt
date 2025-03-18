@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-add-active-class-to-menu-item/readme.txt

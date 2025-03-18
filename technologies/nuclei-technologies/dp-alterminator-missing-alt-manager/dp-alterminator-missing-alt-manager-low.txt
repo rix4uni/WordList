@@ -1,0 +1,1 @@
+/wp-content/plugins/dp-alterminator-missing-alt-manager/readme.txt

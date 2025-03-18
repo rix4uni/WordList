@@ -1,0 +1,1 @@
+/wp-content/plugins/ziplist-recipe-plugin/readme.txt
