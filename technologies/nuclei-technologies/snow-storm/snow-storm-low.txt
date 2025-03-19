@@ -1,0 +1,1 @@
+/wp-content/plugins/snow-storm/readme.txt

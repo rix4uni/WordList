@@ -438,3 +438,4 @@
 /wp-content/themes/civi/style.css
 /wp-content/themes/resido/style.css
 /wp-content/themes/design-comuni-wordpress-theme/style.css
+/wp-content/themes/cozystay/style.css

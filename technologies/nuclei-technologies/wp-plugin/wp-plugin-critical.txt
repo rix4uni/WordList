@@ -1658,3 +1658,4 @@
 /wp-content/plugins/wp-jobhunt/readme.txt
 /wp-content/plugins/analyticswp/readme.txt
 /wp-content/plugins/realteo/readme.txt
+/wp-content/plugins/sf-booking/readme.txt

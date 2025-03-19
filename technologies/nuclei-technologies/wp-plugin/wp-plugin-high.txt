@@ -4996,3 +4996,4 @@
 /wp-content/plugins/block-spam-by-math-reloaded/readme.txt
 /wp-content/plugins/responsive-google-map/readme.txt
 /wp-content/plugins/wp-performance-pack/readme.txt
+/wp-content/plugins/file-away/readme.txt

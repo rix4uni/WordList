@@ -355,3 +355,5 @@
 /assets/pubspec.yaml
 /ws-config.json
 /ws-config.example.json
+/lighttpd.conf
+/next.config.js

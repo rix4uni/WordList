@@ -6650,3 +6650,6 @@
 /wp-content/plugins/wp-performance-pack/readme.txt
 /wp-content/plugins/dp-alterminator-missing-alt-manager/readme.txt
 /wp-content/plugins/as-english-admin/readme.txt
+/wp-content/plugins/s2member-pro/readme.txt
+/wp-content/plugins/ahathat/readme.txt
+/wp-content/plugins/snow-storm/readme.txt

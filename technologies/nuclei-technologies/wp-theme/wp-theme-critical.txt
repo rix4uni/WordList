@@ -166,3 +166,7 @@
 /wp-content/themes/civi/style.css
 /wp-content/themes/ciyashop/style.css
 /wp-content/themes/massive-dynamic/style.css
+/wp-content/themes/altair/style.css
+/wp-content/themes/tinysalt/style.css
+/wp-content/themes/minimog/style.css
+/wp-content/themes/cozystay/style.css

@@ -391,3 +391,5 @@
 /wp-content/themes/industrial/style.css
 /wp-content/themes/eco-nature/style.css
 /wp-content/themes/zegen/style.css
+/wp-content/themes/wp-foodbakery/style.css
+/wp-content/themes/altair/style.css
