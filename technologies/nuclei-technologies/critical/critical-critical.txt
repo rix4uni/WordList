@@ -1799,3 +1799,4 @@
 /wp-content/plugins/sf-booking/readme.txt
 /wp-content/themes/minimog/style.css
 /wp-content/themes/cozystay/style.css
+/wp-content/plugins/age-gate/readme.txt

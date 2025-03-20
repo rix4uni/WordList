@@ -1659,3 +1659,4 @@
 /wp-content/plugins/analyticswp/readme.txt
 /wp-content/plugins/realteo/readme.txt
 /wp-content/plugins/sf-booking/readme.txt
+/wp-content/plugins/age-gate/readme.txt

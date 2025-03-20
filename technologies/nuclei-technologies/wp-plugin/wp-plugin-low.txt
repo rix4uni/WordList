@@ -6653,3 +6653,4 @@
 /wp-content/plugins/s2member-pro/readme.txt
 /wp-content/plugins/ahathat/readme.txt
 /wp-content/plugins/snow-storm/readme.txt
+/wp-content/plugins/woo-rfq-for-woocommerce/readme.txt

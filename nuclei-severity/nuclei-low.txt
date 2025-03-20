@@ -7922,3 +7922,4 @@
 /wp-content/plugins/snow-storm/readme.txt
 /lighttpd.conf
 /next.config.js
+/wp-content/plugins/woo-rfq-for-woocommerce/readme.txt

@@ -3136,3 +3136,4 @@ pathCache.php
 /wp-content/themes/tinysalt/style.css
 /wp-content/plugins/sf-booking/readme.txt
 /wp-content/themes/minimog/style.css
+/wp-content/plugins/age-gate/readme.txt
