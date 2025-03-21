@@ -75,3 +75,4 @@
 /ws-config.example.json
 /lighttpd.conf
 /next.config.js
+/log4j.properties

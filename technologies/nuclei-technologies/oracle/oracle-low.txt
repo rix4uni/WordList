@@ -2,3 +2,4 @@
 /OA_HTML/cabo/jsps/a.jsp?_t=fredRC&configName=&redirect=%2f%5cexample.com
 /plus/OA_HTML/cabo/jsps/a.jsp?_t=fredRC&configName=&redirect=/\example.com
 /uddiexplorer/
+/log4j.properties

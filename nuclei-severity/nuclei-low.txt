@@ -7923,3 +7923,4 @@
 /lighttpd.conf
 /next.config.js
 /wp-content/plugins/woo-rfq-for-woocommerce/readme.txt
+/log4j.properties
