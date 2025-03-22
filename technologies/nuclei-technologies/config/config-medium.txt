@@ -261,3 +261,4 @@
 /Server/.git/config
 /StudioServer/.git/config
 /sftp-config.json
+/kibana.yml

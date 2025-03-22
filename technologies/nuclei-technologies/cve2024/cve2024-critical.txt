@@ -69,3 +69,5 @@
 /webtools/control/view/ProgramExport
 /webtools/control/main/ProgramExport
 /webtools/control/main%3B/ProgramExport
+/js/..%2f%2f/wizard.htm
+/images/..%2f%2f/wizard.htm

@@ -7924,3 +7924,13 @@
 /next.config.js
 /wp-content/plugins/woo-rfq-for-woocommerce/readme.txt
 /log4j.properties
+/wp-content/plugins/bitspecter-suite/readme.txt
+/wp-content/plugins/block-logic/readme.txt
+/wp-content/plugins/code-clone/readme.txt
+/dnsmasq.conf
+/icecast.xml
+/wp-content/plugins/make-builder/readme.txt
+/gunicorn.conf.py
+/haproxy.cfg
+/nuxt.config.js
+/vercel.json

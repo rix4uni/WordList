@@ -7076,3 +7076,7 @@
 /wp-content/themes/altair/style.css
 /wp-content/plugins/snow-storm/readme.txt
 /wp-content/plugins/woo-rfq-for-woocommerce/readme.txt
+/wp-content/plugins/make-builder/readme.txt
+/wp-content/plugins/block-logic/readme.txt
+/wp-content/plugins/code-clone/readme.txt
+/wp-content/plugins/bitspecter-suite/readme.txt

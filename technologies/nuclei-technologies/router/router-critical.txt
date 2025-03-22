@@ -7,3 +7,5 @@
 /wlsecurity.html
 /ubus/
 /update.php?jungle=id
+/js/..%2f%2f/wizard.htm
+/images/..%2f%2f/wizard.htm

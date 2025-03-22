@@ -1,0 +1,1 @@
+/wp-content/plugins/bitspecter-suite/readme.txt

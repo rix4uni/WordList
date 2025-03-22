@@ -42,3 +42,5 @@
 /scrm/crm/admin
 /cmd?cmd=connect
 /unauth/%252e%252e/php/ztp_gate.php/PAN_help/x.css
+/js/..%2f%2f/wizard.htm
+/images/..%2f%2f/wizard.htm

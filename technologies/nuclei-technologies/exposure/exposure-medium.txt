@@ -521,3 +521,4 @@
 /.wgetrc
 /login/hostinfo.cgi
 /login/hostinfo2.cgi
+/kibana.yml

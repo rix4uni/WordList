@@ -3137,3 +3137,5 @@ pathCache.php
 /wp-content/plugins/sf-booking/readme.txt
 /wp-content/themes/minimog/style.css
 /wp-content/plugins/age-gate/readme.txt
+/js/..%2f%2f/wizard.htm
+/images/..%2f%2f/wizard.htm

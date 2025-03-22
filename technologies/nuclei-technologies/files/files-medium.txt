@@ -71,3 +71,4 @@
 /log/debug.log
 /log/mobile.log
 /log/firewall.log
+/kibana.yml

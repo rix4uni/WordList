@@ -108,3 +108,5 @@
 /assets/pubspec.yaml
 /ws-config.json
 /ws-config.example.json
+/dnsmasq.conf
+/icecast.xml

@@ -11710,3 +11710,8 @@ request?info=<svg onload=alert(
 /wp-content/plugins/wp-hashtags/readme.txt
 /wp-content/plugins/insert-code/readme.txt
 /wp-content/plugins/maxab/readme.txt
+/kibana.yml
+/wp-content/plugins/cryokey/readme.txt
+/wp-content/plugins/easy-custom-admin-bar/readme.txt
+/wp-content/plugins/gotcha-gesture-based-captcha/readme.txt
+/wp-content/plugins/multi-video-box/readme.txt

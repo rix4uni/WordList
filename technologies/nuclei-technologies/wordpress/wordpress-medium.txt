@@ -9025,3 +9025,7 @@
 /wp-content/plugins/insert-code/readme.txt
 /wp-content/plugins/maxab/readme.txt
 /wp-content/plugins/backtotop/readme.txt
+/wp-content/plugins/cryokey/readme.txt
+/wp-content/plugins/easy-custom-admin-bar/readme.txt
+/wp-content/plugins/gotcha-gesture-based-captcha/readme.txt
+/wp-content/plugins/multi-video-box/readme.txt

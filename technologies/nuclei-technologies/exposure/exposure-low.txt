@@ -358,3 +358,9 @@
 /lighttpd.conf
 /next.config.js
 /log4j.properties
+/dnsmasq.conf
+/gunicorn.conf.py
+/haproxy.cfg
+/icecast.xml
+/nuxt.config.js
+/vercel.json

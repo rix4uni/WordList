@@ -85,3 +85,5 @@
 /HM/M_Main/InformationManage/ParkingFeelFileDownLoad.aspx?ParkingFile=../web.config
 /defaultroot/download_ftp.jsp?path=/../WEB-INF/&name=aaa&FileName=web.xml
 /login
+/js/..%2f%2f/wizard.htm
+/images/..%2f%2f/wizard.htm
