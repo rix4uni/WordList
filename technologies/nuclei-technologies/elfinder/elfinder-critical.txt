@@ -9,3 +9,4 @@
 /uploads/elfinder/elfinder-cke.html
 /js/elfinder.min.js
 /js/elFinder.version.js
+/sites/all/libraries/elfinder/connectors/php/connector.php

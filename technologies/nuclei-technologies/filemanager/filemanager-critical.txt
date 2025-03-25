@@ -1,2 +1,1 @@
-/node/1?_format=hal_json
 /sites/all/libraries/elfinder/connectors/php/connector.php

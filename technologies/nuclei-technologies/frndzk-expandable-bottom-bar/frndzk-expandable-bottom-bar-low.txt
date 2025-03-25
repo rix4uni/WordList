@@ -1,0 +1,1 @@
+/wp-content/plugins/frndzk-expandable-bottom-bar/readme.txt

@@ -7934,3 +7934,7 @@
 /haproxy.cfg
 /nuxt.config.js
 /vercel.json
+/wp-content/plugins/dicom-support/readme.txt
+/wp-content/plugins/designthemes-core-features/readme.txt
+/wp-content/plugins/frndzk-expandable-bottom-bar/readme.txt
+/wp-content/plugins/your-simple-svg-support/readme.txt

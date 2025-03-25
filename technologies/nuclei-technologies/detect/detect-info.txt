@@ -263,3 +263,4 @@
 /main.dart.js
 /flutter_bootstrap.js
 /api/database
+/assets/app-data.json

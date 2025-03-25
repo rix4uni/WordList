@@ -6658,3 +6658,7 @@
 /wp-content/plugins/block-logic/readme.txt
 /wp-content/plugins/code-clone/readme.txt
 /wp-content/plugins/bitspecter-suite/readme.txt
+/wp-content/plugins/dicom-support/readme.txt
+/wp-content/plugins/designthemes-core-features/readme.txt
+/wp-content/plugins/frndzk-expandable-bottom-bar/readme.txt
+/wp-content/plugins/your-simple-svg-support/readme.txt

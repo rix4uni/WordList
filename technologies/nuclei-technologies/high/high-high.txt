@@ -5316,3 +5316,4 @@
 /wp-content/themes/cozystay/style.css
 /wp-content/plugins/file-away/readme.txt
 /wp-content/plugins/woo-rfq-for-woocommerce/readme.txt
+/wp-content/plugins/wp-church-donation/readme.txt

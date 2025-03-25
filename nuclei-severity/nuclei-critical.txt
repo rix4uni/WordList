@@ -3140,3 +3140,4 @@ pathCache.php
 /js/..%2f%2f/wizard.htm
 /images/..%2f%2f/wizard.htm
 {{endpoints}}
+/sites/all/libraries/elfinder/connectors/php/connector.php

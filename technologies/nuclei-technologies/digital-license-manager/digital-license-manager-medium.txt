@@ -1,0 +1,1 @@
+/wp-content/plugins/digital-license-manager/readme.txt

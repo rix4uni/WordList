@@ -64,3 +64,4 @@
 /examples/
 /examples/servlets/servlet/SessionExample
 /..;/examples/servlets/servlet/SessionExample
+/assets/app-data.json

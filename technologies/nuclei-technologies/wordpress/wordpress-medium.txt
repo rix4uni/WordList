@@ -9029,3 +9029,5 @@
 /wp-content/plugins/easy-custom-admin-bar/readme.txt
 /wp-content/plugins/gotcha-gesture-based-captcha/readme.txt
 /wp-content/plugins/multi-video-box/readme.txt
+/wp-content/plugins/elisqlreports/readme.txt
+/wp-content/plugins/digital-license-manager/readme.txt

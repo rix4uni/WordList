@@ -8116,3 +8116,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/themes/cozystay/style.css
 /wp-content/plugins/file-away/readme.txt
 /wp-content/plugins/woo-rfq-for-woocommerce/readme.txt
+/geoserver/
+/wp-content/plugins/wp-church-donation/readme.txt
