@@ -1,0 +1,1 @@
+/wp-content/plugins/fomo-payment-gateway-for-woocommerce/readme.txt

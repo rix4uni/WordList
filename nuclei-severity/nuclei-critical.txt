@@ -3141,3 +3141,12 @@ pathCache.php
 /images/..%2f%2f/wizard.htm
 {{endpoints}}
 /sites/all/libraries/elfinder/connectors/php/connector.php
+/wp-content/plugins/getshop-ecommerce/readme.txt
+/wp-content/plugins/schedule/readme.txt
+/wp-content/plugins/mywebtonet-performancestats/readme.txt
+/wp-content/plugins/linkedin-lite/readme.txt
+/wp-content/plugins/custom-field-list-widget/readme.txt
+/wp-content/plugins/formality/readme.txt
+/wp-content/plugins/hide-my-wp/readme.txt
+/wp-content/themes/hostiko/style.css
+/wp-content/plugins/docpro/readme.txt

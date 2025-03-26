@@ -7084,3 +7084,17 @@
 /wp-content/plugins/designthemes-core-features/readme.txt
 /wp-content/plugins/frndzk-expandable-bottom-bar/readme.txt
 /wp-content/plugins/your-simple-svg-support/readme.txt
+/wp-content/plugins/zapier/readme.txt
+/wp-content/plugins/wordpress-importer/readme.txt
+/wp-content/plugins/amazing-service-box-visual-composer-addons/readme.txt
+/wp-content/plugins/ayyash-studio/readme.txt
+/wp-content/plugins/gdpr-tools/readme.txt
+/wp-content/plugins/wp-gcalendar/readme.txt
+/wp-content/plugins/gmo-font-agent/readme.txt
+/wp-content/plugins/clink/readme.txt
+/wp-content/plugins/wp-featured-entries/readme.txt
+/wp-content/plugins/dokme/readme.txt
+/wp-content/plugins/stedb-forms/readme.txt
+/wp-content/plugins/my-default-post-content/readme.txt
+/wp-content/plugins/mobile-navigation/readme.txt
+/wp-content/plugins/login-redirect/readme.txt

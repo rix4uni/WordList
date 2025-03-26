@@ -1,0 +1,1 @@
+/wp-content/plugins/rizzi-guestbook/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/jquery-drop-down-menu-plugin/readme.txt

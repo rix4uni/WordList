@@ -1,0 +1,1 @@
+/wp-content/plugins/browser-address-bar-color/readme.txt

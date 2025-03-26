@@ -98,3 +98,4 @@ preview.php?controller=Load&action=index&catid=moztj%22%3E%3Cscript%3Ealert(docu
 /wp-content/plugins/wp-planet/rss.class/scripts/magpie_debug.php?url=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /login/hostinfo.cgi
 /login/hostinfo2.cgi
+/v1/health/service/consul

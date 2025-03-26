@@ -1,0 +1,1 @@
+/wp-content/plugins/wc-ja-ja-pagamentos-multicaixa-express/readme.txt

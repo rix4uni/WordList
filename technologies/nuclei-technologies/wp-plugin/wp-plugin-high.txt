@@ -4999,3 +4999,5 @@
 /wp-content/plugins/file-away/readme.txt
 /wp-content/plugins/woo-rfq-for-woocommerce/readme.txt
 /wp-content/plugins/wp-church-donation/readme.txt
+/wp-content/plugins/improve-my-city/readme.txt
+/wp-content/plugins/simple-photo-feed/readme.txt

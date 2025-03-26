@@ -1,1 +1,2 @@
 /ui/jobs
+/v1/health/service/consul

@@ -1660,3 +1660,11 @@
 /wp-content/plugins/realteo/readme.txt
 /wp-content/plugins/sf-booking/readme.txt
 /wp-content/plugins/age-gate/readme.txt
+/wp-content/plugins/getshop-ecommerce/readme.txt
+/wp-content/plugins/schedule/readme.txt
+/wp-content/plugins/mywebtonet-performancestats/readme.txt
+/wp-content/plugins/linkedin-lite/readme.txt
+/wp-content/plugins/custom-field-list-widget/readme.txt
+/wp-content/plugins/formality/readme.txt
+/wp-content/plugins/hide-my-wp/readme.txt
+/wp-content/plugins/docpro/readme.txt

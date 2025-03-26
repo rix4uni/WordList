@@ -135,3 +135,4 @@
 /zp-core/setup/index.php
 /devices.php
 /admin/pma/setup/index.php
+/v1/health/service/consul

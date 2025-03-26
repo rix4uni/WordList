@@ -1,0 +1,1 @@
+/wp-content/plugins/rdp-ingroups/readme.txt

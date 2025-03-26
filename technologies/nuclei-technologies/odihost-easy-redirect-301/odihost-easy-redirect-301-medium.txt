@@ -1,0 +1,1 @@
+/wp-content/plugins/odihost-easy-redirect-301/readme.txt

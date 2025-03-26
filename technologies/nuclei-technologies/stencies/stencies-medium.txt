@@ -1,0 +1,1 @@
+/wp-content/plugins/stencies/readme.txt

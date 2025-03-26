@@ -1,0 +1,1 @@
+/wp-content/plugins/cxc-sawa/readme.txt

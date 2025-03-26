@@ -1,0 +1,1 @@
+/wp-content/plugins/hacklog-remote-image-autosave/readme.txt
