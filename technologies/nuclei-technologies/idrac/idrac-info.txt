@@ -1,2 +1,4 @@
 /restgui/start.html
 /login.html
+/data?get=prodServerGen
+/session?aimGetProp=fwVersionFull

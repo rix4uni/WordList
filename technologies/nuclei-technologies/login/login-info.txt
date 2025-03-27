@@ -303,3 +303,5 @@
 /dex/auth
 /dblang.dcw
 /web/login.html
+/webui/
+/xphoneconnect/admin/Login.aspx

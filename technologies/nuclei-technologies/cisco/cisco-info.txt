@@ -18,3 +18,4 @@
 /ui/login
 /cuadmin/home.do
 /admin/
+/webui/

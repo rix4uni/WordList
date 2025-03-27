@@ -844,3 +844,5 @@
 /dblang.dcw
 /wfc/logon
 /web/login.html
+/webui/
+/xphoneconnect/admin/Login.aspx

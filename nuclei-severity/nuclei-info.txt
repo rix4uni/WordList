@@ -2277,3 +2277,6 @@
 /main.dart.js
 /flutter_bootstrap.js
 /assets/app-data.json
+/webui/
+/session?aimGetProp=fwVersionFull
+/xphoneconnect/admin/Login.aspx

@@ -5,3 +5,4 @@
 /config/authentication_page.htm
 /ccm-web/
 /restgui/start.html
+/session?aimGetProp=fwVersionFull

@@ -11782,3 +11782,4 @@ request?info=<svg onload=alert(
 /wp-content/plugins/simple-rating/readme.txt
 /wp-content/plugins/hacklog-remote-image-autosave/readme.txt
 /wp-content/plugins/wp-email-delivery/readme.txt
+/wp-content/plugins/mediaview/readme.txt
