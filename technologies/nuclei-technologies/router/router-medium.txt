@@ -8,3 +8,5 @@
 /<style%20onload=alert`document.domain`;>../..%2f
 /login/hostinfo.cgi
 /login/hostinfo2.cgi
+/currentsetting.htm
+/debuginfo.htm
