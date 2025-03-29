@@ -6676,3 +6676,8 @@
 /wp-content/plugins/my-default-post-content/readme.txt
 /wp-content/plugins/mobile-navigation/readme.txt
 /wp-content/plugins/login-redirect/readme.txt
+/wp-content/plugins/image-upload-for-bbpress/readme.txt
+/wp-content/plugins/soj-soundslides/readme.txt
+/wp-content/plugins/dap-to-autoresponders-daar/readme.txt
+/wp-content/plugins/so-called-air-quotes/readme.txt
+/wp-content/plugins/ut-shortcodes/readme.txt

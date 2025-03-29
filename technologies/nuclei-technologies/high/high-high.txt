@@ -5319,3 +5319,4 @@
 /wp-content/plugins/wp-church-donation/readme.txt
 /wp-content/plugins/improve-my-city/readme.txt
 /wp-content/plugins/simple-photo-feed/readme.txt
+/wp-content/plugins/so-called-air-quotes/readme.txt

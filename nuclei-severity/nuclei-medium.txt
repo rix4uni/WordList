@@ -11787,3 +11787,4 @@ request?info=<svg onload=alert(
 /C:/Windows/System32/drivers/etc/hosts?raw
 /currentsetting.htm
 /debuginfo.htm
+/wp-content/plugins/dap-to-autoresponders-daar/readme.txt
