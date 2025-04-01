@@ -3151,3 +3151,4 @@ pathCache.php
 /wp-content/themes/hostiko/style.css
 /wp-content/plugins/docpro/readme.txt
 /wp-content/plugins/kubio/readme.txt
+/wp-content/plugins/wp-realestate/readme.txt

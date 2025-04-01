@@ -1,0 +1,1 @@
+/wp-content/plugins/ct-real-estate-core/readme.txt

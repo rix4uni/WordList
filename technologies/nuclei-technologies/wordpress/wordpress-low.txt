@@ -7103,3 +7103,4 @@
 /wp-content/plugins/dap-to-autoresponders-daar/readme.txt
 /wp-content/plugins/so-called-air-quotes/readme.txt
 /wp-content/plugins/ut-shortcodes/readme.txt
+/wp-content/plugins/ct-real-estate-core/readme.txt
