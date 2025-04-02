@@ -1,0 +1,1 @@
+/wp-content/plugins/yummly-rich-recipes/readme.txt

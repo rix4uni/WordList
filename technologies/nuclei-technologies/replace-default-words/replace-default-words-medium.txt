@@ -1,0 +1,1 @@
+/wp-content/plugins/replace-default-words/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/cazamba/readme.txt

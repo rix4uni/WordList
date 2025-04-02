@@ -1,0 +1,1 @@
+/wp-content/plugins/insert-headers-and-footers-script/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/advanced-search-by-my-solr-server/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/alphaomega-captcha-anti-spam/readme.txt

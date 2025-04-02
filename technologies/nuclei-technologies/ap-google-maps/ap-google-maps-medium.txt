@@ -1,0 +1,1 @@
+/wp-content/plugins/ap-google-maps/readme.txt

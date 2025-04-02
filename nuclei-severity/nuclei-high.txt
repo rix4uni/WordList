@@ -8121,3 +8121,9 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/improve-my-city/readme.txt
 /wp-content/plugins/simple-photo-feed/readme.txt
 /wp-content/plugins/so-called-air-quotes/readme.txt
+/wp-content/plugins/copy-menu/readme.txt
+/wp-content/plugins/ultimate-bar/readme.txt
+/wp-content/plugins/music-press-pro/readme.txt
+/wp-content/plugins/sourceplay-navermap/readme.txt
+/config
+/api/v1/status/config

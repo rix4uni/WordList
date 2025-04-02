@@ -393,3 +393,7 @@
 /wp-content/themes/zegen/style.css
 /wp-content/themes/wp-foodbakery/style.css
 /wp-content/themes/altair/style.css
+/wp-content/themes/hester/style.css
+/wp-content/themes/city-store/style.css
+/wp-content/themes/build/style.css
+/wp-content/themes/auramart/style.css

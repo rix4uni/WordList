@@ -1,0 +1,1 @@
+/wp-content/plugins/lh-ogp-meta-tags/readme.txt

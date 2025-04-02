@@ -1852,3 +1852,4 @@
 /wp-content/plugins/docpro/readme.txt
 /wp-content/plugins/kubio/readme.txt
 /wp-content/plugins/wp-realestate/readme.txt
+/wp-content/plugins/front-end-only-users/readme.txt

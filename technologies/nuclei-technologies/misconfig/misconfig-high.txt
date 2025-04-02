@@ -480,3 +480,5 @@
 /wp-config.zip
 /_wpeprivate/config.json
 /finish-installation/register
+/config
+/api/v1/status/config
