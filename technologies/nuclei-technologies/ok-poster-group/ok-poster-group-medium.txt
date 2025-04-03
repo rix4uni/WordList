@@ -1,0 +1,1 @@
+/wp-content/plugins/ok-poster-group/readme.txt

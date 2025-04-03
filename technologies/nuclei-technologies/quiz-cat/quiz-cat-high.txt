@@ -1,0 +1,1 @@
+/wp-content/plugins/quiz-cat/readme.txt

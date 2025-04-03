@@ -5006,3 +5006,15 @@
 /wp-content/plugins/music-press-pro/readme.txt
 /wp-content/plugins/copy-menu/readme.txt
 /wp-content/plugins/sourceplay-navermap/readme.txt
+/wp-content/plugins/wa-chatbox-manager/readme.txt
+/wp-content/plugins/h5pxapikatchu/readme.txt
+/wp-content/plugins/hm-cool-author-box-widget/readme.txt
+/wp-content/plugins/ecab-taxi-booking-manager/readme.txt
+/wp-content/plugins/terms-and-conditions-per-product/readme.txt
+/wp-content/plugins/clear-sucuri-cache/readme.txt
+/wp-content/plugins/exchange-rates/readme.txt
+/wp-content/plugins/fb-reviews-widget/readme.txt
+/wp-content/plugins/king-addons/readme.txt
+/wp-content/plugins/quiz-cat/readme.txt
+/wp-content/plugins/webtexttool/readme.txt
+/wp-content/plugins/z-companion/readme.txt

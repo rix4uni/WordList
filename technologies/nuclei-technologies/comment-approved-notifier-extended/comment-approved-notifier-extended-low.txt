@@ -1,0 +1,1 @@
+/wp-content/plugins/comment-approved-notifier-extended/readme.txt

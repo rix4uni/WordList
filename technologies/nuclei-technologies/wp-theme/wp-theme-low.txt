@@ -397,3 +397,11 @@
 /wp-content/themes/city-store/style.css
 /wp-content/themes/build/style.css
 /wp-content/themes/auramart/style.css
+/wp-content/themes/whitish-lite/style.css
+/wp-content/themes/storebiz/style.css
+/wp-content/themes/morningtime-lite/style.css
+/wp-content/themes/newseqo/style.css
+/wp-content/themes/rainbownews/style.css
+/wp-content/themes/big-store/style.css
+/wp-content/themes/unlimited/style.css
+/wp-content/themes/churel/style.css

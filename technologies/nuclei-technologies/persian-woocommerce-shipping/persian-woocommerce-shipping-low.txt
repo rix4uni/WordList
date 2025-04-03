@@ -1,0 +1,1 @@
+/wp-content/plugins/persian-woocommerce-shipping/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/lightview-plus/readme.txt

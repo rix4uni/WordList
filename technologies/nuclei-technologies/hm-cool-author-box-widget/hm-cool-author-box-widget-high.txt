@@ -1,0 +1,1 @@
+/wp-content/plugins/hm-cool-author-box-widget/readme.txt

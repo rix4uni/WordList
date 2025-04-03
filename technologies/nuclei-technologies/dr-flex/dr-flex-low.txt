@@ -1,0 +1,1 @@
+/wp-content/plugins/dr-flex/readme.txt

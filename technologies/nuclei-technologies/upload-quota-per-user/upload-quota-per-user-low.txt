@@ -1,0 +1,1 @@
+/wp-content/plugins/upload-quota-per-user/readme.txt

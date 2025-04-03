@@ -1,0 +1,1 @@
+/wp-content/plugins/big-boom-directory/readme.txt

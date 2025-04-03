@@ -78,3 +78,5 @@
 /?q=./gibbon.sql
 /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php
 /apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php
+/RP?wsrp-url=file:///etc/passwd
+/RP?wsrp-url=file:///c:\\windows\\win.ini

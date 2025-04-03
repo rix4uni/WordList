@@ -1,0 +1,1 @@
+/wp-content/themes/whitish-lite/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/key4ce-osticket-bridge/readme.txt

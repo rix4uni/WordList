@@ -16,3 +16,4 @@
 /file=https://interact.sh
 /ui/gradio_api/file=https://oast.me
 /editor_tools/module?type=files/admin
+/response-headers?Content-Type=text/html&Server=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

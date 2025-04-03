@@ -1,0 +1,1 @@
+/wp-content/plugins/currency-switcher-for-woocommerce/readme.txt
