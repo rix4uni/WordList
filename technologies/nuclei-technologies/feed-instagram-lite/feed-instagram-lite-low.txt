@@ -1,0 +1,1 @@
+/wp-content/plugins/feed-instagram-lite/readme.txt

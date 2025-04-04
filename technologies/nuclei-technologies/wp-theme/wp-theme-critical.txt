@@ -171,3 +171,4 @@
 /wp-content/themes/minimog/style.css
 /wp-content/themes/cozystay/style.css
 /wp-content/themes/hostiko/style.css
+/wp-content/themes/rapyd-payments/style.css

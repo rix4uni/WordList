@@ -11877,3 +11877,4 @@ request?info=<svg onload=alert(
 /wp-content/plugins/omnileads-scripts-and-tags-manager/readme.txt
 /wp-content/plugins/wp-database-optimizer/readme.txt
 /response-headers?Content-Type=text/html&Server=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-content/plugins/xili-dictionary/readme.txt

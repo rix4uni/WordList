@@ -1,0 +1,1 @@
+/wp-content/plugins/login-widget-for-ultimate-member/readme.txt

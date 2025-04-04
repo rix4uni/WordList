@@ -8141,3 +8141,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/quiz-cat/readme.txt
 /wp-content/plugins/webtexttool/readme.txt
 /wp-content/plugins/z-companion/readme.txt
+/wp-content/plugins/bit-integrations/readme.txt
+/wp-content/plugins/order-status-rules-for-woocommerce/readme.txt

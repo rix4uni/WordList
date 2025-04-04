@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-leads-builder-any-crm/readme.txt

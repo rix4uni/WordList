@@ -1672,3 +1672,10 @@
 /wp-content/plugins/wp-realestate/readme.txt
 /wp-content/plugins/front-end-only-users/readme.txt
 /wp-content/plugins/quick-adsense-reloaded/readme.txt
+/wp-content/plugins/countdown-builder/readme.txt
+/wp-content/plugins/woo-product-filter/readme.txt
+/wp-content/plugins/displayproduct/readme.txt
+/wp-content/plugins/postmash-custom/readme.txt
+/wp-content/plugins/accounting-for-woocommerce/readme.txt
+/wp-content/plugins/essential-real-estate/readme.txt
+/wp-content/plugins/material-dashboard/readme.txt
