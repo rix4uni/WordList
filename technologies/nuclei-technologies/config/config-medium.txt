@@ -262,3 +262,5 @@
 /StudioServer/.git/config
 /sftp-config.json
 /kibana.yml
+/fastcgi.conf
+/config/fastcgi.conf

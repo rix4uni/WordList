@@ -110,3 +110,4 @@
 /ws-config.example.json
 /dnsmasq.conf
 /icecast.xml
+/SetupConfig.xml

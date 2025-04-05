@@ -8535,3 +8535,5 @@
 /wp-content/plugins/omnileads-scripts-and-tags-manager/readme.txt
 /wp-content/plugins/wp-database-optimizer/readme.txt
 /wp-content/plugins/xili-dictionary/readme.txt
+/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/scripts/print_php_information.php
+/wp-content/plugins/expand-maker/readme.txt

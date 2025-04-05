@@ -5,3 +5,4 @@
 /getcfg.php?a=%0A_POST_SERVICES=DEVICE.ACCOUNT%0AAUTHORIZED_GROUP=1
 /wp-content/plugins/user-meta/views/debug.php
 /en/products?query=123
+/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/scripts/print_php_information.php

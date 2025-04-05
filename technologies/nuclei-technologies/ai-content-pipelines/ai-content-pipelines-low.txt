@@ -1,0 +1,1 @@
+/wp-content/plugins/ai-content-pipelines/readme.txt

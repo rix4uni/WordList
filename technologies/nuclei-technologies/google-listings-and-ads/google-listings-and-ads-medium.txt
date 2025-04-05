@@ -1,1 +1,2 @@
 /wp-content/plugins/google-listings-and-ads/readme.txt
+/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/scripts/print_php_information.php

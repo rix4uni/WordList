@@ -524,3 +524,5 @@
 /kibana.yml
 /currentsetting.htm
 /debuginfo.htm
+/fastcgi.conf
+/config/fastcgi.conf

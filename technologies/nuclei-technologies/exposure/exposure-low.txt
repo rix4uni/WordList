@@ -364,3 +364,4 @@
 /icecast.xml
 /nuxt.config.js
 /vercel.json
+/SetupConfig.xml

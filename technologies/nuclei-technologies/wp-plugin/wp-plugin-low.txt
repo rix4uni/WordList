@@ -6769,3 +6769,6 @@
 /wp-content/plugins/bit-integrations/readme.txt
 /wp-content/plugins/material-dashboard/readme.txt
 /wp-content/plugins/order-status-rules-for-woocommerce/readme.txt
+/wp-content/plugins/lafka-plugin/readme.txt
+/wp-content/plugins/ai-content-pipelines/readme.txt
+/wp-content/plugins/wp-update-mail-notification/readme.txt

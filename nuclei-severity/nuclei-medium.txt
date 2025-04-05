@@ -11878,3 +11878,7 @@ request?info=<svg onload=alert(
 /wp-content/plugins/wp-database-optimizer/readme.txt
 /response-headers?Content-Type=text/html&Server=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /wp-content/plugins/xili-dictionary/readme.txt
+/fastcgi.conf
+/config/fastcgi.conf
+/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/scripts/print_php_information.php
+/wp-content/plugins/expand-maker/readme.txt
