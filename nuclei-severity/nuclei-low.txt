@@ -8062,3 +8062,4 @@
 /wp-content/plugins/ai-content-pipelines/readme.txt
 /wp-content/plugins/lafka-plugin/readme.txt
 /wp-content/plugins/wp-update-mail-notification/readme.txt
+/wp-content/plugins/broken-link-checker-seo/readme.txt
