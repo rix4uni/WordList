@@ -11882,3 +11882,6 @@ request?info=<svg onload=alert(
 /config/fastcgi.conf
 /wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/scripts/print_php_information.php
 /wp-content/plugins/expand-maker/readme.txt
+/wp-content/plugins/accept-sagepay-payments-using-contact-form-7/readme.txt
+/wp-content/plugins/advanced-advertising-system/readme.txt
+/wp-content/plugins/green-money-payment-gateway/readme.txt

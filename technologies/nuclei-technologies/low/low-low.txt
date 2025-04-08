@@ -7158,3 +7158,10 @@
 /wp-content/plugins/ai-content-pipelines/readme.txt
 /wp-content/plugins/wp-update-mail-notification/readme.txt
 /wp-content/plugins/broken-link-checker-seo/readme.txt
+/wp-content/plugins/3dprint-lite/readme.txt
+/wp-content/plugins/circle-image-slider-with-lightbox/readme.txt
+/wp-content/themes/streamit/style.css
+/wp-content/plugins/aawp-obfuscator/readme.txt
+/wp-content/plugins/accept-sagepay-payments-using-contact-form-7/readme.txt
+/wp-content/plugins/green-money-payment-gateway/readme.txt
+/wp-content/plugins/simple-wp-events/readme.txt

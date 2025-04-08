@@ -406,3 +406,4 @@
 /wp-content/themes/unlimited/style.css
 /wp-content/themes/churel/style.css
 /wp-content/themes/wp-weixin/style.css
+/wp-content/themes/streamit/style.css

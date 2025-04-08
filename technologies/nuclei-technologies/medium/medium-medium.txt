@@ -8827,3 +8827,6 @@
 /wp-content/plugins/wp-database-optimizer/readme.txt
 /wp-content/plugins/xili-dictionary/readme.txt
 /wp-content/plugins/expand-maker/readme.txt
+/wp-content/plugins/green-money-payment-gateway/readme.txt
+/wp-content/plugins/accept-sagepay-payments-using-contact-form-7/readme.txt
+/wp-content/plugins/advanced-advertising-system/readme.txt

@@ -8143,3 +8143,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/z-companion/readme.txt
 /wp-content/plugins/bit-integrations/readme.txt
 /wp-content/plugins/order-status-rules-for-woocommerce/readme.txt
+/wp-content/plugins/melapress-login-security-premium/readme.txt
+/wp-content/plugins/melapress-login-security/readme.txt

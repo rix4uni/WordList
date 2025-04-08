@@ -1822,3 +1822,4 @@
 /wp-content/plugins/essential-real-estate/readme.txt
 /wp-content/plugins/material-dashboard/readme.txt
 /wp-content/plugins/drag-and-drop-multiple-file-upload-for-woocommerce/readme.txt
+/wp-content/plugins/simple-wp-events/readme.txt
