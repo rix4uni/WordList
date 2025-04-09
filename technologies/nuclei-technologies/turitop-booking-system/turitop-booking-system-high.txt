@@ -1,0 +1,1 @@
+/wp-content/plugins/turitop-booking-system/readme.txt

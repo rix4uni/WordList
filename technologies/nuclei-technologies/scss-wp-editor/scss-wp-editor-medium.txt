@@ -1,0 +1,1 @@
+/wp-content/plugins/scss-wp-editor/readme.txt

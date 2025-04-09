@@ -1,0 +1,1 @@
+/wp-content/plugins/advanced-speed-increaser/readme.txt

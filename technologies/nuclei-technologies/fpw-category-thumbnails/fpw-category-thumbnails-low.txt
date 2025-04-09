@@ -1,0 +1,1 @@
+/wp-content/plugins/fpw-category-thumbnails/readme.txt

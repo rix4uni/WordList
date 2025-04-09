@@ -1,0 +1,1 @@
+/wp-content/plugins/display-product-variations-dropdown-on-shop-page/readme.txt

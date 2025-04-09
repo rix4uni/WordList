@@ -1,0 +1,1 @@
+/wp-content/plugins/privy-crm-integration/readme.txt

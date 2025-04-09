@@ -1,0 +1,1 @@
+/wp-content/plugins/dethemekit-for-elementor/readme.txt

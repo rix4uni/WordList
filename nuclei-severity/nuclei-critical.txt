@@ -3164,3 +3164,5 @@ pathCache.php
 /wp-content/plugins/material-dashboard/readme.txt
 /wp-content/plugins/drag-and-drop-multiple-file-upload-for-woocommerce/readme.txt
 /wp-content/plugins/simple-wp-events/readme.txt
+/wp-content/plugins/booking-calendar-and-notification/readme.txt
+/wp-content/plugins/wp-autokeyword/readme.txt

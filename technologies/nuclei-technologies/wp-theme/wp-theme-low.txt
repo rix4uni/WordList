@@ -407,3 +407,10 @@
 /wp-content/themes/churel/style.css
 /wp-content/themes/wp-weixin/style.css
 /wp-content/themes/streamit/style.css
+/wp-content/themes/rezo/style.css
+/wp-content/themes/bloggie/style.css
+/wp-content/themes/edmin/style.css
+/wp-content/themes/newsy/style.css
+/wp-content/themes/photobox/style.css
+/wp-content/themes/sidepane/style.css
+/wp-content/themes/wigi/style.css

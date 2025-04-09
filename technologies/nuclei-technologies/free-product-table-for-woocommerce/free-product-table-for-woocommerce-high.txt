@@ -1,0 +1,1 @@
+/wp-content/plugins/free-product-table-for-woocommerce/readme.txt

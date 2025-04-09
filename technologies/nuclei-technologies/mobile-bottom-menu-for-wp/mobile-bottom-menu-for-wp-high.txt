@@ -1,0 +1,1 @@
+/wp-content/plugins/mobile-bottom-menu-for-wp/readme.txt

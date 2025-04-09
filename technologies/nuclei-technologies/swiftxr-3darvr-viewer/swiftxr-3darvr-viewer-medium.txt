@@ -1,0 +1,1 @@
+/wp-content/plugins/swiftxr-3darvr-viewer/readme.txt

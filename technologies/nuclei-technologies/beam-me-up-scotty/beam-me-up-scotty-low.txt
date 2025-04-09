@@ -1,0 +1,1 @@
+/wp-content/plugins/beam-me-up-scotty/readme.txt

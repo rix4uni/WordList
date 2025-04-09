@@ -588,3 +588,5 @@
 /wp-content/themes/newscrunch/style.css
 /wp-content/themes/listingo/style.css
 /wp-content/themes/homey/style.css
+/wp-content/themes/rezo/style.css
+/wp-content/themes/shopo/style.css

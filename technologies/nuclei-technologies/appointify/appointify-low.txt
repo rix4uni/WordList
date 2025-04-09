@@ -1,0 +1,1 @@
+/wp-content/plugins/appointify/readme.txt

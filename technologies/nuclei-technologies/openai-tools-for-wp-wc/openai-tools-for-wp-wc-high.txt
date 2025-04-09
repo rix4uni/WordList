@@ -1,0 +1,1 @@
+/wp-content/plugins/openai-tools-for-wp-wc/readme.txt
