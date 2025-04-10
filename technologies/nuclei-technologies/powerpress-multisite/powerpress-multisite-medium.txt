@@ -1,0 +1,1 @@
+/wp-content/plugins/powerpress-multisite/readme.txt

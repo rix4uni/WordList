@@ -1,0 +1,1 @@
+/wp-content/plugins/sheet2site/readme.txt

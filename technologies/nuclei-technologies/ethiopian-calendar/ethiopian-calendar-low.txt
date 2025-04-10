@@ -1,0 +1,1 @@
+/wp-content/plugins/ethiopian-calendar/readme.txt

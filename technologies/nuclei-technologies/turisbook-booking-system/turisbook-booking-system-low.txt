@@ -1,0 +1,1 @@
+/wp-content/plugins/turisbook-booking-system/readme.txt

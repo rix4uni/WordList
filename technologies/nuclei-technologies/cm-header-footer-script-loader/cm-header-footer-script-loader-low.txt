@@ -1,0 +1,1 @@
+/wp-content/plugins/cm-header-footer-script-loader/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/instantsearch-for-woocommerce/readme.txt

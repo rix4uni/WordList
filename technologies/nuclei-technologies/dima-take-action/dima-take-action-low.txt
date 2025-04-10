@@ -1,0 +1,1 @@
+/wp-content/plugins/dima-take-action/readme.txt

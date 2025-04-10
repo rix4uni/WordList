@@ -590,3 +590,5 @@
 /wp-content/themes/homey/style.css
 /wp-content/themes/rezo/style.css
 /wp-content/themes/shopo/style.css
+/wp-content/themes/tiger/style.css
+/wp-content/themes/gravel/style.css

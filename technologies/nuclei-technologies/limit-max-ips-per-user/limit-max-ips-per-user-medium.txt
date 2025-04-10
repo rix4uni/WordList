@@ -1,0 +1,1 @@
+/wp-content/plugins/limit-max-ips-per-user/readme.txt

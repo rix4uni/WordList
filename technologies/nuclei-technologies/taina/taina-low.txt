@@ -1,0 +1,1 @@
+/wp-content/themes/taina/style.css

@@ -4,3 +4,5 @@
 /SplusServer/
 /RServer/
 /TERR/
+/cfcc/login/login.jsp
+/login/login.jsp

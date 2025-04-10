@@ -3166,3 +3166,4 @@ pathCache.php
 /wp-content/plugins/simple-wp-events/readme.txt
 /wp-content/plugins/booking-calendar-and-notification/readme.txt
 /wp-content/plugins/wp-autokeyword/readme.txt
+/wp-content/plugins/xv-random-quotes/readme.txt

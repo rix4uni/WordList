@@ -1,0 +1,1 @@
+/wp-content/plugins/ticket-help-desk-system-lite/readme.txt

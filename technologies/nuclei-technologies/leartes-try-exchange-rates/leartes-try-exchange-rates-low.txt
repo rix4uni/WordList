@@ -1,0 +1,1 @@
+/wp-content/plugins/leartes-try-exchange-rates/readme.txt

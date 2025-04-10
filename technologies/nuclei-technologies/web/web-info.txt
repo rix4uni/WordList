@@ -24,3 +24,5 @@
 /login.aspx
 /AdminLogin.aspx
 /admin.aspx
+/cfcc/login/login.jsp
+/login/login.jsp

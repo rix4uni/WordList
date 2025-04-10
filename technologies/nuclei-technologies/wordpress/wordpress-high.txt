@@ -5837,3 +5837,9 @@
 /wp-content/plugins/wpmbytplayer/readme.txt
 /wp-content/plugins/wr-price-list-for-woocommerce/readme.txt
 /wp-content/plugins/xpro-theme-builder/readme.txt
+/wp-content/plugins/order-post/readme.txt
+/wp-content/plugins/azurecurve-shortcodes-in-comments/readme.txt
+/wp-content/plugins/suretriggers/readme.txt
+/wp-content/plugins/open-ai-search-bar/readme.txt
+/wp-content/plugins/contact-form-vcard-generator/readme.txt
+/wp-content/plugins/smm-api/readme.txt

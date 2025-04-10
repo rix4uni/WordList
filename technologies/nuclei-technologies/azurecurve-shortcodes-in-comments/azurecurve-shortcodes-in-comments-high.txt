@@ -1,0 +1,1 @@
+/wp-content/plugins/azurecurve-shortcodes-in-comments/readme.txt

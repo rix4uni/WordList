@@ -1,0 +1,1 @@
+/wp-content/plugins/mx-time-zone-clocks/readme.txt

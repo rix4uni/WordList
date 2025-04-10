@@ -1,0 +1,1 @@
+/wp-content/plugins/gutena-kit/readme.txt

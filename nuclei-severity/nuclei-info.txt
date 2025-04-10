@@ -2280,3 +2280,6 @@
 /webui/
 /session?aimGetProp=fwVersionFull
 /xphoneconnect/admin/Login.aspx
+/adfinity/login
+/cfcc/login/login.jsp
+/login/login.jsp

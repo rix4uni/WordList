@@ -1,0 +1,1 @@
+/wp-content/plugins/send-e-mail/readme.txt

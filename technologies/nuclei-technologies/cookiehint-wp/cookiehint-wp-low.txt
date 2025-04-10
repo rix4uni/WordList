@@ -1,0 +1,1 @@
+/wp-content/plugins/cookiehint-wp/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/keywords-highlight-tool/readme.txt

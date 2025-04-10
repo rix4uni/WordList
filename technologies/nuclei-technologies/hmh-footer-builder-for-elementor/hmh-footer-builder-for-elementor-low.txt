@@ -1,0 +1,1 @@
+/wp-content/plugins/hmh-footer-builder-for-elementor/readme.txt

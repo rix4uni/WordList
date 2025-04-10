@@ -414,3 +414,8 @@
 /wp-content/themes/photobox/style.css
 /wp-content/themes/sidepane/style.css
 /wp-content/themes/wigi/style.css
+/wp-content/themes/simplish/style.css
+/wp-content/themes/taina/style.css
+/wp-content/themes/home-services/style.css
+/wp-content/themes/glossy-blog/style.css
+/wp-content/themes/tiger/style.css

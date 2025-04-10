@@ -1,0 +1,1 @@
+/wp-content/plugins/live-chat-support-by-social-intents/readme.txt
