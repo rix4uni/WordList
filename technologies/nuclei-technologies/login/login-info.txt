@@ -308,3 +308,5 @@
 /adfinity/login
 /cfcc/login/login.jsp
 /login/login.jsp
+/login?redirect=%2Fdashboard
+/portal/loginpage.aspx

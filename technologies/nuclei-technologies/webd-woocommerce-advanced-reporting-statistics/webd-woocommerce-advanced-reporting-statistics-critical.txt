@@ -1,0 +1,1 @@
+/wp-content/plugins/webd-woocommerce-advanced-reporting-statistics/readme.txt

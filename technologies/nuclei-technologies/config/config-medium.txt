@@ -264,3 +264,4 @@
 /kibana.yml
 /fastcgi.conf
 /config/fastcgi.conf
+/cpanel.config

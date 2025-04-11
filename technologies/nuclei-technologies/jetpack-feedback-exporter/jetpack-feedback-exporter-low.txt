@@ -1,0 +1,1 @@
+/wp-content/plugins/jetpack-feedback-exporter/readme.txt

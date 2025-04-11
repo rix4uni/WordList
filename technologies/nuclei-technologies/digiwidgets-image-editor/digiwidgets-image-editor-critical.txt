@@ -1,0 +1,1 @@
+/wp-content/plugins/digiwidgets-image-editor/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/shiptimize-for-woocommerce/readme.txt

@@ -1867,3 +1867,15 @@
 /wp-content/plugins/booking-calendar-and-notification/readme.txt
 /wp-content/plugins/wp-autokeyword/readme.txt
 /wp-content/plugins/xv-random-quotes/readme.txt
+/wp-content/plugins/digiwidgets-image-editor/readme.txt
+/wp-content/plugins/dyapress/readme.txt
+/wp-content/plugins/nextcart-woocommerce-migration/readme.txt
+/wp-content/plugins/gnucommerce/readme.txt
+/wp-content/plugins/debounce-io-email-validator/readme.txt
+/wp-content/plugins/fami-woocommerce-compare/readme.txt
+/wp-content/plugins/history-log-by-click5/readme.txt
+/wp-content/plugins/shopper/readme.txt
+/wp-content/plugins/gf-salesmate-add-on/readme.txt
+/wp-content/plugins/webd-woocommerce-advanced-reporting-statistics/readme.txt
+/wp-content/plugins/cbxpoll/readme.txt
+/wp-content/plugins/social-share-and-social-locker-arsocial/readme.txt

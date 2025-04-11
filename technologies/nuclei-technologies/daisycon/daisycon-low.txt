@@ -1,0 +1,1 @@
+/wp-content/plugins/daisycon/readme.txt

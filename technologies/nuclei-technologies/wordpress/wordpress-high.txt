@@ -5843,3 +5843,8 @@
 /wp-content/plugins/open-ai-search-bar/readme.txt
 /wp-content/plugins/contact-form-vcard-generator/readme.txt
 /wp-content/plugins/smm-api/readme.txt
+/wp-content/plugins/gf-salesmate-add-on/readme.txt
+/wp-content/plugins/wp-video-playlist/readme.txt
+/wp-content/plugins/woo-tumblog/readme.txt
+/wp-content/plugins/migrate-shopify-to-woocommerce/readme.txt
+/wp-content/plugins/css-for-elementor/readme.txt
