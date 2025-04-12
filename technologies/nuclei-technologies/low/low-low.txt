@@ -7353,3 +7353,6 @@
 /wp-content/plugins/tailpress/readme.txt
 /wp-content/plugins/viral-loops-wp-integration/readme.txt
 /wp-content/plugins/wp-less/readme.txt
+/wp-content/plugins/wpc-admin-columns/readme.txt
+/wp-content/plugins/cart66-cloud/readme.txt
+/wp-content/plugins/developer-toolbar/readme.txt
