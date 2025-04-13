@@ -51,3 +51,4 @@
 /currentsetting.htm
 /debuginfo.htm
 /wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/scripts/print_php_information.php
+/wp-content/uploads/download-manager-files/

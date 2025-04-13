@@ -8630,3 +8630,4 @@
 /wp-content/plugins/cart66-cloud/readme.txt
 /wp-content/plugins/quadmenu/readme.txt
 /wp-content/plugins/developer-toolbar/readme.txt
+/wp-content/uploads/download-manager-files/
