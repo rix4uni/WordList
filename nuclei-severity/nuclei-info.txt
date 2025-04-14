@@ -2285,3 +2285,5 @@
 /login/login.jsp
 /portal/loginpage.aspx
 /login?redirect=%2Fdashboard
+/symfony/web/index.php/auth/login
+/web/index.php/auth/login

@@ -851,3 +851,5 @@
 /login/login.jsp
 /login?redirect=%2Fdashboard
 /portal/loginpage.aspx
+/symfony/web/index.php/auth/login
+/web/index.php/auth/login
