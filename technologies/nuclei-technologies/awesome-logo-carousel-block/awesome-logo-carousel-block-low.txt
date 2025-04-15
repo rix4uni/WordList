@@ -1,0 +1,1 @@
+/wp-content/plugins/awesome-logo-carousel-block/readme.txt
