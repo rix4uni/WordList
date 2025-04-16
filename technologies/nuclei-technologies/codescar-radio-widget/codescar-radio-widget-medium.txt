@@ -1,0 +1,1 @@
+/wp-content/plugins/codescar-radio-widget/readme.txt

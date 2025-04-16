@@ -1,0 +1,1 @@
+/wp-content/plugins/user-registration-using-contact-form-7/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/interactive-us-map/readme.txt

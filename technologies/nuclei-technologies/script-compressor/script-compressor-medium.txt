@@ -1,0 +1,1 @@
+/wp-content/plugins/script-compressor/readme.txt

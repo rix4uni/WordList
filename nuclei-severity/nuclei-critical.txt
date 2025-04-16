@@ -3179,3 +3179,5 @@ pathCache.php
 /wp-content/plugins/gf-salesmate-add-on/readme.txt
 /wp-content/plugins/webd-woocommerce-advanced-reporting-statistics/readme.txt
 /wp-content/plugins/social-share-and-social-locker-arsocial/readme.txt
+/wp-content/plugins/oxygen-mydata/readme.txt
+/wp-content/plugins/database-toolset/readme.txt

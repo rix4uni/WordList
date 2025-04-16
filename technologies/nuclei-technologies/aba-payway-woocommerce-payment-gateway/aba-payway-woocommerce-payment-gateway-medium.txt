@@ -1,0 +1,1 @@
+/wp-content/plugins/aba-payway-woocommerce-payment-gateway/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/comment-validation-reloaded/readme.txt

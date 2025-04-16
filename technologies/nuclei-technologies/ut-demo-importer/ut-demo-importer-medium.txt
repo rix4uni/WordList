@@ -1,0 +1,1 @@
+/wp-content/plugins/ut-demo-importer/readme.txt

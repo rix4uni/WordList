@@ -1,0 +1,1 @@
+/wp-content/plugins/firedrum-email-marketing/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/clinked-client-portal/readme.txt

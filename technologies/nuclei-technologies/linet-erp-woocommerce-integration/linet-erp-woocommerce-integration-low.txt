@@ -1,0 +1,1 @@
+/wp-content/plugins/linet-erp-woocommerce-integration/readme.txt

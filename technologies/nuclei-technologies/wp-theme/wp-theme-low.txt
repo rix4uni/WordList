@@ -419,3 +419,5 @@
 /wp-content/themes/home-services/style.css
 /wp-content/themes/glossy-blog/style.css
 /wp-content/themes/tiger/style.css
+/wp-content/themes/customify-theme/style.css
+/wp-content/themes/industrial-lite/style.css

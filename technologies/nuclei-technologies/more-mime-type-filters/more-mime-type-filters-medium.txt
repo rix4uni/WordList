@@ -1,0 +1,1 @@
+/wp-content/plugins/more-mime-type-filters/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/revechat/readme.txt

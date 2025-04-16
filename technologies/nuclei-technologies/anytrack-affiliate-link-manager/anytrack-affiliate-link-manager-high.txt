@@ -1,0 +1,1 @@
+/wp-content/plugins/anytrack-affiliate-link-manager/readme.txt

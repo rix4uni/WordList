@@ -1,0 +1,1 @@
+/wp-content/plugins/multiple-location-google-map/readme.txt
