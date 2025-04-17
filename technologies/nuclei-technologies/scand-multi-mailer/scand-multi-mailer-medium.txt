@@ -1,0 +1,1 @@
+/wp-content/plugins/scand-multi-mailer/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/webd-woocommerce-product-excel-importer-bulk-edit/readme.txt

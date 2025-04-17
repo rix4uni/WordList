@@ -1,0 +1,1 @@
+/wp-content/plugins/workbox-video-from-vimeo-youtube-plugin/readme.txt

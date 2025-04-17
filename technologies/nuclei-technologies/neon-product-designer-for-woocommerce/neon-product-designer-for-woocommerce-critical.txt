@@ -1,0 +1,1 @@
+/wp-content/plugins/neon-product-designer-for-woocommerce/readme.txt

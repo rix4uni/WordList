@@ -16,3 +16,6 @@
 /maximo/webclient/login/login.jsp?appservauth=true
 /webredir.nsf
 /decisioncenter/login
+/
+/BACLIENT
+/JNLP

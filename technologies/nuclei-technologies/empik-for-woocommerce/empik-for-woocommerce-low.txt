@@ -1,0 +1,1 @@
+/wp-content/plugins/empik-for-woocommerce/readme.txt

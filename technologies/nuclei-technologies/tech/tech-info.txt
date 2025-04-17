@@ -857,3 +857,5 @@
 /api/database
 /assets/app-data.json
 /session?aimGetProp=fwVersionFull
+/BACLIENT
+/JNLP

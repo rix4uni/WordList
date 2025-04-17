@@ -1,0 +1,1 @@
+/wp-content/plugins/review-stars-count-for-woocommerce/readme.txt

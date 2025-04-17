@@ -1,0 +1,1 @@
+/wp-content/plugins/web2application/readme.txt

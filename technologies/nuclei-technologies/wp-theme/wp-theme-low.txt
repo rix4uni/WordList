@@ -421,3 +421,4 @@
 /wp-content/themes/tiger/style.css
 /wp-content/themes/customify-theme/style.css
 /wp-content/themes/industrial-lite/style.css
+/wp-content/themes/spabiz/style.css
