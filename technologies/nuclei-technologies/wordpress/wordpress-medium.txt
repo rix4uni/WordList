@@ -9414,3 +9414,5 @@
 /wp-content/plugins/spark-gf-failed-submissions/readme.txt
 /wp-content/plugins/webd-woocommerce-product-excel-importer-bulk-edit/readme.txt
 /wp-content/plugins/ultimate-wp-mail/readme.txt
+/wp-content/plugins/random-posts-mp3-player-sharebutton/readme.txt
+/wp-content/plugins/simple-wp-events/readme.txt

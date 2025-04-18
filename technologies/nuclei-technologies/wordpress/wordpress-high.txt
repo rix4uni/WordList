@@ -5863,3 +5863,4 @@
 /wp-content/themes/industrial-lite/style.css
 /wp-content/plugins/specia-companion/readme.txt
 /wp-content/plugins/woocommerce-to-google-merchant-center/readme.txt
+/wp-content/plugins/indieblocks/readme.txt

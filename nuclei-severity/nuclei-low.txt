@@ -8304,3 +8304,9 @@
 /wp-content/plugins/review-stars-count-for-woocommerce/readme.txt
 /wp-content/plugins/ultimate-wp-mail/readme.txt
 /wp-content/plugins/wp-businessdirectory/readme.txt
+/wp-content/plugins/avatar/readme.txt
+/wp-content/plugins/customized-login/readme.txt
+/wp-content/plugins/seo-help/readme.txt
+/wp-content/plugins/verowa-connect/readme.txt
+/wp-content/plugins/wp-inquiries/readme.txt
+/wp-content/plugins/indieblocks/readme.txt

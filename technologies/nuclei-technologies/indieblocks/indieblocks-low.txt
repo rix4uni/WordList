@@ -1,0 +1,1 @@
+/wp-content/plugins/indieblocks/readme.txt

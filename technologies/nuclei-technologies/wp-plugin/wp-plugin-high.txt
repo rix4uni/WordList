@@ -5110,3 +5110,4 @@
 /wp-content/plugins/cm-invitation-codes/readme.txt
 /wp-content/plugins/specia-companion/readme.txt
 /wp-content/plugins/woocommerce-to-google-merchant-center/readme.txt
+/wp-content/plugins/indieblocks/readme.txt
