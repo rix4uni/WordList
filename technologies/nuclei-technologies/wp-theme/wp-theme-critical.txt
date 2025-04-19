@@ -172,3 +172,4 @@
 /wp-content/themes/cozystay/style.css
 /wp-content/themes/hostiko/style.css
 /wp-content/themes/rapyd-payments/style.css
+/wp-content/themes/aihub/style.css

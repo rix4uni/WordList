@@ -3201,3 +3201,6 @@ pathCache.php
 /wp-content/plugins/ultimate-bootstrap-elements-for-elementor/readme.txt
 /wp-content/plugins/wp-smart-contracts/readme.txt
 /wp-content/plugins/wp-online-users-stats/readme.txt
+/wp-content/themes/aihub/style.css
+/wp-content/plugins/smart-product-review/readme.txt
+/wp-content/plugins/urbango-membership/readme.txt

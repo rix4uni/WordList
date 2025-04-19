@@ -5864,3 +5864,4 @@
 /wp-content/plugins/specia-companion/readme.txt
 /wp-content/plugins/woocommerce-to-google-merchant-center/readme.txt
 /wp-content/plugins/indieblocks/readme.txt
+/wp-content/plugins/elementor_widget_clever_radio_player/readme.txt
