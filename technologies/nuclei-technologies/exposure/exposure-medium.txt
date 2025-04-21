@@ -527,3 +527,4 @@
 /fastcgi.conf
 /config/fastcgi.conf
 /cpanel.config
+/settings

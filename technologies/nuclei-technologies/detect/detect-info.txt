@@ -266,3 +266,4 @@
 /assets/app-data.json
 /webui/
 /xphoneconnect/admin/Login.aspx
+/console/hawtconfig.json

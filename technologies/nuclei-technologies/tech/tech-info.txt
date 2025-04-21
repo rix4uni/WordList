@@ -859,3 +859,4 @@
 /session?aimGetProp=fwVersionFull
 /BACLIENT
 /JNLP
+/console/hawtconfig.json

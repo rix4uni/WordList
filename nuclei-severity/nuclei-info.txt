@@ -2289,3 +2289,4 @@
 /web/index.php/auth/login
 /BACLIENT
 /JNLP
+/console/hawtconfig.json

@@ -1,3 +1,1 @@
-/admin/
-/demo/
 /console/hawtconfig.json
