@@ -1904,3 +1904,4 @@
 /wp-content/plugins/smart-product-review/readme.txt
 /wp-content/themes/aihub/style.css
 /wp-content/plugins/urbango-membership/readme.txt
+/wp-content/plugins/modal-survey/readme.txt

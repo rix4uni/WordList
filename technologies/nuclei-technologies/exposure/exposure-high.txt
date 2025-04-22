@@ -453,3 +453,5 @@ _vti_pvt/authors.pwd
 /admin/realms/master/groups
 /admin/serverinfo
 /RST_status.htm%00currentsetting.htm
+/register
+/admin/login?next=%2Fadmin

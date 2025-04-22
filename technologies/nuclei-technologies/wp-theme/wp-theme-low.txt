@@ -422,3 +422,6 @@
 /wp-content/themes/customify-theme/style.css
 /wp-content/themes/industrial-lite/style.css
 /wp-content/themes/spabiz/style.css
+/wp-content/themes/eximius/style.css
+/wp-content/themes/celestial-aura/style.css
+/wp-content/themes/sirat/style.css

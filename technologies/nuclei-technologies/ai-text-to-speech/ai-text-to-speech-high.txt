@@ -1,0 +1,1 @@
+/wp-content/plugins/ai-text-to-speech/readme.txt

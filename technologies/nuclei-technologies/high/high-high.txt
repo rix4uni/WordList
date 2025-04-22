@@ -5433,3 +5433,17 @@
 /wp-content/plugins/woocommerce-to-google-merchant-center/readme.txt
 /wp-content/plugins/indieblocks/readme.txt
 /wp-content/plugins/elementor_widget_clever_radio_player/readme.txt
+/wp-content/plugins/fresh-framework/readme.txt
+/wp-content/plugins/cloak-front-end-email/readme.txt
+/wp-content/plugins/unlimited-timeline/readme.txt
+/wp-content/plugins/mobile-app-for-woocommerce/readme.txt
+/wp-content/themes/grandrestaurant/style.css
+/wp-content/plugins/analyticswp/readme.txt
+/wp-content/themes/eduma/style.css
+/wp-content/plugins/ai-text-to-speech/readme.txt
+/wp-content/plugins/storecontrl-wp-connection/readme.txt
+/wp-content/plugins/dashi/readme.txt
+/wp-content/plugins/bring-fraktguiden-for-woocommerce/readme.txt
+/wp-content/themes/sirat/style.css
+/wp-content/plugins/wp-data-logger/readme.txt
+/wp-content/plugins/wp-google-map-gold/readme.txt

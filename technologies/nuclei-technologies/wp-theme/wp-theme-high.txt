@@ -442,3 +442,6 @@
 /wp-content/themes/bulk/style.css
 /wp-content/themes/customify-theme/style.css
 /wp-content/themes/industrial-lite/style.css
+/wp-content/themes/grandrestaurant/style.css
+/wp-content/themes/eduma/style.css
+/wp-content/themes/sirat/style.css

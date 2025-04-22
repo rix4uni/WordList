@@ -1,0 +1,1 @@
+/wp-content/plugins/review-wave-google-places-reviews/readme.txt

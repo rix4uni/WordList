@@ -1,0 +1,1 @@
+/wp-content/plugins/author-work-in-progress-bar/readme.txt

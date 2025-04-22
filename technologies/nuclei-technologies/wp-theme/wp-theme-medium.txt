@@ -594,3 +594,5 @@
 /wp-content/themes/gravel/style.css
 /wp-content/themes/arkhe/style.css
 /wp-content/themes/wireless-butler/style.css
+/wp-content/themes/hostiko/style.css
+/wp-content/themes/grandrestaurant/style.css

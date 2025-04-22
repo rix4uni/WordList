@@ -482,3 +482,5 @@
 /finish-installation/register
 /config
 /api/v1/status/config
+/register
+/admin/login?next=%2Fadmin

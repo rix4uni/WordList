@@ -528,3 +528,4 @@
 /config/fastcgi.conf
 /cpanel.config
 /settings
+/api/v1/messages

@@ -70,3 +70,4 @@
 /phpinfo.old
 /phpinfo/save.php
 /phpinfo_new.php
+/api/v1/messages

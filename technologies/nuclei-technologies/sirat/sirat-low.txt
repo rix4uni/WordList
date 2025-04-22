@@ -1,0 +1,1 @@
+/wp-content/themes/sirat/style.css

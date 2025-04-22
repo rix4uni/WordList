@@ -136,3 +136,4 @@
 /devices.php
 /admin/pma/setup/index.php
 /v1/health/service/consul
+/api/v1/messages
