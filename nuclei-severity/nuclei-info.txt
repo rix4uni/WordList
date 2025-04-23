@@ -2290,3 +2290,4 @@
 /BACLIENT
 /JNLP
 /console/hawtconfig.json
+/app/login.php

@@ -1,0 +1,1 @@
+/wp-content/plugins/visucom-smart-sections/readme.txt

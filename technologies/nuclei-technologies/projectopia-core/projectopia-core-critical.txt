@@ -1,0 +1,1 @@
+/wp-content/plugins/projectopia-core/readme.txt

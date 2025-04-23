@@ -5123,3 +5123,9 @@
 /wp-content/plugins/bring-fraktguiden-for-woocommerce/readme.txt
 /wp-content/plugins/wp-data-logger/readme.txt
 /wp-content/plugins/wp-google-map-gold/readme.txt
+/wp-content/plugins/delele-all/readme.txt
+/wp-content/plugins/wordpress-dashboard-twitter/readme.txt
+/wp-content/plugins/editor-wysiwyg-background-color/readme.txt
+/wp-content/plugins/tp-gallery-slider/readme.txt
+/wp-content/plugins/wp-donate/readme.txt
+/wp-content/plugins/wordpress-simple-paypal-shopping-cart/readme.txt

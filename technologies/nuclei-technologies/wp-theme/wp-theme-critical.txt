@@ -173,3 +173,10 @@
 /wp-content/themes/hostiko/style.css
 /wp-content/themes/rapyd-payments/style.css
 /wp-content/themes/aihub/style.css
+/wp-content/themes/grip/style.css
+/wp-content/themes/tastyc/style.css
+/wp-content/themes/foton/style.css
+/wp-content/themes/dessau/style.css
+/wp-content/themes/dor/style.css
+/wp-content/themes/wanderland/style.css
+/wp-content/themes/ivy-school/style.css

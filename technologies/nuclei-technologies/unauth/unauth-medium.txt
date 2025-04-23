@@ -100,3 +100,4 @@ preview.php?controller=Load&action=index&catid=moztj%22%3E%3Cscript%3Ealert(docu
 /login/hostinfo2.cgi
 /v1/health/service/consul
 /debuginfo.htm
+/dashboard

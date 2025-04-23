@@ -853,3 +853,4 @@
 /portal/loginpage.aspx
 /symfony/web/index.php/auth/login
 /web/index.php/auth/login
+/app/login.php

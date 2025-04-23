@@ -1,0 +1,1 @@
+/wp-content/plugins/smart-agreements/readme.txt

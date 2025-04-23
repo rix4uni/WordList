@@ -5,3 +5,4 @@
 /transmission/web/
 /slurm/
 /devices.php
+/dashboard

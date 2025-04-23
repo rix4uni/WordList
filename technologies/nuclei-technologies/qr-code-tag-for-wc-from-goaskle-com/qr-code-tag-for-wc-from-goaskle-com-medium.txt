@@ -1,0 +1,1 @@
+/wp-content/plugins/qr-code-tag-for-wc-from-goaskle-com/readme.txt

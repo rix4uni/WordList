@@ -267,3 +267,4 @@
 /webui/
 /xphoneconnect/admin/Login.aspx
 /console/hawtconfig.json
+/app/login.php

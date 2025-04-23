@@ -1,0 +1,1 @@
+/wp-content/plugins/bma-lite-appointment-booking-and-scheduling/readme.txt
