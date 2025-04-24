@@ -1929,3 +1929,5 @@
 /wp-content/plugins/fluent-community/readme.txt
 /wp-content/plugins/fluent-boards/readme.txt
 /wp-content/plugins/quentn-wp/readme.txt
+/wp-content/plugins/flynax-bridge/readme.txt
+/wp-content/plugins/verification-sms-targetsms/readme.txt

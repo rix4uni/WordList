@@ -7503,3 +7503,11 @@
 /wp-content/plugins/macro-admin-email-data-optin-calculator/readme.txt
 /wp-content/plugins/pluginpass-pro-plugintheme-licensing/readme.txt
 /wp-content/plugins/wplike2get/readme.txt
+/wp-content/plugins/xc-woo-google-cloud-print/readme.txt
+/wp-content/plugins/advanced-accordion-block/readme.txt
+/wp-content/plugins/embed-lottie-player/readme.txt
+/wp-content/plugins/amz-configurator-core/readme.txt
+/wp-content/plugins/frontend-login-and-registration-blocks/readme.txt
+/wp-content/plugins/my-tickets/readme.txt
+/wp-content/plugins/buddy-press-force-password-change/readme.txt
+/wp-content/plugins/flynax-bridge/readme.txt

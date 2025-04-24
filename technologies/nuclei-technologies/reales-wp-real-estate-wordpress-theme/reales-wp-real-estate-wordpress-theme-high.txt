@@ -1,0 +1,1 @@
+/wp-content/themes/reales-wp-real-estate-wordpress-theme/style.css

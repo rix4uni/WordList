@@ -445,3 +445,4 @@
 /wp-content/themes/grandrestaurant/style.css
 /wp-content/themes/eduma/style.css
 /wp-content/themes/sirat/style.css
+/wp-content/themes/reales-wp-real-estate-wordpress-theme/style.css

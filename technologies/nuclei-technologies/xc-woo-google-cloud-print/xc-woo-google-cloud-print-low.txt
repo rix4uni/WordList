@@ -1,0 +1,1 @@
+/wp-content/plugins/xc-woo-google-cloud-print/readme.txt

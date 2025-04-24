@@ -8259,3 +8259,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/tp-gallery-slider/readme.txt
 /wp-content/plugins/wp-donate/readme.txt
 /wp-content/plugins/wordpress-simple-paypal-shopping-cart/readme.txt
+/wp-content/themes/reales-wp-real-estate-wordpress-theme/style.css
