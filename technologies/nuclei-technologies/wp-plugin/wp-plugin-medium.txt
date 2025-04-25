@@ -8842,3 +8842,9 @@
 /wp-content/plugins/wplike2get/readme.txt
 /wp-content/plugins/fast-ebay-listings/readme.txt
 /wp-content/plugins/listdom/readme.txt
+/wp-content/plugins/1-decembrie-1918/readme.txt
+/wp-content/plugins/upsell-order-bump-offer-for-woocommerce/readme.txt
+/wp-content/plugins/add-google-plus-one-social-share-button/readme.txt
+/wp-content/plugins/ajax-comment-form-cst/readme.txt
+/wp-content/plugins/admin-bookmarks/readme.txt
+/wp-content/plugins/prevent-direct-access/readme.txt

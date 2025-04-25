@@ -425,3 +425,4 @@
 /wp-content/themes/eximius/style.css
 /wp-content/themes/celestial-aura/style.css
 /wp-content/themes/sirat/style.css
+/wp-content/themes/vikinger/style.css

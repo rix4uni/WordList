@@ -101,3 +101,4 @@ preview.php?controller=Load&action=index&catid=moztj%22%3E%3Cscript%3Ealert(docu
 /v1/health/service/consul
 /debuginfo.htm
 /dashboard
+/pages/exec.php?exec_module=itop-hub-connector&exec_page=launch.php&target=inform_after_setup

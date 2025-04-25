@@ -529,3 +529,4 @@
 /cpanel.config
 /settings
 /api/v1/messages
+/pages/exec.php?exec_module=itop-hub-connector&exec_page=launch.php&target=inform_after_setup

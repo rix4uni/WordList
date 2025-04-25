@@ -1,0 +1,1 @@
+/wp-content/plugins/ajax-comment-form-cst/readme.txt
