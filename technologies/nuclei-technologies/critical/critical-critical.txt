@@ -1890,3 +1890,4 @@
 /wp-content/plugins/quentn-wp/readme.txt
 /wp-content/plugins/flynax-bridge/readme.txt
 /wp-content/plugins/verification-sms-targetsms/readme.txt
+/wp-content/themes/edumall/style.css

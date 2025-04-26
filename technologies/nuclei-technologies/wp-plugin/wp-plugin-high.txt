@@ -5131,3 +5131,4 @@
 /wp-content/plugins/wordpress-simple-paypal-shopping-cart/readme.txt
 /wp-content/plugins/wp-fsqm-pro/readme.txt
 /wp-content/plugins/mayosis-core/readme.txt
+/wp-content/plugins/abcsubmit/readme.txt

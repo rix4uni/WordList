@@ -7468,3 +7468,9 @@
 /wp-content/plugins/prevent-direct-access/readme.txt
 /wp-content/plugins/mayosis-core/readme.txt
 /wp-content/plugins/upsell-order-bump-offer-for-woocommerce/readme.txt
+/wp-content/plugins/xpro-elementor-addons-pro/readme.txt
+/wp-content/plugins/add-custom-page-template/readme.txt
+/wp-content/plugins/integracao-entre-eduzz-e-wc-powers/readme.txt
+/wp-content/plugins/aeropage-sync-for-airtable/readme.txt
+/wp-content/plugins/abcsubmit/readme.txt
+/wp-content/plugins/anps_theme_plugin/readme.txt

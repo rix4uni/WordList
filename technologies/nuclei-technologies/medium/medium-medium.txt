@@ -9145,3 +9145,4 @@
 /wp-content/plugins/ajax-comment-form-cst/readme.txt
 /wp-content/plugins/admin-bookmarks/readme.txt
 /wp-content/plugins/prevent-direct-access/readme.txt
+/wp-content/plugins/anps_theme_plugin/readme.txt

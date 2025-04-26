@@ -180,3 +180,4 @@
 /wp-content/themes/dor/style.css
 /wp-content/themes/wanderland/style.css
 /wp-content/themes/ivy-school/style.css
+/wp-content/themes/edumall/style.css
