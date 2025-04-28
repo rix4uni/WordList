@@ -854,3 +854,4 @@
 /symfony/web/index.php/auth/login
 /web/index.php/auth/login
 /app/login.php
+/admin_ui/mas/ent/login.html

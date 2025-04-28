@@ -53,3 +53,5 @@
 /wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/scripts/print_php_information.php
 /wp-content/uploads/download-manager-files/
 /pages/exec.php?exec_module=itop-hub-connector&exec_page=launch.php&target=inform_after_setup
+/logout?return=http://oast.pro
+/webservices/rest.php?loginop=do_reset_pwd&auth_user=doesnotexist

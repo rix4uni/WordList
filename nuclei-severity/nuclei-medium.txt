@@ -12208,3 +12208,5 @@ request?info=<svg onload=alert(
 /wp-content/plugins/upsell-order-bump-offer-for-woocommerce/readme.txt
 /wp-content/plugins/prevent-direct-access/readme.txt
 /wp-content/plugins/anps_theme_plugin/readme.txt
+/logout?return=http://oast.pro
+/webservices/rest.php?loginop=do_reset_pwd&auth_user=doesnotexist

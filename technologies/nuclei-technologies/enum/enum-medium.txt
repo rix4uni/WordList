@@ -3,3 +3,4 @@
 /{{webroot}}/{{file}}%3F
 /{{webroot}}/{{file}}%3Faaaaaaaaaaaaaaaaaaaaaa.php
 /{{author}}
+/webservices/rest.php?loginop=do_reset_pwd&auth_user=doesnotexist
