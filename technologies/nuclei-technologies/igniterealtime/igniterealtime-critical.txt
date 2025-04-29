@@ -1,1 +1,2 @@
 /getFavicon?host=http://oast.fun/
+/getFavicon?host=oast.fun?

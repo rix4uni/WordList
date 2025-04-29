@@ -1932,3 +1932,4 @@
 /wp-content/plugins/flynax-bridge/readme.txt
 /wp-content/plugins/verification-sms-targetsms/readme.txt
 /wp-content/themes/edumall/style.css
+/wp-content/plugins/wplms_plugin/readme.txt

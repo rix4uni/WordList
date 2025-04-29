@@ -268,3 +268,4 @@
 /xphoneconnect/admin/Login.aspx
 /console/hawtconfig.json
 /app/login.php
+/web/thanks

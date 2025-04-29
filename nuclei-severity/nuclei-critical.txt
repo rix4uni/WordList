@@ -3235,3 +3235,5 @@ pathCache.php
 /wp-content/themes/edumall/style.css
 /irj/helper.jsp?cmd=ls
 /irj/cache.jsp?cmd=ls
+/wp-content/plugins/wplms_plugin/readme.txt
+/getFavicon?host=oast.fun?

