@@ -1,0 +1,1 @@
+/wp-content/themes/xews-lite/style.css

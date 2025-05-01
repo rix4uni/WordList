@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-calendar-for-elementor/readme.txt

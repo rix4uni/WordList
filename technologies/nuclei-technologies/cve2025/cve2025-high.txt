@@ -5,3 +5,4 @@
 /bitrix/components/aspro/oneclickbuy.max/script.php
 /bitrix/components/aspro/form.allcorp2/component.php
 /ajax/form.php
+/controlloLogin.js

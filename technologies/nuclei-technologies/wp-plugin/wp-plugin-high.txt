@@ -5132,3 +5132,12 @@
 /wp-content/plugins/wp-fsqm-pro/readme.txt
 /wp-content/plugins/mayosis-core/readme.txt
 /wp-content/plugins/abcsubmit/readme.txt
+/wp-content/plugins/slazzer-background-changer/readme.txt
+/wp-content/plugins/spice-blocks/readme.txt
+/wp-content/plugins/linked-variation/readme.txt
+/wp-content/plugins/wp-customize-login-page/readme.txt
+/wp-content/plugins/wc-bulk-assign-linked-products/readme.txt
+/wp-content/plugins/car-park-booking-system-for-wordpress/readme.txt
+/wp-content/plugins/hashtagger/readme.txt
+/wp-content/plugins/media-library-downloader/readme.txt
+/wp-content/plugins/ms-registration/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/vegas-fullscreen-background-slider/readme.txt

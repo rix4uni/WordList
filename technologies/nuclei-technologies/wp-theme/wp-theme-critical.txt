@@ -181,3 +181,10 @@
 /wp-content/themes/wanderland/style.css
 /wp-content/themes/ivy-school/style.css
 /wp-content/themes/edumall/style.css
+/wp-content/themes/the-wound/style.css
+/wp-content/themes/arrival/style.css
+/wp-content/themes/grandrestaurant/style.css
+/wp-content/themes/cww-portfolio/style.css
+/wp-content/themes/grace-mag/style.css
+/wp-content/themes/xews-lite/style.css
+/wp-content/themes/opstore/style.css

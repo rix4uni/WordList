@@ -1,0 +1,1 @@
+/wp-content/plugins/wc-bulk-assign-linked-products/readme.txt

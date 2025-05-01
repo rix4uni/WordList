@@ -1,0 +1,1 @@
+/wp-content/plugins/nepali-post-date/readme.txt

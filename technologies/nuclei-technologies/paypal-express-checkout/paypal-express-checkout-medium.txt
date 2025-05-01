@@ -1,0 +1,1 @@
+/wp-content/plugins/paypal-express-checkout/readme.txt

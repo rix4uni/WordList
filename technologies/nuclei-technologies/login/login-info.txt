@@ -314,3 +314,4 @@
 /web/index.php/auth/login
 /app/login.php
 /admin_ui/mas/ent/login.html
+/login/native

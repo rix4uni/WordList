@@ -1,0 +1,1 @@
+/wp-content/plugins/author-box-with-different-description/readme.txt

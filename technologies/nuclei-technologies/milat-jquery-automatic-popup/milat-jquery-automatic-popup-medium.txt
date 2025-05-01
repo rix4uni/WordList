@@ -1,0 +1,1 @@
+/wp-content/plugins/milat-jquery-automatic-popup/readme.txt

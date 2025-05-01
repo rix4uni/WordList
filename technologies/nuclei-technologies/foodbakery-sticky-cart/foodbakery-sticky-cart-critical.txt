@@ -1,0 +1,1 @@
+/wp-content/plugins/foodbakery-sticky-cart/readme.txt

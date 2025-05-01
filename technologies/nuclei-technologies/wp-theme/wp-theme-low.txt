@@ -426,3 +426,6 @@
 /wp-content/themes/celestial-aura/style.css
 /wp-content/themes/sirat/style.css
 /wp-content/themes/vikinger/style.css
+/wp-content/themes/newsblogger/style.css
+/wp-content/themes/wproject/style.css
+/wp-content/themes/bellevuex/style.css

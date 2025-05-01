@@ -446,3 +446,7 @@
 /wp-content/themes/eduma/style.css
 /wp-content/themes/sirat/style.css
 /wp-content/themes/reales-wp-real-estate-wordpress-theme/style.css
+/wp-content/themes/wproject/style.css
+/wp-content/themes/kleo/style.css
+/wp-content/themes/jnews/style.css
+/wp-content/themes/bellevuex/style.css

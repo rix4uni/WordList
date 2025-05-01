@@ -1,0 +1,1 @@
+/wp-content/themes/grace-mag/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/slazzer-background-changer/readme.txt

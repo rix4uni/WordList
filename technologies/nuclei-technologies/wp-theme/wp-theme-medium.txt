@@ -596,3 +596,6 @@
 /wp-content/themes/wireless-butler/style.css
 /wp-content/themes/hostiko/style.css
 /wp-content/themes/grandrestaurant/style.css
+/wp-content/themes/boot-store/style.css
+/wp-content/themes/newsblogger/style.css
+/wp-content/themes/wproject/style.css

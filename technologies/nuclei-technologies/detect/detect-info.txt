@@ -269,3 +269,4 @@
 /console/hawtconfig.json
 /app/login.php
 /web/thanks
+/login/native
