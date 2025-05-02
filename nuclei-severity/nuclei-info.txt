@@ -2294,3 +2294,8 @@
 /admin_ui/mas/ent/login.html
 /web/thanks
 /login/native
+/trust
+/trust-center
+/trust-center.html
+/security
+/compliance

@@ -5902,3 +5902,4 @@
 /wp-content/plugins/hashtagger/readme.txt
 /wp-content/plugins/media-library-downloader/readme.txt
 /wp-content/plugins/ms-registration/readme.txt
+/wp-content/plugins/flynax-bridge/readme.txt

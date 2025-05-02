@@ -12259,3 +12259,5 @@ request?info=<svg onload=alert(
 /wp-content/plugins/wp-filter-post-categories/readme.txt
 /wp-content/plugins/mycustomwidget/readme.txt
 /wp-content/plugins/hacklog-remote-attachment/readme.txt
+/wp-content/plugins/yame-linkinbio/readme.txt
+/wp-content/plugins/flynax-bridge/readme.txt

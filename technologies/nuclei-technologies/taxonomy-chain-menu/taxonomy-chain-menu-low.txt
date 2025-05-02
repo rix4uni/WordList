@@ -1,0 +1,1 @@
+/wp-content/plugins/taxonomy-chain-menu/readme.txt

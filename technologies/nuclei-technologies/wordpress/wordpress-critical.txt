@@ -1953,3 +1953,7 @@
 /wp-content/plugins/wp-hrm-lite-human-resource-management-system/readme.txt
 /wp-content/plugins/wp-easy-guide/readme.txt
 /wp-content/plugins/fable-extra/readme.txt
+/wp-content/plugins/ap-plugin-scripteo/readme.txt
+/wp-content/plugins/scw-seat-reservation/readme.txt
+/wp-content/plugins/otpless/readme.txt
+/wp-content/plugins/ultimate-woocommerce-auction-pro/readme.txt

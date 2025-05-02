@@ -133,3 +133,8 @@
 /owncloud/status.php
 /Nextcloud/status.php
 /nextcloud/status.php
+/trust
+/trust-center
+/trust-center.html
+/security
+/compliance

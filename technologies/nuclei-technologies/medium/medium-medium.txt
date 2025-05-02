@@ -9195,3 +9195,5 @@
 /wp-content/plugins/mycustomwidget/readme.txt
 /wp-content/plugins/availability/readme.txt
 /wp-content/plugins/hacklog-remote-attachment/readme.txt
+/wp-content/plugins/yame-linkinbio/readme.txt
+/wp-content/plugins/flynax-bridge/readme.txt
