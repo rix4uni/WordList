@@ -3261,3 +3261,7 @@ pathCache.php
 /wp-content/plugins/scw-seat-reservation/readme.txt
 /wp-content/plugins/otpless/readme.txt
 /wp-content/plugins/ultimate-woocommerce-auction-pro/readme.txt
+/wp-content/plugins/suretriggers/readme.txt
+/wp-content/plugins/job-listings/readme.txt
+/tmp/temp.db%3f.1.1.1.1a-1.css
+/mnt/ram/var/log/httpd.log%3f.1.1.1.1a-1.css

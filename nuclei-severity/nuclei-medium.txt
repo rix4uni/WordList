@@ -12261,3 +12261,7 @@ request?info=<svg onload=alert(
 /wp-content/plugins/hacklog-remote-attachment/readme.txt
 /wp-content/plugins/yame-linkinbio/readme.txt
 /wp-content/plugins/flynax-bridge/readme.txt
+/wp-content/plugins/abundatrade-plugin/readme.txt
+/wp-content/plugins/advanced-reorder-image-text-slider/readme.txt
+/wp-content/plugins/alink-tap/readme.txt
+/wp-content/plugins/database-toolset/readme.txt

@@ -8278,3 +8278,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/media-library-downloader/readme.txt
 /wp-content/plugins/ms-registration/readme.txt
 /wp-content/plugins/flynax-bridge/readme.txt
+/wp-content/themes/motors/style.css

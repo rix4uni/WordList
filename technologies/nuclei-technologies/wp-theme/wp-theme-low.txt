@@ -429,3 +429,4 @@
 /wp-content/themes/newsblogger/style.css
 /wp-content/themes/wproject/style.css
 /wp-content/themes/bellevuex/style.css
+/wp-content/themes/motors/style.css

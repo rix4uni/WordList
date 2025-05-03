@@ -450,3 +450,4 @@
 /wp-content/themes/kleo/style.css
 /wp-content/themes/jnews/style.css
 /wp-content/themes/bellevuex/style.css
+/wp-content/themes/motors/style.css

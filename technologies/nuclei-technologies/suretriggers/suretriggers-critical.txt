@@ -1,0 +1,1 @@
+/wp-content/plugins/suretriggers/readme.txt

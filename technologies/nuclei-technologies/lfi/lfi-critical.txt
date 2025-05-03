@@ -87,3 +87,5 @@
 /login
 /js/..%2f%2f/wizard.htm
 /images/..%2f%2f/wizard.htm
+/tmp/temp.db%3f.1.1.1.1a-1.css
+/mnt/ram/var/log/httpd.log%3f.1.1.1.1a-1.css

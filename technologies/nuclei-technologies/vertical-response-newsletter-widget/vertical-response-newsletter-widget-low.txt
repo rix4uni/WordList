@@ -1,0 +1,1 @@
+/wp-content/plugins/vertical-response-newsletter-widget/readme.txt

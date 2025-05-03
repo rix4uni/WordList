@@ -1,0 +1,1 @@
+/wp-content/plugins/xavins-review-ratings/readme.txt
