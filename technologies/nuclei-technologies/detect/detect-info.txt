@@ -270,3 +270,4 @@
 /app/login.php
 /web/thanks
 /login/native
+/login#login

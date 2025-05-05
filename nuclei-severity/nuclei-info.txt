@@ -2299,3 +2299,4 @@
 /trust-center.html
 /security
 /compliance
+/login#login

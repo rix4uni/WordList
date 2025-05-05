@@ -524,3 +524,4 @@ _vti_pvt/authors.pwd
 /_wpeprivate/config.json
 /home/{{DN}}WORDPRESS.txt
 /home/{{DN}}-WORDPRESS.txt
+/ckeditor/.travis.yml

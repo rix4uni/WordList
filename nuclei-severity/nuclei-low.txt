@@ -8466,3 +8466,4 @@
 /wp-content/plugins/vertical-response-newsletter-widget/readme.txt
 /wp-content/plugins/job-listings/readme.txt
 /wp-content/themes/motors/style.css
+/wp-content/plugins/envolve-plugin/readme.txt

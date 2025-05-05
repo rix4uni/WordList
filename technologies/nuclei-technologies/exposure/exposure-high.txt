@@ -455,3 +455,4 @@ _vti_pvt/authors.pwd
 /RST_status.htm%00currentsetting.htm
 /register
 /admin/login?next=%2Fadmin
+/ckeditor/.travis.yml

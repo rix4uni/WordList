@@ -4,3 +4,4 @@
 /matomo/.travis.yml
 /axis/services/AdminService
 {{paths}}
+/ckeditor/.travis.yml

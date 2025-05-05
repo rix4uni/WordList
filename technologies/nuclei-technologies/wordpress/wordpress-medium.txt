@@ -9560,3 +9560,4 @@
 /wp-content/plugins/alink-tap/readme.txt
 /wp-content/plugins/abundatrade-plugin/readme.txt
 /wp-content/plugins/database-toolset/readme.txt
+/wp-content/plugins/envolve-plugin/readme.txt

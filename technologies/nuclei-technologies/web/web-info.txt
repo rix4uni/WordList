@@ -27,3 +27,4 @@
 /cfcc/login/login.jsp
 /login/login.jsp
 /app/login.php
+/login#login
