@@ -3265,3 +3265,6 @@ pathCache.php
 /wp-content/plugins/job-listings/readme.txt
 /tmp/temp.db%3f.1.1.1.1a-1.css
 /mnt/ram/var/log/httpd.log%3f.1.1.1.1a-1.css
+/wp-content/plugins/buddyboss-platform-pro/readme.txt
+/wp-content/plugins/depicter/readme.txt
+/wp-content/plugins/wp-meta-keywords-meta-description/readme.txt

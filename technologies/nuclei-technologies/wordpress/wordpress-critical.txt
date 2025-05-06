@@ -1959,3 +1959,6 @@
 /wp-content/plugins/ultimate-woocommerce-auction-pro/readme.txt
 /wp-content/plugins/suretriggers/readme.txt
 /wp-content/plugins/job-listings/readme.txt
+/wp-content/plugins/buddyboss-platform-pro/readme.txt
+/wp-content/plugins/depicter/readme.txt
+/wp-content/plugins/wp-meta-keywords-meta-description/readme.txt

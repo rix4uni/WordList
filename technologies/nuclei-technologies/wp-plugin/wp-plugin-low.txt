@@ -7153,3 +7153,9 @@
 /wp-content/plugins/vertical-response-newsletter-widget/readme.txt
 /wp-content/plugins/job-listings/readme.txt
 /wp-content/plugins/envolve-plugin/readme.txt
+/wp-content/plugins/short-tax-post/readme.txt
+/wp-content/plugins/cision-block/readme.txt
+/wp-content/plugins/external-image-replace/readme.txt
+/wp-content/plugins/igit-related-posts-with-thumb-images-after-posts/readme.txt
+/wp-content/plugins/likecoin/readme.txt
+/wp-content/plugins/layoutboxx/readme.txt

@@ -9561,3 +9561,9 @@
 /wp-content/plugins/abundatrade-plugin/readme.txt
 /wp-content/plugins/database-toolset/readme.txt
 /wp-content/plugins/envolve-plugin/readme.txt
+/wp-content/plugins/short-tax-post/readme.txt
+/wp-content/plugins/bp-messages-tool/readme.txt
+/wp-content/plugins/kstats-reloaded/readme.txt
+/wp-content/plugins/ec-authorizenet/readme.txt
+/wp-content/plugins/category-widget/readme.txt
+/wp-content/plugins/section-widget/readme.txt
