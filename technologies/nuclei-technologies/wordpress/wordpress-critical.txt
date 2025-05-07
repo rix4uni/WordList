@@ -1962,3 +1962,5 @@
 /wp-content/plugins/buddyboss-platform-pro/readme.txt
 /wp-content/plugins/depicter/readme.txt
 /wp-content/plugins/wp-meta-keywords-meta-description/readme.txt
+/wp-content/plugins/pgs-core/readme.txt
+/wp-content/plugins/peprodev-ups/readme.txt
