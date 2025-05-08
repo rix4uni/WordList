@@ -8287,3 +8287,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/pgs-core/readme.txt
 /wp-content/plugins/peprodev-ups/readme.txt
 /wp-content/plugins/frontend-dashboard/readme.txt
+/wp-content/themes/wolmart/style.css
