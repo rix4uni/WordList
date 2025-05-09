@@ -1,0 +1,1 @@
+/wp-content/plugins/remote-images-grabber/readme.txt

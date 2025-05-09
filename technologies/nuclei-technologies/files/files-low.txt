@@ -82,3 +82,4 @@
 /icecast.xml
 /nuxt.config.js
 /vercel.json
+/.vscode/launch.json

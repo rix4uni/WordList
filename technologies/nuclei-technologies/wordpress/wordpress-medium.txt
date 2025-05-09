@@ -9567,3 +9567,5 @@
 /wp-content/plugins/ec-authorizenet/readme.txt
 /wp-content/plugins/category-widget/readme.txt
 /wp-content/plugins/section-widget/readme.txt
+/wp-content/plugins/eucookielaw/readme.txt
+/wp-content/plugins/remote-images-grabber/readme.txt

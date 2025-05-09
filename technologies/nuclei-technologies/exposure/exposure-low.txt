@@ -365,3 +365,4 @@
 /nuxt.config.js
 /vercel.json
 /SetupConfig.xml
+/.vscode/launch.json

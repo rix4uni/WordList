@@ -1765,3 +1765,6 @@
 /wp-content/plugins/wp-meta-keywords-meta-description/readme.txt
 /wp-content/plugins/pgs-core/readme.txt
 /wp-content/plugins/peprodev-ups/readme.txt
+/wp-content/plugins/envolve-plugin/readme.txt
+/wp-content/plugins/imithemes-listing/readme.txt
+/wp-content/plugins/frontend-login-and-registration-blocks/readme.txt
