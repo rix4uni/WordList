@@ -7169,3 +7169,4 @@
 /wp-content/plugins/wp-seo-structured-data-schema/readme.txt
 /wp-content/plugins/eucookielaw/readme.txt
 /wp-content/plugins/imithemes-listing/readme.txt
+/wp-content/plugins/wp-review/readme.txt

@@ -8485,3 +8485,4 @@
 /wp-content/plugins/eucookielaw/readme.txt
 /wp-content/plugins/imithemes-listing/readme.txt
 /.vscode/launch.json
+/wp-content/plugins/wp-review/readme.txt

@@ -7629,3 +7629,4 @@
 /wp-content/themes/wolmart/style.css
 /wp-content/plugins/eucookielaw/readme.txt
 /wp-content/plugins/imithemes-listing/readme.txt
+/wp-content/plugins/wp-review/readme.txt
