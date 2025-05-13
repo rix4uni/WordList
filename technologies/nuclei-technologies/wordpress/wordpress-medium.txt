@@ -9569,3 +9569,17 @@
 /wp-content/plugins/section-widget/readme.txt
 /wp-content/plugins/eucookielaw/readme.txt
 /wp-content/plugins/remote-images-grabber/readme.txt
+/wp-content/plugins/listamester/readme.txt
+/wp-content/plugins/hm-cool-author-box-widget/readme.txt
+/wp-content/plugins/product-quantity-dropdown-for-woocommerce/readme.txt
+/wp-content/plugins/graphina-elementor-charts-and-graphs/readme.txt
+/wp-content/plugins/easyme-connect/readme.txt
+/wp-content/plugins/lessbuttons/readme.txt
+/wp-content/plugins/martins-free-and-easy-ad-network-get-more-visitors/readme.txt
+/wp-content/plugins/awin-advertiser-tracking/readme.txt
+/wp-content/plugins/polylang-supertext/readme.txt
+/wp-content/plugins/axima-payment-gateway/readme.txt
+/wp-content/plugins/liveagent/readme.txt
+/wp-content/plugins/funnelcockpit/readme.txt
+/wp-content/plugins/accessibility-toolbar/readme.txt
+/wp-content/plugins/contribuinte-checkout/readme.txt

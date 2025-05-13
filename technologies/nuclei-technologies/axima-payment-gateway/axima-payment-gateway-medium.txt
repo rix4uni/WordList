@@ -1,0 +1,1 @@
+/wp-content/plugins/axima-payment-gateway/readme.txt

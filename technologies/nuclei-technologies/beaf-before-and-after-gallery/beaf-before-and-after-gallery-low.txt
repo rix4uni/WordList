@@ -1,0 +1,1 @@
+/wp-content/plugins/beaf-before-and-after-gallery/readme.txt

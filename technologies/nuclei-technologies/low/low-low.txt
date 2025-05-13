@@ -7580,3 +7580,9 @@
 /wp-content/plugins/eucookielaw/readme.txt
 /wp-content/plugins/imithemes-listing/readme.txt
 /wp-content/plugins/wp-review/readme.txt
+/wp-content/plugins/gs-woo-variation-swatches/readme.txt
+/wp-content/plugins/ovation-elements/readme.txt
+/wp-content/plugins/beaf-before-and-after-gallery/readme.txt
+/wp-content/plugins/bulk-featured-image/readme.txt
+/wp-content/plugins/calculate-prices-based-on-distance-for-woocommerce/readme.txt
+/wp-content/plugins/belingogeo/readme.txt

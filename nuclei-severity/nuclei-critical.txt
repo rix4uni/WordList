@@ -3274,3 +3274,5 @@ pathCache.php
 /wp-content/plugins/imithemes-listing/readme.txt
 /wp-content/plugins/frontend-login-and-registration-blocks/readme.txt
 /Items/RemoteSearch/Image?ProviderName=TheMovieDB&ImageURL=http://oast.fun
+/wp-content/plugins/psw-login-and-registration/readme.txt
+/wp-content/plugins/storekeeper-for-woocommerce/readme.txt

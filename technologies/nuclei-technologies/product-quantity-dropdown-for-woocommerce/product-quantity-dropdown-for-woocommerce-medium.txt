@@ -1,0 +1,1 @@
+/wp-content/plugins/product-quantity-dropdown-for-woocommerce/readme.txt

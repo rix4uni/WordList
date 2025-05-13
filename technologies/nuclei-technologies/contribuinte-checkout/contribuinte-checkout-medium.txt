@@ -1,0 +1,1 @@
+/wp-content/plugins/contribuinte-checkout/readme.txt

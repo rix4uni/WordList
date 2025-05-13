@@ -1768,3 +1768,5 @@
 /wp-content/plugins/envolve-plugin/readme.txt
 /wp-content/plugins/imithemes-listing/readme.txt
 /wp-content/plugins/frontend-login-and-registration-blocks/readme.txt
+/wp-content/plugins/psw-login-and-registration/readme.txt
+/wp-content/plugins/storekeeper-for-woocommerce/readme.txt
