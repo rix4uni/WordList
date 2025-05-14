@@ -1,0 +1,1 @@
+/wp-content/plugins/mail-mint/readme.txt

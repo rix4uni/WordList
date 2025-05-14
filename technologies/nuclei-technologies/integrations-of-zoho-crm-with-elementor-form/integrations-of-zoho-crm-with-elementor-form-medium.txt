@@ -1,0 +1,1 @@
+/wp-content/plugins/integrations-of-zoho-crm-with-elementor-form/readme.txt

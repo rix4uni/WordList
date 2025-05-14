@@ -9583,3 +9583,16 @@
 /wp-content/plugins/funnelcockpit/readme.txt
 /wp-content/plugins/accessibility-toolbar/readme.txt
 /wp-content/plugins/contribuinte-checkout/readme.txt
+/wp-content/plugins/peepso-files/readme.txt
+/wp-content/plugins/wp-fundraising-donation/readme.txt
+/wp-content/plugins/pw-bulk-edit/readme.txt
+/wp-content/plugins/spostarbust/readme.txt
+/wp-content/plugins/seznam-webmaster/readme.txt
+/wp-content/plugins/mail-mint/readme.txt
+/wp-content/plugins/wiki-embed/readme.txt
+/wp-content/plugins/wpspeed/readme.txt
+/wp-content/plugins/soccer-live-scores/readme.txt
+/wp-content/plugins/wp-podcasts-manager/readme.txt
+/wp-content/plugins/integrations-of-zoho-crm-with-elementor-form/readme.txt
+/wp-content/plugins/themarketer/readme.txt
+/wp-content/plugins/smaily-for-wp/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/color-your-bar/readme.txt

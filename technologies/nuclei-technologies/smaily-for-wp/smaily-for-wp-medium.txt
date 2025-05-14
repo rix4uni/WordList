@@ -1,0 +1,1 @@
+/wp-content/plugins/smaily-for-wp/readme.txt

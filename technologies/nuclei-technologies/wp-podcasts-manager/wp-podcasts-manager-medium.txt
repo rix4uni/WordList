@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-podcasts-manager/readme.txt

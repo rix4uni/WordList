@@ -8296,3 +8296,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/responsive-add-ons/readme.txt
 /wp-content/plugins/gs-woo-variation-swatches/readme.txt
 /wp-content/plugins/ovation-elements/readme.txt
+/wp-content/plugins/activity-link-preview-for-buddypress/readme.txt

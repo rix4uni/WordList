@@ -1,0 +1,1 @@
+/wp-content/plugins/coinpayments-payment-gateway-for-woocommerce/readme.txt

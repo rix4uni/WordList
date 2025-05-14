@@ -1,0 +1,1 @@
+/wp-content/plugins/pw-bulk-edit/readme.txt
