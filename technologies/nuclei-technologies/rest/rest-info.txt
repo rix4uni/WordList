@@ -1,1 +1,2 @@
 /arcgis/rest/services
+/rest/version

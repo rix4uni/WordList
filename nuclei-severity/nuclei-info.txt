@@ -2300,3 +2300,5 @@
 /security
 /compliance
 /login#login
+/rest/version
+/rep/start/index.jsp

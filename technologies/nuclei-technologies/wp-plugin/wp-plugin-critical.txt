@@ -1772,3 +1772,5 @@
 /wp-content/plugins/storekeeper-for-woocommerce/readme.txt
 /wp-content/plugins/coinpayments-payment-gateway-for-woocommerce/readme.txt
 /wp-content/plugins/productive-commerce/readme.txt
+/wp-content/plugins/baiduseo/readme.txt
+/wp-content/plugins/wp-ticketbai/readme.txt

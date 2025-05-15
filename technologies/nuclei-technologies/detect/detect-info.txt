@@ -271,3 +271,5 @@
 /web/thanks
 /login/native
 /login#login
+/rep/start/index.jsp
+/rest/version

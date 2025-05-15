@@ -1,0 +1,1 @@
+/wp-content/plugins/bns-twitter-follow-button/readme.txt

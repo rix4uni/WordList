@@ -21,3 +21,4 @@
 /cap.js
 /browser/
 /config.html
+/api/server

@@ -1,3 +1,4 @@
 /docs/
 /js/app/init.js
 /extranet/js_personal/jszip.min.js
+/rest/version

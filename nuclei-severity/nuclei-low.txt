@@ -8529,3 +8529,10 @@
 /wp-content/plugins/integrations-of-zoho-crm-with-elementor-form/readme.txt
 /wp-content/plugins/mail-mint/readme.txt
 /wp-content/plugins/peepso-files/readme.txt
+/wp-content/plugins/advanced-file-manager-pro-premium/readme.txt
+/wp-content/plugins/bns-twitter-follow-button/readme.txt
+/wp-content/plugins/bon-toolkit/readme.txt
+/wp-content/plugins/eg-series/readme.txt
+/wp-content/plugins/weluka-lite/readme.txt
+/wp-content/plugins/wp-ticketbai/readme.txt
+/api/server
