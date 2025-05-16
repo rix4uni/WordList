@@ -6,3 +6,4 @@
 /bitrix/components/aspro/form.allcorp2/component.php
 /ajax/form.php
 /controlloLogin.js
+/index.php?mod=textviewer&src=file:///etc/passwd

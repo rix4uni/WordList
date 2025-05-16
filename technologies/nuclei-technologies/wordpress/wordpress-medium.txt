@@ -9596,3 +9596,4 @@
 /wp-content/plugins/integrations-of-zoho-crm-with-elementor-form/readme.txt
 /wp-content/plugins/themarketer/readme.txt
 /wp-content/plugins/smaily-for-wp/readme.txt
+/wp-admin/?action=postpass
