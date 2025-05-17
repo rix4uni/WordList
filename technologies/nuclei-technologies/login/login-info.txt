@@ -316,3 +316,9 @@
 /admin_ui/mas/ent/login.html
 /login/native
 /login#login
+/common.etic_cgi_portal/login.html
+/Login.asp
+/users/login
+/logo_login.shtm?!App-Language=1
+/start.html
+/wbm/index.php

@@ -273,3 +273,4 @@
 /login#login
 /rep/start/index.jsp
 /rest/version
+/users/login

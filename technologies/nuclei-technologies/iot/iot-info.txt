@@ -30,3 +30,4 @@
 /wt2parser.cgi?home_en
 /#
 /default.htm
+/wbm/index.php
