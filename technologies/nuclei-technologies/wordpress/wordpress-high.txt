@@ -5922,3 +5922,4 @@
 /wp-content/plugins/ovation-elements/readme.txt
 /wp-content/plugins/activity-link-preview-for-buddypress/readme.txt
 /wp-content/plugins/wp-content-security-policy/readme.txt
+/wp-content/plugins/wise-chat/readme.txt

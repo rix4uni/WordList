@@ -8938,3 +8938,5 @@
 /wp-content/plugins/themarketer/readme.txt
 /wp-content/plugins/smaily-for-wp/readme.txt
 /wp-admin/?action=postpass
+/wp-content/plugins/audio-comments/readme.txt
+/wp-content/plugins/alt-monitoring/readme.txt

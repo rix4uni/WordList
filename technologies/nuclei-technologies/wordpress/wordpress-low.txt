@@ -7680,3 +7680,4 @@
 /wp-content/plugins/bns-twitter-follow-button/readme.txt
 /wp-content/plugins/wp-ticketbai/readme.txt
 /wp-content/plugins/posts-per-cat/readme.txt
+/wp-content/plugins/eventON/readme.txt
