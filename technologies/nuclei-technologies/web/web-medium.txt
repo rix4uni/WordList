@@ -4,3 +4,4 @@
 /{{webroot}}/{{file}}%3F
 /{{webroot}}/{{file}}%3Faaaaaaaaaaaaaaaaaaaaaa.php
 /settings
+/?profile=</script><script>alert(document.domain)</script>

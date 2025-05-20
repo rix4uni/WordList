@@ -188,3 +188,4 @@
 /wp-content/themes/grace-mag/style.css
 /wp-content/themes/xews-lite/style.css
 /wp-content/themes/opstore/style.css
+/wp-content/themes/motors/style.css

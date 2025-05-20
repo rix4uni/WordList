@@ -1974,3 +1974,4 @@
 /wp-content/plugins/baiduseo/readme.txt
 /wp-content/plugins/wp-ticketbai/readme.txt
 /wp-content/plugins/crawlomatic-multipage-scraper-post-generator/readme.txt
+/wp-content/themes/motors/style.css

