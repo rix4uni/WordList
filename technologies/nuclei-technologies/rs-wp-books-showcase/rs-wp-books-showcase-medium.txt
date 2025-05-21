@@ -1,0 +1,1 @@
+/wp-content/plugins/rs-wp-books-showcase/readme.txt

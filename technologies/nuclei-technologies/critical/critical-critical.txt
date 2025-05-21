@@ -1934,3 +1934,7 @@
 /wp-content/plugins/wp-ticketbai/readme.txt
 /wp-content/plugins/crawlomatic-multipage-scraper-post-generator/readme.txt
 /wp-content/themes/motors/style.css
+/wp-content/themes/madara/style.css
+/wp-content/plugins/wpfunnels/readme.txt
+/wp-content/plugins/staggs/readme.txt
+/wp-content/plugins/printcart-integration/readme.txt

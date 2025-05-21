@@ -431,3 +431,4 @@
 /wp-content/themes/bellevuex/style.css
 /wp-content/themes/motors/style.css
 /wp-content/themes/wolmart/style.css
+/wp-content/themes/anywhere-elementor-pro/style.css

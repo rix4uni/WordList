@@ -452,3 +452,7 @@
 /wp-content/themes/bellevuex/style.css
 /wp-content/themes/motors/style.css
 /wp-content/themes/wolmart/style.css
+/wp-content/themes/rozario/style.css
+/wp-content/themes/hotstar/style.css
+/wp-content/themes/nrgbusiness/style.css
+/wp-content/themes/anywhere-elementor-pro/style.css

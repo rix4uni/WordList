@@ -1,0 +1,1 @@
+/wp-content/plugins/bdthemes-element-pack/readme.txt

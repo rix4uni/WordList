@@ -5160,3 +5160,15 @@
 /wp-content/plugins/activity-link-preview-for-buddypress/readme.txt
 /wp-content/plugins/wp-content-security-policy/readme.txt
 /wp-content/plugins/wise-chat/readme.txt
+/wp-content/plugins/jetpack-debug-helper/readme.txt
+/wp-content/plugins/qc-simple-link-directory/readme.txt
+/wp-content/plugins/eventON/readme.txt
+/wp-content/plugins/woocommerce-pos/readme.txt
+/wp-content/plugins/push-notification-mobile-and-web-app/readme.txt
+/wp-content/plugins/css3_tooltips/readme.txt
+/wp-content/plugins/salon-booking-plugin-pro-cc/readme.txt
+/wp-content/plugins/sharespine-woocommerce-connector/readme.txt
+/wp-content/plugins/splitit-installment-payments/readme.txt
+/wp-content/plugins/tours/readme.txt
+/wp-content/plugins/valvepress-rankie/readme.txt
+/wp-content/plugins/wp-auto-spinner/readme.txt

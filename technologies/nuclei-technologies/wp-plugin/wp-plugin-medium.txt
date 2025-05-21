@@ -8940,3 +8940,9 @@
 /wp-admin/?action=postpass
 /wp-content/plugins/audio-comments/readme.txt
 /wp-content/plugins/alt-monitoring/readme.txt
+/wp-content/plugins/wecantrack/readme.txt
+/wp-content/plugins/bdthemes-element-pack/readme.txt
+/wp-content/plugins/b2i-investor-tools/readme.txt
+/wp-content/plugins/drag-and-drop-file-upload-for-elementor-forms/readme.txt
+/wp-content/plugins/opal-woo-custom-product-variation/readme.txt
+/wp-content/plugins/rs-wp-books-showcase/readme.txt
