@@ -1,0 +1,1 @@
+/wp-content/plugins/dot-htmlphpxml-etc-pages/readme.txt

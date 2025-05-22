@@ -599,3 +599,6 @@
 /wp-content/themes/boot-store/style.css
 /wp-content/themes/newsblogger/style.css
 /wp-content/themes/wproject/style.css
+/wp-content/themes/plant/style.css
+/wp-content/themes/sevenstars/style.css
+/wp-content/themes/spare/style.css

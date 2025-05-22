@@ -1,0 +1,1 @@
+/wp-content/plugins/lbg-audio2-html5/readme.txt

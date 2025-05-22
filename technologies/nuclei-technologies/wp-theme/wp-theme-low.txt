@@ -432,3 +432,4 @@
 /wp-content/themes/motors/style.css
 /wp-content/themes/wolmart/style.css
 /wp-content/themes/anywhere-elementor-pro/style.css
+/wp-content/themes/plant/style.css

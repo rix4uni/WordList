@@ -1979,3 +1979,5 @@
 /wp-content/plugins/wpfunnels/readme.txt
 /wp-content/plugins/staggs/readme.txt
 /wp-content/plugins/printcart-integration/readme.txt
+/wp-content/plugins/wpeventplus/readme.txt
+/wp-content/plugins/facturante/readme.txt
