@@ -8579,3 +8579,6 @@
 /wp-content/plugins/x-addons-elementor/readme.txt
 /wp-content/plugins/interview/readme.txt
 /wp-content/themes/plant/style.css
+/wp-content/themes/bimber/style.css
+/wp-content/plugins/quickcal/readme.txt
+/wp-content/plugins/spotlight-social-photo-feeds-premium/readme.txt

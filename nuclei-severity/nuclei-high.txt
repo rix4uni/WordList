@@ -8316,3 +8316,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/tours/readme.txt
 /wp-content/plugins/valvepress-rankie/readme.txt
 /wp-content/plugins/wp-auto-spinner/readme.txt
+/wp-content/plugins/experto-cta-widget/readme.txt

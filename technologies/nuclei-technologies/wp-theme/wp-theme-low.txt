@@ -433,3 +433,4 @@
 /wp-content/themes/wolmart/style.css
 /wp-content/themes/anywhere-elementor-pro/style.css
 /wp-content/themes/plant/style.css
+/wp-content/themes/bimber/style.css
