@@ -323,3 +323,4 @@
 /start.html
 /wbm/index.php
 /mbilling/
+/polarion/

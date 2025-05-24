@@ -5940,3 +5940,4 @@
 /wp-content/plugins/valvepress-rankie/readme.txt
 /wp-content/plugins/wp-auto-spinner/readme.txt
 /wp-content/plugins/experto-cta-widget/readme.txt
+/wp-content/plugins/z-downloads/readme.txt

@@ -484,3 +484,4 @@
 /api/v1/status/config
 /register
 /admin/login?next=%2Fadmin
+/web/index.html?start=wizard#!/wizard/wizardstart.html

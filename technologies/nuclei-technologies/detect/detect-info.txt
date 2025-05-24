@@ -274,3 +274,4 @@
 /rep/start/index.jsp
 /rest/version
 /users/login
+/polarion/

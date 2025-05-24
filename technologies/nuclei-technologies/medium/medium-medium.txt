@@ -9258,3 +9258,7 @@
 /wp-content/plugins/lupsonline-link-netwerk/readme.txt
 /wp-content/plugins/quickcal/readme.txt
 /wp-content/plugins/spotlight-social-photo-feeds-premium/readme.txt
+/wp-content/plugins/4stats/readme.txt
+/wp-content/plugins/widgets-reset/readme.txt
+/wp-content/plugins/store-manager-connector/readme.txt
+/wp-content/plugins/wholesale-market/readme.txt

@@ -1981,3 +1981,4 @@
 /wp-content/plugins/printcart-integration/readme.txt
 /wp-content/plugins/wpeventplus/readme.txt
 /wp-content/plugins/facturante/readme.txt
+/wp-content/plugins/store-manager-connector/readme.txt

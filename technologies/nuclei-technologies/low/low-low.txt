@@ -7675,3 +7675,6 @@
 /wp-content/plugins/quickcal/readme.txt
 /wp-content/themes/bimber/style.css
 /wp-content/plugins/spotlight-social-photo-feeds-premium/readme.txt
+/wp-content/plugins/ekc-tournament-manager/readme.txt
+/wp-content/plugins/wc-checkout-getnet/readme.txt
+/wp-content/plugins/wp-programmmanager/readme.txt

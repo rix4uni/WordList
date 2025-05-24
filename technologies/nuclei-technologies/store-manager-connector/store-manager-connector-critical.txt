@@ -1,0 +1,1 @@
+/wp-content/plugins/store-manager-connector/readme.txt
