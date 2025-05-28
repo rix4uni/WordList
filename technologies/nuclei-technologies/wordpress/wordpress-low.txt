@@ -7729,3 +7729,11 @@
 /wp-content/plugins/wc-checkout-getnet/readme.txt
 /wp-content/plugins/wp-programmmanager/readme.txt
 /wp-content/plugins/property/readme.txt
+/wp-content/plugins/mb-custom-post-type/readme.txt
+/wp-content/plugins/countdown-timer-block/readme.txt
+/wp-content/plugins/auto-prune-posts/readme.txt
+/wp-content/plugins/jsfiddle-shortcode/readme.txt
+/wp-content/plugins/geocache-stat-bar-widget/readme.txt
+/wp-content/plugins/advance-post-prefix/readme.txt
+/wp-content/plugins/masterstudy-lms-learning-management-system-pro/readme.txt
+/wp-content/plugins/payment-gateway-for-telcell/readme.txt

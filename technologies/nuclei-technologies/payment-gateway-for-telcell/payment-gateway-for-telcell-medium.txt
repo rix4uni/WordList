@@ -1,1 +1,2 @@
 /wp-admin/admin.php?page=wc-settings&action=redirect_telcell_form&api_url=https://oast.me
+/wp-content/plugins/payment-gateway-for-telcell/readme.txt

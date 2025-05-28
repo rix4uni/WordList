@@ -3289,3 +3289,4 @@ pathCache.php
 /wp-content/plugins/wpeventplus/readme.txt
 /wp-content/plugins/facturante/readme.txt
 /wp-content/plugins/store-manager-connector/readme.txt
+/wp-content/plugins/inprosysmedia-likes-dislikes-post/readme.txt

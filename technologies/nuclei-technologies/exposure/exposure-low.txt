@@ -366,3 +366,5 @@
 /vercel.json
 /SetupConfig.xml
 /.vscode/launch.json
+/api/rawdata
+/api/http/routers
