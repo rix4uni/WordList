@@ -8320,3 +8320,9 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/z-downloads/readme.txt
 /web/index.html?start=wizard#!/wizard/wizardstart.html
 /DownloadWindow.php?filename=../../../../../../../../etc/passwd
+/wp-content/themes/bloggie/style.css
+/wp-content/plugins/cryptocloud-crypto-payment-gateway/readme.txt
+/wp-content/plugins/jobhunt-notifications/readme.txt
+/wp-content/plugins/relentlosoftware/readme.txt
+/wp-content/plugins/embed-and-integrate-etsy-shop/readme.txt
+/wp-content/plugins/url-rewrite-analyzer/readme.txt

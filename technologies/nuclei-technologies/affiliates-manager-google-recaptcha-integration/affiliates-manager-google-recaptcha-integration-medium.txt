@@ -1,0 +1,1 @@
+/wp-content/plugins/affiliates-manager-google-recaptcha-integration/readme.txt

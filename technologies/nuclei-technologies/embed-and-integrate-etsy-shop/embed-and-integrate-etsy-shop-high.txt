@@ -1,0 +1,1 @@
+/wp-content/plugins/embed-and-integrate-etsy-shop/readme.txt

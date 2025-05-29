@@ -8963,3 +8963,8 @@
 /wp-content/plugins/payment-gateway-for-telcell/readme.txt
 /wp-content/plugins/affiliateimportereb/readme.txt
 /wp-content/plugins/advance-post-prefix/readme.txt
+/wp-content/plugins/affiliates-manager-google-recaptcha-integration/readme.txt
+/wp-content/plugins/ymm-search/readme.txt
+/wp-content/plugins/user-profile-meta/readme.txt
+/wp-content/plugins/woo-dynamic-pricing-discounts-lite/readme.txt
+/wp-content/plugins/rootspersona/readme.txt

@@ -190,3 +190,4 @@
 /wp-content/themes/opstore/style.css
 /wp-content/themes/motors/style.css
 /wp-content/themes/madara/style.css
+/wp-content/themes/butcher/style.css

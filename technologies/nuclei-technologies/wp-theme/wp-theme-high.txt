@@ -456,3 +456,4 @@
 /wp-content/themes/hotstar/style.css
 /wp-content/themes/nrgbusiness/style.css
 /wp-content/themes/anywhere-elementor-pro/style.css
+/wp-content/themes/bloggie/style.css

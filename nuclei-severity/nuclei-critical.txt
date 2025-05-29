@@ -3290,3 +3290,5 @@ pathCache.php
 /wp-content/plugins/facturante/readme.txt
 /wp-content/plugins/store-manager-connector/readme.txt
 /wp-content/plugins/inprosysmedia-likes-dislikes-post/readme.txt
+/wp-content/themes/butcher/style.css
+/wp-content/plugins/jp-students-result-system-premium/readme.txt

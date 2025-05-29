@@ -5509,3 +5509,9 @@
 /wp-content/plugins/wp-auto-spinner/readme.txt
 /wp-content/plugins/experto-cta-widget/readme.txt
 /wp-content/plugins/z-downloads/readme.txt
+/wp-content/themes/bloggie/style.css
+/wp-content/plugins/jobhunt-notifications/readme.txt
+/wp-content/plugins/relentlosoftware/readme.txt
+/wp-content/plugins/cryptocloud-crypto-payment-gateway/readme.txt
+/wp-content/plugins/embed-and-integrate-etsy-shop/readme.txt
+/wp-content/plugins/url-rewrite-analyzer/readme.txt

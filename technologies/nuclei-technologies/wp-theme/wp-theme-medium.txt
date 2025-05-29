@@ -602,3 +602,4 @@
 /wp-content/themes/plant/style.css
 /wp-content/themes/sevenstars/style.css
 /wp-content/themes/spare/style.css
+/wp-content/themes/butcher/style.css

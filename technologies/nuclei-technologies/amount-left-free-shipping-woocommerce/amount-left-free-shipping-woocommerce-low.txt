@@ -1,0 +1,1 @@
+/wp-content/plugins/amount-left-free-shipping-woocommerce/readme.txt
