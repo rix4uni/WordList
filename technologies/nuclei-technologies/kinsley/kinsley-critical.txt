@@ -1,0 +1,1 @@
+/wp-content/themes/kinsley/style.css

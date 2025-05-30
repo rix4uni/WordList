@@ -457,3 +457,4 @@
 /wp-content/themes/nrgbusiness/style.css
 /wp-content/themes/anywhere-elementor-pro/style.css
 /wp-content/themes/bloggie/style.css
+/wp-content/themes/acerola/style.css

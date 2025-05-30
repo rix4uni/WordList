@@ -434,3 +434,8 @@
 /wp-content/themes/anywhere-elementor-pro/style.css
 /wp-content/themes/plant/style.css
 /wp-content/themes/bimber/style.css
+/wp-content/themes/insurance/style.css
+/wp-content/themes/crafts-and-arts/style.css
+/wp-content/themes/petsworld/style.css
+/wp-content/themes/finance/style.css
+/wp-content/themes/couponxl/style.css

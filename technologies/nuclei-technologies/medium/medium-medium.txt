@@ -9271,3 +9271,13 @@
 /wp-content/plugins/user-profile-meta/readme.txt
 /wp-content/plugins/woo-dynamic-pricing-discounts-lite/readme.txt
 /wp-content/plugins/rootspersona/readme.txt
+/wp-content/plugins/tarteaucitron-wp/readme.txt
+/wp-content/plugins/wp-desklite/readme.txt
+/wp-content/plugins/clipart/readme.txt
+/wp-content/plugins/badgearoo/readme.txt
+/wp-content/plugins/drm-protected-video-streaming/readme.txt
+/wp-content/plugins/wp-post-modules-el/readme.txt
+/wp-content/plugins/church-management/readme.txt
+/wp-content/plugins/gdlr-hostel/readme.txt
+/wp-content/plugins/gdlr-hotel/readme.txt
+/wp-content/plugins/formularios-de-contacto-salesup/readme.txt

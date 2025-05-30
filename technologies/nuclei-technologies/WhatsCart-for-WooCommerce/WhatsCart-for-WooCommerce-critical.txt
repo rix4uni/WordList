@@ -1,0 +1,1 @@
+/wp-content/plugins/WhatsCart-for-WooCommerce/readme.txt

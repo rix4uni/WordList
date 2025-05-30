@@ -1,0 +1,1 @@
+/wp-content/plugins/metalpriceapi/readme.txt

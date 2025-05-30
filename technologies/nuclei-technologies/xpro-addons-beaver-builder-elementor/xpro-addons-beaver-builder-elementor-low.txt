@@ -1,0 +1,1 @@
+/wp-content/plugins/xpro-addons-beaver-builder-elementor/readme.txt

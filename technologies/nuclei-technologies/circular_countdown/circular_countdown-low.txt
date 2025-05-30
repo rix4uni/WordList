@@ -1,0 +1,1 @@
+/wp-content/plugins/circular_countdown/readme.txt
