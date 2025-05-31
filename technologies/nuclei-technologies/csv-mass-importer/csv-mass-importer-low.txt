@@ -1,0 +1,1 @@
+/wp-content/plugins/csv-mass-importer/readme.txt

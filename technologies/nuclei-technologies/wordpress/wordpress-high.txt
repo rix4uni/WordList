@@ -5949,3 +5949,6 @@
 /wp-content/plugins/url-rewrite-analyzer/readme.txt
 /wp-content/themes/acerola/style.css
 /wp-content/plugins/css3_web_pricing_tables_grids/readme.txt
+/wp-content/plugins/profitori/readme.txt
+/wp-content/plugins/leadinfo/readme.txt
+/wp-content/plugins/visual-header/readme.txt

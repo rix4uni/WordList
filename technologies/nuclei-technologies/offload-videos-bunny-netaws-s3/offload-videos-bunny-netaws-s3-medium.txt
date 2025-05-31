@@ -1,0 +1,1 @@
+/wp-content/plugins/offload-videos-bunny-netaws-s3/readme.txt

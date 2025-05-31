@@ -275,3 +275,4 @@
 /rest/version
 /users/login
 /polarion/
+/%3f

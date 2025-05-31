@@ -9281,3 +9281,8 @@
 /wp-content/plugins/gdlr-hostel/readme.txt
 /wp-content/plugins/gdlr-hotel/readme.txt
 /wp-content/plugins/formularios-de-contacto-salesup/readme.txt
+/wp-content/plugins/offload-videos-bunny-netaws-s3/readme.txt
+/wp-content/plugins/joy-of-text/readme.txt
+/wp-content/plugins/javascript-logic/readme.txt
+/wp-content/plugins/gamipress-reset-user/readme.txt
+/wp-content/plugins/wooexim/readme.txt

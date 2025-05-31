@@ -3343,3 +3343,4 @@ pathCache.php
 /wp-content/themes/luique/style.css
 /wp-content/themes/ober/style.css
 /wp-content/themes/ruizarch/style.css
+/wp-content/themes/course-builder/style.css

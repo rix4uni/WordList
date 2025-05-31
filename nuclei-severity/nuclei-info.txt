@@ -2308,3 +2308,4 @@
 /Login.asp
 /mbilling/
 /polarion/
+/%3f

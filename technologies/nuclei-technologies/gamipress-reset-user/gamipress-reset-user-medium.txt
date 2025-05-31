@@ -1,0 +1,1 @@
+/wp-content/plugins/gamipress-reset-user/readme.txt

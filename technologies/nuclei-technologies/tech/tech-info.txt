@@ -860,3 +860,4 @@
 /BACLIENT
 /JNLP
 /console/hawtconfig.json
+/%3f
