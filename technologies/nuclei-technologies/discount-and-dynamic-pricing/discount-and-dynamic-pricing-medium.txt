@@ -1,0 +1,1 @@
+/wp-content/plugins/discount-and-dynamic-pricing/readme.txt

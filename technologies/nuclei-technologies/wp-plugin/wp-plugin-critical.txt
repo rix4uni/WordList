@@ -1798,3 +1798,6 @@
 /wp-content/plugins/wp-event-manager/readme.txt
 /wp-content/plugins/wc-pagaleve/readme.txt
 /wp-content/plugins/tourmaster/readme.txt
+/wp-content/plugins/ninja-tables/readme.txt
+/wp-content/plugins/affs/readme.txt
+/wp-content/plugins/real-time-validation-for-gravity-forms/readme.txt

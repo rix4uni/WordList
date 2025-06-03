@@ -5520,3 +5520,7 @@
 /wp-content/plugins/profitori/readme.txt
 /wp-content/plugins/leadinfo/readme.txt
 /wp-content/plugins/visual-header/readme.txt
+/wp-content/plugins/webd-woocommerce-product-excel-importer-bulk-edit/readme.txt
+/wp-content/plugins/excel-like-price-change-for-woocommerce-and-wp-e-commerce-light/readme.txt
+/wp-content/plugins/quickcab/readme.txt
+/wp-content/plugins/wpforo-advanced-attachments/readme.txt

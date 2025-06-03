@@ -1996,3 +1996,8 @@
 /wp-content/themes/ober/style.css
 /wp-content/themes/ruizarch/style.css
 /wp-content/themes/course-builder/style.css
+/wp-content/plugins/ninja-tables/readme.txt
+/wp-content/themes/nrgfashion/style.css
+/wp-content/plugins/affs/readme.txt
+/wp-content/themes/golo/style.css
+/wp-content/plugins/real-time-validation-for-gravity-forms/readme.txt

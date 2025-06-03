@@ -228,3 +228,5 @@
 /wp-content/themes/ober/style.css
 /wp-content/themes/ruizarch/style.css
 /wp-content/themes/course-builder/style.css
+/wp-content/themes/nrgfashion/style.css
+/wp-content/themes/golo/style.css

@@ -9286,3 +9286,7 @@
 /wp-content/plugins/javascript-logic/readme.txt
 /wp-content/plugins/gamipress-reset-user/readme.txt
 /wp-content/plugins/wooexim/readme.txt
+/wp-content/plugins/gearside-developer-dashboard/readme.txt
+/wp-content/plugins/blog-designer-pro/readme.txt
+/wp-content/plugins/real-time-validation-for-gravity-forms/readme.txt
+/wp-content/plugins/discount-and-dynamic-pricing/readme.txt

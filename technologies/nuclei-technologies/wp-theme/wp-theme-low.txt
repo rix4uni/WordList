@@ -439,3 +439,4 @@
 /wp-content/themes/petsworld/style.css
 /wp-content/themes/finance/style.css
 /wp-content/themes/couponxl/style.css
+/wp-content/themes/solar/style.css

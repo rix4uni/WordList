@@ -1,0 +1,1 @@
+/wp-content/plugins/excel-like-price-change-for-woocommerce-and-wp-e-commerce-light/readme.txt
