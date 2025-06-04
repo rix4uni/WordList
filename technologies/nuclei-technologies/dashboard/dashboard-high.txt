@@ -3,3 +3,4 @@
 /controlplane
 /#!/printer/Prusa_I3/print
 /#/dashboards
+/?app=config

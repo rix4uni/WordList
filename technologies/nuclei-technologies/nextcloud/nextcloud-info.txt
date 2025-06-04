@@ -8,3 +8,4 @@
 /owncloud/status.php
 /Nextcloud/status.php
 /nextcloud/status.php
+/index.php/login
