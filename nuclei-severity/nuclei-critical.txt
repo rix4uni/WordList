@@ -3351,3 +3351,4 @@ pathCache.php
 /wp-content/themes/nrgfashion/style.css
 /wp-content/themes/golo/style.css
 /wp-content/plugins/real-time-validation-for-gravity-forms/readme.txt
+/wp-content/plugins/hypercomments/readme.txt

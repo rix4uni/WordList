@@ -8655,3 +8655,4 @@
 /wp-content/plugins/eu-vat-for-woocommerce/readme.txt
 /wp-content/plugins/product-quantity-for-woocommerce/readme.txt
 /wp-content/plugins/employee-directory/readme.txt
+/wp-content/plugins/wp-user-frontend-pro/readme.txt
