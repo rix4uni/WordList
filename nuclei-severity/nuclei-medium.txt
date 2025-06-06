@@ -12362,3 +12362,6 @@ request?info=<svg onload=alert(
 /wp-content/plugins/gearside-developer-dashboard/readme.txt
 /wp-content/plugins/real-time-validation-for-gravity-forms/readme.txt
 /wp-content/plugins/discount-and-dynamic-pricing/readme.txt
+:4040/jobs/
+:4040/jobs/?\
+/wp-content/plugins/wp-online-users-stats/readme.txt

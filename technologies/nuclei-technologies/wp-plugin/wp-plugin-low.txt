@@ -7328,3 +7328,14 @@
 /wp-content/plugins/product-quantity-for-woocommerce/readme.txt
 /wp-content/plugins/employee-directory/readme.txt
 /wp-content/plugins/wp-user-frontend-pro/readme.txt
+/wp-content/plugins/wp-online-users-stats/readme.txt
+/wp-content/plugins/domain-for-sale/readme.txt
+/wp-content/plugins/esv-bible-shortcode-for-wordpress/readme.txt
+/wp-content/plugins/wp-freemind/readme.txt
+/wp-content/plugins/bns-featured-category/readme.txt
+/wp-content/plugins/runners-log/readme.txt
+/wp-content/plugins/wp-addpub/readme.txt
+/wp-content/plugins/hide-it/readme.txt
+/wp-content/plugins/cpt-ajax-load-more/readme.txt
+/wp-content/plugins/paged-gallery/readme.txt
+/wp-content/plugins/devformatter/readme.txt

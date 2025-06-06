@@ -8336,3 +8336,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/quickcab/readme.txt
 /wp-content/plugins/wpforo-advanced-attachments/readme.txt
 /?app=config
+/wp-content/plugins/wp-email-debug/readme.txt

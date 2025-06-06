@@ -46,3 +46,4 @@
 /home
 /wp-admin/
 /admin/login
+:4040/jobs/

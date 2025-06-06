@@ -5956,3 +5956,4 @@
 /wp-content/plugins/excel-like-price-change-for-woocommerce-and-wp-e-commerce-light/readme.txt
 /wp-content/plugins/quickcab/readme.txt
 /wp-content/plugins/wpforo-advanced-attachments/readme.txt
+/wp-content/plugins/wp-email-debug/readme.txt
