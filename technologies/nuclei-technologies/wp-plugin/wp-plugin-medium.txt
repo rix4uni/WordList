@@ -8988,3 +8988,5 @@
 /wp-content/plugins/real-time-validation-for-gravity-forms/readme.txt
 /wp-content/plugins/discount-and-dynamic-pricing/readme.txt
 /wp-content/plugins/wp-online-users-stats/readme.txt
+/wp-content/plugins/file-provider/readme.txt
+/wp-content/plugins/profiler-what-slowing-down/readme.txt

@@ -8337,3 +8337,7 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/wpforo-advanced-attachments/readme.txt
 /?app=config
 /wp-content/plugins/wp-email-debug/readme.txt
+/wp-content/plugins/uncanny-automator/readme.txt
+/wp-content/plugins/ltl-freight-quotes-freightview-edition/readme.txt
+/wp-content/plugins/ltl-freight-quotes-day-ross-edition/readme.txt
+/wp-content/plugins/ltl-freight-quotes-daylight-edition/readme.txt

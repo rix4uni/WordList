@@ -12365,3 +12365,5 @@ request?info=<svg onload=alert(
 :4040/jobs/
 :4040/jobs/?\
 /wp-content/plugins/wp-online-users-stats/readme.txt
+/wp-content/plugins/file-provider/readme.txt
+/wp-content/plugins/profiler-what-slowing-down/readme.txt

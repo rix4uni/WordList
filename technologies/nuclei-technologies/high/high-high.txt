@@ -5525,3 +5525,7 @@
 /wp-content/plugins/quickcab/readme.txt
 /wp-content/plugins/wpforo-advanced-attachments/readme.txt
 /wp-content/plugins/wp-email-debug/readme.txt
+/wp-content/plugins/uncanny-automator/readme.txt
+/wp-content/plugins/ltl-freight-quotes-freightview-edition/readme.txt
+/wp-content/plugins/ltl-freight-quotes-day-ross-edition/readme.txt
+/wp-content/plugins/ltl-freight-quotes-daylight-edition/readme.txt
