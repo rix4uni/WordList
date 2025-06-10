@@ -12367,3 +12367,4 @@ request?info=<svg onload=alert(
 /wp-content/plugins/wp-online-users-stats/readme.txt
 /wp-content/plugins/file-provider/readme.txt
 /wp-content/plugins/profiler-what-slowing-down/readme.txt
+/wp-content/plugins/bunnys-print-css/readme.txt

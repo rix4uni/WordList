@@ -276,3 +276,4 @@
 /users/login
 /polarion/
 /%3f
+/home/login

@@ -7813,3 +7813,4 @@
 /wp-content/plugins/post-slider-and-carousel/readme.txt
 /wp-content/plugins/profiler-what-slowing-down/readme.txt
 /wp-content/plugins/real-cookie-banner-pro/readme.txt
+/wp-content/plugins/woocommerce-abandon-cart-pro/readme.txt
