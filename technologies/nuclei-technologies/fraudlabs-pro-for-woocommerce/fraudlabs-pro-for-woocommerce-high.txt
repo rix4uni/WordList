@@ -1,0 +1,1 @@
+/wp-content/plugins/fraudlabs-pro-for-woocommerce/readme.txt

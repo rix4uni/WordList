@@ -1,0 +1,1 @@
+/wp-content/plugins/xagio-seo/readme.txt
