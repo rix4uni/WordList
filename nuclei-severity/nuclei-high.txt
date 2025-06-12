@@ -8364,3 +8364,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/responsive-flipbooks/readme.txt
 /wp-content/plugins/testimonials-showcase/readme.txt
 /wp-content/plugins/webtoffee-product-feed/readme.txt
+/js/log.js
+/Portal0000.htm

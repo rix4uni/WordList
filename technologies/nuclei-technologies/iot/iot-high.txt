@@ -37,3 +37,4 @@
 /adminpasswd.cgi
 /lang/log/httpd.log
 /portal/conf/config.properties
+/Portal0000.htm

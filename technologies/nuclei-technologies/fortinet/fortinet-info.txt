@@ -11,3 +11,4 @@
 /api/v1
 /signin
 /wlm/login?next=/wlm
+/admin/

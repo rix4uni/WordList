@@ -11,3 +11,4 @@
 /app/webroot/files/kcfinder/files/home/000~ROOT~000/etc/passwd
 /actpt_5g.data
 /controlloLogin.js
+/js/log.js

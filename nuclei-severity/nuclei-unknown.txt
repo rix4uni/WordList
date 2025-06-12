@@ -52,3 +52,4 @@ index.php?username=admin%20authenticated.%0D%0AMeyo&password=n
 /phpbb/install/install.php
 /wp-content/plugins/advanced-custom-fields-pro/readme.txt
 /.s3cfg
+/sse

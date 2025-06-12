@@ -1,1 +1,2 @@
 /cgi-bin/
+/.well-known/keybase.txt

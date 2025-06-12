@@ -5,3 +5,4 @@
 /index.do
 /configurations
 /apiclient/ember/Login.jsp
+/exchange/index.html

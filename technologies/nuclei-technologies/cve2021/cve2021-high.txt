@@ -93,3 +93,4 @@
 /file/../../../../../../../../../../../../../../../../../..{{path}}
 /api/v1/components?name=1&1%5B0%5D=&1%5B1%5D=a&1%5B2%5D=&1%5B3%5D=or+
 /geoserver/
+/js/log.js

@@ -26,3 +26,4 @@
 /login.aspx
 /AdminLogin.aspx
 /admin.aspx
+/admin/login.jsp

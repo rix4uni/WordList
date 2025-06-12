@@ -19,3 +19,4 @@
 /cuadmin/home.do
 /admin/
 /webui/
+/admin/login.jsp

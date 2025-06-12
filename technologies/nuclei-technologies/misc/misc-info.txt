@@ -138,3 +138,4 @@
 /trust-center.html
 /security
 /compliance
+/.well-known/keybase.txt

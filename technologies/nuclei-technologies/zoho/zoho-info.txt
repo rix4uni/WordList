@@ -7,3 +7,4 @@
 /apiclient/index.jsp
 /pki/images/keyManager_title.ico
 /apiclient/ember/Login.jsp
+/exchange/index.html

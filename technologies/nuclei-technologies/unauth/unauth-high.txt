@@ -117,3 +117,4 @@
 /RST_status.htm%00currentsetting.htm
 /config
 /api/v1/status/config
+/Portal0000.htm

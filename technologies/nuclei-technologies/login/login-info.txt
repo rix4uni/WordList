@@ -325,3 +325,6 @@
 /mbilling/
 /polarion/
 /home/login
+/admin/login.jsp
+/exchange/index.html
+/{{paths}}/

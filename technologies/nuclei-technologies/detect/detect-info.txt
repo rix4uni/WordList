@@ -277,3 +277,4 @@
 /polarion/
 /%3f
 /home/login
+/admin/login.jsp

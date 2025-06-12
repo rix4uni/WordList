@@ -864,3 +864,5 @@
 /mbilling/
 /polarion/
 /home/login
+/exchange/index.html
+/{{paths}}/

