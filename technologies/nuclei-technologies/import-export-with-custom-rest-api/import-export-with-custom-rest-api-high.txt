@@ -1,0 +1,1 @@
+/wp-content/plugins/import-export-with-custom-rest-api/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/konami-easter-egg/readme.txt

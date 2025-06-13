@@ -1,0 +1,1 @@
+/wp-content/plugins/libro-de-reclamaciones-y-quejas/readme.txt

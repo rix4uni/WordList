@@ -278,3 +278,6 @@
 /%3f
 /home/login
 /admin/login.jsp
+/Login.jsp
+/InvalidAccount.jsp
+/static/console-utm-webui/js/preinit.js

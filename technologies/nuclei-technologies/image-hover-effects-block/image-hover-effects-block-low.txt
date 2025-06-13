@@ -1,0 +1,1 @@
+/wp-content/plugins/image-hover-effects-block/readme.txt

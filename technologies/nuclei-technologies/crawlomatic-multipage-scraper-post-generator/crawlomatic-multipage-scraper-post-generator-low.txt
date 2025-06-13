@@ -1,0 +1,1 @@
+/wp-content/plugins/crawlomatic-multipage-scraper-post-generator/readme.txt

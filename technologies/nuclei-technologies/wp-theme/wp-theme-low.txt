@@ -441,3 +441,4 @@
 /wp-content/themes/couponxl/style.css
 /wp-content/themes/solar/style.css
 /wp-content/themes/art-theme/style.css
+/wp-content/themes/car-repair-services/style.css

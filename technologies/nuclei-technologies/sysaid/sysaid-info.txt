@@ -1,2 +1,3 @@
 /favicon.ico
 /Login.jsp
+/InvalidAccount.jsp

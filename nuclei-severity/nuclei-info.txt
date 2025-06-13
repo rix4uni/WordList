@@ -2313,3 +2313,6 @@
 /.well-known/keybase.txt
 /exchange/index.html
 /{{paths}}/
+/.well-known/assetlinks.json
+/InvalidAccount.jsp
+/static/console-utm-webui/js/preinit.js

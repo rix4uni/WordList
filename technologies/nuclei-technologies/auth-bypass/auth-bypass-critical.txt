@@ -45,3 +45,4 @@
 /js/..%2f%2f/wizard.htm
 /images/..%2f%2f/wizard.htm
 {{endpoints}}
+/?wcal_action=checkout_link&user_email=test&validate={{replace_regex(code_response,

@@ -1,0 +1,1 @@
+/wp-content/plugins/elementor_widget_universal_video_player/readme.txt

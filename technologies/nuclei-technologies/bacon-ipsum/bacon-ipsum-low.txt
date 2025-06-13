@@ -1,0 +1,1 @@
+/wp-content/plugins/bacon-ipsum/readme.txt

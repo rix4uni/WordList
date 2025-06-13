@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-keyword-to-link/readme.txt

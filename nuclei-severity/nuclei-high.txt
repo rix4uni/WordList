@@ -8366,3 +8366,7 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/webtoffee-product-feed/readme.txt
 /js/log.js
 /Portal0000.htm
+/wp-content/themes/car-repair-services/style.css
+/wp-content/plugins/ki-live-video-conferences/readme.txt
+/wp-content/plugins/import-export-with-custom-rest-api/readme.txt
+/wp-content/plugins/traffic-monitor/readme.txt

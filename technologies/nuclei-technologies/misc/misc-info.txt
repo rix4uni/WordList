@@ -139,3 +139,4 @@
 /security
 /compliance
 /.well-known/keybase.txt
+/.well-known/assetlinks.json

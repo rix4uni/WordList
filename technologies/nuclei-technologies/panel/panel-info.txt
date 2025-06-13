@@ -866,3 +866,5 @@
 /home/login
 /exchange/index.html
 /{{paths}}/
+/InvalidAccount.jsp
+/static/console-utm-webui/js/preinit.js

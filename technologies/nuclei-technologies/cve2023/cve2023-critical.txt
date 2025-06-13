@@ -55,3 +55,4 @@
 /_admin/imgdownload.php?filename=imgdownload.php
 /apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
+/?wcal_action=checkout_link&user_email=test&validate={{replace_regex(code_response,

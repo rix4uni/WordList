@@ -1,0 +1,1 @@
+/wp-content/plugins/ki-live-video-conferences/readme.txt

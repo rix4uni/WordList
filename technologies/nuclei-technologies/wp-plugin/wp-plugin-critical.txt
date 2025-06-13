@@ -1803,3 +1803,11 @@
 /wp-content/plugins/real-time-validation-for-gravity-forms/readme.txt
 /wp-content/plugins/hypercomments/readme.txt
 /wp-content/plugins/file-provider/readme.txt
+/?wcal_action=checkout_link&user_email=test&validate={{replace_regex(code_response,
+/wp-content/plugins/leadcapture/readme.txt
+/wp-content/plugins/seofy-core/readme.txt
+/wp-content/plugins/woofilter-pro/readme.txt
+/wp-content/plugins/stm-motors-events/readme.txt
+/wp-content/plugins/recover-wc-abandoned-cart/readme.txt
+/wp-content/plugins/multi-crypto-currency-payment/readme.txt
+/wp-content/plugins/mystyle-custom-product-designer/readme.txt

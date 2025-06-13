@@ -5552,3 +5552,7 @@
 /wp-content/plugins/responsive-flipbooks/readme.txt
 /wp-content/plugins/testimonials-showcase/readme.txt
 /wp-content/plugins/webtoffee-product-feed/readme.txt
+/wp-content/plugins/ki-live-video-conferences/readme.txt
+/wp-content/themes/car-repair-services/style.css
+/wp-content/plugins/import-export-with-custom-rest-api/readme.txt
+/wp-content/plugins/traffic-monitor/readme.txt

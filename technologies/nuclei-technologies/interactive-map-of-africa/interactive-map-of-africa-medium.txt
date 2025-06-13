@@ -1,0 +1,1 @@
+/wp-content/plugins/interactive-map-of-africa/readme.txt

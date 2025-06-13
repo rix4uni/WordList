@@ -230,3 +230,10 @@
 /wp-content/themes/course-builder/style.css
 /wp-content/themes/nrgfashion/style.css
 /wp-content/themes/golo/style.css
+/wp-content/themes/flap/style.css
+/wp-content/themes/pimp/style.css
+/wp-content/themes/press-grid/style.css
+/wp-content/themes/krowd/style.css
+/wp-content/themes/arlo/style.css
+/wp-content/themes/revo/style.css
+/wp-content/themes/sweet-dessert/style.css

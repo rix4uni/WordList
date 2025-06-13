@@ -1,0 +1,1 @@
+/wp-content/plugins/next-event-calendar/readme.txt
