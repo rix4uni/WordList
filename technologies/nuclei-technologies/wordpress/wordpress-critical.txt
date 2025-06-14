@@ -2059,3 +2059,5 @@
 /wp-content/plugins/multi-crypto-currency-payment/readme.txt
 /wp-content/plugins/mystyle-custom-product-designer/readme.txt
 /wp-content/themes/sweet-dessert/style.css
+/wp-content/themes/bw-zagg/style.css
+/wp-content/plugins/image-resizer-on-the-fly/readme.txt

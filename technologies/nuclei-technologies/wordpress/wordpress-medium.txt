@@ -9703,3 +9703,9 @@
 /wp-content/plugins/wp2html/readme.txt
 /wp-content/plugins/digital-marketing-agency-templates-for-elementor/readme.txt
 /wp-content/plugins/miniorange-oauth-oidc-single-sign-on/readme.txt
+/wp-content/plugins/ai-image-generator-lab/readme.txt
+/wp-content/plugins/easy-flashcards/readme.txt
+/wp-content/plugins/zen-social-sticky/readme.txt
+/wp-content/plugins/yougler-blogger-profile-page/readme.txt
+/wp-content/plugins/xisearch-bar/readme.txt
+/wp-content/plugins/wp-url-shortener/readme.txt

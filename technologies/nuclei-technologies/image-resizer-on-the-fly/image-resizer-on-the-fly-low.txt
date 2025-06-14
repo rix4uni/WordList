@@ -1,0 +1,1 @@
+/wp-content/plugins/image-resizer-on-the-fly/readme.txt

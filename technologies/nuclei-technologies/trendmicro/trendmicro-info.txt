@@ -1,1 +1,2 @@
 /officescan/console/html/cgi/cgiChkMasterPwd.exe
+/webapp/login.html

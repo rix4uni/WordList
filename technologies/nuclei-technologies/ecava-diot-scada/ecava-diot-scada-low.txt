@@ -1,0 +1,1 @@
+/wp-content/plugins/ecava-diot-scada/readme.txt

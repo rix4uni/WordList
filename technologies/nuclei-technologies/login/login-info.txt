@@ -328,3 +328,4 @@
 /admin/login.jsp
 /exchange/index.html
 /{{paths}}/
+/webapp/login.html

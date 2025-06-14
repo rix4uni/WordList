@@ -1811,3 +1811,4 @@
 /wp-content/plugins/recover-wc-abandoned-cart/readme.txt
 /wp-content/plugins/multi-crypto-currency-payment/readme.txt
 /wp-content/plugins/mystyle-custom-product-designer/readme.txt
+/wp-content/plugins/image-resizer-on-the-fly/readme.txt

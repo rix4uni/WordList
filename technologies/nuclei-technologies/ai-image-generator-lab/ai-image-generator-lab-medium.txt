@@ -1,0 +1,1 @@
+/wp-content/plugins/ai-image-generator-lab/readme.txt

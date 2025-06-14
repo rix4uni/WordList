@@ -2316,3 +2316,4 @@
 /.well-known/assetlinks.json
 /InvalidAccount.jsp
 /static/console-utm-webui/js/preinit.js
+/webapp/login.html

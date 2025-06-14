@@ -8745,3 +8745,7 @@
 /wp-content/plugins/ki-live-video-conferences/readme.txt
 /wp-content/plugins/miniorange-oauth-oidc-single-sign-on/readme.txt
 /wp-content/plugins/wp-malware-removal/readme.txt
+/wp-content/plugins/ecava-diot-scada/readme.txt
+/wp-content/plugins/kk-youtube-video/readme.txt
+/wp-content/plugins/restrict-file-access/readme.txt
+/wp-content/plugins/image-resizer-on-the-fly/readme.txt

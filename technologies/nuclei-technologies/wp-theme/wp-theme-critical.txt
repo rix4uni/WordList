@@ -237,3 +237,4 @@
 /wp-content/themes/arlo/style.css
 /wp-content/themes/revo/style.css
 /wp-content/themes/sweet-dessert/style.css
+/wp-content/themes/bw-zagg/style.css
