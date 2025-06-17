@@ -38,3 +38,7 @@
 /lang/log/httpd.log
 /portal/conf/config.properties
 /Portal0000.htm
+/eIMConfiguration
+/eid-management
+/eid-management-new
+/bulk-profile-operation

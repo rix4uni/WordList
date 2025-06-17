@@ -16,3 +16,7 @@
 /ords/f?p=4600:32:0::NO
 /bitrixsetup.php
 /wp-admin/install.php
+/eIMConfiguration
+/eid-management
+/eid-management-new
+/bulk-profile-operation

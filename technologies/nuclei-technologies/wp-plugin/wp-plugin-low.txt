@@ -7419,3 +7419,5 @@
 /wp-content/plugins/kk-youtube-video/readme.txt
 /wp-content/plugins/restrict-file-access/readme.txt
 /wp-content/plugins/image-resizer-on-the-fly/readme.txt
+/wp-content/plugins/social-polls-by-opinionstage/readme.txt
+/wp-content/plugins/simple-logo-carousel/readme.txt

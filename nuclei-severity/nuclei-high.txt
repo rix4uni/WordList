@@ -8370,3 +8370,7 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/ki-live-video-conferences/readme.txt
 /wp-content/plugins/import-export-with-custom-rest-api/readme.txt
 /wp-content/plugins/traffic-monitor/readme.txt
+/eIMConfiguration
+/eid-management
+/eid-management-new
+/bulk-profile-operation
