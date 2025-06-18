@@ -1,1 +1,2 @@
 /_dashboards/app/login
+/app/login?

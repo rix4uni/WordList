@@ -7842,3 +7842,11 @@
 /wp-content/plugins/image-resizer-on-the-fly/readme.txt
 /wp-content/plugins/social-polls-by-opinionstage/readme.txt
 /wp-content/plugins/simple-logo-carousel/readme.txt
+/wp-content/plugins/axle-demo-importer/readme.txt
+/wp-content/plugins/wpecounter/readme.txt
+/wp-content/plugins/kama-clic-counter/readme.txt
+/wp-content/plugins/cubewp-forms/readme.txt
+/wp-content/plugins/csv-me/readme.txt
+/wp-content/plugins/aeroscroll-gallery/readme.txt
+/wp-content/plugins/fw-gallery/readme.txt
+/wp-content/plugins/lbg-audio11-html5-shoutcast_history/readme.txt

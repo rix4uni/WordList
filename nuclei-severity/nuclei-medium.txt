@@ -12423,3 +12423,9 @@ request?info=<svg onload=alert(
 /wp-content/plugins/yougler-blogger-profile-page/readme.txt
 /wp-content/plugins/xisearch-bar/readme.txt
 /wp-content/plugins/wp-url-shortener/readme.txt
+/wp-content/plugins/advanced-settings/readme.txt
+/wp-content/plugins/aeroscroll-gallery/readme.txt
+/wp-content/plugins/nasa-core/readme.txt
+/wp-content/plugins/widgetkit-pro/readme.txt
+/wp-content/plugins/wp-tao/readme.txt
+/wp-content/plugins/wp-fsqm-pro/readme.txt

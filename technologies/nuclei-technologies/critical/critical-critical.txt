@@ -2019,3 +2019,8 @@
 /wp-content/themes/sweet-dessert/style.css
 /wp-content/themes/bw-zagg/style.css
 /wp-content/plugins/image-resizer-on-the-fly/readme.txt
+/wp-content/plugins/ova-events-manager/readme.txt
+/wp-content/themes/flozen-theme/style.css
+/wp-content/plugins/fw-gallery/readme.txt
+/wp-content/plugins/reformer-elementor/readme.txt
+/wp-content/plugins/fw-food-menu/readme.txt

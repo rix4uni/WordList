@@ -329,3 +329,6 @@
 /exchange/index.html
 /{{paths}}/
 /webapp/login.html
+/app/login?
+/library/login
+/webapi/ping

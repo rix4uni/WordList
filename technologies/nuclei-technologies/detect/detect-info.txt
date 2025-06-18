@@ -281,3 +281,5 @@
 /Login.jsp
 /InvalidAccount.jsp
 /static/console-utm-webui/js/preinit.js
+/app/login?
+/library/login

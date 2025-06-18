@@ -1,1 +1,2 @@
 /dashboard/auth/login
+/app/login?

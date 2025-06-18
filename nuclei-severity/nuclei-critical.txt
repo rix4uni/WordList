@@ -3372,3 +3372,9 @@ pathCache.php
 /wp-content/plugins/image-resizer-on-the-fly/readme.txt
 /installer/index.php
 /roundcube/installer/index.php
+/wp-content/plugins/ova-events-manager/readme.txt
+/wp-content/themes/flozen-theme/style.css
+/wp-content/plugins/fw-gallery/readme.txt
+/wp-content/plugins/reformer-elementor/readme.txt
+/wp-content/plugins/fw-food-menu/readme.txt
+/upgrade_handle.php?cmd=writeuploaddir&uploaddir=%27;id;%27

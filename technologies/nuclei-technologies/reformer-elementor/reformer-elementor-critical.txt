@@ -1,0 +1,1 @@
+/wp-content/plugins/reformer-elementor/readme.txt

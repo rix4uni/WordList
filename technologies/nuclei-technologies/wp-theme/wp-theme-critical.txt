@@ -238,3 +238,4 @@
 /wp-content/themes/revo/style.css
 /wp-content/themes/sweet-dessert/style.css
 /wp-content/themes/bw-zagg/style.css
+/wp-content/themes/flozen-theme/style.css

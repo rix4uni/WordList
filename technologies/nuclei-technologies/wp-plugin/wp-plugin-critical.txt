@@ -1812,3 +1812,7 @@
 /wp-content/plugins/multi-crypto-currency-payment/readme.txt
 /wp-content/plugins/mystyle-custom-product-designer/readme.txt
 /wp-content/plugins/image-resizer-on-the-fly/readme.txt
+/wp-content/plugins/ova-events-manager/readme.txt
+/wp-content/plugins/fw-gallery/readme.txt
+/wp-content/plugins/reformer-elementor/readme.txt
+/wp-content/plugins/fw-food-menu/readme.txt
