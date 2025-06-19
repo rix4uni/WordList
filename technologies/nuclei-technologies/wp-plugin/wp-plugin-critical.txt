@@ -1816,3 +1816,7 @@
 /wp-content/plugins/fw-gallery/readme.txt
 /wp-content/plugins/reformer-elementor/readme.txt
 /wp-content/plugins/fw-food-menu/readme.txt
+/wp-content/plugins/one-login/readme.txt
+/wp-content/plugins/wpcrm/readme.txt
+/wp-content/plugins/smio-push-notification/readme.txt
+/wp-content/plugins/postapanduri/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/smio-push-notification/readme.txt

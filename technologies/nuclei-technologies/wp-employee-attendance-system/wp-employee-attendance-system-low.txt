@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-employee-attendance-system/readme.txt

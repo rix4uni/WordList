@@ -8759,3 +8759,8 @@
 /wp-content/plugins/kama-clic-counter/readme.txt
 /wp-content/plugins/fw-gallery/readme.txt
 /wp-content/plugins/lbg-audio11-html5-shoutcast_history/readme.txt
+/wp-content/plugins/wp-employee-attendance-system/readme.txt
+/wp-content/plugins/widget-logic/readme.txt
+/wp-content/plugins/wc-partial-shipment/readme.txt
+/wp-content/plugins/gutenverse-news/readme.txt
+/wp-content/plugins/one-login/readme.txt
