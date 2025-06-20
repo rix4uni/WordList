@@ -1,1 +1,2 @@
 /bagisto-common/search?query={{228*
+/bagisto-common/search?query={{2288*

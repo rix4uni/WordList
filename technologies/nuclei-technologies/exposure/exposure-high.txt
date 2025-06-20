@@ -456,3 +456,5 @@ _vti_pvt/authors.pwd
 /register
 /admin/login?next=%2Fadmin
 /ckeditor/.travis.yml
+/wizardset.htm
+/easy_setup.htm

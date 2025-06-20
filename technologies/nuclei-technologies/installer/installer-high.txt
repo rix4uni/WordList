@@ -6,3 +6,5 @@
 /sabnzbd/wizard/
 /wizard/
 /setup
+/wizardset.htm
+/easy_setup.htm

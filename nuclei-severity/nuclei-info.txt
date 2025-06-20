@@ -2320,3 +2320,4 @@
 /app/login?
 /library/login
 /webapi/ping
+/api_jsonrpc.php

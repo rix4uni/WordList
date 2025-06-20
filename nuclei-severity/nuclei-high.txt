@@ -8377,3 +8377,6 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/addfreestats/readme.txt
 /wp-content/plugins/lbg-audio11-html5-shoutcast_history/readme.txt
 /wp-content/plugins/membership-for-woocommerce/readme.txt
+/console/auth/login
+/wizardset.htm
+/easy_setup.htm

@@ -46,3 +46,4 @@
 /lucee/admin/server.cfm
 /app/login
 /invoke/pub.file/getFile
+/console/auth/login

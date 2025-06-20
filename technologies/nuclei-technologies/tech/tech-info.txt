@@ -861,3 +861,4 @@
 /JNLP
 /console/hawtconfig.json
 /%3f
+/api_jsonrpc.php

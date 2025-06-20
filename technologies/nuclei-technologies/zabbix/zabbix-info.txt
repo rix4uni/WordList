@@ -1,2 +1,4 @@
 /zabbix/
 /
+/index.php
+/api_jsonrpc.php

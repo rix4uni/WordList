@@ -41,3 +41,4 @@
 {{payloads}}
 /
 /jk_status
+/console/auth/login

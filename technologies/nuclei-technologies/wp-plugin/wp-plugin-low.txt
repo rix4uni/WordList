@@ -7434,3 +7434,5 @@
 /wp-content/plugins/wc-partial-shipment/readme.txt
 /wp-content/plugins/gutenverse-news/readme.txt
 /wp-content/plugins/one-login/readme.txt
+/wp-content/plugins/bb-plugin/readme.txt
+/wp-content/plugins/euro-fxref-currency-converter/readme.txt
