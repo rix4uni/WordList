@@ -2321,3 +2321,6 @@
 /library/login
 /webapi/ping
 /api_jsonrpc.php
+/Start?0
+/wd/en-us/wapplink.asp
+/en

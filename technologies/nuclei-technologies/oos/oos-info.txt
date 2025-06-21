@@ -1,1 +1,2 @@
 /authentication/login
+/auth/login

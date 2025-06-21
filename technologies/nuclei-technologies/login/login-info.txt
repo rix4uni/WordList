@@ -332,3 +332,4 @@
 /app/login?
 /library/login
 /webapi/ping
+/wd/en-us/wapplink.asp

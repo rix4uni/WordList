@@ -873,3 +873,5 @@
 /library/login
 /webapi/ping
 /api_jsonrpc.php
+/wd/en-us/wapplink.asp
+/en
