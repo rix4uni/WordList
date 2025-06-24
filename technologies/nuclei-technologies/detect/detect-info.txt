@@ -286,3 +286,4 @@
 /Start?0
 /wd/en-us/wapplink.asp
 /en
+/ucs/micollab/version.json

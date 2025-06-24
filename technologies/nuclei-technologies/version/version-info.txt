@@ -2,3 +2,4 @@
 /js/app/init.js
 /extranet/js_personal/jszip.min.js
 /rest/version
+/ucs/micollab/version.json

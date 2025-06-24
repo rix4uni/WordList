@@ -1,3 +1,4 @@
 /server-common/cgi-bin/login
 /portal/
 /wd/en-us/wapplink.asp
+/ucs/micollab/version.json
