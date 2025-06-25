@@ -12430,3 +12430,4 @@ request?info=<svg onload=alert(
 /wp-content/plugins/wp-tao/readme.txt
 /wp-content/plugins/wp-fsqm-pro/readme.txt
 /bagisto-common/search?query={{2288*
+/jobs/

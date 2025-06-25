@@ -6,3 +6,4 @@
 /dms0/AggreSpy
 /dmsoc4j/AggreSpy
 :4040/jobs/
+/jobs/

@@ -53,3 +53,4 @@ index.php?username=admin%20authenticated.%0D%0AMeyo&password=n
 /wp-content/plugins/advanced-custom-fields-pro/readme.txt
 /.s3cfg
 /sse
+/mcp/

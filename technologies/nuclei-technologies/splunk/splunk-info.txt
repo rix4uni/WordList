@@ -3,3 +3,4 @@
 /login?next=/
 /
 /services/collector/health
+/en-US/splunkd/__raw/services/server/info

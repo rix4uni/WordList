@@ -18,3 +18,4 @@
 /config/runtime-env.js
 /.s3cfg
 /sse
+/mcp/

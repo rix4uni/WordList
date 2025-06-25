@@ -8380,3 +8380,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /console/auth/login
 /wizardset.htm
 /easy_setup.htm
+/wp-content/plugins/everest-forms-pro/readme.txt

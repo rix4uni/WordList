@@ -1,2 +1,1 @@
-/#/login
 /en-US/splunkd/__raw/services/server/info

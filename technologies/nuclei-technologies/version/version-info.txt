@@ -3,3 +3,4 @@
 /extranet/js_personal/jszip.min.js
 /rest/version
 /ucs/micollab/version.json
+/en-US/splunkd/__raw/services/server/info

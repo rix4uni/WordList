@@ -7437,3 +7437,4 @@
 /wp-content/plugins/bb-plugin/readme.txt
 /wp-content/plugins/euro-fxref-currency-converter/readme.txt
 /wp-content/plugins/conference-scheduler/readme.txt
+/wp-content/plugins/everest-forms-pro/readme.txt

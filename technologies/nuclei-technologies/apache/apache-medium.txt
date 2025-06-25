@@ -38,3 +38,4 @@
 /html/usr/share/doc/websocketd/examples/php/dump-env.php%3f
 /appconfigs
 :4040/jobs/
+/jobs/

@@ -2325,3 +2325,4 @@
 /wd/en-us/wapplink.asp
 /en
 /ucs/micollab/version.json
+/en-US/splunkd/__raw/services/server/info

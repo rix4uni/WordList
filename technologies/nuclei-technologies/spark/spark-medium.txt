@@ -2,3 +2,4 @@
 /v1/submissions
 :4040/jobs/?\
 :4040/jobs/
+/jobs/
