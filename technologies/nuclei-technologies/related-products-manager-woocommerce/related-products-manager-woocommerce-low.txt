@@ -1,0 +1,1 @@
+/wp-content/plugins/related-products-manager-woocommerce/readme.txt

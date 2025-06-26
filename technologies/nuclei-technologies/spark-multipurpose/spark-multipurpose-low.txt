@@ -1,0 +1,1 @@
+/wp-content/themes/spark-multipurpose/style.css

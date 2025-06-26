@@ -2096,3 +2096,8 @@
 /wp-content/themes/mediclinic/style.css
 /wp-content/themes/grandprix/style.css
 /wp-content/plugins/postapanduri/readme.txt
+/wp-content/themes/dsk/style.css
+/wp-content/themes/snsavaz/style.css
+/wp-content/plugins/wp-registration/readme.txt
+/wp-content/themes/grillandchow/style.css
+/wp-content/plugins/cf7-zoho/readme.txt

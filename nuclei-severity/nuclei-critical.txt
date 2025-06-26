@@ -3409,3 +3409,8 @@ pathCache.php
 /wp-content/themes/grandprix/style.css
 /wp-content/plugins/postapanduri/readme.txt
 /locales/locale.json?locale=..%2F..%2Fconfig&namespace=app
+/wp-content/plugins/cf7-zoho/readme.txt
+/wp-content/themes/dsk/style.css
+/wp-content/themes/snsavaz/style.css
+/wp-content/plugins/wp-registration/readme.txt
+/wp-content/themes/grillandchow/style.css

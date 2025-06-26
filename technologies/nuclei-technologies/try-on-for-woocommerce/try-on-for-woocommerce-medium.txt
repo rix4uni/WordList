@@ -1,0 +1,1 @@
+/wp-content/plugins/try-on-for-woocommerce/readme.txt

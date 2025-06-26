@@ -265,3 +265,6 @@
 /wp-content/themes/diza/style.css
 /wp-content/themes/mediclinic/style.css
 /wp-content/themes/grandprix/style.css
+/wp-content/themes/dsk/style.css
+/wp-content/themes/snsavaz/style.css
+/wp-content/themes/grillandchow/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/pixelbeds-channel-manager-booking-engine/readme.txt

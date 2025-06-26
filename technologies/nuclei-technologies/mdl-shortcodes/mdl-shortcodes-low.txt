@@ -1,0 +1,1 @@
+/wp-content/plugins/mdl-shortcodes/readme.txt

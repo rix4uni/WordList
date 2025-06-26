@@ -1,0 +1,1 @@
+/wp-content/plugins/anonform-embedded-secure-form/readme.txt

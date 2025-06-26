@@ -442,3 +442,5 @@
 /wp-content/themes/solar/style.css
 /wp-content/themes/art-theme/style.css
 /wp-content/themes/car-repair-services/style.css
+/wp-content/themes/hello-fse-blog/style.css
+/wp-content/themes/spark-multipurpose/style.css

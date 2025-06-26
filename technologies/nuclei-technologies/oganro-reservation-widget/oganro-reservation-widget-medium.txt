@@ -1,0 +1,1 @@
+/wp-content/plugins/oganro-reservation-widget/readme.txt

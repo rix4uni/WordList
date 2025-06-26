@@ -1,0 +1,1 @@
+/wp-content/plugins/better-random-redirect/readme.txt

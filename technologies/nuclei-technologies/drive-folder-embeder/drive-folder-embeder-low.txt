@@ -1,0 +1,1 @@
+/wp-content/plugins/drive-folder-embeder/readme.txt
