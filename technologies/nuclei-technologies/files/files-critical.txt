@@ -51,3 +51,4 @@
 /mysql/config.json
 /postgres/config.json
 /mongodb/config.json
+{{path}}

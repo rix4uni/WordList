@@ -114,3 +114,4 @@
 /wp-login.php?action=register
 /wp/wp-login.php?action=register
 /sites/all/libraries/elfinder/connectors/php/connector.php
+{{path}}

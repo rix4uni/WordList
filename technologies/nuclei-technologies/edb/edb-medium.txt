@@ -226,3 +226,4 @@
 /wp-content/uploads/wpdm-cache/
 /wp-content/plugins/wpmudev-updates/keys/
 /zabbix/zabbix.php?action=dashboard.list
+/filter/jmol/js/jsmol/php/jsmol.php?call=saveFile&data=%3Cscript%3Ealert(document.domain)%3C/script%3E&mimetype=text/html

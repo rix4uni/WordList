@@ -3414,3 +3414,6 @@ pathCache.php
 /wp-content/themes/snsavaz/style.css
 /wp-content/plugins/wp-registration/readme.txt
 /wp-content/themes/grillandchow/style.css
+{{path}}
+/wp-content/themes/dwt-listing/style.css
+/wp-content/plugins/simple-payment/readme.txt

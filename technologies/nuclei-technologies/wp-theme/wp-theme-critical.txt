@@ -268,3 +268,4 @@
 /wp-content/themes/dsk/style.css
 /wp-content/themes/snsavaz/style.css
 /wp-content/themes/grillandchow/style.css
+/wp-content/themes/dwt-listing/style.css
