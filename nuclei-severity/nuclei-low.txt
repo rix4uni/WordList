@@ -8819,3 +8819,6 @@
 /wp-content/plugins/osomblocks/readme.txt
 /wp-content/plugins/ismobile/readme.txt
 /wp-content/plugins/fl3r-accessibility-suite/readme.txt
+/wp-content/plugins/beeteam368-extensions-pro/readme.txt
+/wp-content/plugins/beeteam368-extensions/readme.txt
+/wp-content/plugins/game-users-share-buttons/readme.txt

@@ -8395,3 +8395,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/user-roles-and-capabilities/readme.txt
 /wp-content/plugins/woocommerce-fortnox-integration/readme.txt
 /wp-content/plugins/zara-4/readme.txt
+/wp-content/plugins/project-notebooks/readme.txt
