@@ -4,3 +4,4 @@
 /hdstat.htm
 /sws/index.html
 /sws/index.sws
+/general/status.html

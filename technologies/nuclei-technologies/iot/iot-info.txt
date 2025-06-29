@@ -31,3 +31,4 @@
 /#
 /default.htm
 /wbm/index.php
+/general/status.html

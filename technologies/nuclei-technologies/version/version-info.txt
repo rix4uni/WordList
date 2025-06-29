@@ -4,3 +4,4 @@
 /rest/version
 /ucs/micollab/version.json
 /en-US/splunkd/__raw/services/server/info
+/get_rdf?comp=sdcust&locale_code=en-us

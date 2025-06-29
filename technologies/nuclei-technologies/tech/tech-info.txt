@@ -864,3 +864,4 @@
 /api_jsonrpc.php
 /Start?0
 /ui/
+/get_rdf?comp=sdcust&locale_code=en-us

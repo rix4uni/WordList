@@ -41,3 +41,4 @@
 /getFavicon?host=http://oast.fun/
 /query?db=db&q=SHOW%20DATABASES
 /getFavicon?host=oast.fun?
+/{{interface}}

@@ -5,3 +5,4 @@
 /login/login
 /login/pre_login_agreement
 /
+/get_rdf?comp=sdcust&locale_code=en-us

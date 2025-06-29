@@ -3417,3 +3417,4 @@ pathCache.php
 {{path}}
 /wp-content/themes/dwt-listing/style.css
 /wp-content/plugins/simple-payment/readme.txt
+/{{interface}}

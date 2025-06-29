@@ -875,3 +875,4 @@
 /api_jsonrpc.php
 /wd/en-us/wapplink.asp
 /en
+/general/status.html

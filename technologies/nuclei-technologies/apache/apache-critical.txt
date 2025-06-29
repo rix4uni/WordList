@@ -44,3 +44,4 @@
 /webtools/control/view/ProgramExport
 /webtools/control/main/ProgramExport
 /webtools/control/main%3B/ProgramExport
+/{{interface}}
