@@ -27,3 +27,4 @@
 /RST_status.htm%00currentsetting.htm
 /wizardset.htm
 /easy_setup.htm
+/password.htm

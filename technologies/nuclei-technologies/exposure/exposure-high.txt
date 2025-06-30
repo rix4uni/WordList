@@ -458,3 +458,4 @@ _vti_pvt/authors.pwd
 /ckeditor/.travis.yml
 /wizardset.htm
 /easy_setup.htm
+/password.htm
