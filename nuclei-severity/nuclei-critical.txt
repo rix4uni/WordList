@@ -3418,3 +3418,4 @@ pathCache.php
 /wp-content/themes/dwt-listing/style.css
 /wp-content/plugins/simple-payment/readme.txt
 /{{interface}}
+/wp-content/plugins/opal-estate-pro/readme.txt

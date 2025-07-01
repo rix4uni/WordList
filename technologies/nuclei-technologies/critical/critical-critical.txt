@@ -2061,3 +2061,4 @@
 /wp-content/plugins/cf7-zoho/readme.txt
 /wp-content/themes/dwt-listing/style.css
 /wp-content/plugins/simple-payment/readme.txt
+/wp-content/plugins/opal-estate-pro/readme.txt
