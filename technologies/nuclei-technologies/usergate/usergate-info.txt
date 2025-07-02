@@ -1,1 +1,2 @@
 /static/console-utm-webui/js/preinit.js
+/static/ext-theme-utm/resources/ext-theme-utm-all.css

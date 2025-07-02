@@ -9,3 +9,5 @@
 /assets/icons/favicon-16x16.png
 /logo_login.shtm?!App-Language=1
 /start.html
+/dana-na/auth/url_admin/welcome.cgi?type=inter
+/en/login-admin.html

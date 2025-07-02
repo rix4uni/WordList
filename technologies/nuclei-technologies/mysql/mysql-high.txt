@@ -1,1 +1,4 @@
 /CDGServer3/SQL/MYSQL/create_SmartSec_mysql.sql
+{{paths}}
+/prometheus
+/prometheus/prometheus

@@ -1,0 +1,3 @@
+/global-protect/portal/images/favicon.ico
+/global-protect/portal/css/login.css
+/global-protect/portal/images/bg.png

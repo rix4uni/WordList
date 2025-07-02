@@ -25,3 +25,4 @@
 {{paths}}
 /home/{{DN}}WORDPRESS.txt
 /home/{{DN}}-WORDPRESS.txt
+{{dir}}{{filename}}.{{extension}}

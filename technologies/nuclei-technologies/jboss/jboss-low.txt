@@ -1,3 +1,4 @@
 /web-console/ServerInfo.jsp
 /jbossws/services
 /juddi/
+/status?full=true

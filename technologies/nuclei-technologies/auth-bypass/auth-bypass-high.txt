@@ -33,3 +33,4 @@
 /position.js
 /API/V1/credentials
 /rest/rights/
+/api/v2.0/users/current

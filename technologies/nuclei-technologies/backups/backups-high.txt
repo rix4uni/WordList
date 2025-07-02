@@ -282,3 +282,5 @@
 /wp-config.wp-config.php.swo
 /wp-config.wp-config.php.swp
 /wp-config.zip
+/backup/
+/php/backup/

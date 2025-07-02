@@ -1,1 +1,2 @@
 /ucs/micollab/version.json
+/wd/en-us/wapplink.asp

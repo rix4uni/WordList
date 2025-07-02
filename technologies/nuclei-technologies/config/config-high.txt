@@ -525,3 +525,5 @@ _vti_pvt/authors.pwd
 /home/{{DN}}WORDPRESS.txt
 /home/{{DN}}-WORDPRESS.txt
 /ckeditor/.travis.yml
+/_profiler
+/_fragment

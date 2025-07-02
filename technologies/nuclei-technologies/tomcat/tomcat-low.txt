@@ -6,3 +6,4 @@
 /actuator/jolokia/list
 /jolokia/search/*:test=test
 /actuator/jolokia/search/*:test=test
+/status?full=true

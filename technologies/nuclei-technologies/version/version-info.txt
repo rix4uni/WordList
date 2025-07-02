@@ -5,3 +5,10 @@
 /ucs/micollab/version.json
 /en-US/splunkd/__raw/services/server/info
 /get_rdf?comp=sdcust&locale_code=en-us
+/System/FirmwareVersion
+/dana-na/auth/url_admin/welcome.cgi?type=inter
+/wd/en-us/wapplink.asp
+/en/login-admin.html
+/login/Public/LoginV2.aspx
+/api/v0/version
+/Remote/logon

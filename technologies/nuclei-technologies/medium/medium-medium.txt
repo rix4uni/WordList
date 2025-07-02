@@ -9380,3 +9380,4 @@
 /wp-content/plugins/esselinknu-settings/readme.txt
 /wp-content/plugins/sexy-contact-form/readme.txt
 /wp-content/plugins/homerunner-smartcheckout/readme.txt
+/wp-content/plugins/jh-404-logger/readme.txt

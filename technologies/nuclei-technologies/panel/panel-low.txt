@@ -64,3 +64,4 @@
 /~sicom/mgrng/LoginForm.php
 /config.html
 /sws/index.sws
+/hangfire

@@ -368,3 +368,5 @@
 /.vscode/launch.json
 /api/rawdata
 /api/http/routers
+/status?full=true
+/phpstan.neon

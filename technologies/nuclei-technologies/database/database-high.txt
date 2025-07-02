@@ -1,3 +1,4 @@
 /data/pbootcms.db
 /{{path}}
 {{paths}}
+{{dir}}{{filename}}.{{extension}}

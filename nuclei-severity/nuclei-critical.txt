@@ -3419,3 +3419,9 @@ pathCache.php
 /wp-content/plugins/simple-payment/readme.txt
 /{{interface}}
 /wp-content/plugins/opal-estate-pro/readme.txt
+/app/login?
+/josso/%5C../invoker/EJBInvokerServlet/
+/josso/%5C../invoker/JMXInvokerServlet/
+/invoker/JMXInvokerServlet/
+/invoker/EJBInvokerServlet/
+/goform/set_hidessid_cfg

@@ -310,3 +310,7 @@ login
 /upgrade_handle.php?cmd=writeuploaddir&uploaddir=%27;id;%27
 /locales/locale.json?locale=..%2F..%2Fconfig&namespace=app
 /{{interface}}
+/josso/%5C../invoker/EJBInvokerServlet/
+/josso/%5C../invoker/JMXInvokerServlet/
+/invoker/JMXInvokerServlet/
+/invoker/EJBInvokerServlet/

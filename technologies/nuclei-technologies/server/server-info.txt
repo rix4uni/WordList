@@ -1,2 +1,3 @@
 /login.zul
 /
+/Remote/logon

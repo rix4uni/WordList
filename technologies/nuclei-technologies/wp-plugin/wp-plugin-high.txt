@@ -5236,3 +5236,6 @@
 /wp-content/plugins/woocommerce-fortnox-integration/readme.txt
 /wp-content/plugins/zara-4/readme.txt
 /wp-content/plugins/project-notebooks/readme.txt
+/wp-content/plugins/zm-gallery/readme.txt
+/wp-content/plugins/responsive-vector-maps/readme.txt
+/wp-content/plugins/udraw/readme.txt

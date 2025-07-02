@@ -1,0 +1,2 @@
+/inc/supportLoad.asp?urlToLoad=http://example.com
+/vsaPres/Web20/core/LocalProxy.ashx?url=http://example.com

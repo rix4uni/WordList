@@ -11,3 +11,5 @@
 /ccm/system/panels/page/preview_as_user/preview?cID=
 /v2/auth/roles
 //content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
+/backup/
+/php/backup/

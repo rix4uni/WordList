@@ -2,3 +2,5 @@
 /classic/graph
 /config
 /api/v1/status/config
+/prometheus
+/prometheus/prometheus

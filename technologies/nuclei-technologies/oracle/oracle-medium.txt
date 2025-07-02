@@ -36,3 +36,4 @@
 /dms/AggreSpy
 /dms0/AggreSpy
 /dmsoc4j/AggreSpy
+/cs/idcplg?IdcService=GET_SEARCH_RESULTS&ResultTemplate=StandardResults&ResultCount=20&FromPageUrl=/cs/idcplg?IdcService=GET_DYNAMIC_PAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\

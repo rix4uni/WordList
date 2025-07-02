@@ -119,3 +119,4 @@
 /vbseo_sitemap/addons/vbseo_sm_vba_links.php
 /metrics
 /api/metrics
+/robots.txt

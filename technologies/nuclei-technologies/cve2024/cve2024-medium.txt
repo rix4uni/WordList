@@ -56,3 +56,4 @@
 /logout?return=http://oast.pro
 /webservices/rest.php?loginop=do_reset_pwd&auth_user=doesnotexist
 /wp-admin/?action=postpass
+/etc/mnt_info.csv

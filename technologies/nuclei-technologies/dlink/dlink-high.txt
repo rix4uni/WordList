@@ -7,3 +7,4 @@
 /category_view.php
 /folder_view.php
 /cgi-bin/webproc
+/cgibin/webproc

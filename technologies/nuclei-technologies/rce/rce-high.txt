@@ -190,3 +190,4 @@
 /ajax/form.php
 /bitrix/restore.php?lang=en
 /restore.php?lang=en
+{{payload}}

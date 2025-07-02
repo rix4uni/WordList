@@ -3,3 +3,4 @@
 /PRESENTATION/EPSONCONNECT
 /./../../../../../../../../../../etc/passwd
 /sessionlist.html
+/etc/mnt_info.csv

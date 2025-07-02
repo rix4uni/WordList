@@ -3,3 +3,5 @@
 /dms/AggreSpy
 /dms0/AggreSpy
 /dmsoc4j/AggreSpy
+/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
+/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000

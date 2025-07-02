@@ -1,0 +1,1 @@
+/storage/logs/laravel.log

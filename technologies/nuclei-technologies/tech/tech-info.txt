@@ -865,3 +865,8 @@
 /Start?0
 /ui/
 /get_rdf?comp=sdcust&locale_code=en-us
+/siamerror.html
+/ui
+/ui/{{stylesheet_filename}}
+/api/unauthorized/status
+/Authentication/SignIn

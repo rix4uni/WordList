@@ -28,3 +28,4 @@
 /login/login.jsp
 /app/login.php
 /login#login
+/Remote/logon

@@ -25,3 +25,4 @@
 /storage/logs/laravel.log
 {{paths}}
 /public/index.php
+:3000/public/index.php

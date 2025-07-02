@@ -25,3 +25,4 @@
 /actuator/bindings
 /actuator/integrationgraph
 /actuator/heap
+/stats

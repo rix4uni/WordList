@@ -1,1 +1,2 @@
 /index.php?c=weixin&m=sync&url=http://example.com
+/xda/help/en/default.htm?startat=//example.com

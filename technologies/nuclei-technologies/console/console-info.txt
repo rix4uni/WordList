@@ -4,3 +4,4 @@
 /FrontController
 /ui/login
 /admin_ui/mas/ent/login.html
+/

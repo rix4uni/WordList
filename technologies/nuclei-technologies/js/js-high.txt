@@ -1,3 +1,4 @@
 /assets/env.js
 /extranet/js_personal/jszip.min.js
 /js/jszip.js
+/*.js

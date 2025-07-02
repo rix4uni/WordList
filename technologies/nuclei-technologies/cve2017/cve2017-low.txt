@@ -4,3 +4,4 @@
 /index.php?c=weixin&m=sync&url=http://example.com
 /wp-json/wp/v2/users/
 /?rest_route=/wp/v2/users/
+/xda/help/en/default.htm?startat=//example.com

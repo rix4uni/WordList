@@ -6,3 +6,4 @@
 /config/secrets.yml
 /.secrets
 /api_jsonrpc.php
+/*.js

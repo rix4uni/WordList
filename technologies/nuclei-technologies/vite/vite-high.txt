@@ -1,1 +1,2 @@
 /public/index.php
+:3000/public/index.php

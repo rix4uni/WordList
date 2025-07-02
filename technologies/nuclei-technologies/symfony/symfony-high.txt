@@ -30,3 +30,5 @@
 /debug/_profiler/empty/search/results?limit=10
 /dev/_profiler/empty/search/results?limit=10
 /profiler/empty/search/results?limit=10
+/_profiler
+/_fragment
