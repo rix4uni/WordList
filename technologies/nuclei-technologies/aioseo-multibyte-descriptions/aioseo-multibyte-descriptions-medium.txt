@@ -1,0 +1,1 @@
+/wp-content/plugins/aioseo-multibyte-descriptions/readme.txt

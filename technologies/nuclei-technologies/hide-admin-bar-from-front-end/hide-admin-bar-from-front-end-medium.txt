@@ -1,0 +1,1 @@
+/wp-content/plugins/hide-admin-bar-from-front-end/readme.txt

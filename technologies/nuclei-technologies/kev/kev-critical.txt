@@ -107,3 +107,4 @@
 /upgrade_handle.php?cmd=writeuploaddir&uploaddir=%27;id;%27
 /{{interface}}
 /app/login?
+/api/v1/serverinfo

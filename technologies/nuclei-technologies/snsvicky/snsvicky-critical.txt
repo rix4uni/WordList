@@ -1,0 +1,1 @@
+/wp-content/themes/snsvicky/style.css

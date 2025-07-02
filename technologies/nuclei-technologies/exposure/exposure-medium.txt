@@ -532,3 +532,4 @@
 /pages/exec.php?exec_module=itop-hub-connector&exec_page=launch.php&target=inform_after_setup
 /engine-ui/0.0.0.0:4040/environment/
 /etc/mnt_info.csv
+/loginok.html

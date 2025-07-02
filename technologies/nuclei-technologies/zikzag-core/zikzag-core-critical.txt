@@ -1,0 +1,1 @@
+/wp-content/plugins/zikzag-core/readme.txt

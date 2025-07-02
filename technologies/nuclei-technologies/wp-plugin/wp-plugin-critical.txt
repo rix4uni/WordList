@@ -1824,3 +1824,13 @@
 /wp-content/plugins/cf7-zoho/readme.txt
 /wp-content/plugins/simple-payment/readme.txt
 /wp-content/plugins/opal-estate-pro/readme.txt
+/wp-content/plugins/gg-bought-together/readme.txt
+/wp-content/plugins/wp-optimize-by-xtraffic/readme.txt
+/wp-content/plugins/serped-net/readme.txt
+/wp-content/plugins/ctuser/readme.txt
+/wp-content/plugins/zikzag-core/readme.txt
+/wp-content/plugins/national-weather-service-alerts/readme.txt
+/wp-content/plugins/davenport/readme.txt
+/wp-content/plugins/ova-brw/readme.txt
+/wp-content/plugins/directiq-wp/readme.txt
+/wp-content/plugins/drag-and-drop-file-uploads-wc-pro/readme.txt

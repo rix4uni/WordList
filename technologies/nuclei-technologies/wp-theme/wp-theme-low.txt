@@ -444,3 +444,8 @@
 /wp-content/themes/car-repair-services/style.css
 /wp-content/themes/hello-fse-blog/style.css
 /wp-content/themes/spark-multipurpose/style.css
+/wp-content/themes/homevillas-real-estate/style.css
+/wp-content/themes/sala/style.css
+/wp-content/themes/nuss/style.css
+/wp-content/themes/redart/style.css
+/wp-content/themes/education/style.css

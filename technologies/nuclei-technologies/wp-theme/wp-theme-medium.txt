@@ -606,3 +606,8 @@
 /wp-content/themes/flatnews/style.css
 /wp-content/themes/soho-hotel/style.css
 /wp-content/themes/hydro/style.css
+/wp-content/themes/pressroom/style.css
+/wp-content/themes/magone/style.css
+/wp-content/themes/neom-blog/style.css
+/wp-content/themes/elessi-theme/style.css
+/wp-content/themes/lms/style.css

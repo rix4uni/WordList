@@ -1,0 +1,1 @@
+/wp-content/plugins/drag-and-drop-file-uploads-wc-pro/readme.txt

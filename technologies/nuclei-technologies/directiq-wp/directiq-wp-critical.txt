@@ -1,0 +1,1 @@
+/wp-content/plugins/directiq-wp/readme.txt

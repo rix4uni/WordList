@@ -5239,3 +5239,15 @@
 /wp-content/plugins/zm-gallery/readme.txt
 /wp-content/plugins/responsive-vector-maps/readme.txt
 /wp-content/plugins/udraw/readme.txt
+/wp-content/plugins/content-no-cache/readme.txt
+/wp-content/plugins/wpkit-elementor/readme.txt
+/wp-content/plugins/abandoned-contact-form-7/readme.txt
+/wp-content/plugins/trusty-whistleblowing-solution/readme.txt
+/wp-content/plugins/hurrytimer/readme.txt
+/wp-content/plugins/icount/readme.txt
+/wp-content/plugins/contact-form-7-hide-success-message/readme.txt
+/wp-content/plugins/cms-blocks/readme.txt
+/wp-content/plugins/cron-logger/readme.txt
+/wp-content/plugins/dashboard-widget-sidebar/readme.txt
+/wp-content/plugins/pre-publish-post-checklist/readme.txt
+/wp-content/plugins/wp-db-booster/readme.txt
