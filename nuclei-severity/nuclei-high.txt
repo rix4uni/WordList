@@ -8486,3 +8486,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/dashboard-widget-sidebar/readme.txt
 /wp-content/plugins/pre-publish-post-checklist/readme.txt
 /wp-content/plugins/wp-db-booster/readme.txt
+/wp-content/plugins/plationline/readme.txt

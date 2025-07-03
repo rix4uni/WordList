@@ -1,0 +1,1 @@
+/wp-content/plugins/wpshapere-lite/readme.txt

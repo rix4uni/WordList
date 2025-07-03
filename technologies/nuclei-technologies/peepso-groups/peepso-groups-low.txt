@@ -1,0 +1,1 @@
+/wp-content/plugins/peepso-groups/readme.txt

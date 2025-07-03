@@ -2136,3 +2136,4 @@
 /wp-content/themes/zita/style.css
 /wp-content/plugins/directiq-wp/readme.txt
 /wp-content/plugins/drag-and-drop-file-uploads-wc-pro/readme.txt
+/wp-content/themes/blogprise/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/weblizar-companion/readme.txt

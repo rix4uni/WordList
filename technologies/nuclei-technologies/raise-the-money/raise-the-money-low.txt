@@ -1,0 +1,1 @@
+/wp-content/plugins/raise-the-money/readme.txt

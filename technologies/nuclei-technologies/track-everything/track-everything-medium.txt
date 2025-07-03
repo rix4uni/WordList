@@ -1,0 +1,1 @@
+/wp-content/plugins/track-everything/readme.txt

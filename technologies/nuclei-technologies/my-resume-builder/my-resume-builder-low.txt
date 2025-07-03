@@ -1,0 +1,1 @@
+/wp-content/plugins/my-resume-builder/readme.txt

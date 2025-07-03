@@ -291,3 +291,4 @@
 /wp-content/themes/domnoo/style.css
 /wp-content/themes/citygov/style.css
 /wp-content/themes/zita/style.css
+/wp-content/themes/blogprise/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/beauty-contact-popup-form/readme.txt
