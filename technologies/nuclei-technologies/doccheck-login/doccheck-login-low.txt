@@ -1,0 +1,1 @@
+/wp-content/plugins/doccheck-login/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-push-notification-firebase/readme.txt

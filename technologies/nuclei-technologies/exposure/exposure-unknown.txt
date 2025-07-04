@@ -19,3 +19,4 @@
 /.s3cfg
 /sse
 /mcp/
+/dev-ui/

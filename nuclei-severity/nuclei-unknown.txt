@@ -54,3 +54,4 @@ index.php?username=admin%20authenticated.%0D%0AMeyo&password=n
 /.s3cfg
 /sse
 /mcp/
+/dev-ui/

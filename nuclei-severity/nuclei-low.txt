@@ -8870,3 +8870,9 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/plugins/my-resume-builder/readme.txt
 /wp-content/plugins/easy-image-gallery/readme.txt
 /wp-content/plugins/woo-3d-viewer/readme.txt
+/wp-content/plugins/processingjs-for-wp/readme.txt
+/wp-content/plugins/easy-pdf-restaurant-menu-upload/readme.txt
+/wp-content/plugins/woocommerce-paymaster-gateway-019/readme.txt
+/wp-content/plugins/wpquiz/readme.txt
+/wp-content/plugins/smart-docs/readme.txt
+/wp-content/plugins/doccheck-login/readme.txt

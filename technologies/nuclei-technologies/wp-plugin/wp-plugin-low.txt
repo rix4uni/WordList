@@ -7524,3 +7524,9 @@
 /wp-content/plugins/blossomthemes-instagram-feed/readme.txt
 /wp-content/plugins/easy-image-gallery/readme.txt
 /wp-content/plugins/woo-3d-viewer/readme.txt
+/wp-content/plugins/processingjs-for-wp/readme.txt
+/wp-content/plugins/easy-pdf-restaurant-menu-upload/readme.txt
+/wp-content/plugins/woocommerce-paymaster-gateway-019/readme.txt
+/wp-content/plugins/wpquiz/readme.txt
+/wp-content/plugins/smart-docs/readme.txt
+/wp-content/plugins/doccheck-login/readme.txt

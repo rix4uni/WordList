@@ -9424,3 +9424,7 @@
 /wp-content/plugins/rss-digest/readme.txt
 /wp-content/plugins/track-everything/readme.txt
 /wp-content/plugins/replace/readme.txt
+/wp-content/plugins/wp-push-notification-firebase/readme.txt
+/wp-content/plugins/rd-wapp/readme.txt
+/wp-content/plugins/ycontributors/readme.txt
+/wp-content/plugins/doccheck-login/readme.txt
