@@ -876,3 +876,4 @@
 /wd/en-us/wapplink.asp
 /en
 /general/status.html
+/elm-admin/

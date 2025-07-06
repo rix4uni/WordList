@@ -2352,3 +2352,4 @@
 /api/debug/pprof/
 /api/debug/pprof/goroutine?debug=1
 .map
+/elm-admin/

@@ -20,3 +20,4 @@
 /admin/
 /webui/
 /admin/login.jsp
+/elm-admin/
