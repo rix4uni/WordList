@@ -877,3 +877,4 @@
 /en
 /general/status.html
 /elm-admin/
+/api
