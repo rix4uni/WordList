@@ -449,3 +449,4 @@
 /wp-content/themes/nuss/style.css
 /wp-content/themes/redart/style.css
 /wp-content/themes/education/style.css
+/wp-content/themes/elessi-theme/style.css

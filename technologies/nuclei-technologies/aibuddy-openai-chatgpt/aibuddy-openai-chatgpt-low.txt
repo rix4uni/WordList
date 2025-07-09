@@ -1,0 +1,1 @@
+/wp-content/plugins/aibuddy-openai-chatgpt/readme.txt

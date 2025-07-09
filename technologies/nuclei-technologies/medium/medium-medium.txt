@@ -9428,3 +9428,6 @@
 /wp-content/plugins/rd-wapp/readme.txt
 /wp-content/plugins/ycontributors/readme.txt
 /wp-content/plugins/doccheck-login/readme.txt
+/wp-content/plugins/contact-form-7-recaptcha/readme.txt
+/wp-content/plugins/testimonials-showcase/readme.txt
+/wp-content/plugins/css3_vertical_web_pricing_tables/readme.txt

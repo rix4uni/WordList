@@ -96,3 +96,4 @@
 /html/common/forward_js.jsp?FORWARD_URL=http://evil.com
 /html/portlet/ext/common/page_preview_popup.jsp?hostname=evil.com
 :4040/jobs/?\
+/jobs/?\

@@ -292,3 +292,12 @@
 /wp-content/themes/citygov/style.css
 /wp-content/themes/zita/style.css
 /wp-content/themes/blogprise/style.css
+/wp-content/themes/logistics-hub/style.css
+/wp-content/themes/sala/style.css
+/wp-content/themes/alone/style.css
+/wp-content/themes/classiera/style.css
+/wp-content/themes/networker/style.css
+/wp-content/themes/amwerk/style.css
+/wp-content/themes/couponxxl/style.css
+/wp-content/themes/kossy/style.css
+/wp-content/themes/lms/style.css

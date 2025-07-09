@@ -5253,3 +5253,12 @@
 /wp-content/plugins/wp-db-booster/readme.txt
 /wp-content/plugins/plationline/readme.txt
 /wp-content/plugins/booking-x/readme.txt
+/wp-content/plugins/exact-links/readme.txt
+/wp-content/plugins/CF7-mailchimp-addon/readme.txt
+/wp-content/plugins/fluxtore/readme.txt
+/wp-content/plugins/wc-pickup-store/readme.txt
+/wp-content/plugins/mf-plus-wpml/readme.txt
+/wp-content/plugins/guest-support/readme.txt
+/wp-content/plugins/dzs-wootable/readme.txt
+/wp-content/plugins/lmsace-connect/readme.txt
+/wp-content/plugins/paytiko/readme.txt

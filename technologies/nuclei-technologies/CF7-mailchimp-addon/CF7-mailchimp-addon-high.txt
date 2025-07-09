@@ -1,0 +1,1 @@
+/wp-content/plugins/CF7-mailchimp-addon/readme.txt

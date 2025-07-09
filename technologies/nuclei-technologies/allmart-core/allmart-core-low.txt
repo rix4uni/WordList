@@ -1,0 +1,1 @@
+/wp-content/plugins/allmart-core/readme.txt

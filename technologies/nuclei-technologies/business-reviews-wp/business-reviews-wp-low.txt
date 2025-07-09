@@ -1,0 +1,1 @@
+/wp-content/plugins/business-reviews-wp/readme.txt

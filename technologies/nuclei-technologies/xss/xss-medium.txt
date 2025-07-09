@@ -973,3 +973,4 @@ request?info=<svg onload=alert(
 /cs/idcplg?IdcService=GET_SEARCH_RESULTS&ResultTemplate=StandardResults&ResultCount=20&FromPageUrl=/cs/idcplg?IdcService=GET_DYNAMIC_PAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\
 /uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
 /plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
+/jobs/?\
