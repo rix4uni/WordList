@@ -334,3 +334,4 @@
 /webapi/ping
 /wd/en-us/wapplink.asp
 /api
+/cgi-bin/MANGA/index.cgi

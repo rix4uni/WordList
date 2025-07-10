@@ -2353,3 +2353,4 @@
 /api/debug/pprof/goroutine?debug=1
 .map
 /elm-admin/
+/cgi-bin/MANGA/index.cgi

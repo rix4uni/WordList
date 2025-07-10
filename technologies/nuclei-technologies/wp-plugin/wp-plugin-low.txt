@@ -7557,3 +7557,5 @@
 /wp-content/plugins/couponxxl-cpt/readme.txt
 /wp-content/plugins/exact-links/readme.txt
 /wp-content/plugins/learning-management-system-pro/readme.txt
+/wp-content/plugins/wp-map-block/readme.txt
+/wp-content/plugins/sharable-password-protected-posts/readme.txt

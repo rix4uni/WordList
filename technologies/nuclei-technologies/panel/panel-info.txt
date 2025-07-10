@@ -878,3 +878,4 @@
 /general/status.html
 /elm-admin/
 /api
+/cgi-bin/MANGA/index.cgi

@@ -8,3 +8,4 @@
 /sess-bin/login_session.cgi
 /currentsetting.htm
 /login
+/cgi-bin/MANGA/index.cgi

@@ -8498,3 +8498,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/dzs-wootable/readme.txt
 /wp-content/plugins/lmsace-connect/readme.txt
 /wp-content/plugins/paytiko/readme.txt
+/wp-content/plugins/audio-editor-recorder/readme.txt
+/wp-content/plugins/wp-lightbox-2/readme.txt
