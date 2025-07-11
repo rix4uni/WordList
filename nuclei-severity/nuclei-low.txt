@@ -8906,3 +8906,6 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/plugins/learning-management-system-pro/readme.txt
 /wp-content/plugins/wp-map-block/readme.txt
 /wp-content/plugins/sharable-password-protected-posts/readme.txt
+/wp-content/plugins/age-restriction/readme.txt
+/wp-content/plugins/broken-link-notifier/readme.txt
+/wp-content/plugins/woo-smart-compare/readme.txt

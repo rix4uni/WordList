@@ -879,3 +879,4 @@
 /elm-admin/
 /api
 /cgi-bin/MANGA/index.cgi
+/ccmadmin/showHome.do

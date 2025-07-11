@@ -21,3 +21,4 @@
 /webui/
 /admin/login.jsp
 /elm-admin/
+/ccmadmin/showHome.do

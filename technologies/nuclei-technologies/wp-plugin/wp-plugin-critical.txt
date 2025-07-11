@@ -1848,3 +1848,5 @@
 /wp-content/plugins/learning-management-system-pro/readme.txt
 /wp-content/plugins/case-theme-user/readme.txt
 /wp-content/plugins/sureforms/readme.txt
+/wp-content/plugins/gb-forms-db/readme.txt
+/wp-content/plugins/age-restriction/readme.txt

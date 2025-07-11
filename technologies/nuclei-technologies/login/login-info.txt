@@ -335,3 +335,4 @@
 /wd/en-us/wapplink.asp
 /api
 /cgi-bin/MANGA/index.cgi
+/ccmadmin/showHome.do

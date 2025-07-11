@@ -479,3 +479,4 @@ _vti_pvt/authors.pwd
 /*.js
 /_profiler
 /_fragment
+/{{js_file_url}}

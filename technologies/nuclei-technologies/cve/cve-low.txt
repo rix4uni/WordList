@@ -8038,3 +8038,6 @@
 /wp-content/plugins/learning-management-system-pro/readme.txt
 /wp-content/plugins/wp-map-block/readme.txt
 /wp-content/plugins/sharable-password-protected-posts/readme.txt
+/wp-content/plugins/woo-smart-compare/readme.txt
+/wp-content/plugins/broken-link-notifier/readme.txt
+/wp-content/plugins/age-restriction/readme.txt
