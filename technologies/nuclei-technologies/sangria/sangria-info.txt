@@ -1,1 +1,4 @@
 /
+/graphql
+/api/graphql
+/query

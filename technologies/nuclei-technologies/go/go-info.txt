@@ -1,2 +1,5 @@
 /go/auth/login
 /
+/graphql
+/api/graphql
+/query

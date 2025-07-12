@@ -281,3 +281,6 @@
 /wp-mail.php
 /wp-links-opml.php
 ?feed=comments-rss2
+/graphql
+/api/graphql
+/query

@@ -12,3 +12,6 @@
 /composer
 /phpmyadmin/doc/html/index.html
 /doc/html/index.html
+/graphql
+/api/graphql
+/query

@@ -1,2 +1,5 @@
 /
 /error
+/graphql
+/api/graphql
+/query
