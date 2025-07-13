@@ -3,3 +3,4 @@
 /html/2word?url={{file}}
 /index.php?option=com_easyshop&task=ajax.loadImage&file=Li4vLi4vY29uZmlndXJhdGlvbi5waHA=
 /seeyon/thirdpartyController.do
+/cgi-bin/MANGA/index.cgi

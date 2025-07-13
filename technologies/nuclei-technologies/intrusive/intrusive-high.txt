@@ -54,3 +54,4 @@
 /lucee/lucees3ezf%3cimg%20src%3da%20onerror%3dalert(
 /login.php/
 /ueditor/net/controller.ashx?action=catchimage&encode=utf-8
+/cgi-bin/MANGA/index.cgi

@@ -8502,3 +8502,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/wp-lightbox-2/readme.txt
 /wp-content/plugins/broken-link-notifier/readme.txt
 /{{js_file_url}}
+/cgi-bin/MANGA/index.cgi

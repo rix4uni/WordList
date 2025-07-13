@@ -81,3 +81,4 @@
 /RP?wsrp-url=file:///etc/passwd
 /RP?wsrp-url=file:///c:\\windows\\win.ini
 /DownloadWindow.php?filename=../../../../../../../../etc/passwd
+/cgi-bin/MANGA/index.cgi
