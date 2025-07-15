@@ -8,3 +8,5 @@
 /?profile=</script><script>alert(document.domain)</script>
 /filter/jmol/js/jsmol/php/jsmol.php?call=saveFile&data=%3Cscript%3Ealert(document.domain)%3C/script%3E&mimetype=text/html
 /loginok.html
+/rest.html
+/geoserver/rest.html

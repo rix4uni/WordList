@@ -12541,3 +12541,7 @@ request?info=<svg onload=alert(
 /wp-content/plugins/product-quantity-for-woocommerce/readme.txt
 /wp-content/plugins/wp-file-download/readme.txt
 /wp-content/plugins/sharable-password-protected-posts/readme.txt
+/EZ-NET60/AlertMessages.aspx?Usertext=<img%20src%3Dx%20onerror%3Dalert(document.domain)>
+/rest.html
+/geoserver/rest.html
+/wp-content/plugins/restrict-file-access/readme.txt

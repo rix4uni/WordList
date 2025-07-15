@@ -1850,3 +1850,4 @@
 /wp-content/plugins/sureforms/readme.txt
 /wp-content/plugins/gb-forms-db/readme.txt
 /wp-content/plugins/age-restriction/readme.txt
+/wp-content/plugins/ht-contactform/readme.txt

@@ -9135,3 +9135,4 @@
 /wp-content/plugins/civi-framework/readme.txt
 /wp-content/plugins/wp-file-download/readme.txt
 /wp-content/plugins/sharable-password-protected-posts/readme.txt
+/wp-content/plugins/restrict-file-access/readme.txt

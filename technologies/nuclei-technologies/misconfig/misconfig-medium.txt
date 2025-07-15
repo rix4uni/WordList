@@ -138,3 +138,5 @@
 /v1/health/service/consul
 /api/v1/messages
 /dashboard
+/rest.html
+/geoserver/rest.html

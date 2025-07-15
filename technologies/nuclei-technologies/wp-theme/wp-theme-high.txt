@@ -461,3 +461,4 @@
 /wp-content/themes/car-repair-services/style.css
 /wp-content/themes/hello-fse-blog/style.css
 /wp-content/themes/constructor/style.css
+/wp-content/themes/alone/style.css
