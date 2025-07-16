@@ -8504,3 +8504,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /{{js_file_url}}
 /cgi-bin/MANGA/index.cgi
 /wp-content/themes/alone/style.css
+/wp-content/plugins/counter-visitor-for-woocommerce/readme.txt

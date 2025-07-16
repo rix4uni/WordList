@@ -6038,3 +6038,4 @@
 /wp-content/plugins/audio-editor-recorder/readme.txt
 /wp-content/plugins/broken-link-notifier/readme.txt
 /wp-content/themes/alone/style.css
+/wp-content/plugins/counter-visitor-for-woocommerce/readme.txt

@@ -7562,3 +7562,6 @@
 /wp-content/plugins/woo-smart-compare/readme.txt
 /wp-content/plugins/broken-link-notifier/readme.txt
 /wp-content/plugins/age-restriction/readme.txt
+/wp-content/plugins/brandfolder/readme.txt
+/wp-content/plugins/affiliate-reviews/readme.txt
+/wp-content/plugins/counter-visitor-for-woocommerce/readme.txt
