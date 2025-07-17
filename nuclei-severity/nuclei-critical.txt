@@ -3486,3 +3486,8 @@ pathCache.php
 /wp-content/plugins/age-restriction/readme.txt
 /wp-content/plugins/gb-forms-db/readme.txt
 /wp-content/plugins/ht-contactform/readme.txt
+/wp-content/plugins/bears-backup/readme.txt
+/wp-content/plugins/exact-links/readme.txt
+/wp-content/plugins/lbg-cleverbakery/readme.txt
+/wp-content/plugins/profitori/readme.txt
+/wp-content/plugins/madara-core/readme.txt

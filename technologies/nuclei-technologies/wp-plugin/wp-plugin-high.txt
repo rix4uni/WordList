@@ -5266,3 +5266,11 @@
 /wp-content/plugins/audio-editor-recorder/readme.txt
 /wp-content/plugins/broken-link-notifier/readme.txt
 /wp-content/plugins/counter-visitor-for-woocommerce/readme.txt
+/wp-content/plugins/responsive-contact-form/readme.txt
+/wp-content/plugins/product-xml-feeds-for-woocommerce/readme.txt
+/wp-content/plugins/loginwp-pro/readme.txt
+/wp-content/plugins/profiler-what-slowing-down/readme.txt
+/wp-content/plugins/wish-list-for-woocommerce/readme.txt
+/wp-content/plugins/internal-linking-of-related-contents/readme.txt
+/wp-content/plugins/ultimate-push-notifications/readme.txt
+/wp-content/plugins/pw-woocommerce-on-sale/readme.txt

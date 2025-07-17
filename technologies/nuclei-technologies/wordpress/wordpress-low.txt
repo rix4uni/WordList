@@ -8044,3 +8044,7 @@
 /wp-content/plugins/brandfolder/readme.txt
 /wp-content/plugins/affiliate-reviews/readme.txt
 /wp-content/plugins/counter-visitor-for-woocommerce/readme.txt
+/wp-content/plugins/pro-watermark/readme.txt
+/wp-content/plugins/pw-woocommerce-on-sale/readme.txt
+/wp-content/themes/fwdevp/style.css
+/wp-content/plugins/madara-core/readme.txt

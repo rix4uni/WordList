@@ -8912,3 +8912,7 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/plugins/affiliate-reviews/readme.txt
 /wp-content/plugins/brandfolder/readme.txt
 /wp-content/plugins/counter-visitor-for-woocommerce/readme.txt
+/wp-content/plugins/pro-watermark/readme.txt
+/wp-content/plugins/pw-woocommerce-on-sale/readme.txt
+/wp-content/themes/fwdevp/style.css
+/wp-content/plugins/madara-core/readme.txt

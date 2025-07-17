@@ -9807,3 +9807,9 @@
 /wp-content/plugins/wp-file-download/readme.txt
 /wp-content/plugins/sharable-password-protected-posts/readme.txt
 /wp-content/plugins/restrict-file-access/readme.txt
+/wp-content/themes/fwdevp/style.css
+/wp-content/themes/listingeasy/style.css
+/wp-content/themes/electrician/style.css
+/wp-content/themes/invico/style.css
+/wp-content/plugins/css3_web_pricing_tables_grids/readme.txt
+/wp-content/plugins/cf7-editor-button/readme.txt
