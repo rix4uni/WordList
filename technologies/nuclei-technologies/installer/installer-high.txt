@@ -8,3 +8,6 @@
 /setup
 /wizardset.htm
 /easy_setup.htm
+/api/system/options/core.email
+/install
+/install/index.html

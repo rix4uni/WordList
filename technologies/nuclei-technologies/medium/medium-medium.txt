@@ -9443,3 +9443,11 @@
 /wp-content/themes/invico/style.css
 /wp-content/plugins/css3_web_pricing_tables_grids/readme.txt
 /wp-content/plugins/cf7-editor-button/readme.txt
+/wp-content/themes/ofiz/style.css
+/wp-content/plugins/wp-auto-spinner/readme.txt
+/wp-content/plugins/manuall-dofollow/readme.txt
+/wp-content/plugins/media-folder/readme.txt
+/wp-content/plugins/tennis-court-bookings/readme.txt
+/wp-content/plugins/listly/readme.txt
+/wp-content/plugins/zuppler-online-ordering/readme.txt
+/wp-content/plugins/copymatic/readme.txt

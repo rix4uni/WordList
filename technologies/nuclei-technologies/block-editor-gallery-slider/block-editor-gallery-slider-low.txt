@@ -1,0 +1,1 @@
+/wp-content/plugins/block-editor-gallery-slider/readme.txt

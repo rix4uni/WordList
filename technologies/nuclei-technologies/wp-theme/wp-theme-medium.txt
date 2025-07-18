@@ -615,3 +615,4 @@
 /wp-content/themes/listingeasy/style.css
 /wp-content/themes/electrician/style.css
 /wp-content/themes/invico/style.css
+/wp-content/themes/ofiz/style.css

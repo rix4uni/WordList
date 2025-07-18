@@ -1,0 +1,1 @@
+/wp-content/plugins/map-my-locations/readme.txt

@@ -487,3 +487,5 @@
 /web/index.html?start=wizard#!/wizard/wizardstart.html
 /?app=config
 /Portal0000.htm
+/api/system/options/core.email
+/install/index.html

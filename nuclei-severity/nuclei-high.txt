@@ -8515,3 +8515,6 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/themes/sala/style.css
 /wp-content/themes/nuss/style.css
 /wp-content/plugins/pw-woocommerce-on-sale/readme.txt
+/apply/index.php?url=http://{{interactsh-url}}
+/api/system/options/core.email
+/install/index.html

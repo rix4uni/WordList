@@ -480,3 +480,5 @@ _vti_pvt/authors.pwd
 /_profiler
 /_fragment
 /{{js_file_url}}
+/api/system/options/core.email
+/install/index.html

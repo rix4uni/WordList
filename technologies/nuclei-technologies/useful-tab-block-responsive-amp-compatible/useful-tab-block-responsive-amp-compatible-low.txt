@@ -1,0 +1,1 @@
+/wp-content/plugins/useful-tab-block-responsive-amp-compatible/readme.txt

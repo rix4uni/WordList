@@ -1,0 +1,1 @@
+/wp-content/plugins/testimonial-post-type/readme.txt
