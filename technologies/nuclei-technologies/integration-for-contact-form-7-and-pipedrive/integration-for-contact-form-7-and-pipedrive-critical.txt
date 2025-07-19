@@ -1,0 +1,1 @@
+/wp-content/plugins/integration-for-contact-form-7-and-pipedrive/readme.txt

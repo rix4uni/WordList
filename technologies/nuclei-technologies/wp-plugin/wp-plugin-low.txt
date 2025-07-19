@@ -7583,3 +7583,7 @@
 /wp-content/plugins/map-my-locations/readme.txt
 /wp-content/plugins/attachment-manager/readme.txt
 /wp-content/plugins/listly/readme.txt
+/wp-content/plugins/epaybg-payments/readme.txt
+/wp-content/plugins/live-stream-badger/readme.txt
+/wp-content/plugins/temporarily-hidden-content/readme.txt
+/wp-content/plugins/martinus-partnersky-system/readme.txt

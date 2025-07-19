@@ -3497,3 +3497,5 @@ pathCache.php
 /wp-content/plugins/site-chat-on-telegram/readme.txt
 /wp-content/plugins/woocommerce-refund-and-exchange/readme.txt
 /wp-content/plugins/loginpress-pro/readme.txt
+/wp-content/plugins/integration-for-contact-form-7-and-pipedrive/readme.txt
+/wp-content/plugins/integration-for-contact-form-7-and-google-sheets/readme.txt

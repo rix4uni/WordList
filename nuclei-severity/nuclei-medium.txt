@@ -12570,3 +12570,5 @@ request?info=<svg onload=alert(
 /wp-content/plugins/tennis-court-bookings/readme.txt
 /wp-content/plugins/listly/readme.txt
 /wp-content/plugins/zuppler-online-ordering/readme.txt
+/wp-content/plugins/avishi-wp-paypal-payment-button/readme.txt
+/wp-content/plugins/mrkv-vchasno-kasa/readme.txt

@@ -5274,3 +5274,4 @@
 /wp-content/plugins/internal-linking-of-related-contents/readme.txt
 /wp-content/plugins/ultimate-push-notifications/readme.txt
 /wp-content/plugins/pw-woocommerce-on-sale/readme.txt
+/wp-content/plugins/mrkv-vchasno-kasa/readme.txt

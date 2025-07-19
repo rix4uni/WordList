@@ -6049,3 +6049,4 @@
 /wp-content/themes/sala/style.css
 /wp-content/themes/nuss/style.css
 /wp-content/plugins/pw-woocommerce-on-sale/readme.txt
+/wp-content/plugins/mrkv-vchasno-kasa/readme.txt

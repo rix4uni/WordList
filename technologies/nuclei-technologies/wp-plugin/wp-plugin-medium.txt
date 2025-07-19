@@ -9145,3 +9145,5 @@
 /wp-content/plugins/listly/readme.txt
 /wp-content/plugins/zuppler-online-ordering/readme.txt
 /wp-content/plugins/copymatic/readme.txt
+/wp-content/plugins/mrkv-vchasno-kasa/readme.txt
+/wp-content/plugins/avishi-wp-paypal-payment-button/readme.txt
