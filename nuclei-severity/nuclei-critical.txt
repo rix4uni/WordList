@@ -3499,3 +3499,4 @@ pathCache.php
 /wp-content/plugins/loginpress-pro/readme.txt
 /wp-content/plugins/integration-for-contact-form-7-and-pipedrive/readme.txt
 /wp-content/plugins/integration-for-contact-form-7-and-google-sheets/readme.txt
+/_layouts/15/spinstall0.aspx

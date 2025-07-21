@@ -12572,3 +12572,10 @@ request?info=<svg onload=alert(
 /wp-content/plugins/zuppler-online-ordering/readme.txt
 /wp-content/plugins/avishi-wp-paypal-payment-button/readme.txt
 /wp-content/plugins/mrkv-vchasno-kasa/readme.txt
+?{{parameters}}=x&{{parameters}}=Polluted_1
+?{{parameters}}[]=x&{{parameters}}=Polluted_2
+?{{parameters}}=x&{{parameters}}[]=Polluted_2
+?{{parameters}}[]=x&{{parameters}}[]=Polluted_2
+?{{parameters}}=x, Polluted_1&{{parameters}}=Polluted_2
+?{{parameters}}=x%26{{parameters}}=Polluted_2
+?{{parameters}}[1]=x&{{parameters}}[1]=Polluted_2
