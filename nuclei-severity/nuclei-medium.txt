@@ -12579,3 +12579,19 @@ request?info=<svg onload=alert(
 ?{{parameters}}=x, Polluted_1&{{parameters}}=Polluted_2
 ?{{parameters}}=x%26{{parameters}}=Polluted_2
 ?{{parameters}}[1]=x&{{parameters}}[1]=Polluted_2
+/wp-content/plugins/alike/readme.txt
+/wp-content/plugins/azon-addon-js-composer/readme.txt
+/wp-content/plugins/birth-chart-compatibility/readme.txt
+/dompdf.php
+/wp-content/plugins/
+/wp-content/plugins/dzs-wootable/readme.txt
+/wp-content/plugins/dzs-restaurantmenu/readme.txt
+/wp-content/plugins/import-cdn-remote-images/readme.txt
+/wp-content/plugins/lbg-audio5-html5-shoutcast-sticky/readme.txt
+/wp-content/plugins/lbg-audio4-html5-shoutcast/readme.txt
+/wp-content/plugins/easy-code-manager/readme.txt
+/wp-content/plugins/theme-builder-for-elementor/readme.txt
+/wp-content/plugins/wp-post-hide/readme.txt
+/wp-content/plugins/sureforms/readme.txt
+/wp-content/plugins/like-share-my-site/readme.txt
+/wp-content/plugins/latest-post-accordian-slider/readme.txt

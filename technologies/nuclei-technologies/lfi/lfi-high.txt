@@ -855,3 +855,4 @@
 \..\..\..\..\..\..\WINDOWS\win.ini
 \\\../../../../../windows\\\system32\\\drivers\\\etc\\\hosts
 /SearchSvc/CVSearchService.svc
+/

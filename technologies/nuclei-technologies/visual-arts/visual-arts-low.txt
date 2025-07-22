@@ -1,0 +1,1 @@
+/wp-content/themes/visual-arts/style.css

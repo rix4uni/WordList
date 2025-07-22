@@ -149,3 +149,4 @@
 :2083/cpanelwebcall/<img%20src=x%20onerror=
 :2086/cpanelwebcall/<img%20src=x%20onerror=
 /bitrix/tools/imagepg.php?img=//metascan.ru/poc.svg
+/

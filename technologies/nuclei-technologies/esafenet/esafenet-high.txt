@@ -1,3 +1,4 @@
 /CDGServer3/SystemConfig
 /CDGServer3/ClientAjax
 /CDGServer3/SQL/MYSQL/create_SmartSec_mysql.sql
+/CDGServer3/

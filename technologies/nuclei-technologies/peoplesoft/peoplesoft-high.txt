@@ -20,3 +20,4 @@
 /psp/ihprd/?&cmd=login&languageCd=ENG
 /RP?wsrp-url=file:///etc/passwd
 /RP?wsrp-url=file:///c:\\windows\\win.ini
+/

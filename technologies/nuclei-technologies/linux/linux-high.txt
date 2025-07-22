@@ -108,3 +108,4 @@
 /index.php?page=../../etc/passwd
 /index.php?page=....//....//etc/passwd
 /../../../../../../../../../etc/passwd
+/

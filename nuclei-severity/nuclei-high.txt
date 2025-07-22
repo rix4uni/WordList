@@ -8519,3 +8519,9 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /api/system/options/core.email
 /install/index.html
 /wp-content/plugins/mrkv-vchasno-kasa/readme.txt
+/wp-content/plugins/antibots/readme.txt
+/wp-content/plugins/bsecure/readme.txt
+/CDGServer3/
+/wp-content/themes/hestia/style.css
+/wp-content/plugins/ql-cost-calculator/readme.txt
+/wp-content/plugins/real-estate-right-now/readme.txt

@@ -454,3 +454,4 @@
 /wp-content/themes/hillter/style.css
 /wp-content/themes/yogi/style.css
 /wp-content/themes/noisa/style.css
+/wp-content/themes/visual-arts/style.css

@@ -7587,3 +7587,12 @@
 /wp-content/plugins/live-stream-badger/readme.txt
 /wp-content/plugins/temporarily-hidden-content/readme.txt
 /wp-content/plugins/martinus-partnersky-system/readme.txt
+/wp-content/plugins/mediabay/readme.txt
+/wp-content/plugins/real-estate-right-now/readme.txt
+/wp-content/plugins/image-wall/readme.txt
+/wp-content/plugins/wa-chatbox-manager/readme.txt
+/wp-content/plugins/ql-cost-calculator/readme.txt
+/wp-content/plugins/fastcgi-cache-purge-and-preload-nginx/readme.txt
+/wp-content/plugins/pixel-gallery/readme.txt
+/wp-content/plugins/orion-login-with-sms/readme.txt
+/wp-content/plugins/birth-chart-compatibility/readme.txt

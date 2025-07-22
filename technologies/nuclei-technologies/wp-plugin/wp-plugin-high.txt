@@ -5275,3 +5275,7 @@
 /wp-content/plugins/ultimate-push-notifications/readme.txt
 /wp-content/plugins/pw-woocommerce-on-sale/readme.txt
 /wp-content/plugins/mrkv-vchasno-kasa/readme.txt
+/wp-content/plugins/antibots/readme.txt
+/wp-content/plugins/bsecure/readme.txt
+/wp-content/plugins/ql-cost-calculator/readme.txt
+/wp-content/plugins/real-estate-right-now/readme.txt

@@ -47,3 +47,5 @@
 /app/login
 /invoke/pub.file/getFile
 /console/auth/login
+/CDGServer3/
+/

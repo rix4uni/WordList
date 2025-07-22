@@ -1,0 +1,1 @@
+/wp-content/plugins/latest-post-accordian-slider/readme.txt
