@@ -1,0 +1,1 @@
+/wp-content/plugins/lbg_universal_video_player_addon_visual_composer/readme.txt

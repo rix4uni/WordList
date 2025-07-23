@@ -1,0 +1,1 @@
+/wp-content/plugins/paymaya-checkout-for-woocommerce/readme.txt

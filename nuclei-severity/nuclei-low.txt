@@ -8948,3 +8948,14 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/plugins/fastcgi-cache-purge-and-preload-nginx/readme.txt
 /wp-content/plugins/pixel-gallery/readme.txt
 /wp-content/plugins/orion-login-with-sms/readme.txt
+/wp-content/plugins/commercial-real-estate-valuation-calculator/readme.txt
+/wp-content/plugins/smtp-sendinblue/readme.txt
+/wp-content/plugins/smtp-sendgrid/readme.txt
+/wp-content/themes/gymbase_classes/style.css
+/wp-content/plugins/smtp-amazon-ses/readme.txt
+/wp-content/plugins/lightbox-block/readme.txt
+/wp-content/plugins/realty-portal-agent/readme.txt
+/wp-content/plugins/fleetwire-fleet-management/readme.txt
+/wp-content/plugins/social-streams/readme.txt
+/wp-content/plugins/omnishop/readme.txt
+/wp-content/plugins/paymaya-checkout-for-woocommerce/readme.txt

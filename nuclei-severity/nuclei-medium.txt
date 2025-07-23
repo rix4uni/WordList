@@ -12595,3 +12595,13 @@ request?info=<svg onload=alert(
 /wp-content/plugins/sureforms/readme.txt
 /wp-content/plugins/like-share-my-site/readme.txt
 /wp-content/plugins/latest-post-accordian-slider/readme.txt
+/wp-content/plugins/lbg_vp_youtube_vimeo_addon_visual_composer/readme.txt
+/wp-content/plugins/lbg-audio8-html5-radio-ads/readme.txt
+/wp-content/plugins/lbg-universal-video-player-addon-visual-composer/readme.txt
+/wp-content/plugins/qc-simple-link-directory/readme.txt
+/wp-content/plugins/paymaya-checkout-for-woocommerce/readme.txt
+/wp-content/plugins/lbg_universal_video_player_addon_visual_composer/readme.txt
+/wp-content/plugins/video_player_youtube_vimeo/readme.txt
+/wp-content/plugins/lbg_radio_player_addon_visual_composer/readme.txt
+/wp-content/plugins/yanewsflash/readme.txt
+/wp-content/plugins/omnishop/readme.txt

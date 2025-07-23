@@ -314,3 +314,7 @@ login
 /josso/%5C../invoker/JMXInvokerServlet/
 /invoker/JMXInvokerServlet/
 /invoker/EJBInvokerServlet/
+/json
+/api/json
+/parse
+/deserialize

@@ -8080,3 +8080,14 @@
 /wp-content/plugins/pixel-gallery/readme.txt
 /wp-content/plugins/orion-login-with-sms/readme.txt
 /wp-content/plugins/birth-chart-compatibility/readme.txt
+/wp-content/plugins/smtp-sendinblue/readme.txt
+/wp-content/plugins/smtp-sendgrid/readme.txt
+/wp-content/themes/gymbase_classes/style.css
+/wp-content/plugins/smtp-amazon-ses/readme.txt
+/wp-content/plugins/lightbox-block/readme.txt
+/wp-content/plugins/commercial-real-estate-valuation-calculator/readme.txt
+/wp-content/plugins/realty-portal-agent/readme.txt
+/wp-content/plugins/fleetwire-fleet-management/readme.txt
+/wp-content/plugins/social-streams/readme.txt
+/wp-content/plugins/omnishop/readme.txt
+/wp-content/plugins/paymaya-checkout-for-woocommerce/readme.txt

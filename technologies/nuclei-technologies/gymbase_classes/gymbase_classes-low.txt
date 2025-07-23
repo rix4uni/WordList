@@ -1,0 +1,1 @@
+/wp-content/themes/gymbase_classes/style.css

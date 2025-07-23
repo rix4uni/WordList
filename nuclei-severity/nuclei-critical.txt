@@ -3500,3 +3500,12 @@ pathCache.php
 /wp-content/plugins/integration-for-contact-form-7-and-pipedrive/readme.txt
 /wp-content/plugins/integration-for-contact-form-7-and-google-sheets/readme.txt
 /_layouts/15/spinstall0.aspx
+/wp-content/plugins/business-reviews-wp/readme.txt
+/wp-content/plugins/cloud-sso-single-sign-on/readme.txt
+/wp-content/plugins/idonate-pro/readme.txt
+/wp-content/plugins/ghostkit/readme.txt
+/wp-content/plugins/custom-api-for-wp/readme.txt
+/json
+/api/json
+/parse
+/deserialize
