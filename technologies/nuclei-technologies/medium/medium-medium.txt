@@ -9477,3 +9477,6 @@
 /wp-content/plugins/lbg_radio_player_addon_visual_composer/readme.txt
 /wp-content/plugins/yanewsflash/readme.txt
 /wp-content/plugins/omnishop/readme.txt
+/wp-content/plugins/hiweb-export-posts/readme.txt
+/wp-content/plugins/affiliate-plus/readme.txt
+/wp-content/plugins/ithoughts-advanced-code-editor/readme.txt

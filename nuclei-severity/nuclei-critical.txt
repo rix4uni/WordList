@@ -3509,3 +3509,4 @@ pathCache.php
 /api/json
 /parse
 /deserialize
+/wp-content/plugins/ebook-store/readme.txt

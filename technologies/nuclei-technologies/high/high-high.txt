@@ -5623,3 +5623,4 @@
 /wp-content/plugins/bsecure/readme.txt
 /wp-content/plugins/ql-cost-calculator/readme.txt
 /wp-content/plugins/real-estate-right-now/readme.txt
+/wp-content/plugins/onlyoffice/readme.txt

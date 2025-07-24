@@ -1,0 +1,1 @@
+/wp-content/plugins/voltax-video-player/readme.txt

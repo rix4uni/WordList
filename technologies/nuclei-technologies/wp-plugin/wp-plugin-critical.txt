@@ -1869,3 +1869,4 @@
 /wp-content/plugins/business-reviews-wp/readme.txt
 /wp-content/plugins/ghostkit/readme.txt
 /wp-content/plugins/custom-api-for-wp/readme.txt
+/wp-content/plugins/ebook-store/readme.txt

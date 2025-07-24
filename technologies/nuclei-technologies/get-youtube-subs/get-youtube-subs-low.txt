@@ -1,0 +1,1 @@
+/wp-content/plugins/get-youtube-subs/readme.txt

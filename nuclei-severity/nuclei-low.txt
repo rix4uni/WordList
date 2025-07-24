@@ -8959,3 +8959,14 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/plugins/social-streams/readme.txt
 /wp-content/plugins/omnishop/readme.txt
 /wp-content/plugins/paymaya-checkout-for-woocommerce/readme.txt
+/wp-content/plugins/supreme-addons-for-beaver-builder-lite/readme.txt
+/wp-content/plugins/muse-ai/readme.txt
+/wp-content/plugins/wp-applink/readme.txt
+/wp-content/plugins/wp-get-the-table/readme.txt
+/wp-content/plugins/voltax-video-player/readme.txt
+/wp-content/plugins/integration-cds/readme.txt
+/wp-content/plugins/wp-wallcreeper/readme.txt
+/wp-content/plugins/station-pro/readme.txt
+/wp-content/plugins/get-youtube-subs/readme.txt
+/wp-content/plugins/security-ninja/readme.txt
+/wp-content/plugins/mine-cloudvod/readme.txt

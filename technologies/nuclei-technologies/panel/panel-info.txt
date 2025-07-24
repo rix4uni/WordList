@@ -880,3 +880,4 @@
 /api
 /cgi-bin/MANGA/index.cgi
 /ccmadmin/showHome.do
+/webpanel/panel/login.php

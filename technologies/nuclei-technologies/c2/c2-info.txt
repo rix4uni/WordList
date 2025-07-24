@@ -2,3 +2,5 @@
 /login
 /new/login
 /admin/console/index.html
+/sign-in
+/webpanel/panel/login.php

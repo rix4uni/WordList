@@ -5,3 +5,4 @@
 /out?link={{RedirectURL}}
 /go?to={{RedirectURL}}
 {{params}}
+/%2f%5c%2foast.pro%2f..

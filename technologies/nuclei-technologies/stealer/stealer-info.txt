@@ -1,1 +1,4 @@
 /admin/console/index.html
+/sign-in
+/login
+/webpanel/panel/login.php

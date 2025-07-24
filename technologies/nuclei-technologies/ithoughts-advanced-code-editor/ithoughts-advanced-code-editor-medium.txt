@@ -1,0 +1,1 @@
+/wp-content/plugins/ithoughts-advanced-code-editor/readme.txt
