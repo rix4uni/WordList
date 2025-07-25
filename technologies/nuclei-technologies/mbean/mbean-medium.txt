@@ -15,3 +15,4 @@
 /jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVendor
 /jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVersion
 {{jolokia_paths}}{{mbean_paths}}
+{{paths}}

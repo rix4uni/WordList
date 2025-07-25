@@ -17,3 +17,4 @@
 /gateway/routes
 /actuator/gateway/routes
 {{jolokia_paths}}{{mbean_paths}}
+{{paths}}

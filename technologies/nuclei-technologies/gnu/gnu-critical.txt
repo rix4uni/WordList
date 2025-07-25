@@ -1,1 +1,8 @@
 {{paths}}
+/cgi-bin/status
+/cgi-bin/stats
+/cgi-bin/test
+/cgi-bin/status/status.cgi
+/test.cgi
+/debug.cgi
+/cgi-bin/test-cgi

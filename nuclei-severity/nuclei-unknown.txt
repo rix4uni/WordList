@@ -55,3 +55,5 @@ index.php?username=admin%20authenticated.%0D%0AMeyo&password=n
 /sse
 /mcp/
 /dev-ui/
+/kfm/index.php
+/ui/index.html

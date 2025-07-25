@@ -1,3 +1,5 @@
 /css/eonweb.css
 /doAs?=`{{url_encode(
 /royal_event/btndates_report.php#?=
+/College-Management-System/admin/asign-single-student-subjects.php
+/?doAs=`{{url_encode(

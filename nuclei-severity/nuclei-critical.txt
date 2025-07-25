@@ -3510,3 +3510,8 @@ pathCache.php
 /parse
 /deserialize
 /wp-content/plugins/ebook-store/readme.txt
+/wp-content/plugins/yet-another-related-posts-plugin/includes/yarpp_pro_set_display_types.php?ypsdt=false&types[]=post&types[]=page
+/{{path}}
+/pbxcore/api/files/uploadFile
+/admin-cabinet/§extracted_path§?{{wait_for(5)}}
+/pages/doenterpagevariables.action?queryString=foo%5cu0027%2b%5cu0027bar

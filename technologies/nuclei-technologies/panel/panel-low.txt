@@ -65,3 +65,4 @@
 /config.html
 /sws/index.sws
 /hangfire
+/#/pipelines

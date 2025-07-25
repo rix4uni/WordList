@@ -53,3 +53,4 @@
 /api/geojson?url=file:///c://windows/win.ini
 /js/log.js
 /scheduler/ui/js/ffffffffbca41eb4/UIUtilJavaScriptJS?/..
+/passwordrecovered.cgi?id=nuclei

@@ -2184,3 +2184,4 @@
 /wp-content/plugins/ghostkit/readme.txt
 /wp-content/plugins/custom-api-for-wp/readme.txt
 /wp-content/plugins/ebook-store/readme.txt
+/wp-content/plugins/yet-another-related-posts-plugin/includes/yarpp_pro_set_display_types.php?ypsdt=false&types[]=post&types[]=page

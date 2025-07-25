@@ -1,2 +1,4 @@
 /setup/start
 /struts/webconsole.html?debug=console
+/kfm/index.php
+/ui/index.html

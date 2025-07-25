@@ -6,3 +6,16 @@
 /package.json
 /package-lock.json
 /pnpm-lock.yaml
+/ui/package.json
+/.config/yarn/global/package.json
+/api/javascript/package.json
+/api/package.json
+/package.json.localhost.bak
+/package.json.bak
+/package.json.swp
+/core/assets/vendor/jquery.ui/package.json
+/core/assets/vendor/normalize-css/package.json
+/core/misc/ui/package.json
+/core/package.json
+/library/package.json
+/js/lazyload/package.json

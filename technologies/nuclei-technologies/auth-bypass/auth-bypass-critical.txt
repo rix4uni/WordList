@@ -46,3 +46,5 @@
 /images/..%2f%2f/wizard.htm
 {{endpoints}}
 /?wcal_action=checkout_link&user_email=test&validate={{replace_regex(code_response,
+/wp-content/plugins/yet-another-related-posts-plugin/includes/yarpp_pro_set_display_types.php?ypsdt=false&types[]=post&types[]=page
+/{{path}}

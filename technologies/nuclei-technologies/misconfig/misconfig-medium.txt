@@ -140,3 +140,4 @@
 /dashboard
 /rest.html
 /geoserver/rest.html
+/admin/

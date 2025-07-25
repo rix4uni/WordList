@@ -13,3 +13,4 @@
 //content/dam/formsanddocuments.form.validator.html/home/....children.tidy...infinity..json
 /backup/
 /php/backup/
+/_debugbar/open

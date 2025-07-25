@@ -93,3 +93,15 @@
 {{dir}}{{filename}}.{{extension}}
 /config/settings.old.php
 {{paths}}
+config/settings.old.php
+/www.sql
+/wp-config.php_orig
+/wp-config.php.BAK
+/wp-config.php.OLD
+/wp-config.php.SAVE
+/wp-config.backup
+/config.php.zip
+/config.php.tar.gz
+/config.php.new
+/common/config.php.new
+/wp-config.php.bk

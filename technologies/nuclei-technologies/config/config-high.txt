@@ -527,3 +527,4 @@ _vti_pvt/authors.pwd
 /ckeditor/.travis.yml
 /_profiler
 /_fragment
+/travis.yml

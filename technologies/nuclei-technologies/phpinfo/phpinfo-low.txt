@@ -26,3 +26,6 @@
 /tool/view/phpinfo.view.php
 /app_dev.php/_profiler/phpinfo
 {{paths}}
+/php2.php
+/p.php
+/pi.php

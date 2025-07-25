@@ -266,3 +266,15 @@
 /config/fastcgi.conf
 /cpanel.config
 /engine-ui/0.0.0.0:4040/environment/
+/deployment.ini
+/deploy.ini
+/production.ini
+/prod.ini
+/deployment.production.ini
+/deployment.prod.ini
+/deploy.production.ini
+/deploy.prod.ini
+/server.ini
+/ftp.ini
+/ftps.ini
+/sftp.ini

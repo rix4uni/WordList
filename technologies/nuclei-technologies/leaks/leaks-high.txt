@@ -1,2 +1,4 @@
 /settings.py
 /servudaemon.ini
+/.travis.yml
+/travis.yml

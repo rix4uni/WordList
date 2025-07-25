@@ -35,3 +35,5 @@
 /dashboard/search.php?id=1
 /admin/search.php?id=1
 2
+/.travis.yml
+/travis.yml

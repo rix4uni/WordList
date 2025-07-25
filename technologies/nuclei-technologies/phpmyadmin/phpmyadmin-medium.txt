@@ -19,3 +19,4 @@
 /setup/index.php
 {{paths}}
 /admin/pma/setup/index.php
+/admin/

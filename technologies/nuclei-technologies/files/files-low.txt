@@ -83,3 +83,7 @@
 /nuxt.config.js
 /vercel.json
 /.vscode/launch.json
+/upload.sh
+/rsync.sh
+/sync.sh
+/test.sh

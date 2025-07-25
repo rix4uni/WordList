@@ -1,1 +1,2 @@
 /admin/login/
+/admin/login/?next=/admin/

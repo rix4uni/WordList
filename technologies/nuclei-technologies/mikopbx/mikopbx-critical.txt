@@ -1,0 +1,2 @@
+/pbxcore/api/files/uploadFile
+/admin-cabinet/§extracted_path§?{{wait_for(5)}}

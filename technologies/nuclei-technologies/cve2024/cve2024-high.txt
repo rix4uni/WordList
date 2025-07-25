@@ -66,3 +66,4 @@
 /clients/MyCRL
 /RST_status.htm%00currentsetting.htm
 /apply/index.php?url=http://{{interactsh-url}}
+/%2F%2F%2F%2F%2F%2F%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd

@@ -90,3 +90,5 @@
 /wp-content/plugins/contact-form-7/readme.txt
 /installer/index.php
 /roundcube/installer/index.php
+/pbxcore/api/files/uploadFile
+/admin-cabinet/§extracted_path§?{{wait_for(5)}}

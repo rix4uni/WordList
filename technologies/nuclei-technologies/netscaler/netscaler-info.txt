@@ -1,3 +1,4 @@
 /logon/LogonPoint/tmindex.html
 /vpn/index.html
 /admin_ui/mas/ent/login.html
+/logon/LogonPoint/receiver/images/common/icon_vpn.ico

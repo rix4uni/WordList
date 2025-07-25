@@ -5,3 +5,4 @@
 /logon/LogonPoint/tmindex.html
 /Authentication/Login
 /zdm/login_xdm_uc.jsp
+/logon/LogonPoint/receiver/images/common/icon_vpn.ico

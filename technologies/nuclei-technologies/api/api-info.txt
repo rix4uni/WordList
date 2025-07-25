@@ -207,3 +207,4 @@
 /swagger-ui/swagger-ui/swagger-ui-bundle.js
 /api/database
 /rest/version
+/webjars/swagger-ui/swagger-ui-bundle.js

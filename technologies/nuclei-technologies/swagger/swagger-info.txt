@@ -129,3 +129,4 @@
 /swagger-ui/swagger-ui-standalone-preset.js
 /swagger-ui/swagger-ui/swagger-ui-bundle.js
 /
+/webjars/swagger-ui/swagger-ui-bundle.js

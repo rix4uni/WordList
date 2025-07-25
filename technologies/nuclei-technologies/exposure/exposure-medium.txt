@@ -533,3 +533,17 @@
 /engine-ui/0.0.0.0:4040/environment/
 /etc/mnt_info.csv
 /loginok.html
+/deployment.ini
+/deploy.ini
+/production.ini
+/prod.ini
+/deployment.production.ini
+/deployment.prod.ini
+/deploy.production.ini
+/deploy.prod.ini
+/server.ini
+/ftp.ini
+/ftps.ini
+/sftp.ini
+config/settings.old.php
+/www.sql

@@ -482,3 +482,4 @@ _vti_pvt/authors.pwd
 /{{js_file_url}}
 /api/system/options/core.email
 /install/index.html
+/namespaces

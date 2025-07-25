@@ -23,3 +23,4 @@
 /jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVendor
 /jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVersion
 /examples/jsp/snp/snoop.jsp;<script>alert(document.domain)</script>test.jsp
+{{paths}}

@@ -20,3 +20,4 @@
 /eid-management
 /eid-management-new
 /bulk-profile-operation
+/namespaces

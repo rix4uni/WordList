@@ -22,3 +22,7 @@
 /local2prod.sh
 /prod2local.sh
 {{paths}}
+/upload.sh
+/rsync.sh
+/sync.sh
+/test.sh

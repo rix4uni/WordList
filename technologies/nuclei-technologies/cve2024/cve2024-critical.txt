@@ -73,3 +73,4 @@
 /images/..%2f%2f/wizard.htm
 /tmp/temp.db%3f.1.1.1.1a-1.css
 /mnt/ram/var/log/httpd.log%3f.1.1.1.1a-1.css
+/wp-content/plugins/yet-another-related-posts-plugin/includes/yarpp_pro_set_display_types.php?ypsdt=false&types[]=post&types[]=page

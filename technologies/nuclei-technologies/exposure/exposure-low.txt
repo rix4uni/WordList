@@ -370,3 +370,11 @@
 /api/http/routers
 /status?full=true
 /phpstan.neon
+/php2.php
+/p.php
+/pi.php
+/upload.sh
+/rsync.sh
+/sync.sh
+/test.sh
+/#/pipelines
