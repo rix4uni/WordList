@@ -12635,3 +12635,4 @@ config/settings.old.php
 /ftp.ini
 /ftps.ini
 /sftp.ini
+/wp-content/plugins/timber-library/readme.txt

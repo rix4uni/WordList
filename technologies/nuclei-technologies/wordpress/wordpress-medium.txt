@@ -9862,3 +9862,4 @@
 /config.php.new
 /common/config.php.new
 /wp-config.php.bk
+/wp-content/plugins/timber-library/readme.txt
