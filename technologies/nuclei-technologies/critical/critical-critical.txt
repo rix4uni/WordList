@@ -2142,3 +2142,5 @@
 /wp-content/plugins/ghostkit/readme.txt
 /wp-content/plugins/custom-api-for-wp/readme.txt
 /wp-content/plugins/ebook-store/readme.txt
+/wp-content/plugins/geodirectory/readme.txt
+/wp-content/plugins/melapress-login-security/readme.txt

@@ -2185,3 +2185,5 @@
 /wp-content/plugins/custom-api-for-wp/readme.txt
 /wp-content/plugins/ebook-store/readme.txt
 /wp-content/plugins/yet-another-related-posts-plugin/includes/yarpp_pro_set_display_types.php?ypsdt=false&types[]=post&types[]=page
+/wp-content/plugins/geodirectory/readme.txt
+/wp-content/plugins/melapress-login-security/readme.txt

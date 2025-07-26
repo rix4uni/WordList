@@ -7618,3 +7618,5 @@
 /wp-content/plugins/security-ninja/readme.txt
 /wp-content/plugins/mine-cloudvod/readme.txt
 /wp-content/themes/weekender/friend.php?id=aHR0cHM6Ly9pbnRlcmFjdC5zaA==
+/wp-content/plugins/wonderplugin-slider/readme.txt
+/wp-content/plugins/wonderplugin-slider-lite/readme.txt
