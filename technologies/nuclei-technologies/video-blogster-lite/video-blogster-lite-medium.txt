@@ -1,0 +1,1 @@
+/wp-content/plugins/video-blogster-lite/readme.txt

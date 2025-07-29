@@ -3517,3 +3517,7 @@ pathCache.php
 /pages/doenterpagevariables.action?queryString=foo%5cu0027%2b%5cu0027bar
 /wp-content/plugins/geodirectory/readme.txt
 /wp-content/plugins/melapress-login-security/readme.txt
+/wp-content/themes/caliris-wp/style.css
+/wp-content/themes/cena/style.css
+/wp-content/themes/vidmov/style.css
+/wp-content/plugins/seopress-for-mainwp/readme.txt

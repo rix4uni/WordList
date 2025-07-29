@@ -2187,3 +2187,7 @@
 /wp-content/plugins/yet-another-related-posts-plugin/includes/yarpp_pro_set_display_types.php?ypsdt=false&types[]=post&types[]=page
 /wp-content/plugins/geodirectory/readme.txt
 /wp-content/plugins/melapress-login-security/readme.txt
+/wp-content/themes/vidmov/style.css
+/wp-content/themes/caliris-wp/style.css
+/wp-content/themes/cena/style.css
+/wp-content/plugins/seopress-for-mainwp/readme.txt

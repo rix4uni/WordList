@@ -1,0 +1,1 @@
+/wp-content/plugins/video-player-youtube-vimeo/readme.txt

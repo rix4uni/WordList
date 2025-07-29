@@ -9177,3 +9177,8 @@
 /wp-content/plugins/affiliate-plus/readme.txt
 /wp-content/plugins/ithoughts-advanced-code-editor/readme.txt
 /wp-content/plugins/timber-library/readme.txt
+/wp-content/plugins/video-blogster-lite/readme.txt
+/wp-content/plugins/video-player-youtube-vimeo/readme.txt
+/wp-content/plugins/simple-business-directory-pro/readme.txt
+/wp-content/plugins/captionpix/readme.txt
+/wp-content/plugins/lbg-audio2-html5/readme.txt

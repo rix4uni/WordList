@@ -2144,3 +2144,7 @@
 /wp-content/plugins/ebook-store/readme.txt
 /wp-content/plugins/geodirectory/readme.txt
 /wp-content/plugins/melapress-login-security/readme.txt
+/wp-content/themes/vidmov/style.css
+/wp-content/themes/caliris-wp/style.css
+/wp-content/themes/cena/style.css
+/wp-content/plugins/seopress-for-mainwp/readme.txt

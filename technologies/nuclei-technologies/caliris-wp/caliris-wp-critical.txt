@@ -1,0 +1,1 @@
+/wp-content/themes/caliris-wp/style.css

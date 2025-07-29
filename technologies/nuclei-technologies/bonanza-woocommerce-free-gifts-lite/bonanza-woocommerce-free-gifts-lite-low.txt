@@ -1,0 +1,1 @@
+/wp-content/plugins/bonanza-woocommerce-free-gifts-lite/readme.txt

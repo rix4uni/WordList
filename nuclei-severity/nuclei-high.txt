@@ -8534,3 +8534,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /%2F%2F%2F%2F%2F%2F%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /namespaces
 /wp-content/themes/minimog/style.css
+/wp-content/plugins/tablesome-premium/readme.txt
