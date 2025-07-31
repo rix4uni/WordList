@@ -8113,3 +8113,4 @@
 /wp-content/plugins/fan-page/readme.txt
 /wp-content/plugins/youram-youtube-embed/readme.txt
 /wp-content/plugins/bonanza-woocommerce-free-gifts-lite/readme.txt
+/wp-content/plugins/ninjascanner/readme.txt

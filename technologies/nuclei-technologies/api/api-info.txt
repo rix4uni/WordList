@@ -208,3 +208,4 @@
 /api/database
 /rest/version
 /webjars/swagger-ui/swagger-ui-bundle.js
+/scalar

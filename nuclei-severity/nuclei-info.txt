@@ -2373,3 +2373,5 @@
 /js/lazyload/package.json
 /cgi-bin/main.cgi
 /pics/favicon.ico
+/scalar
+/.well-known/dnt-policy.txt

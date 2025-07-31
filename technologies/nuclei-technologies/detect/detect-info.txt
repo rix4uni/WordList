@@ -313,3 +313,5 @@
 /Remote/logon
 /logon/LogonPoint/receiver/images/common/icon_vpn.ico
 /cgi-bin/main.cgi
+/.well-known/dnt-policy.txt
+/scalar

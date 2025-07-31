@@ -547,3 +547,5 @@
 /sftp.ini
 config/settings.old.php
 /www.sql
+/api/v1/getbaseconfig
+/api/v1/userlist?pageindex=0&pagesize=10
