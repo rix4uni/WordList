@@ -2148,3 +2148,4 @@
 /wp-content/themes/caliris-wp/style.css
 /wp-content/themes/cena/style.css
 /wp-content/plugins/seopress-for-mainwp/readme.txt
+/wp-content/plugins/aone-sms/readme.txt

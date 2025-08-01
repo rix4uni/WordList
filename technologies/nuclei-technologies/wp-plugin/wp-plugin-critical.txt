@@ -1874,3 +1874,4 @@
 /wp-content/plugins/geodirectory/readme.txt
 /wp-content/plugins/melapress-login-security/readme.txt
 /wp-content/plugins/seopress-for-mainwp/readme.txt
+/wp-content/plugins/aone-sms/readme.txt
