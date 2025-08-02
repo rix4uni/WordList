@@ -8991,3 +8991,10 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/plugins/youram-youtube-embed/readme.txt
 /wp-content/plugins/ninjascanner/readme.txt
 /wp-content/plugins/aone-sms/readme.txt
+/wp-content/plugins/360-sphere-images/readme.txt
+/wp-content/plugins/bitfire/readme.txt
+/wp-content/plugins/custom-word-cloud/readme.txt
+/wp-content/plugins/seo-metrics-helper/readme.txt
+/wp-content/plugins/ocean-social-sharing/readme.txt
+/wp-content/plugins/magic-edge-lite-image-background-remover/readme.txt
+/wp-content/plugins/mmm-unity-loader/readme.txt

@@ -2149,3 +2149,4 @@
 /wp-content/themes/cena/style.css
 /wp-content/plugins/seopress-for-mainwp/readme.txt
 /wp-content/plugins/aone-sms/readme.txt
+/wp-content/plugins/bravepopup-pro/readme.txt

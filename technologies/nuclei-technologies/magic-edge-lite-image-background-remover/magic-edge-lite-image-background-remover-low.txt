@@ -1,0 +1,1 @@
+/wp-content/plugins/magic-edge-lite-image-background-remover/readme.txt

@@ -9868,3 +9868,6 @@
 /wp-content/plugins/simple-business-directory-pro/readme.txt
 /wp-content/plugins/captionpix/readme.txt
 /wp-content/plugins/lbg-audio2-html5/readme.txt
+/wp-content/plugins/bitfire/readme.txt
+/wp-content/plugins/my-reservation-system/readme.txt
+/wp-content/plugins/bee-quick-gallery/readme.txt
