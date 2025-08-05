@@ -1,0 +1,1 @@
+/wp-content/plugins/thebooking/readme.txt

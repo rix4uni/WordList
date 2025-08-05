@@ -9185,3 +9185,5 @@
 /wp-content/plugins/bitfire/readme.txt
 /wp-content/plugins/my-reservation-system/readme.txt
 /wp-content/plugins/bee-quick-gallery/readme.txt
+/wp-content/plugins/product-configurator-for-woocommerce/readme.txt
+/wp-content/plugins/button-block/readme.txt

@@ -2150,3 +2150,14 @@
 /wp-content/plugins/seopress-for-mainwp/readme.txt
 /wp-content/plugins/aone-sms/readme.txt
 /wp-content/plugins/bravepopup-pro/readme.txt
+/wp-content/themes/news-magazine-x/style.css
+/wp-content/plugins/beeteam368-extensions/readme.txt
+/wp-content/plugins/woozone-contextual/readme.txt
+/wp-content/plugins/rt18-extensions/readme.txt
+/wp-content/themes/cookandmeal/style.css
+/wp-content/plugins/buddypress-xprofile-image-field/readme.txt
+/wp-content/plugins/advanced-gutenberg/readme.txt
+/wp-content/plugins/wp-rest-cache/readme.txt
+/wp-content/themes/medicenter/style.css
+/wp-content/themes/exertio/style.css
+/wp-content/plugins/graphina-elementor-charts-and-graphs/readme.txt

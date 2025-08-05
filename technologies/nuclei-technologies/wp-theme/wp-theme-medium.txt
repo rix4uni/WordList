@@ -616,3 +616,4 @@
 /wp-content/themes/electrician/style.css
 /wp-content/themes/invico/style.css
 /wp-content/themes/ofiz/style.css
+/wp-content/themes/druco/style.css

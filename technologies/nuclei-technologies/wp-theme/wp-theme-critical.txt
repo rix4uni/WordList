@@ -306,3 +306,7 @@
 /wp-content/themes/vidmov/style.css
 /wp-content/themes/caliris-wp/style.css
 /wp-content/themes/cena/style.css
+/wp-content/themes/news-magazine-x/style.css
+/wp-content/themes/cookandmeal/style.css
+/wp-content/themes/medicenter/style.css
+/wp-content/themes/exertio/style.css

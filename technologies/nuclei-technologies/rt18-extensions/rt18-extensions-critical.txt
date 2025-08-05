@@ -1,0 +1,1 @@
+/wp-content/plugins/rt18-extensions/readme.txt

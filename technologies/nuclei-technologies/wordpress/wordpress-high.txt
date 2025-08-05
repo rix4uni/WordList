@@ -6058,3 +6058,6 @@
 /wp-content/plugins/onlyoffice/readme.txt
 /wp-content/themes/minimog/style.css
 /wp-content/plugins/tablesome-premium/readme.txt
+/wp-content/plugins/thebooking/readme.txt
+/wp-content/plugins/use-your-drive/readme.txt
+/wp-content/plugins/advanced-google-universal-analytics/readme.txt
