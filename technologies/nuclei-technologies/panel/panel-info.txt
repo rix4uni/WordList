@@ -882,3 +882,4 @@
 /ccmadmin/showHome.do
 /webpanel/panel/login.php
 /scalar
+/locales/en/translation.json

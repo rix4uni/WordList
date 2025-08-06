@@ -8538,3 +8538,6 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/advanced-google-universal-analytics/readme.txt
 /wp-content/plugins/thebooking/readme.txt
 /wp-content/plugins/use-your-drive/readme.txt
+/auth/failure?provider={{redirect_payload}}
+/auth/failure?provider={{basic_xss}}
+/wp-content/themes/zakra/style.css

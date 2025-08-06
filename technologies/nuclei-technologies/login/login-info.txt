@@ -337,3 +337,4 @@
 /cgi-bin/MANGA/index.cgi
 /ccmadmin/showHome.do
 /webpanel/panel/login.php
+/locales/en/translation.json

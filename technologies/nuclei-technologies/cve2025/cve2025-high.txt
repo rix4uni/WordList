@@ -9,3 +9,5 @@
 /index.php?mod=textviewer&src=file:///etc/passwd
 /filter/jmol/js/jsmol/php/jsmol.php?call=getRawDataFromDatabase&query=file:///etc/passwd
 /{{js_file_url}}
+/auth/failure?provider={{redirect_payload}}
+/auth/failure?provider={{basic_xss}}

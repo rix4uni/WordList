@@ -5629,3 +5629,4 @@
 /wp-content/plugins/thebooking/readme.txt
 /wp-content/plugins/use-your-drive/readme.txt
 /wp-content/plugins/advanced-google-universal-analytics/readme.txt
+/wp-content/themes/zakra/style.css

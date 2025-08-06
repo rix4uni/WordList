@@ -315,3 +315,4 @@
 /cgi-bin/main.cgi
 /.well-known/dnt-policy.txt
 /scalar
+/locales/en/translation.json

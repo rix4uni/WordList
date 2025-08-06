@@ -3534,3 +3534,7 @@ pathCache.php
 /wp-content/themes/medicenter/style.css
 /wp-content/themes/exertio/style.css
 /wp-content/plugins/graphina-elementor-charts-and-graphs/readme.txt
+/wp-content/plugins/cleverreach-wp/readme.txt
+/wp-content/plugins/reveal-listing/readme.txt
+/wp-content/plugins/request-a-quote/readme.txt
+/setup

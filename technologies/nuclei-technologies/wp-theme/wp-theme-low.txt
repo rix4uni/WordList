@@ -458,3 +458,4 @@
 /wp-content/themes/gymbase_classes/style.css
 /wp-content/themes/kallyas/style.css
 /wp-content/themes/appzend/style.css
+/wp-content/themes/zakra/style.css
