@@ -1,0 +1,17 @@
+/api/auth/login
+/oauth/token
+/auth/jwt
+/api/token
+/login
+/api/user/profile
+/dashboard
+/api/protected
+/admin/login
+/auth/login
+/signin
+/profile
+/account
+/admin
+/admin/users
+/config
+/settings

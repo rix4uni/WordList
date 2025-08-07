@@ -1,4 +1,3 @@
-/images/json
 /var/run/docker.sock
 /.dockerenv
 /secrets/kubernetes.io/serviceaccount/token

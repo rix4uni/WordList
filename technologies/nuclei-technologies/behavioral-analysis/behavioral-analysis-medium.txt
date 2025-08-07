@@ -1,0 +1,11 @@
+/login
+/admin/login
+/auth/login
+/signin
+/dashboard
+/profile
+/account
+/admin
+/admin/users
+/config
+/settings

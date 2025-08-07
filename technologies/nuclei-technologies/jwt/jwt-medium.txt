@@ -1,0 +1,8 @@
+/api/auth/login
+/oauth/token
+/auth/jwt
+/api/token
+/login
+/api/user/profile
+/dashboard
+/api/protected

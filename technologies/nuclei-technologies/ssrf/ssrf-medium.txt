@@ -41,3 +41,7 @@
 /Items/RemoteSearch/Image?ImageUrl=http://interact.sh/&ProviderName=TheMovieDB
 /console/chartServer?output=image&data=https://{{interactsh-url}}/
 /v1/avatars/favicon?url=http://{{interactsh-url}}
+/graphql
+/api/graphql
+/v1/graphql
+/query

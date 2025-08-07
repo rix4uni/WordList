@@ -1,1 +1,12 @@
 /dtexploit-endpoint
+/var/run/docker.sock
+/.dockerenv
+/secrets/kubernetes.io/serviceaccount/token
+/run/secrets/kubernetes.io/serviceaccount/token
+/var/run/secrets/kubernetes.io/serviceaccount/token
+/proc/self/cgroup
+/proc/1/cgroup
+/v1.24/containers/json
+/v1.40/containers/json
+/v1.41/containers/json
+/containers/create

@@ -115,3 +115,11 @@
 /wp/wp-login.php?action=register
 /sites/all/libraries/elfinder/connectors/php/connector.php
 {{path}}
+/api
+/api/v1
+/apis
+/api/v1/namespaces
+/api/v1/namespaces/default/pods
+/api/v1/namespaces/default/secrets
+/api/v1/nodes
+/version

@@ -1,0 +1,12 @@
+/api/auth/login
+/oauth/token
+/auth/jwt
+/api/token
+/login
+/api/user/profile
+/dashboard
+/api/protected
+/graphql
+/api/graphql
+/graphql/v1
+/query

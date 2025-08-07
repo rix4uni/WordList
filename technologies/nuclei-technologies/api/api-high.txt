@@ -7,3 +7,7 @@
 /.secrets
 /api_jsonrpc.php
 /*.js
+/graphql
+/api/graphql
+/v1/graphql
+/query

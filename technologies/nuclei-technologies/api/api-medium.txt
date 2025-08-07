@@ -37,3 +37,10 @@
 /developer/
 /explorer
 /explorer/
+/api
+{{current_endpoint}}
+{{current_endpoint}}?id=1&test=value
+{{current_endpoint}}?limit=9999&offset=-1
+{{current_endpoint}}?format=json&debug=1
+/graphql/v1
+/query

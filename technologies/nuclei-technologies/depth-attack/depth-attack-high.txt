@@ -1,4 +1,3 @@
-/api/snapshots
 /graphql
 /api/graphql
 /v1/graphql

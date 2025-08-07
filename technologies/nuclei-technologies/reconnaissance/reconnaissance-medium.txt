@@ -7,14 +7,3 @@
 {{current_endpoint}}?id=1&test=value
 {{current_endpoint}}?limit=9999&offset=-1
 {{current_endpoint}}?format=json&debug=1
-/login
-/admin/login
-/auth/login
-/signin
-/dashboard
-/profile
-/account
-/admin
-/admin/users
-/config
-/settings
