@@ -12668,3 +12668,9 @@ config/settings.old.php
 /admin
 /admin/users
 /config
+/api/
+/secure/
+/.well-known/alt-svc
+/.well-known/quic-alt-svc
+/api/version
+/protocol/negotiate

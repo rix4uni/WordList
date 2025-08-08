@@ -1,0 +1,15 @@
+/
+/login
+/auth
+/session
+/api/user
+/auth/login
+/api/auth
+/session/create
+/api/profile
+/user/data
+/session/info
+/api/partition/test
+/cookies/validate
+/session/migrate
+/api/session/transfer

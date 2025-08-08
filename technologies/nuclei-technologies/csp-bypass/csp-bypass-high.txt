@@ -1,0 +1,16 @@
+/
+/app
+/secure
+/admin
+/api/content
+/render
+/html
+/template
+/api/policy
+/trusted/config
+/api/csp/update
+/security/headers
+/api/dom/test
+/xss/filter
+/api/template/render
+/compile

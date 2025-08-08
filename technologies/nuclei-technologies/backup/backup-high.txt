@@ -26,3 +26,16 @@
 /home/{{DN}}WORDPRESS.txt
 /home/{{DN}}-WORDPRESS.txt
 {{dir}}{{filename}}.{{extension}}
+/config.php.bak
+/config.php.old
+/config.php.backup
+/config.php~
+/config.inc.php.bak
+/config.inc.php.old
+/config.inc.php.backup
+/configuration.php.bak
+/database.php.bak
+/db.php.bak
+/settings.php.bak
+/.config.php.swp
+/.config.inc.php.swp

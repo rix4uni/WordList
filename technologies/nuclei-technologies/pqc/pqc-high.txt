@@ -1,0 +1,3 @@
+/.well-known/pqc-policy
+/api/tls/config
+/security/tls

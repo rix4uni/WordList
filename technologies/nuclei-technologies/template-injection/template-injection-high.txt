@@ -1,1 +1,3 @@
 ?{{param}}={{ssti_payload}}
+/search
+/contact

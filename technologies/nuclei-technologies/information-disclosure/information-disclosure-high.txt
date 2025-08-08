@@ -26,3 +26,12 @@
 /actuator/integrationgraph
 /actuator/heap
 /stats
+/
+/api/
+/compress
+/content
+/data
+/api/data
+/upload
+/api/compare
+/compress/analyze

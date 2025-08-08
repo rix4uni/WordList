@@ -1,0 +1,8 @@
+/
+/api/
+/secure/
+/admin/
+/.well-known/alt-svc
+/.well-known/quic-alt-svc
+/api/version
+/protocol/negotiate

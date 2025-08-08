@@ -1,0 +1,9 @@
+/
+/api/
+/compress
+/content
+/data
+/api/data
+/upload
+/api/compare
+/compress/analyze
