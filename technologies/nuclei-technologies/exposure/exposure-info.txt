@@ -375,3 +375,4 @@
 /library/package.json
 /js/lazyload/package.json
 /webjars/swagger-ui/swagger-ui-bundle.js
+/venv/

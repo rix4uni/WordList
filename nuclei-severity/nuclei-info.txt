@@ -2376,3 +2376,4 @@
 /scalar
 /.well-known/dnt-policy.txt
 /locales/en/translation.json
+/venv/

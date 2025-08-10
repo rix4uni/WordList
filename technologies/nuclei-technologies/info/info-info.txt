@@ -50,3 +50,4 @@
 /docs
 /wp-login.php?action=register
 /emergency.php
+/venv/
