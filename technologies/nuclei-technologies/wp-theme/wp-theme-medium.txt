@@ -617,3 +617,4 @@
 /wp-content/themes/invico/style.css
 /wp-content/themes/ofiz/style.css
 /wp-content/themes/druco/style.css
+/wp-content/themes/upstore/style.css

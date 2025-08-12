@@ -310,3 +310,5 @@
 /wp-content/themes/cookandmeal/style.css
 /wp-content/themes/medicenter/style.css
 /wp-content/themes/exertio/style.css
+/wp-content/themes/urna/style.css
+/wp-content/themes/xinterio/style.css

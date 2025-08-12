@@ -1,0 +1,1 @@
+/wp-content/plugins/gravitywp-merge-tags/readme.txt

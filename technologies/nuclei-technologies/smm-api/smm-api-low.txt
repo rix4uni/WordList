@@ -1,0 +1,1 @@
+/wp-content/plugins/smm-api/readme.txt

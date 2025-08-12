@@ -9016,3 +9016,14 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/plugins/wp-tournament-registration/readme.txt
 /wp-content/themes/zakra/style.css
 /wp-content/plugins/reveal-listing/readme.txt
+/wp-content/plugins/addi-simple-slider/readme.txt
+/wp-content/themes/shopo/style.css
+/wp-content/plugins/porn-videos-embed/readme.txt
+/wp-content/plugins/smm-api/readme.txt
+/wp-content/plugins/zoloblocks/readme.txt
+/wp-content/plugins/wc-purchase-orders/readme.txt
+/wp-content/plugins/software-issue-manager/readme.txt
+/wp-content/plugins/gmap-venturit/readme.txt
+/wp-content/plugins/mosaic-generator/readme.txt
+/wp-content/plugins/wp-chart-generator/readme.txt
+/wp-content/plugins/inline-stock-quotes/readme.txt

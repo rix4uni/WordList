@@ -2183,3 +2183,10 @@
 /api/v1/namespaces/default/secrets
 /api/v1/nodes
 /version
+/wp-content/plugins/medical-prescription-attachment-plugin-for-woocommerce/readme.txt
+/wp-content/plugins/gravitywp-merge-tags/readme.txt
+/wp-content/plugins/cf7-styler/readme.txt
+/wp-content/themes/urna/style.css
+/wp-content/themes/xinterio/style.css
+/wp-content/plugins/form-block/readme.txt
+/wp-content/plugins/click-pledge-wpjobboard/readme.txt

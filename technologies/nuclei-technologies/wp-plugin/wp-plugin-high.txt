@@ -5284,3 +5284,8 @@
 /wp-content/plugins/thebooking/readme.txt
 /wp-content/plugins/use-your-drive/readme.txt
 /wp-content/plugins/advanced-google-universal-analytics/readme.txt
+/wp-content/plugins/idonate-pro/readme.txt
+/wp-content/plugins/leadcapture/readme.txt
+/wp-content/plugins/global-gallery/readme.txt
+/wp-content/plugins/uicore-elements/readme.txt
+/wp-content/plugins/b-blocks/readme.txt

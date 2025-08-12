@@ -1,0 +1,1 @@
+/wp-content/plugins/addi-simple-slider/readme.txt

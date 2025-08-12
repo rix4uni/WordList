@@ -459,3 +459,4 @@
 /wp-content/themes/kallyas/style.css
 /wp-content/themes/appzend/style.css
 /wp-content/themes/zakra/style.css
+/wp-content/themes/shopo/style.css

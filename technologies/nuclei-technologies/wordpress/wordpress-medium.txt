@@ -9874,3 +9874,9 @@
 /wp-content/themes/druco/style.css
 /wp-content/plugins/product-configurator-for-woocommerce/readme.txt
 /wp-content/plugins/button-block/readme.txt
+/wp-content/themes/upstore/style.css
+/wp-content/plugins/duoshuo/readme.txt
+/wp-content/plugins/wp-jscrollpane/readme.txt
+/wp-content/plugins/i3geek-baiduxzh/readme.txt
+/wp-content/plugins/user-language-switch/readme.txt
+/wp-content/plugins/visit-counter/readme.txt

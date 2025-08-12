@@ -1,0 +1,1 @@
+/wp-content/plugins/medical-prescription-attachment-plugin-for-woocommerce/readme.txt

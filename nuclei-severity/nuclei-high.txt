@@ -8616,3 +8616,8 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /xss/filter
 /api/template/render
 /compile
+/wp-content/plugins/b-blocks/readme.txt
+/wp-content/plugins/idonate-pro/readme.txt
+/wp-content/plugins/leadcapture/readme.txt
+/wp-content/plugins/global-gallery/readme.txt
+/wp-content/plugins/uicore-elements/readme.txt
