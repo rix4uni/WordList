@@ -884,3 +884,4 @@
 /scalar
 /locales/en/translation.json
 /cgi-bin/main.cgi
+/search
