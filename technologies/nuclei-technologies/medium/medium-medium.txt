@@ -9498,3 +9498,4 @@
 /wp-content/plugins/i3geek-baiduxzh/readme.txt
 /wp-content/plugins/user-language-switch/readme.txt
 /wp-content/plugins/visit-counter/readme.txt
+/wp-content/plugins/add-user-meta/readme.txt

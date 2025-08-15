@@ -1,0 +1,1 @@
+/wp-content/plugins/elink-embed-content/readme.txt
