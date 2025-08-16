@@ -9034,3 +9034,10 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/plugins/wp-readme-parser/readme.txt
 /wp-content/plugins/err-our-team/readme.txt
 /wp-content/plugins/order-tip-woo/readme.txt
+/wp-content/plugins/anber-elementor-addon/readme.txt
+/wp-content/plugins/woolook/readme.txt
+/wp-content/plugins/embed-bokun/readme.txt
+/wp-content/plugins/surbma-recent-comments-shortcode/readme.txt
+/wp-content/plugins/earnware-connect/readme.txt
+/wp-content/plugins/intl-datetime-calendar/readme.txt
+/wp-content/plugins/translate-this-google-translate-web-element-shortcode/readme.txt

@@ -3584,3 +3584,4 @@ pathCache.php
 /wp-content/plugins/form-block/readme.txt
 /wp-content/plugins/contact-form-entries/readme.txt
 /wp-content/plugins/software-issue-manager/readme.txt
+/wp-content/plugins/story-chief/readme.txt

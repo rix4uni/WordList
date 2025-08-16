@@ -12682,3 +12682,7 @@ config/settings.old.php
 /wp-content/plugins/visit-counter/readme.txt
 /wp-content/plugins/add-user-meta/readme.txt
 /?ru&filter=%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/wp-content/plugins/linux-promotional-plugin/readme.txt
+/wp-content/plugins/latestcheckins/readme.txt
+/wp-content/plugins/lastfm-recent-album-artwork/readme.txt
+/wp-content/plugins/weichuncai/readme.txt

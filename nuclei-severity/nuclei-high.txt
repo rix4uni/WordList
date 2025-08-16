@@ -8623,3 +8623,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/uicore-elements/readme.txt
 /wp-content/plugins/assistant-for-nextgen-gallery/readme.txt
 /wp-content/plugins/icons-factory/readme.txt
+/wp-content/plugins/alpack/readme.txt

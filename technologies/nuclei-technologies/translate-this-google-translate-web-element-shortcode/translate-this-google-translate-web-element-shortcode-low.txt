@@ -1,0 +1,1 @@
+/wp-content/plugins/translate-this-google-translate-web-element-shortcode/readme.txt

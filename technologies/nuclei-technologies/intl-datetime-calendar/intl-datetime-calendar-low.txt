@@ -1,0 +1,1 @@
+/wp-content/plugins/intl-datetime-calendar/readme.txt

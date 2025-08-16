@@ -1,0 +1,1 @@
+/wp-content/plugins/earnware-connect/readme.txt

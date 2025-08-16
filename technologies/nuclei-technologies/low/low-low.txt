@@ -8107,3 +8107,10 @@
 /wp-content/plugins/err-our-team/readme.txt
 /wp-content/plugins/assistant-for-nextgen-gallery/readme.txt
 /wp-content/plugins/order-tip-woo/readme.txt
+/wp-content/plugins/woolook/readme.txt
+/wp-content/plugins/embed-bokun/readme.txt
+/wp-content/plugins/anber-elementor-addon/readme.txt
+/wp-content/plugins/surbma-recent-comments-shortcode/readme.txt
+/wp-content/plugins/earnware-connect/readme.txt
+/wp-content/plugins/intl-datetime-calendar/readme.txt
+/wp-content/plugins/translate-this-google-translate-web-element-shortcode/readme.txt
