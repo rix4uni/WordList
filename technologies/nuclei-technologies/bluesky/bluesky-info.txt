@@ -1,3 +1,2 @@
-/.well-known/keybase.txt
 /.well-known/atproto-did
 /well-known-atproto-did

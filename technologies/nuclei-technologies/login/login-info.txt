@@ -338,3 +338,5 @@
 /ccmadmin/showHome.do
 /webpanel/panel/login.php
 /locales/en/translation.json
+/version
+/phoenix/login.html

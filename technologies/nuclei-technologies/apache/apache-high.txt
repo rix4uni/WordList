@@ -42,3 +42,4 @@
 /
 /jk_status
 /console/auth/login
+/unified-console.html

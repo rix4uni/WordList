@@ -61,3 +61,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /geoserver/
 /proxy?url=http://{{interactsh-url}}
 /apply/index.php?url=http://{{interactsh-url}}
+/unified-console.html

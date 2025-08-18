@@ -12,3 +12,4 @@
 /signin
 /wlm/login?next=/wlm
 /admin/
+/phoenix/login.html

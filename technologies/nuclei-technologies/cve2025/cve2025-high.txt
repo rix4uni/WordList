@@ -11,3 +11,4 @@
 /{{js_file_url}}
 /auth/failure?provider={{redirect_payload}}
 /auth/failure?provider={{basic_xss}}
+/unified-console.html

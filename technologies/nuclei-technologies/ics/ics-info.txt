@@ -11,3 +11,4 @@
 /start.html
 /dana-na/auth/url_admin/welcome.cgi?type=inter
 /en/login-admin.html
+/version
