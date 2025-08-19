@@ -1,0 +1,1 @@
+/wp-content/plugins/netease-music/readme.txt

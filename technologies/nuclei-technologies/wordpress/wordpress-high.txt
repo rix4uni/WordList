@@ -6070,3 +6070,9 @@
 /wp-content/plugins/assistant-for-nextgen-gallery/readme.txt
 /wp-content/plugins/icons-factory/readme.txt
 /wp-content/plugins/alpack/readme.txt
+/wp-content/plugins/neon-channel-product-customizer-free/readme.txt
+/wp-content/plugins/embedder-for-google-reviews/readme.txt
+/wp-content/plugins/codeablepress-simple-frontend-profile-picture-upload/readme.txt
+/wp-content/plugins/netease-music/readme.txt
+/wp-content/plugins/project-cost-calculator/readme.txt
+/wp-content/themes/stratus/style.css

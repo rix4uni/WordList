@@ -1,0 +1,1 @@
+/wp-content/plugins/serverbuddy-by-pluginbuddy/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/inspectlet-heatmaps-and-user-session-recording/readme.txt

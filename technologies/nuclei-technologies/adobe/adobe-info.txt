@@ -39,3 +39,4 @@
 /cfmx/CFIDE/scripts/ajax/package/cfajax.js
 /CFIDE/administrator/index.cfm
 /cfide/administrator/index.cfm
+/lc/libs/livecycle/core/content/login.html

@@ -1,0 +1,1 @@
+/wp-content/plugins/cf-image-resizing/readme.txt

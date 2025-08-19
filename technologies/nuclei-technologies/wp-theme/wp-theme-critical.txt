@@ -312,3 +312,4 @@
 /wp-content/themes/exertio/style.css
 /wp-content/themes/urna/style.css
 /wp-content/themes/xinterio/style.css
+/wp-content/themes/real-spaces/style.css

@@ -317,3 +317,4 @@
 /scalar
 /locales/en/translation.json
 /search
+/lc/libs/livecycle/core/content/login.html

@@ -1,0 +1,1 @@
+/wp-content/plugins/codeablepress-simple-frontend-profile-picture-upload/readme.txt

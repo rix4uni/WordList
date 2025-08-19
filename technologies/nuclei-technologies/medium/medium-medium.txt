@@ -9503,3 +9503,15 @@
 /wp-content/plugins/latestcheckins/readme.txt
 /wp-content/plugins/lastfm-recent-album-artwork/readme.txt
 /wp-content/plugins/weichuncai/readme.txt
+/wp-content/plugins/billplz-for-contact-form-7/readme.txt
+/wp-content/plugins/authentication-and-xmlrpc-log-writer/readme.txt
+/wp-content/plugins/simple-poll/readme.txt
+/wp-content/plugins/serverbuddy-by-pluginbuddy/readme.txt
+/wp-content/plugins/netinsight-analytics-implementation-plugin/readme.txt
+/wp-content/plugins/flexo-social-gallery/readme.txt
+/wp-content/plugins/wp-storymap/readme.txt
+/wp-content/plugins/wp-database-optimizer-tools/readme.txt
+/wp-content/plugins/thim-core/readme.txt
+/wp-content/themes/kalium/style.css
+/wp-content/themes/findgo/style.css
+/wp-content/plugins/wp-discord-post-plus/readme.txt

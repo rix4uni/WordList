@@ -886,3 +886,4 @@
 /cgi-bin/main.cgi
 /search
 /version
+/lc/libs/livecycle/core/content/login.html

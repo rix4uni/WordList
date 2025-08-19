@@ -2385,3 +2385,4 @@
 /.well-known/mta-sts.txt
 /.well-known/nostr.json
 /.well-known/oauth-authorization-server
+/lc/libs/livecycle/core/content/login.html

@@ -340,3 +340,4 @@
 /locales/en/translation.json
 /version
 /phoenix/login.html
+/lc/libs/livecycle/core/content/login.html
