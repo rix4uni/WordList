@@ -9059,3 +9059,11 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/plugins/thim-core/readme.txt
 /wp-content/themes/real-spaces/style.css
 /wp-content/plugins/wp-flexible-map/readme.txt
+/wp-content/plugins/blog-designer-pro/readme.txt
+/wp-content/plugins/responsive-posts-carousel-pro/readme.txt
+/wp-content/plugins/video-expander/readme.txt
+/wp-content/plugins/simplified/readme.txt
+/wp-content/themes/wprentals/style.css
+/wp-content/plugins/rss-feed-pro/readme.txt
+/wp-content/plugins/templatera/readme.txt
+/wp-content/themes/savoy/style.css

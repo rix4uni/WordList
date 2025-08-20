@@ -463,3 +463,5 @@
 /wp-content/themes/stratus/style.css
 /wp-content/themes/modernize/style.css
 /wp-content/themes/real-spaces/style.css
+/wp-content/themes/wprentals/style.css
+/wp-content/themes/savoy/style.css

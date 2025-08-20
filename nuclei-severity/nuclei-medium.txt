@@ -12698,3 +12698,8 @@ config/settings.old.php
 /wp-content/themes/kalium/style.css
 /wp-content/themes/findgo/style.css
 /wp-content/plugins/wp-discord-post-plus/readme.txt
+/wp-content/plugins/wp-dynamic-links/readme.txt
+/wp-content/plugins/wp-voting/readme.txt
+/wp-content/plugins/soundst-seo-search/readme.txt
+/wp-content/plugins/real-estate-manager-pro/readme.txt
+/wp-content/themes/savoy/style.css

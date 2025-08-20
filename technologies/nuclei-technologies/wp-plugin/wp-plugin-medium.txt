@@ -9207,3 +9207,7 @@
 /wp-content/plugins/wp-database-optimizer-tools/readme.txt
 /wp-content/plugins/thim-core/readme.txt
 /wp-content/plugins/wp-discord-post-plus/readme.txt
+/wp-content/plugins/wp-dynamic-links/readme.txt
+/wp-content/plugins/wp-voting/readme.txt
+/wp-content/plugins/soundst-seo-search/readme.txt
+/wp-content/plugins/real-estate-manager-pro/readme.txt

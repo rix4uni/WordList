@@ -1897,3 +1897,4 @@
 /wp-content/plugins/premium-addons-for-kingcomposer/readme.txt
 /wp-content/plugins/jquery-archive-list-widget/readme.txt
 /wp-content/plugins/cf-image-resizing/readme.txt
+/wp-content/plugins/wpcf7-redirect/readme.txt

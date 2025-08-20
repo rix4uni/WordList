@@ -313,3 +313,5 @@
 /wp-content/themes/urna/style.css
 /wp-content/themes/xinterio/style.css
 /wp-content/themes/real-spaces/style.css
+/wp-content/themes/makeaholic/style.css
+/wp-content/themes/unicamp/style.css

@@ -3589,3 +3589,6 @@ pathCache.php
 /wp-content/plugins/premium-addons-for-kingcomposer/readme.txt
 /wp-content/themes/real-spaces/style.css
 /wp-content/plugins/jquery-archive-list-widget/readme.txt
+/wp-content/themes/makeaholic/style.css
+/wp-content/themes/unicamp/style.css
+/wp-content/plugins/wpcf7-redirect/readme.txt

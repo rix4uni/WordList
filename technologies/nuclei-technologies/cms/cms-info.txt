@@ -31,3 +31,4 @@
 /wp-content/
 /wp-admin/
 /api/database
+/

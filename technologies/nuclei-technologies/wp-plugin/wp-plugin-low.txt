@@ -7691,3 +7691,9 @@
 /wp-content/plugins/codeablepress-simple-frontend-profile-picture-upload/readme.txt
 /wp-content/plugins/thim-core/readme.txt
 /wp-content/plugins/wp-flexible-map/readme.txt
+/wp-content/plugins/blog-designer-pro/readme.txt
+/wp-content/plugins/responsive-posts-carousel-pro/readme.txt
+/wp-content/plugins/video-expander/readme.txt
+/wp-content/plugins/simplified/readme.txt
+/wp-content/plugins/rss-feed-pro/readme.txt
+/wp-content/plugins/templatera/readme.txt
