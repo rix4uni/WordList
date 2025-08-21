@@ -7697,3 +7697,5 @@
 /wp-content/plugins/simplified/readme.txt
 /wp-content/plugins/rss-feed-pro/readme.txt
 /wp-content/plugins/templatera/readme.txt
+/wp-content/plugins/biblesupersearch/readme.txt
+/wp-content/plugins/wp-webhooks/readme.txt

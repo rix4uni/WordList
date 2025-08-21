@@ -621,3 +621,4 @@
 /wp-content/themes/kalium/style.css
 /wp-content/themes/findgo/style.css
 /wp-content/themes/savoy/style.css
+/wp-content/themes/inspiro/style.css

@@ -2200,3 +2200,4 @@
 /wp-content/themes/makeaholic/style.css
 /wp-content/themes/unicamp/style.css
 /wp-content/plugins/wpcf7-redirect/readme.txt
+/wp-content/plugins/wp-webhooks/readme.txt

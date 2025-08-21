@@ -339,3 +339,5 @@ login
 /admin/system
 /webhook
 /callback
+/type.php?template={{payload}}
+/data/cache_template/rss.tpl.php

@@ -9520,3 +9520,4 @@
 /wp-content/plugins/soundst-seo-search/readme.txt
 /wp-content/plugins/real-estate-manager-pro/readme.txt
 /wp-content/themes/savoy/style.css
+/wp-content/themes/inspiro/style.css
