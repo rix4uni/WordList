@@ -8142,3 +8142,5 @@
 /wp-content/themes/savoy/style.css
 /wp-content/plugins/biblesupersearch/readme.txt
 /wp-content/plugins/wp-webhooks/readme.txt
+/wp-content/plugins/wp-crontrol/readme.txt
+/wp-content/themes/spacious/style.css

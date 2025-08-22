@@ -190,3 +190,12 @@
 /xss/filter
 /api/template/render
 /compile
+/joomla/greenery_hub/index.php/en/hotels/reservations?location=d2tff&task=hub.search&ordering=score&direction=desc&type_id=0&show=
+/joomla/greenery_hub/index.php?option=com_solidres&task=hub.updateFilter&location=italy&checkin=27-07-2023&checkout=28-07-2023&option=com_solidres&Itemid=306&a0b5056f4a0135d4f5296839591a088a=1distance=0-11&distance=0-11&reviews=
+/joomla/greenery_hub/index.php/en/hotels/reservations?location=d2tff&task=hub.search&ordering=score&direction=desc&type_id=
+/joomla/greenery_hub/index.php/en/hotels/reservations?location=italy&checkin=27-07-2023&checkout=28-07-2023&option=com_solidres&task=hub.search&Itemid=306&a0b5056f4a0135d4f5296839591a088a=1distance=0-11&distance=
+/joomla/greenery_hub/index.php/en/hotels/reservations?location=italy&checkin=27-07-2023&checkout=28-07-2023&option=com_solidres&task=hub.search&Itemid=306&a0b5056f4a0135d4f5296839591a088a=1distance=0-11&distance=0-11&facilities=
+/joomla/greenery_hub/index.php/en/hotels/reservations?location=italy&checkin=27-07-2023&checkout=28-07-2023&option=com_solidres&task=hub.search&Itemid=306&a0b5056f4a0135d4f5296839591a088a=1distance=0-25&distance=0-25&categories=
+/joomla/greenery_hub/index.php?option=com_solidres&task=hub.updateFilter&location=d2tff&ordering=distance&direction=asc&prices=
+/joomla/greenery_hub/index.php/en/hotels/reservations?location=
+/joomla/greenery_hub/index.php/en/hotels/reservations?location=italy&checkin=27-07-2023&checkout=28-07-2023&option=com_solidres&task=hub.search&Itemid=

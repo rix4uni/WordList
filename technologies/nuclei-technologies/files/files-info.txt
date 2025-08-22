@@ -90,3 +90,5 @@
 /CertEnroll/
 /artemis-portal/artemis/env
 {{paths}}
+/certsrv/
+/certsrv

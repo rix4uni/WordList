@@ -318,3 +318,7 @@
 /locales/en/translation.json
 /search
 /lc/libs/livecycle/core/content/login.html
+/certenroll/
+/CertEnroll/
+/certsrv/
+/certsrv

@@ -4,3 +4,4 @@
 /index.php?option=com_easyshop&task=ajax.loadImage&file=Li4vLi4vY29uZmlndXJhdGlvbi5waHA=
 /seeyon/thirdpartyController.do
 /cgi-bin/MANGA/index.cgi
+/_common_CS_v6/aspx/ckeditor/ImageBrowser.aspx

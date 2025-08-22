@@ -6076,3 +6076,4 @@
 /wp-content/plugins/netease-music/readme.txt
 /wp-content/plugins/project-cost-calculator/readme.txt
 /wp-content/themes/stratus/style.css
+/wp-content/themes/spacious/style.css

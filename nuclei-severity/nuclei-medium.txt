@@ -12704,3 +12704,5 @@ config/settings.old.php
 /wp-content/plugins/real-estate-manager-pro/readme.txt
 /wp-content/themes/savoy/style.css
 /wp-content/themes/inspiro/style.css
+/commandcenter/publicLink.do
+/plugins/generic/tinymce/plugins/justboil.me/dialog-v4.htm

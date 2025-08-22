@@ -1,3 +1,5 @@
 /certenroll/
 /CertEnroll/
 /autodiscover/autodiscover.json?Protocol=ActiveSync&Email=user@domain.tld&RedirectCount=1
+/certsrv/
+/certsrv

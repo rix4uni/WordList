@@ -468,3 +468,4 @@
 /wp-content/themes/minimog/style.css
 /wp-content/themes/zakra/style.css
 /wp-content/themes/stratus/style.css
+/wp-content/themes/spacious/style.css
