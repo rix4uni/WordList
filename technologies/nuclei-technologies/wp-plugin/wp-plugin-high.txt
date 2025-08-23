@@ -5297,3 +5297,4 @@
 /wp-content/plugins/codeablepress-simple-frontend-profile-picture-upload/readme.txt
 /wp-content/plugins/netease-music/readme.txt
 /wp-content/plugins/project-cost-calculator/readme.txt
+/wp-content/plugins/wc-plus/readme.txt

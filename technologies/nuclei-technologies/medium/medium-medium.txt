@@ -9521,3 +9521,6 @@
 /wp-content/plugins/real-estate-manager-pro/readme.txt
 /wp-content/themes/savoy/style.css
 /wp-content/themes/inspiro/style.css
+/wp-content/plugins/restore-permanently-delete-post-or-page-data/readme.txt
+/wp-content/plugins/sertifier-certificates-open-badges/readme.txt
+/wp-content/plugins/external-rss-reader/readme.txt

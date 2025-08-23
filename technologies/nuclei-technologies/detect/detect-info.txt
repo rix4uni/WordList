@@ -322,3 +322,4 @@
 /CertEnroll/
 /certsrv/
 /certsrv
+/MagicInfo/login

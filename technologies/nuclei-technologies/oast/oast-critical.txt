@@ -30,3 +30,4 @@ login
 /api/json
 /parse
 /deserialize
+/context.json

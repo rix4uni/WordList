@@ -1,0 +1,1 @@
+/wp-content/plugins/restore-permanently-delete-post-or-page-data/readme.txt

@@ -378,3 +378,4 @@
 /venv/
 /certsrv/
 /certsrv
+/MagicInfo/config.js

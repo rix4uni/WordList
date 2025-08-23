@@ -1,0 +1,1 @@
+/wp-content/plugins/wptobe-memberships/readme.txt

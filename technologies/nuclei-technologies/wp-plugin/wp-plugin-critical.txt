@@ -1899,3 +1899,5 @@
 /wp-content/plugins/cf-image-resizing/readme.txt
 /wp-content/plugins/wpcf7-redirect/readme.txt
 /wp-content/plugins/wp-webhooks/readme.txt
+/wp-content/plugins/bravis-user/readme.txt
+/wp-content/plugins/simpler-checkout/readme.txt

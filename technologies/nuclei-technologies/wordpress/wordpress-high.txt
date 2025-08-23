@@ -6077,3 +6077,4 @@
 /wp-content/plugins/project-cost-calculator/readme.txt
 /wp-content/themes/stratus/style.css
 /wp-content/themes/spacious/style.css
+/wp-content/plugins/wc-plus/readme.txt

@@ -133,3 +133,4 @@
 /core/package.json
 /library/package.json
 /js/lazyload/package.json
+/MagicInfo/config.js

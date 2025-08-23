@@ -1,0 +1,1 @@
+/wp-content/plugins/ogulo-360-tour/readme.txt

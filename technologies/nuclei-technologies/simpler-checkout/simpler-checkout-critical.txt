@@ -1,0 +1,1 @@
+/wp-content/plugins/simpler-checkout/readme.txt

@@ -1,0 +1,2 @@
+/MagicInfo/config.js
+/MagicInfo/login
