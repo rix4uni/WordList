@@ -8201,3 +8201,4 @@
 /wp-content/plugins/ws-theme-addons/readme.txt
 /wp-content/plugins/wptobe-memberships/readme.txt
 /wp-content/plugins/ogulo-360-tour/readme.txt
+/wp-content/plugins/custom-query-shortcode/readme.txt
