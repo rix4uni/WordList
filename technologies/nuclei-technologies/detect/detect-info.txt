@@ -323,3 +323,4 @@
 /certsrv/
 /certsrv
 /MagicInfo/login
+/api/providers

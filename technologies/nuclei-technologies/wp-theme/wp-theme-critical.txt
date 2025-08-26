@@ -315,3 +315,4 @@
 /wp-content/themes/real-spaces/style.css
 /wp-content/themes/makeaholic/style.css
 /wp-content/themes/unicamp/style.css
+/wp-content/themes/kipso/style.css

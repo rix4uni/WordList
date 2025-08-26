@@ -74,3 +74,11 @@
 /tmp/temp.db%3f.1.1.1.1a-1.css
 /mnt/ram/var/log/httpd.log%3f.1.1.1.1a-1.css
 /wp-content/plugins/yet-another-related-posts-plugin/includes/yarpp_pro_set_display_types.php?ypsdt=false&types[]=post&types[]=page
+/geoserver/wfs?service=WFS&request=GetCapabilities
+/geoserver/ows?service=WFS&request=GetCapabilities
+/wfs?service=WFS&request=GetCapabilities
+/ows?service=WFS&request=GetCapabilities
+/geoserver/wfs?service=WFS
+/geoserver/ows?service=WFS
+/wfs?service=WFS
+/ows?service=WFS

@@ -1,0 +1,1 @@
+/wp-content/plugins/sensorpress-uptime-monitoring/readme.txt

@@ -46,3 +46,11 @@
 /api/v1/core/proxy/jsonprequest?objresponse=false&websiteproxy=true&escapestring=false&url=http://{{interactsh-url}}
 /getFavicon?host=oast.fun?
 /Items/RemoteSearch/Image?ProviderName=TheMovieDB&ImageURL=http://oast.fun
+/geoserver/wfs?service=WFS&request=GetCapabilities
+/geoserver/ows?service=WFS&request=GetCapabilities
+/wfs?service=WFS&request=GetCapabilities
+/ows?service=WFS&request=GetCapabilities
+/geoserver/wfs?service=WFS
+/geoserver/ows?service=WFS
+/wfs?service=WFS
+/ows?service=WFS

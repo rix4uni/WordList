@@ -352,3 +352,11 @@ login
 /backup/wp-admin/setup-config.php?step=1
 /site/wp-admin/setup-config.php?step=1
 /wp-admin/setup-config.php?step=1
+/geoserver/wfs?service=WFS&request=GetCapabilities
+/geoserver/ows?service=WFS&request=GetCapabilities
+/wfs?service=WFS&request=GetCapabilities
+/ows?service=WFS&request=GetCapabilities
+/geoserver/wfs?service=WFS
+/geoserver/ows?service=WFS
+/wfs?service=WFS
+/ows?service=WFS

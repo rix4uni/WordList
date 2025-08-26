@@ -3608,3 +3608,15 @@ pathCache.php
 /wp-admin/setup-config.php?step=1
 /wp-content/plugins/bravis-user/readme.txt
 /wp-content/plugins/simpler-checkout/readme.txt
+/wp-content/plugins/tmm_content_composer/readme.txt
+/wp-content/themes/kipso/style.css
+/wp-content/plugins/pixter-image-digital-license/readme.txt
+/wp-content/plugins/vibes/readme.txt
+/geoserver/wfs?service=WFS&request=GetCapabilities
+/geoserver/ows?service=WFS&request=GetCapabilities
+/wfs?service=WFS&request=GetCapabilities
+/ows?service=WFS&request=GetCapabilities
+/geoserver/wfs?service=WFS
+/geoserver/ows?service=WFS
+/wfs?service=WFS
+/ows?service=WFS

@@ -871,3 +871,4 @@
 /api/unauthorized/status
 /Authentication/SignIn
 /pics/favicon.ico
+/api/providers

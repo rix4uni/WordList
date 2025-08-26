@@ -9524,3 +9524,11 @@
 /wp-content/plugins/restore-permanently-delete-post-or-page-data/readme.txt
 /wp-content/plugins/sertifier-certificates-open-badges/readme.txt
 /wp-content/plugins/external-rss-reader/readme.txt
+/wp-content/plugins/baidushare-wp/readme.txt
+/wp-content/plugins/ultimate-twitter-profile-widget/readme.txt
+/wp-content/plugins/cookie-warning/readme.txt
+/wp-content/plugins/comments-capcha-box/readme.txt
+/wp-content/plugins/wp-shopify/readme.txt
+/wp-content/plugins/cbx-restaurant-booking/readme.txt
+/wp-content/plugins/wp-jobs2careers/readme.txt
+/wp-content/plugins/affiliate-wp/readme.txt

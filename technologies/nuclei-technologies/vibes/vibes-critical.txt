@@ -1,0 +1,1 @@
+/wp-content/plugins/vibes/readme.txt

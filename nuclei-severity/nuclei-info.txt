@@ -2389,3 +2389,4 @@
 /certsrv
 /MagicInfo/config.js
 /MagicInfo/login
+/api/providers
