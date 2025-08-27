@@ -1904,3 +1904,8 @@
 /wp-content/plugins/tmm_content_composer/readme.txt
 /wp-content/plugins/pixter-image-digital-license/readme.txt
 /wp-content/plugins/vibes/readme.txt
+/wp-content/plugins/miraculouscore/readme.txt
+/wp-content/plugins/pressapps-knowledge-base/readme.txt
+/wp-content/plugins/wp-funnel-manager/readme.txt
+/wp-content/plugins/ova-events/readme.txt
+/wp-content/plugins/otw-portfolio-manager/readme.txt

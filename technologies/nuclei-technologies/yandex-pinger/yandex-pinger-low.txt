@@ -1,0 +1,1 @@
+/wp-content/plugins/yandex-pinger/readme.txt

@@ -12718,3 +12718,15 @@ config/settings.old.php
 /wp-content/plugins/ultimate-twitter-profile-widget/readme.txt
 /wp-content/plugins/wp-shopify/readme.txt
 /wp-content/plugins/wp-jobs2careers/readme.txt
+/wp-content/plugins/adstxt-guru-connect/readme.txt
+/wp-content/plugins/att-youtube/readme.txt
+/wp-content/plugins/century-toolkit/readme.txt
+/wp-content/plugins/cf7-sweet-alert-popup/readme.txt
+/wp-content/plugins/clickbank-niche-storefronts/readme.txt
+/wp-content/plugins/wp-admin-theme/readme.txt
+/wp-content/plugins/wpmuldap/readme.txt
+/wp-content/plugins/kento-splash-screen/readme.txt
+/wp-content/plugins/provesource/readme.txt
+/wp-content/themes/jobzilla/style.css
+/wp-content/plugins/e-boekhoudennl-connector/readme.txt
+/wp-content/plugins/simple-feed-stats/readme.txt

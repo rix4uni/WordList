@@ -622,3 +622,4 @@
 /wp-content/themes/findgo/style.css
 /wp-content/themes/savoy/style.css
 /wp-content/themes/inspiro/style.css
+/wp-content/themes/jobzilla/style.css

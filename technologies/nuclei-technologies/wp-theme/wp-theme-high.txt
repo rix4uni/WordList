@@ -469,3 +469,4 @@
 /wp-content/themes/zakra/style.css
 /wp-content/themes/stratus/style.css
 /wp-content/themes/spacious/style.css
+/wp-content/themes/kalium/style.css

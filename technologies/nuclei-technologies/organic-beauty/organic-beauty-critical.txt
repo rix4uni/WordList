@@ -1,0 +1,1 @@
+/wp-content/themes/organic-beauty/style.css

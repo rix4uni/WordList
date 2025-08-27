@@ -5298,3 +5298,5 @@
 /wp-content/plugins/netease-music/readme.txt
 /wp-content/plugins/project-cost-calculator/readme.txt
 /wp-content/plugins/wc-plus/readme.txt
+/wp-content/plugins/wp-mailgun-smtp/readme.txt
+/wp-content/plugins/lifepress/readme.txt

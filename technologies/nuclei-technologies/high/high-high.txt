@@ -5646,3 +5646,6 @@
 /wp-content/themes/stratus/style.css
 /wp-content/themes/spacious/style.css
 /wp-content/plugins/wc-plus/readme.txt
+/wp-content/plugins/wp-mailgun-smtp/readme.txt
+/wp-content/themes/kalium/style.css
+/wp-content/plugins/lifepress/readme.txt

@@ -316,3 +316,9 @@
 /wp-content/themes/makeaholic/style.css
 /wp-content/themes/unicamp/style.css
 /wp-content/themes/kipso/style.css
+/wp-content/themes/kitring/style.css
+/wp-content/themes/glamer/style.css
+/wp-content/themes/magazine-elite/style.css
+/wp-content/themes/blogmarks/style.css
+/wp-content/themes/eximious-magazine/style.css
+/wp-content/themes/organic-beauty/style.css

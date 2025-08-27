@@ -1,0 +1,1 @@
+/wp-content/themes/magazine-elite/style.css

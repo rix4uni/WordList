@@ -2231,3 +2231,14 @@
 /wp-content/themes/kipso/style.css
 /wp-content/plugins/pixter-image-digital-license/readme.txt
 /wp-content/plugins/vibes/readme.txt
+/wp-content/plugins/miraculouscore/readme.txt
+/wp-content/plugins/pressapps-knowledge-base/readme.txt
+/wp-content/themes/kitring/style.css
+/wp-content/plugins/wp-funnel-manager/readme.txt
+/wp-content/themes/glamer/style.css
+/wp-content/themes/magazine-elite/style.css
+/wp-content/themes/blogmarks/style.css
+/wp-content/themes/eximious-magazine/style.css
+/wp-content/plugins/ova-events/readme.txt
+/wp-content/themes/organic-beauty/style.css
+/wp-content/plugins/otw-portfolio-manager/readme.txt
