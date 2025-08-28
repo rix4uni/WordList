@@ -7751,3 +7751,5 @@
 /wp-content/plugins/miraculouscore/readme.txt
 /wp-content/plugins/provesource/readme.txt
 /wp-content/plugins/support-ticket/readme.txt
+/wp-content/plugins/dynamic-ajax-product-filters-for-woocommerce/readme.txt
+/wp-content/plugins/softdiscover-db-file-manager/readme.txt

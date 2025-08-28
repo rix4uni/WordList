@@ -4,3 +4,4 @@
 /roundcube/
 /mail/
 /webmail/
+/?f=\[

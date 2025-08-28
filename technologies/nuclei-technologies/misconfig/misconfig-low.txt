@@ -219,3 +219,4 @@
 /config.html
 /cdn-cgi/image/width=1000,format=auto/https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg
 /api/server
+/?f=\[

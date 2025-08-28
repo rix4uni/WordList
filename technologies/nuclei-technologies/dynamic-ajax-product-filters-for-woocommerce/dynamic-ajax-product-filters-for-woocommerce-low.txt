@@ -1,0 +1,1 @@
+/wp-content/plugins/dynamic-ajax-product-filters-for-woocommerce/readme.txt

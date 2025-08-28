@@ -466,3 +466,6 @@
 /wp-content/themes/wprentals/style.css
 /wp-content/themes/savoy/style.css
 /wp-content/themes/spacious/style.css
+/wp-content/themes/aihub/style.css
+/wp-content/themes/archub/style.css
+/wp-content/themes/hub/style.css

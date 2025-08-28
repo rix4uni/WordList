@@ -1909,3 +1909,5 @@
 /wp-content/plugins/wp-funnel-manager/readme.txt
 /wp-content/plugins/ova-events/readme.txt
 /wp-content/plugins/otw-portfolio-manager/readme.txt
+/wp-content/plugins/wp-ulike-pro/readme.txt
+/wp-content/plugins/rccp-free/readme.txt
