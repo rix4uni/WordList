@@ -9927,3 +9927,4 @@
 /wp-content/themes/jobzilla/style.css
 /wp-content/plugins/e-boekhoudennl-connector/readme.txt
 /wp-content/plugins/simple-feed-stats/readme.txt
+/wp-content/plugins/utw-importer/readme.txt

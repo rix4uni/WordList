@@ -9234,3 +9234,4 @@
 /wp-content/plugins/adstxt-guru-connect/readme.txt
 /wp-content/plugins/e-boekhoudennl-connector/readme.txt
 /wp-content/plugins/simple-feed-stats/readme.txt
+/wp-content/plugins/utw-importer/readme.txt

@@ -7753,3 +7753,6 @@
 /wp-content/plugins/support-ticket/readme.txt
 /wp-content/plugins/dynamic-ajax-product-filters-for-woocommerce/readme.txt
 /wp-content/plugins/softdiscover-db-file-manager/readme.txt
+/wp-content/plugins/lwscache/readme.txt
+/wp-content/plugins/list-sub-pages/readme.txt
+/wp-content/plugins/iats-online-forms/readme.txt
