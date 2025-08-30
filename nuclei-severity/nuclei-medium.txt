@@ -12731,3 +12731,7 @@ config/settings.old.php
 /wp-content/plugins/e-boekhoudennl-connector/readme.txt
 /wp-content/plugins/simple-feed-stats/readme.txt
 /wp-content/plugins/utw-importer/readme.txt
+/SMS_DP_SMSPKG$/Datalib
+:80/SMS_DP_SMSPKG$/Datalib
+/xwiki/bin/view/Main/?foo=bar&foo_syntax=invalid&RequiresHTMLConversion=foo&xerror=https://oast.me
+/wp-content/plugins/related-posts-lite/readme.txt

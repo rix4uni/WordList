@@ -505,3 +505,4 @@ _vti_pvt/authors.pwd
 /.env.js
 /api/config
 /api/settings
+{{path}}

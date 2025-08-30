@@ -8646,3 +8646,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/wp-mailgun-smtp/readme.txt
 /wp-content/themes/kalium/style.css
 /wp-content/plugins/lifepress/readme.txt
+{{path}}

@@ -141,3 +141,5 @@
 /rest.html
 /geoserver/rest.html
 /admin/
+/SMS_DP_SMSPKG$/Datalib
+:80/SMS_DP_SMSPKG$/Datalib

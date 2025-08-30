@@ -259,3 +259,4 @@
 /%2f%5c%2foast.pro%2f..
 /bitrix/redirect.php?goto=https://example.com%252F:123@interactsh.com/
 /bitrix/tools/track_mail_click.php?url=http://site%252F@interactsh.com/
+/xwiki/bin/view/Main/?foo=bar&foo_syntax=invalid&RequiresHTMLConversion=foo&xerror=https://oast.me
