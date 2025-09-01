@@ -54,3 +54,4 @@
 /js/log.js
 /scheduler/ui/js/ffffffffbca41eb4/UIUtilJavaScriptJS?/..
 /passwordrecovered.cgi?id=nuclei
+/config/getuser?index=0
