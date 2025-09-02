@@ -3633,3 +3633,4 @@ pathCache.php
 /wp-content/plugins/otw-portfolio-manager/readme.txt
 /wp-content/plugins/wp-ulike-pro/readme.txt
 /wp-content/plugins/rccp-free/readme.txt
+/remote/login

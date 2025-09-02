@@ -117,3 +117,5 @@
 /geoserver/ows?service=WFS
 /wfs?service=WFS
 /ows?service=WFS
+/remote/login
+/login
