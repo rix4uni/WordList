@@ -1,0 +1,1 @@
+/wp-content/themes/my-depressive/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-call-now-button/readme.txt

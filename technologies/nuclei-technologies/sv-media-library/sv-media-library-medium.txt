@@ -1,0 +1,1 @@
+/wp-content/plugins/sv-media-library/readme.txt

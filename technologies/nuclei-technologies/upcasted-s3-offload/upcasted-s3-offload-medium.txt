@@ -1,0 +1,1 @@
+/wp-content/plugins/upcasted-s3-offload/readme.txt

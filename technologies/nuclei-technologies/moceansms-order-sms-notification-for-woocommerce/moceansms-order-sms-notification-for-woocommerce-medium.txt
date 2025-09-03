@@ -1,0 +1,1 @@
+/wp-content/plugins/moceansms-order-sms-notification-for-woocommerce/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/wpcasa-mail-alert/readme.txt

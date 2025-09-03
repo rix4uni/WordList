@@ -1,1 +1,2 @@
 /wp-content/themes/sf-booking/style.css
+/wp-content/plugins/sf-booking/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-quick-reports/readme.txt

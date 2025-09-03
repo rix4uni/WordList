@@ -1,0 +1,1 @@
+/wp-content/plugins/wadi-addons-for-elementor/readme.txt

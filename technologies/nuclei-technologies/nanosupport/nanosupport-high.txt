@@ -1,0 +1,1 @@
+/wp-content/plugins/nanosupport/readme.txt

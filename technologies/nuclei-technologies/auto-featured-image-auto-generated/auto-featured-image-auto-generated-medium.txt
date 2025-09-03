@@ -1,0 +1,1 @@
+/wp-content/plugins/auto-featured-image-auto-generated/readme.txt

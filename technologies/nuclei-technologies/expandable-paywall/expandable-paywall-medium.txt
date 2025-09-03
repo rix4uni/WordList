@@ -1,0 +1,1 @@
+/wp-content/plugins/expandable-paywall/readme.txt

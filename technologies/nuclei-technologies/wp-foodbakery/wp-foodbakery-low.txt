@@ -1,1 +1,2 @@
 /wp-content/themes/wp-foodbakery/style.css
+/wp-content/plugins/wp-foodbakery/readme.txt

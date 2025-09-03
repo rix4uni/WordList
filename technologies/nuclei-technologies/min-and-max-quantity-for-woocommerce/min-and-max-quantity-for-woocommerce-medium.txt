@@ -1,0 +1,1 @@
+/wp-content/plugins/min-and-max-quantity-for-woocommerce/readme.txt

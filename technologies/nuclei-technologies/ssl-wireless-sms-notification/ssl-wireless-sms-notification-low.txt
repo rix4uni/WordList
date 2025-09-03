@@ -1,0 +1,1 @@
+/wp-content/plugins/ssl-wireless-sms-notification/readme.txt

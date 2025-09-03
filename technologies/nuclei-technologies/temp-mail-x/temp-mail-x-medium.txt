@@ -1,0 +1,1 @@
+/wp-content/themes/temp-mail-x/style.css

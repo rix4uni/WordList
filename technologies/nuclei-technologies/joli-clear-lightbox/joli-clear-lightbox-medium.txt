@@ -1,0 +1,1 @@
+/wp-content/plugins/joli-clear-lightbox/readme.txt

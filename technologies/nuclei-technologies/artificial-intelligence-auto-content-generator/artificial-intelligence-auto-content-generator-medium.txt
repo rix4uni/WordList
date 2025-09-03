@@ -1,0 +1,1 @@
+/wp-content/plugins/artificial-intelligence-auto-content-generator/readme.txt

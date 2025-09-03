@@ -1,0 +1,1 @@
+/wp-content/plugins/payment-gateway-groups-for-woocommerce/readme.txt

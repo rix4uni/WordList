@@ -1,0 +1,1 @@
+/wp-content/plugins/gyta-buyback/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/widgets-for-siteorigin/readme.txt

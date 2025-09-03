@@ -1,0 +1,1 @@
+/wp-content/plugins/revision-manager-tmc/readme.txt

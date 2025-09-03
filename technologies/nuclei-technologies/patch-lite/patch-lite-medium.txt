@@ -1,0 +1,1 @@
+/wp-content/themes/patch-lite/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/bulk-edit-events/readme.txt

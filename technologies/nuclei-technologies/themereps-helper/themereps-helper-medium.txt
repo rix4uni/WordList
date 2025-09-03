@@ -1,0 +1,1 @@
+/wp-content/plugins/themereps-helper/readme.txt

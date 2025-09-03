@@ -1,0 +1,1 @@
+/wp-content/plugins/premmerce-woocommerce-product-bundles/readme.txt

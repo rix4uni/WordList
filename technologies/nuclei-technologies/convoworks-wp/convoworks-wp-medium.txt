@@ -1,0 +1,1 @@
+/wp-content/plugins/convoworks-wp/readme.txt

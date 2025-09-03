@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-thank-you-page-customizer/readme.txt

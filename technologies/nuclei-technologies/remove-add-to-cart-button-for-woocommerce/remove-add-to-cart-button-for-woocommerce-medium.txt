@@ -1,0 +1,1 @@
+/wp-content/plugins/remove-add-to-cart-button-for-woocommerce/readme.txt

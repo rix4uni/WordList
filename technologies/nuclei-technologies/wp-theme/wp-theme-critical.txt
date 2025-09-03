@@ -322,3 +322,9 @@
 /wp-content/themes/blogmarks/style.css
 /wp-content/themes/eximious-magazine/style.css
 /wp-content/themes/organic-beauty/style.css
+/wp-content/themes/pixova-lite/style.css
+/wp-content/themes/courtney/style.css
+/wp-content/themes/lesya/style.css
+/wp-content/themes/lettery/style.css
+/wp-content/themes/minterio/style.css
+/wp-content/themes/starbelly/style.css

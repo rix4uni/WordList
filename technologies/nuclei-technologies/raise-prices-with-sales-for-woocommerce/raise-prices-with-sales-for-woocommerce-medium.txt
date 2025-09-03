@@ -1,0 +1,1 @@
+/wp-content/plugins/raise-prices-with-sales-for-woocommerce/readme.txt

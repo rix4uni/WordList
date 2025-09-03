@@ -1,0 +1,1 @@
+/wp-content/plugins/conditional-logic-for-woo-product-add-ons/readme.txt

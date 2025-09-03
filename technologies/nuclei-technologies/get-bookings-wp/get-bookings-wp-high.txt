@@ -1,0 +1,1 @@
+/wp-content/plugins/get-bookings-wp/readme.txt

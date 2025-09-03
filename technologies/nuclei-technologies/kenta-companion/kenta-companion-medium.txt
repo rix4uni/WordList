@@ -1,0 +1,1 @@
+/wp-content/plugins/kenta-companion/readme.txt

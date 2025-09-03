@@ -1,0 +1,1 @@
+/wp-content/plugins/cozy-addons/readme.txt

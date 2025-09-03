@@ -1,0 +1,1 @@
+/wp-content/plugins/auto-terms-of-service-and-privacy-policy/readme.txt

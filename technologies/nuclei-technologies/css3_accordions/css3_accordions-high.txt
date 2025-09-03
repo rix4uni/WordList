@@ -1,0 +1,1 @@
+/wp-content/plugins/css3_accordions/readme.txt

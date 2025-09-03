@@ -1,0 +1,1 @@
+/wp-content/plugins/tori-ajax/readme.txt

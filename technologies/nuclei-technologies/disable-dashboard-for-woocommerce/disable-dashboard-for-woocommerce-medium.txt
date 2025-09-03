@@ -1,0 +1,1 @@
+/wp-content/plugins/disable-dashboard-for-woocommerce/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/meta-tag-manager/readme.txt

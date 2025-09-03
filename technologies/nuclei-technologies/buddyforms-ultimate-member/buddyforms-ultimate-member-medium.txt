@@ -1,0 +1,1 @@
+/wp-content/plugins/buddyforms-ultimate-member/readme.txt

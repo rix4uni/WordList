@@ -1,0 +1,1 @@
+/wp-content/plugins/mmt-eventon-exim-lite/readme.txt

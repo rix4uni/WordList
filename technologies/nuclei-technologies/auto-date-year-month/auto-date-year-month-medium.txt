@@ -1,0 +1,1 @@
+/wp-content/plugins/auto-date-year-month/readme.txt

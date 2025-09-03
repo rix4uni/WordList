@@ -1,0 +1,1 @@
+/wp-content/plugins/buddyforms-attach-posts-to-groups-extension/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/event-feed-for-eventbrite/readme.txt

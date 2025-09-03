@@ -1,0 +1,1 @@
+/wp-content/plugins/mobile-login-woocommerce/readme.txt

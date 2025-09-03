@@ -1,0 +1,1 @@
+/wp-content/plugins/convert-classic-editor-to-blocks/readme.txt

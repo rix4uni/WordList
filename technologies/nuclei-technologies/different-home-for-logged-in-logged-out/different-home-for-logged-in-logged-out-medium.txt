@@ -1,0 +1,1 @@
+/wp-content/plugins/different-home-for-logged-in-logged-out/readme.txt

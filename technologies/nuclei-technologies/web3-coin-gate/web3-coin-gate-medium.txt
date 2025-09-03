@@ -1,0 +1,1 @@
+/wp-content/plugins/web3-coin-gate/readme.txt

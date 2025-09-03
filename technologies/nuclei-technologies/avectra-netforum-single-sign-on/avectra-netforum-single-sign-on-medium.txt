@@ -1,0 +1,1 @@
+/wp-content/plugins/avectra-netforum-single-sign-on/readme.txt

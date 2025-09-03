@@ -1,0 +1,1 @@
+/wp-content/plugins/web3-token-gate/readme.txt

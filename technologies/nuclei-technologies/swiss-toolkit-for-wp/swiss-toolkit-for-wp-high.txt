@@ -1,0 +1,1 @@
+/wp-content/plugins/swiss-toolkit-for-wp/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/free-product-sample/readme.txt

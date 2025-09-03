@@ -1,0 +1,1 @@
+/wp-content/plugins/better-captcha-gravity-forms/readme.txt

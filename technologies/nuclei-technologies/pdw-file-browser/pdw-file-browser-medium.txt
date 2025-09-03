@@ -1,0 +1,1 @@
+/wp-content/plugins/pdw-file-browser/readme.txt

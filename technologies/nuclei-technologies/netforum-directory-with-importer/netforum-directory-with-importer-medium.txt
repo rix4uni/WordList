@@ -1,0 +1,1 @@
+/wp-content/plugins/netforum-directory-with-importer/readme.txt

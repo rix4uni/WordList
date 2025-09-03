@@ -1,0 +1,1 @@
+/wp-content/plugins/demomentsomtres-mailchimp-immediate-send/readme.txt

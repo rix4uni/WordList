@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-matrix-gallery/readme.txt

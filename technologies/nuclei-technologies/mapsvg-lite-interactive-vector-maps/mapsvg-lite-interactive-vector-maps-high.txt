@@ -1,0 +1,1 @@
+/wp-content/plugins/mapsvg-lite-interactive-vector-maps/readme.txt

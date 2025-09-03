@@ -1,0 +1,1 @@
+/wp-content/themes/the-authority/style.css

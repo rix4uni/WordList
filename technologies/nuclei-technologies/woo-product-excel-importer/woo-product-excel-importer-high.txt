@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-product-excel-importer/readme.txt

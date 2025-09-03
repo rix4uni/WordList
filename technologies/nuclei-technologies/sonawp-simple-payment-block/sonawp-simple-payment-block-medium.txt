@@ -1,0 +1,1 @@
+/wp-content/plugins/sonawp-simple-payment-block/readme.txt
