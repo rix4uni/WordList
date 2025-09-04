@@ -314,8 +314,6 @@ traefik/acme.json
 .wp-config.swp
 backup.wp-config.php
 wp-config
-wp-config - Copy.php
-wp-config copy.php
 wp-config-backup
 wp-config-backup.php
 wp-config-backup1.txt

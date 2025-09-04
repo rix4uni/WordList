@@ -3,9 +3,9 @@ name: Nuclei Wordlist Generator
 on:
   schedule:
     - cron: '0 */12 * * *'
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 # Actions project permission
 permissions:
