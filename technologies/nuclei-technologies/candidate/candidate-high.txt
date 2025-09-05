@@ -3651,3 +3651,11 @@
 /wp-content/plugins/zopim-live-chat/readme.txt
 /wp-content/plugins/zotpress/readme.txt
 /wp-content/plugins/zynith-seo/readme.txt
+/wp-content/plugins/aftership-woocommerce-tracking/readme.txt
+/wp-content/plugins/all-bootstrap-blocks/readme.txt
+/wp-content/plugins/b-slider/readme.txt
+/wp-content/plugins/b-tiktok-feed/readme.txt
+/wp-content/plugins/houzez-crm/readme.txt
+/wp-content/themes/makeaholic/style.css
+/wp-content/plugins/page-manager-for-elementor/readme.txt
+/wp-content/plugins/wp-bulk-delete/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/page-manager-for-elementor/readme.txt

@@ -485,3 +485,4 @@
 /wp-content/themes/jnews/style.css
 /wp-content/themes/Litho - Multipurpose Elementor WordPress Theme/style.css
 /wp-content/themes/minimog/style.css
+/wp-content/themes/pin-wp/style.css

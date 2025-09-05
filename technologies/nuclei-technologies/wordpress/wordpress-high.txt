@@ -6185,3 +6185,17 @@
 /wp-content/plugins/zapier/readme.txt
 /wp-content/plugins/zoho-flow/readme.txt
 /wp-content/plugins/zotpress/readme.txt
+/contact/
+/contact-us/
+/submit/
+/support/
+/form/
+/get-in-touch/
+/wp-content/plugins/age-restriction/readme.txt
+/wp-content/plugins/all-bootstrap-blocks/readme.txt
+/wp-content/plugins/b-slider/readme.txt
+/wp-content/plugins/aftership-woocommerce-tracking/readme.txt
+/wp-content/themes/makeaholic/style.css
+/wp-content/plugins/b-tiktok-feed/readme.txt
+/wp-content/plugins/page-manager-for-elementor/readme.txt
+/wp-content/plugins/wp-bulk-delete/readme.txt

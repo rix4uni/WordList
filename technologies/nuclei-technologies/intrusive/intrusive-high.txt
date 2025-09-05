@@ -56,3 +56,11 @@
 /ueditor/net/controller.ashx?action=catchimage&encode=utf-8
 /cgi-bin/MANGA/index.cgi
 /jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc
+/contact/
+/contact-us/
+/submit/
+/support/
+/form/
+/get-in-touch/
+/wp-admin/admin-ajax.php
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt

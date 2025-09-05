@@ -2504,3 +2504,8 @@
 /wp-content/themes/wr-nitro/style.css
 /wp-content/plugins/zelist-directory/readme.txt
 /wp-content/plugins/zingiri-tickets/readme.txt
+/wp-content/plugins/age-restriction/readme.txt
+/wp-content/plugins/all-bootstrap-blocks/readme.txt
+/wp-content/plugins/b-slider/readme.txt
+/wp-content/plugins/aftership-woocommerce-tracking/readme.txt
+/wp-content/themes/makeaholic/style.css

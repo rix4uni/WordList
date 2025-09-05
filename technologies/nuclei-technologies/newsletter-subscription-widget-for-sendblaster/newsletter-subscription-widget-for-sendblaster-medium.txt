@@ -1,0 +1,1 @@
+/wp-content/plugins/newsletter-subscription-widget-for-sendblaster/readme.txt

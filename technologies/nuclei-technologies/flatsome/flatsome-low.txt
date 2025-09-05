@@ -1,1 +1,2 @@
 /wp-content/themes/flatsome/style.css
+/wp-content/plugins/flatsome/readme.txt

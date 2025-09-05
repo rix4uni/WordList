@@ -328,3 +328,9 @@
 /wp-content/themes/lettery/style.css
 /wp-content/themes/minterio/style.css
 /wp-content/themes/starbelly/style.css
+/wp-content/themes/neresa-wp/style.css
+/wp-content/themes/magazine-saga/style.css
+/wp-content/themes/jannah/style.css
+/wp-content/themes/ireca/style.css
+/wp-content/themes/cars4rent/style.css
+/wp-content/themes/nuss/style.css

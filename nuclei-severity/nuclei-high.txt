@@ -8751,3 +8751,17 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/wpopal-core-features/readme.txt
 /wp-content/plugins/users-import-export-with-excel-for-wp/readme.txt
 /wp-content/plugins/woo-product-excel-importer/readme.txt
+/wp-content/plugins/aftership-woocommerce-tracking/readme.txt
+/wp-content/plugins/age-restriction/readme.txt
+/wp-content/plugins/all-bootstrap-blocks/readme.txt
+/wp-content/plugins/b-slider/readme.txt
+/wp-content/plugins/b-tiktok-feed/readme.txt
+/wp-content/themes/makeaholic/style.css
+/wp-content/plugins/page-manager-for-elementor/readme.txt
+/wp-content/plugins/wp-bulk-delete/readme.txt
+/contact/
+/contact-us/
+/submit/
+/support/
+/form/
+/get-in-touch/

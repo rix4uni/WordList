@@ -1,0 +1,1 @@
+/wp-content/plugins/goal-tracker-for-patreon/readme.txt

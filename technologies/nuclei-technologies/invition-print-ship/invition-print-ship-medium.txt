@@ -1,0 +1,1 @@
+/wp-content/plugins/invition-print-ship/readme.txt

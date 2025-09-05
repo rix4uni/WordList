@@ -5,3 +5,11 @@
 /seeyon/thirdpartyController.do
 /cgi-bin/MANGA/index.cgi
 /_common_CS_v6/aspx/ckeditor/ImageBrowser.aspx
+/contact/
+/contact-us/
+/submit/
+/support/
+/form/
+/get-in-touch/
+/wp-admin/admin-ajax.php
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt

