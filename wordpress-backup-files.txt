@@ -218,7 +218,6 @@ grafana
 grafana/login
 grafana/api/health
 grafana/public/build/manifest.json
-grafana/public/build/app.*.js
 grafana/conf/defaults.ini
 grafana/conf/custom.ini
 grafana/conf/provisioning/datasources/datasources.yaml
