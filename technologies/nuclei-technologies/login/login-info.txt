@@ -342,3 +342,5 @@
 /phoenix/login.html
 /lc/libs/livecycle/core/content/login.html
 /MagicInfo/login
+/api/v1/info
+/api/v2/info

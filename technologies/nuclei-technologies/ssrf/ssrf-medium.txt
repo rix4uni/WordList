@@ -46,3 +46,4 @@
 /v1/graphql
 /query
 /o/get/httpmeta?url=https://{{interactsh-url}}
+/?cb={{cache-buster}}

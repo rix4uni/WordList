@@ -5,3 +5,4 @@
 /api/graphql
 /v1/graphql
 /query
+/?cb={{cache-buster}}

@@ -14,3 +14,4 @@
 /geoserver/ows?service=WFS
 /wfs?service=WFS
 /ows?service=WFS
+/posts?authorMatch={

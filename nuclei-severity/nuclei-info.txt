@@ -2390,3 +2390,4 @@
 /MagicInfo/config.js
 /MagicInfo/login
 /api/providers
+/api/v2/info

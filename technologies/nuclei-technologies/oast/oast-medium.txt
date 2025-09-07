@@ -22,3 +22,4 @@
 /Images/Remote?imageUrl=http://interact.sh/
 /Items/RemoteSearch/Image?ImageUrl=http://interact.sh/&ProviderName=TheMovieDB
 /v1/avatars/favicon?url=http://{{interactsh-url}}
+/?cb={{cache-buster}}

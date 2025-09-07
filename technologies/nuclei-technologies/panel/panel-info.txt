@@ -888,3 +888,4 @@
 /version
 /lc/libs/livecycle/core/content/login.html
 /MagicInfo/login
+/api/v2/info

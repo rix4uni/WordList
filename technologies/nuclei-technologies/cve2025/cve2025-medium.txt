@@ -24,3 +24,4 @@
 /?ru&filter=%3C%2Fscript%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
 /commandcenter/publicLink.do
 /xwiki/bin/view/Main/?foo=bar&foo_syntax=invalid&RequiresHTMLConversion=foo&xerror=https://oast.me
+/?cb={{cache-buster}}
