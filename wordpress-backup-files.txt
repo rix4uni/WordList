@@ -71,7 +71,6 @@ wp-content/error.log
 .DS_Store
 install.php
 upgrade.php
-license.txt
 readme.html
 wp-admin/install.php
 wp-admin/upgrade.php
