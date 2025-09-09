@@ -2509,3 +2509,6 @@
 /wp-content/plugins/b-slider/readme.txt
 /wp-content/plugins/aftership-woocommerce-tracking/readme.txt
 /wp-content/themes/makeaholic/style.css
+/wp-content/themes/goza-theme/style.css
+/wp-content/plugins/cloud-sso-single-sign-on/readme.txt
+/wp-content/themes/rehub-theme/style.css

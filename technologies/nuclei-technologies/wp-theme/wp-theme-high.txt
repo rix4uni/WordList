@@ -476,3 +476,4 @@
 /wp-content/themes/onepress/style.css
 /wp-content/themes/wp-foodbakery/style.css
 /wp-content/themes/makeaholic/style.css
+/wp-content/themes/goza-theme/style.css

@@ -2257,3 +2257,4 @@
 /wp-content/plugins/wp-helpdesk-integration/readme.txt
 /wp-content/themes/cars4rent/style.css
 /wp-content/themes/nuss/style.css
+/wp-content/themes/doccure/style.css

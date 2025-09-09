@@ -7298,3 +7298,12 @@
 /wp-content/plugins/flatsome/readme.txt
 /wp-content/plugins/atec-debug/readme.txt
 /wp-content/plugins/easy-timer/readme.txt
+/wp-content/plugins/elex-woocommerce-google-product-feed-plugin-basic/readme.txt
+/wp-content/plugins/recent-posts-widget-extended/readme.txt
+/wp-content/plugins/biagiotti-core/readme.txt
+/wp-content/plugins/mikado-core/readme.txt
+/wp-content/plugins/wilmer-core/readme.txt
+/wp-content/themes/doccure/style.css
+/wp-content/plugins/smart-table-builder/readme.txt
+/wp-content/plugins/admin-menu-editor/readme.txt
+/wp-content/plugins/html-social-share-buttons/readme.txt

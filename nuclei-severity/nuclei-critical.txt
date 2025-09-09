@@ -3672,3 +3672,4 @@ pathCache.php
 /wp-content/themes/cars4rent/style.css
 /wp-content/themes/nuss/style.css
 /posts?authorMatch={
+/wp-content/themes/doccure/style.css

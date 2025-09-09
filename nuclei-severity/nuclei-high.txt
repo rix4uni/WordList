@@ -8765,3 +8765,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /support/
 /form/
 /get-in-touch/
+/wp-content/plugins/cloud-sso-single-sign-on/readme.txt
+/wp-content/themes/goza-theme/style.css

@@ -334,3 +334,4 @@
 /wp-content/themes/ireca/style.css
 /wp-content/themes/cars4rent/style.css
 /wp-content/themes/nuss/style.css
+/wp-content/themes/doccure/style.css

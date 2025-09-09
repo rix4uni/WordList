@@ -1,0 +1,1 @@
+/wp-content/plugins/biagiotti-core/readme.txt

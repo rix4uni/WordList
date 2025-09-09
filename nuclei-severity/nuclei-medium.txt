@@ -13166,3 +13166,4 @@ config/settings.old.php
 /wp-content/plugins/invition-print-ship/readme.txt
 /wp-content/plugins/woocommerce-payment-gateway-for-saferpay/readme.txt
 /?cb={{cache-buster}}
+/wp-content/themes/rehub-theme/style.css

@@ -10357,3 +10357,4 @@
 /wp-content/plugins/captcha-eu/readme.txt
 /wp-content/plugins/instant-breaking-news/readme.txt
 /wp-content/plugins/popad/readme.txt
+/wp-content/themes/rehub-theme/style.css

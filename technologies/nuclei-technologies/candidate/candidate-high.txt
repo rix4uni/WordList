@@ -3659,3 +3659,5 @@
 /wp-content/themes/makeaholic/style.css
 /wp-content/plugins/page-manager-for-elementor/readme.txt
 /wp-content/plugins/wp-bulk-delete/readme.txt
+/wp-content/plugins/cloud-sso-single-sign-on/readme.txt
+/wp-content/themes/goza-theme/style.css

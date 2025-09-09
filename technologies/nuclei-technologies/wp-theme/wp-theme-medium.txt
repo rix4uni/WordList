@@ -687,3 +687,4 @@
 /wp-content/themes/photobox/style.css
 /wp-content/themes/sidepane/style.css
 /wp-content/themes/slide/style.css
+/wp-content/themes/rehub-theme/style.css
