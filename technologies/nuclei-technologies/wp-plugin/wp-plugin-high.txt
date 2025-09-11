@@ -5407,3 +5407,17 @@
 /wp-content/plugins/page-manager-for-elementor/readme.txt
 /wp-content/plugins/wp-bulk-delete/readme.txt
 /wp-content/plugins/cloud-sso-single-sign-on/readme.txt
+/wp-content/plugins/posts-data-table/readme.txt
+/wp-content/plugins/peachpay-for-woocommerce/readme.txt
+/wp-content/plugins/payoneer-checkout/readme.txt
+/wp-content/plugins/intelligent-importer/readme.txt
+/wp-content/plugins/ecommerce-product-carousel-slider-for-elementor/readme.txt
+/wp-content/plugins/f4-media-taxonomies/readme.txt
+/wp-content/plugins/gutentor/readme.txt
+/wp-content/plugins/media-author/readme.txt
+/wp-content/plugins/mega-forms/readme.txt
+/wp-content/plugins/mobile-contact-line/readme.txt
+/wp-content/plugins/order-delivery-date-for-woocommerce/readme.txt
+/wp-content/plugins/reepay-checkout-gateway/readme.txt
+/wp-content/plugins/simple-price-calculator-basic/readme.txt
+/wp-content/plugins/wp-malware-removal/readme.txt

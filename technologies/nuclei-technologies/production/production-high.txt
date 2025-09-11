@@ -2512,3 +2512,9 @@
 /wp-content/themes/goza-theme/style.css
 /wp-content/plugins/cloud-sso-single-sign-on/readme.txt
 /wp-content/themes/rehub-theme/style.css
+/wp-content/plugins/surferseo/readme.txt
+/wp-content/plugins/posts-data-table/readme.txt
+/wp-content/plugins/peachpay-for-woocommerce/readme.txt
+/wp-content/plugins/support-genix-lite/readme.txt
+/wp-content/plugins/payoneer-checkout/readme.txt
+/wp-content/plugins/intelligent-importer/readme.txt

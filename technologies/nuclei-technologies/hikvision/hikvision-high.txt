@@ -7,3 +7,4 @@
 /portal/conf/config.properties
 /onvif-http/snapshot?auth=YWRtaW46MTEK
 /serverLog/downFile.php?fileName=../web/html/serverLog/downFile.php
+/Security/users?auth={{b64auth}}

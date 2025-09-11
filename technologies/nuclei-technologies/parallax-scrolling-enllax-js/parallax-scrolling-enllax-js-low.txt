@@ -1,0 +1,1 @@
+/wp-content/plugins/parallax-scrolling-enllax-js/readme.txt

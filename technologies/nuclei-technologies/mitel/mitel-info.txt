@@ -2,3 +2,4 @@
 /portal/
 /wd/en-us/wapplink.asp
 /ucs/micollab/version.json
+/npm-admin/showLoginPage.do

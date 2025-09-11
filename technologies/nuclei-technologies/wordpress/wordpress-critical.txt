@@ -2282,3 +2282,5 @@
 /wp-content/themes/cars4rent/style.css
 /wp-content/themes/nuss/style.css
 /wp-content/themes/doccure/style.css
+/wp-content/plugins/beyondcart/readme.txt
+/wp-content/plugins/all-in-one-minifier/readme.txt

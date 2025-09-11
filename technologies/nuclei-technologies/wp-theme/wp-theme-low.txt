@@ -487,3 +487,7 @@
 /wp-content/themes/minimog/style.css
 /wp-content/themes/pin-wp/style.css
 /wp-content/themes/doccure/style.css
+/wp-content/themes/saaslauncher/style.css
+/wp-content/themes/consultstreet/style.css
+/wp-content/themes/softme/style.css
+/wp-content/themes/shk-corporate/style.css

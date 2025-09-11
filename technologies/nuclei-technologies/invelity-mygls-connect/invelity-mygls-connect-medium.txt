@@ -1,0 +1,1 @@
+/wp-content/plugins/invelity-mygls-connect/readme.txt

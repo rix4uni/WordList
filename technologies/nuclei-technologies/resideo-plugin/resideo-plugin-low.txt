@@ -1,0 +1,1 @@
+/wp-content/plugins/resideo-plugin/readme.txt

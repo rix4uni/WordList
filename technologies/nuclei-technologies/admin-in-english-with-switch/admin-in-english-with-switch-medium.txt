@@ -1,0 +1,1 @@
+/wp-content/plugins/admin-in-english-with-switch/readme.txt

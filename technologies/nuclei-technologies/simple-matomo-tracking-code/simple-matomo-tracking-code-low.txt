@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-matomo-tracking-code/readme.txt

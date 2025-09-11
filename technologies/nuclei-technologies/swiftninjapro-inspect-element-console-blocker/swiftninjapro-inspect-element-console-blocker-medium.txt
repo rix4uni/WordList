@@ -1,0 +1,1 @@
+/wp-content/plugins/swiftninjapro-inspect-element-console-blocker/readme.txt

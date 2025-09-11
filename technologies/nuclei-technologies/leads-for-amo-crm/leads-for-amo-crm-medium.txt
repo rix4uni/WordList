@@ -1,0 +1,1 @@
+/wp-content/plugins/leads-for-amo-crm/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/intelligent-importer/readme.txt

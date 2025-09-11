@@ -1,0 +1,1 @@
+/wp-content/plugins/ulimate-client-dash/readme.txt

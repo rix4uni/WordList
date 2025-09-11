@@ -42,3 +42,4 @@
 /eid-management
 /eid-management-new
 /bulk-profile-operation
+/Security/users?auth={{b64auth}}

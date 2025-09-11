@@ -1,1 +1,2 @@
 /wp-content/themes/jobify/style.css
+/wp-content/plugins/jobify/readme.txt

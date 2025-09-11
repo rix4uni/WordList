@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-flash-embed/readme.txt

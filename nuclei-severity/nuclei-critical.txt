@@ -3673,3 +3673,5 @@ pathCache.php
 /wp-content/themes/nuss/style.css
 /posts?authorMatch={
 /wp-content/themes/doccure/style.css
+/wp-content/plugins/all-in-one-minifier/readme.txt
+/wp-content/plugins/beyondcart/readme.txt

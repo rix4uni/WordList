@@ -1571,3 +1571,4 @@
 /wp-content/plugins/wp-helpdesk-integration/readme.txt
 /wp-content/plugins/youtube-showcase/readme.txt
 /wp-content/themes/doccure/style.css
+/wp-content/plugins/all-in-one-minifier/readme.txt

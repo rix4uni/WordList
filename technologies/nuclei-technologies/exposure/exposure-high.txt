@@ -506,3 +506,4 @@ _vti_pvt/authors.pwd
 /api/config
 /api/settings
 {{path}}
+/Security/users?auth={{b64auth}}

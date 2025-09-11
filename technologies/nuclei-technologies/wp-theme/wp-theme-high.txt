@@ -477,3 +477,6 @@
 /wp-content/themes/wp-foodbakery/style.css
 /wp-content/themes/makeaholic/style.css
 /wp-content/themes/goza-theme/style.css
+/wp-content/themes/saaslauncher/style.css
+/wp-content/themes/shk-corporate/style.css
+/wp-content/themes/softme/style.css
