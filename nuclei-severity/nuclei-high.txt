@@ -8786,3 +8786,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/themes/softme/style.css
 /wp-content/plugins/wp-malware-removal/readme.txt
 /wp-content/plugins/intelligent-importer/readme.txt
+/wp-content/plugins/exitintentpopup/readme.txt

@@ -92,3 +92,4 @@
 /roundcube/installer/index.php
 /pbxcore/api/files/uploadFile
 /admin-cabinet/§extracted_path§?{{wait_for(5)}}
+/admin/ajax.php?module=FreePBX%5Cmodules%5Cendpoint%5Cajax&command=model&template=x&model=model&brand=x

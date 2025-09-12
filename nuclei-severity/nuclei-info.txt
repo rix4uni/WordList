@@ -2392,3 +2392,4 @@
 /api/providers
 /api/v2/info
 /npm-admin/showLoginPage.do
+/api/v1.0/web/retained-data

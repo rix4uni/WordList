@@ -1909,3 +1909,5 @@
 /wp-content/themes/doccure/style.css
 /wp-content/plugins/beyondcart/readme.txt
 /wp-content/plugins/all-in-one-minifier/readme.txt
+/wp-content/themes/ziston/style.css
+/wp-content/themes/miraculous/style.css

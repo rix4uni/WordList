@@ -5647,3 +5647,5 @@
 /wp-content/plugins/wp-likes/readme.txt
 /wp-content/plugins/wpblast/readme.txt
 /wp-content/plugins/zoho-flow/readme.txt
+/wp-content/plugins/side-slide-responsive-menu/readme.txt
+/wp-content/plugins/ultimate-blogroll/readme.txt

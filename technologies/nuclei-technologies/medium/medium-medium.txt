@@ -10015,3 +10015,6 @@
 /wp-content/plugins/lh-signing/readme.txt
 /wp-content/plugins/plugin-update-blocker/readme.txt
 /wp-content/plugins/analytics-unbounce/readme.txt
+/wp-content/plugins/ninja-charts/readme.txt
+/wp-content/plugins/side-slide-responsive-menu/readme.txt
+/wp-content/plugins/ultimate-blogroll/readme.txt

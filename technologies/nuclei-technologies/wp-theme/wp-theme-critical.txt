@@ -335,3 +335,6 @@
 /wp-content/themes/cars4rent/style.css
 /wp-content/themes/nuss/style.css
 /wp-content/themes/doccure/style.css
+/wp-content/themes/ziston/style.css
+/wp-content/themes/miraculous/style.css
+/wp-content/themes/oblo/style.css

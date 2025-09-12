@@ -209,3 +209,4 @@
 /rest/version
 /webjars/swagger-ui/swagger-ui-bundle.js
 /scalar
+/api/v1.0/web/retained-data

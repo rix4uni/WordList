@@ -1,0 +1,1 @@
+/wp-content/plugins/spirit-framework/readme.txt

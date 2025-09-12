@@ -3675,3 +3675,8 @@ pathCache.php
 /wp-content/themes/doccure/style.css
 /wp-content/plugins/all-in-one-minifier/readme.txt
 /wp-content/plugins/beyondcart/readme.txt
+/wp-content/themes/miraculous/style.css
+/wp-content/themes/oblo/style.css
+/wp-content/themes/ziston/style.css
+/api/v1.0/web/retained-data
+/admin/ajax.php?module=FreePBX%5Cmodules%5Cendpoint%5Cajax&command=model&template=x&model=model&brand=x

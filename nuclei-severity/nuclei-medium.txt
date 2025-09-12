@@ -13209,3 +13209,7 @@ config/settings.old.php
 /wp-content/plugins/zoho-flow/readme.txt
 /portal/XsltResultControllerHtml.jsp?xslContent=&interfaceInstanceId=&lumPageId=<script>confirm(document.domain)</script>&xslContentFilePath=
 /XsltResultControllerHtml.jsp?xslContent=&interfaceInstanceId=&lumPageId=<script>confirm(document.domain)</script>&xslContentFilePath=
+/wp-content/plugins/side-slide-responsive-menu/readme.txt
+/wp-content/plugins/ultimate-blogroll/readme.txt
+/o/get/resource?url=https://{{interactsh-url}}
+/wp-content/plugins/ninja-charts/readme.txt

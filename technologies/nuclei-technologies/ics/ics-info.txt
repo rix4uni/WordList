@@ -12,3 +12,4 @@
 /dana-na/auth/url_admin/welcome.cgi?type=inter
 /en/login-admin.html
 /version
+/api/v1.0/web/retained-data

@@ -5421,3 +5421,4 @@
 /wp-content/plugins/reepay-checkout-gateway/readme.txt
 /wp-content/plugins/simple-price-calculator-basic/readme.txt
 /wp-content/plugins/wp-malware-removal/readme.txt
+/wp-content/plugins/exitintentpopup/readme.txt
