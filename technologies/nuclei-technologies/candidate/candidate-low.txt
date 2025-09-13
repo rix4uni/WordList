@@ -7174,3 +7174,4 @@
 /wp-content/plugins/wpa-seo-auto-linker/readme.txt
 /wp-content/plugins/wpb-image-widget/readme.txt
 /wp-content/plugins/zoom-image-shortcode/readme.txt
+/wp-content/plugins/hackrepair-plugin-archiver/readme.txt

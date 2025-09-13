@@ -4,3 +4,4 @@
 /auth/logout?id=$(id)
 /auth/logout
 /client/index.php%3F.php/gsb/users.php
+/dana-na/auth/url_default/welcome.cgi

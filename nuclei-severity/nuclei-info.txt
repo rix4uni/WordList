@@ -2393,3 +2393,8 @@
 /api/v2/info
 /npm-admin/showLoginPage.do
 /api/v1.0/web/retained-data
+/openmessaging.asmx?wsdl
+/tecopenmessaging/openmessaging.asmx?wsdl
+/tomconnect/openmessaging.asmx?wsdl
+/tomconnect_apo/openmessaging.asmx?wsdl
+/tompreprod/openmessaging.asmx?wsdl

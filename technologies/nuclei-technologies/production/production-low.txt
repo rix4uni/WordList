@@ -7409,3 +7409,4 @@
 /wp-content/plugins/new-simple-gallery/readme.txt
 /wp-content/plugins/embed-google-data-studio/readme.txt
 /wp-content/plugins/spotify-embed-creator/readme.txt
+/wp-content/plugins/hackrepair-plugin-archiver/readme.txt

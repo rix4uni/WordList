@@ -8427,3 +8427,4 @@
 /wp-content/plugins/bonus-for-woo/readme.txt
 /wp-content/plugins/exitintentpopup/readme.txt
 /wp-content/plugins/ninja-charts/readme.txt
+/wp-content/plugins/hackrepair-plugin-archiver/readme.txt
