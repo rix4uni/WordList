@@ -490,3 +490,4 @@
 /api/system/options/core.email
 /install/index.html
 /namespaces
+/organization-setup

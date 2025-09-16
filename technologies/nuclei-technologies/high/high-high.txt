@@ -5781,3 +5781,4 @@
 /wp-content/themes/softme/style.css
 /wp-content/plugins/wp-malware-removal/readme.txt
 /wp-content/plugins/exitintentpopup/readme.txt
+/wp-content/plugins/pdf-generator-for-wp/readme.txt

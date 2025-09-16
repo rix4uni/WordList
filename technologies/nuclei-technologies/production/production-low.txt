@@ -7410,3 +7410,7 @@
 /wp-content/plugins/embed-google-data-studio/readme.txt
 /wp-content/plugins/spotify-embed-creator/readme.txt
 /wp-content/plugins/hackrepair-plugin-archiver/readme.txt
+/wp-content/plugins/pdf-generator-for-wp/readme.txt
+/wp-content/plugins/pixelines-email-protector/readme.txt
+/wp-content/plugins/dynamic-text-field-for-contact-form-7/readme.txt
+/wp-content/plugins/blaze-demo-importer/readme.txt

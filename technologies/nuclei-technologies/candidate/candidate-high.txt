@@ -3679,3 +3679,5 @@
 /wp-content/plugins/simple-price-calculator-basic/readme.txt
 /wp-content/themes/softme/style.css
 /wp-content/plugins/wp-malware-removal/readme.txt
+/wp-content/plugins/pdf-generator-for-wp/readme.txt
+/wp-content/plugins/searchpro/readme.txt

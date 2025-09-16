@@ -13213,3 +13213,16 @@ config/settings.old.php
 /wp-content/plugins/ultimate-blogroll/readme.txt
 /o/get/resource?url=https://{{interactsh-url}}
 /wp-content/plugins/ninja-charts/readme.txt
+/wp-content/themes/butterbelly/style.css
+/wp-content/themes/mow/style.css
+/wp-content/plugins/woo-booking-bundle-hours/readme.txt
+/wp-content/themes/cloriato-lite/style.css
+/wp-content/themes/compass/style.css
+/wp-login.php?action=lostpassword&error=invalidkey
+/wp-content/themes/dzonia-lite/style.css
+/wp-content/themes/poloray/style.css
+/wp-content/themes/rethink/style.css
+/wp-content/themes/road-fighter/style.css
+/wp-content/themes/themia-lite/style.css
+/wp-content/plugins/wp-mailgun-smtp/readme.txt
+/wp-content/plugins/wp-sendgrid-smtp/readme.txt

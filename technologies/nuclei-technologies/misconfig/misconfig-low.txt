@@ -220,3 +220,7 @@
 /cdn-cgi/image/width=1000,format=auto/https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg
 /api/server
 /?f=\[
+/_vti_inf.html
+/_vti_pvt/service.cnf
+/_vti_pvt/access.cnf
+/_vti_txt/default.wti/All.cat

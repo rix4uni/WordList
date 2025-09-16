@@ -1,2 +1,5 @@
 /_vti_inf.html
 /autodiscover/autodiscover.json/v1.0/{{randstr}}@interact.sh?Protocol=Autodiscoverv1
+/_vti_pvt/service.cnf
+/_vti_pvt/access.cnf
+/_vti_txt/default.wti/All.cat

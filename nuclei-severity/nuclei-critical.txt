@@ -3681,3 +3681,5 @@ pathCache.php
 /api/v1.0/web/retained-data
 /admin/ajax.php?module=FreePBX%5Cmodules%5Cendpoint%5Cajax&command=model&template=x&model=model&brand=x
 /dana-na/auth/url_default/welcome.cgi
+{{js}}
+/sse?transportType=stdio&command=echo&args[]=hello-from-brower

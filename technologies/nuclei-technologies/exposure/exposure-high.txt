@@ -507,3 +507,4 @@ _vti_pvt/authors.pwd
 /api/settings
 {{path}}
 /Security/users?auth={{b64auth}}
+/organization-setup

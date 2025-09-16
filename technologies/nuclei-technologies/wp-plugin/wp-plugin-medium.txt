@@ -9643,3 +9643,7 @@
 /wp-content/plugins/ninja-charts/readme.txt
 /wp-content/plugins/side-slide-responsive-menu/readme.txt
 /wp-content/plugins/ultimate-blogroll/readme.txt
+/wp-login.php?action=lostpassword&error=invalidkey
+/wp-content/plugins/woo-booking-bundle-hours/readme.txt
+/wp-content/plugins/wp-mailgun-smtp/readme.txt
+/wp-content/plugins/wp-sendgrid-smtp/readme.txt

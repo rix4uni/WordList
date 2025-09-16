@@ -1,0 +1,1 @@
+/wp-content/plugins/pdf-generator-for-wp/readme.txt

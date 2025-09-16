@@ -8792,3 +8792,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /..%5c..%5c..%5c..%5c..%5c..%5cwindows/win.ini
 /..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini
 /../../../../../../windows/win.ini
+/wp-content/plugins/pdf-generator-for-wp/readme.txt
+/organization-setup

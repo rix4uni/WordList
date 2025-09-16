@@ -1,0 +1,1 @@
+/wp-content/plugins/woo-booking-bundle-hours/readme.txt

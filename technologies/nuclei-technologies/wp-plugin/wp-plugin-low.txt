@@ -7959,3 +7959,9 @@
 /wp-content/plugins/exitintentpopup/readme.txt
 /wp-content/plugins/ninja-charts/readme.txt
 /wp-content/plugins/hackrepair-plugin-archiver/readme.txt
+/wp-content/plugins/pdf-generator-for-wp/readme.txt
+/wp-content/plugins/pixelines-email-protector/readme.txt
+/wp-content/plugins/dynamic-text-field-for-contact-form-7/readme.txt
+/wp-content/plugins/blaze-demo-importer/readme.txt
+/wp-content/plugins/wp-mailgun-smtp/readme.txt
+/wp-content/plugins/wp-sendgrid-smtp/readme.txt

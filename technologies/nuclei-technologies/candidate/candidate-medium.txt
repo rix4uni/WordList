@@ -5649,3 +5649,5 @@
 /wp-content/plugins/zoho-flow/readme.txt
 /wp-content/plugins/side-slide-responsive-menu/readme.txt
 /wp-content/plugins/ultimate-blogroll/readme.txt
+/wp-content/themes/mow/style.css
+/wp-content/plugins/woo-booking-bundle-hours/readme.txt

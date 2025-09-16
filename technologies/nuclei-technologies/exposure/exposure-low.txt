@@ -378,3 +378,7 @@
 /sync.sh
 /test.sh
 /#/pipelines
+/_vti_inf.html
+/_vti_pvt/service.cnf
+/_vti_pvt/access.cnf
+/_vti_txt/default.wti/All.cat

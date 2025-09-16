@@ -1,0 +1,1 @@
+/wp-content/plugins/dynamic-text-field-for-contact-form-7/readme.txt
