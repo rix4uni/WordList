@@ -1,0 +1,1 @@
+/wp-content/themes/translang/style.css

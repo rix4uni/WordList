@@ -1,0 +1,1 @@
+/wp-content/themes/alpha-color/style.css

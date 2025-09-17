@@ -152,3 +152,4 @@
 /
 /wp-admin/options-general.php?page=login-configurator-options&tab=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E#top
 /wp-login.php?action=lostpassword&error=invalidkey
+/wp-content/plugins/protect-wp-admin/readme.txt

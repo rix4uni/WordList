@@ -1,0 +1,1 @@
+/wp-content/themes/plastica/style.css

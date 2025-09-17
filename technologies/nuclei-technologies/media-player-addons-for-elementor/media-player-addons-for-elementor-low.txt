@@ -1,0 +1,1 @@
+/wp-content/plugins/media-player-addons-for-elementor/readme.txt

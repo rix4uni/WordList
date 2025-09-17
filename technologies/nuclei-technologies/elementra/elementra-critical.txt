@@ -1,0 +1,1 @@
+/wp-content/themes/elementra/style.css

@@ -9373,3 +9373,10 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /_vti_pvt/service.cnf
 /_vti_pvt/access.cnf
 /_vti_txt/default.wti/All.cat
+/wp-content/plugins/appointmind/readme.txt
+/wp-content/plugins/developer-loggers-for-simple-history/readme.txt
+/wp-content/plugins/media-player-addons-for-elementor/readme.txt
+/wp-content/plugins/productive-style/readme.txt
+/wp-content/plugins/storeengine/readme.txt
+/wp-content/themes/sydney/style.css
+/wp-content/plugins/zip-code-based-content-protection/readme.txt

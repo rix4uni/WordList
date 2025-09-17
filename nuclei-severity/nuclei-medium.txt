@@ -13226,3 +13226,6 @@ config/settings.old.php
 /wp-content/themes/themia-lite/style.css
 /wp-content/plugins/wp-mailgun-smtp/readme.txt
 /wp-content/plugins/wp-sendgrid-smtp/readme.txt
+/wp-content/plugins/hackrepair-plugin-archiver/readme.txt
+/wp-content/plugins/user-sync/readme.txt
+/wp-content/plugins/uss-upyun/readme.txt

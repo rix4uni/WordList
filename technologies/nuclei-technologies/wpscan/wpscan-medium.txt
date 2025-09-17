@@ -219,3 +219,4 @@
 /dompdf.php
 /wp-content/plugins/
 /wp-login.php?action=lostpassword&error=invalidkey
+/wp-content/plugins/protect-wp-admin/readme.txt
