@@ -1,2 +1,3 @@
 /data/login
 /sysmgmt/2015/bmc/session
+/cgi-bin/dynamic/config/secure/security.html

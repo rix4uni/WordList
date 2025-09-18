@@ -3,3 +3,4 @@
 /hosts
 /config/cam_portal.cgi
 /public/login.htm?type=treestat
+/amr

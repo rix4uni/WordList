@@ -13229,3 +13229,4 @@ config/settings.old.php
 /wp-content/plugins/hackrepair-plugin-archiver/readme.txt
 /wp-content/plugins/user-sync/readme.txt
 /wp-content/plugins/uss-upyun/readme.txt
+/amr

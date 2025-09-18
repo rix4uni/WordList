@@ -7196,3 +7196,4 @@
 /wp-content/themes/sydney/style.css
 /wp-content/plugins/woocommerce-fortnox-integration/readme.txt
 /wp-content/plugins/zip-code-based-content-protection/readme.txt
+/wp-content/plugins/ghostkit/readme.txt

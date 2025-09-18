@@ -491,3 +491,4 @@
 /install/index.html
 /namespaces
 /organization-setup
+/cgi-bin/dynamic/config/secure/security.html

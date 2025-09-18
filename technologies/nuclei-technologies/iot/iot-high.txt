@@ -43,3 +43,4 @@
 /eid-management-new
 /bulk-profile-operation
 /Security/users?auth={{b64auth}}
+/cgi-bin/dynamic/config/secure/security.html

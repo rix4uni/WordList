@@ -8794,3 +8794,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /../../../../../../windows/win.ini
 /wp-content/plugins/pdf-generator-for-wp/readme.txt
 /organization-setup
+/cgi-bin/dynamic/config/secure/security.html

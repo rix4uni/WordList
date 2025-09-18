@@ -8449,3 +8449,4 @@
 /wp-content/plugins/media-player-addons-for-elementor/readme.txt
 /wp-content/plugins/storeengine/readme.txt
 /wp-content/plugins/appointmind/readme.txt
+/wp-content/plugins/ghostkit/readme.txt
