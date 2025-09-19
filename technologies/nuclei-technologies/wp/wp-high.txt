@@ -95,3 +95,4 @@
 /form/
 /get-in-touch/
 /wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt
+/wp-content/plugins/uix-shortcodes/readme.txt

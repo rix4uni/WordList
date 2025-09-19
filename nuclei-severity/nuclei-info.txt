@@ -2400,3 +2400,4 @@
 /tompreprod/openmessaging.asmx?wsdl
 {{js}}
 /cgi-mod/index.cgi
+/actuator%72

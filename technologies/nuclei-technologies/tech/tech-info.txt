@@ -878,3 +878,4 @@
 /tomconnect_apo/openmessaging.asmx?wsdl
 /tompreprod/openmessaging.asmx?wsdl
 {{js}}
+/actuator%72

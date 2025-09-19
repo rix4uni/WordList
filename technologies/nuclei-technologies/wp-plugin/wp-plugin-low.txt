@@ -7972,3 +7972,4 @@
 /wp-content/plugins/storeengine/readme.txt
 /wp-content/plugins/appointmind/readme.txt
 /wp-content/plugins/ghostkit/readme.txt
+/wp-content/plugins/embed-pdf-wpforms/readme.txt

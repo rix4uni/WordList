@@ -74,3 +74,4 @@
 /?p={{post_id}}&0=type+C:\\windows\\win.ini
 /?p={{post_id}}&0=type+..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\windows\\win.ini
 /wp-admin/admin.php/
+/wp-content/plugins/nd-booking/readme.txt

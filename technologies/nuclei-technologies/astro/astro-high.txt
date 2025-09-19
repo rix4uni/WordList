@@ -1,2 +1,1 @@
-/wp-content/plugins/cloudflare/readme.txt
 /_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg

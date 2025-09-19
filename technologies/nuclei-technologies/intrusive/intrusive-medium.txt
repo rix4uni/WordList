@@ -69,3 +69,4 @@
 /OA_HTML/ieuiMeetingErrorDisplay.jsp%3FErrCode%3D%27%22%3E%3Csvg%2Fonload%3Dalert(
 /?{{randstr}}=wp-signup
 /?{{randstr}}=wp-activate
+/wp-content/plugins/nd-booking/readme.txt

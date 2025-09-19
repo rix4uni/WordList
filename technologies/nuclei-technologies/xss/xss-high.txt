@@ -199,3 +199,4 @@
 /joomla/greenery_hub/index.php?option=com_solidres&task=hub.updateFilter&location=d2tff&ordering=distance&direction=asc&prices=
 /joomla/greenery_hub/index.php/en/hotels/reservations?location=
 /joomla/greenery_hub/index.php/en/hotels/reservations?location=italy&checkin=27-07-2023&checkout=28-07-2023&option=com_solidres&task=hub.search&Itemid=
+/_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg

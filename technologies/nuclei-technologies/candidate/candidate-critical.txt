@@ -1662,3 +1662,4 @@
 /wp-content/themes/wine-house/style.css
 /wp-content/themes/wise-move/style.css
 /wp-content/themes/wotahub/style.css
+/wp-content/plugins/aone-sms/readme.txt

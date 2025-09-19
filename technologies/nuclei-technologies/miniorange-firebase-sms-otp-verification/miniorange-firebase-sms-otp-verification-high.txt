@@ -1,0 +1,1 @@
+/wp-content/plugins/miniorange-firebase-sms-otp-verification/readme.txt

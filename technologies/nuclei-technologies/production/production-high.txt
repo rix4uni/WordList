@@ -2519,3 +2519,4 @@
 /wp-content/plugins/payoneer-checkout/readme.txt
 /wp-content/plugins/intelligent-importer/readme.txt
 /wp-content/plugins/exitintentpopup/readme.txt
+/wp-content/plugins/miniorange-firebase-sms-otp-verification/readme.txt

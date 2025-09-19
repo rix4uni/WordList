@@ -19,3 +19,4 @@
 /dana-na/auth/url_default/welcome.cgi
 {{js}}
 /sse?transportType=stdio&command=echo&args[]=hello-from-brower
+/pbxcore/files/cache/§extracted_path§?{{wait_for(3)}}

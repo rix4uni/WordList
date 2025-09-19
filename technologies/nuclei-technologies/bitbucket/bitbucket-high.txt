@@ -1,6 +1,3 @@
-/oauth/authorize?response_type=${13337*73331}&client_id=acme&scope=openid&redirect_uri=http://test
-/auth/failure?provider={{redirect_payload}}
-/auth/failure?provider={{basic_xss}}
 /auth.json
 /.auth.json
 /config/auth.json

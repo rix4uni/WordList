@@ -15,3 +15,4 @@
 /actuator/status
 /management
 /management/info
+/actuator%72
