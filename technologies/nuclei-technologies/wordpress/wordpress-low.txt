@@ -8502,3 +8502,6 @@
 /wp-content/plugins/appointmind/readme.txt
 /wp-content/plugins/ghostkit/readme.txt
 /wp-content/plugins/embed-pdf-wpforms/readme.txt
+/wp-content/plugins/simple-draft-list/readme.txt
+/wp-content/plugins/secure-passkeys/readme.txt
+/wp-content/plugins/robcore-netatmo/readme.txt

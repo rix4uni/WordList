@@ -8853,3 +8853,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /credentials/auth.json
 /creds/auth.json
 /wp-content/plugins/miniorange-firebase-sms-otp-verification/readme.txt
+/{{route}}

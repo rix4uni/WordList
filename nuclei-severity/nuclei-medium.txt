@@ -13230,3 +13230,6 @@ config/settings.old.php
 /wp-content/plugins/user-sync/readme.txt
 /wp-content/plugins/uss-upyun/readme.txt
 /amr
+/wp-content/plugins/browser-sniff/readme.txt
+/wp-content/plugins/custom-login-and-signup-widget/readme.txt
+/wp-content/plugins/osticket-wp-bridge/readme.txt

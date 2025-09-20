@@ -1,0 +1,1 @@
+/wp-content/plugins/secure-passkeys/readme.txt

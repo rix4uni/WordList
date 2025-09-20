@@ -65,3 +65,4 @@
 /wp-admin/admin-ajax.php
 /wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt
 /organization-setup
+/{{route}}
