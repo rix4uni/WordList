@@ -3771,3 +3771,7 @@ pathCache.php
 /wp-content/themes/wise-move/style.css
 /wp-content/themes/wotahub/style.css
 /pbxcore/files/cache/§extracted_path§?{{wait_for(3)}}
+/wp-content/plugins/falang/readme.txt
+/wp-content/themes/leblix/style.css
+/wp-content/plugins/uni-woo-custom-product-options-premium/readme.txt
+/wp-content/plugins/wpcasa/readme.txt

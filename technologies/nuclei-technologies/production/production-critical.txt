@@ -1972,3 +1972,7 @@
 /wp-content/themes/tax-help/style.css
 /wp-content/themes/vagabonds/style.css
 /wp-content/themes/wise-move/style.css
+/wp-content/plugins/uni-woo-custom-product-options-premium/readme.txt
+/wp-content/plugins/falang/readme.txt
+/wp-content/themes/leblix/style.css
+/wp-content/plugins/wpcasa/readme.txt

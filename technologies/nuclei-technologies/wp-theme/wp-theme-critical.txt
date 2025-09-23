@@ -425,3 +425,4 @@
 /wp-content/themes/travesia/style.css
 /wp-content/themes/wine-house/style.css
 /wp-content/themes/wotahub/style.css
+/wp-content/themes/leblix/style.css

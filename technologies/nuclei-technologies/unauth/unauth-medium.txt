@@ -108,3 +108,5 @@ preview.php?controller=Load&action=index&catid=moztj%22%3E%3Cscript%3Ealert(docu
 /wp-login.php?action=lostpassword&error=invalidkey
 /wp-content/plugins/protect-wp-admin/readme.txt
 /amr
+/securityRealm/signup
+/jenkins/securityRealm/signup

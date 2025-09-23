@@ -1663,3 +1663,6 @@
 /wp-content/themes/wise-move/style.css
 /wp-content/themes/wotahub/style.css
 /wp-content/plugins/aone-sms/readme.txt
+/wp-content/plugins/falang/readme.txt
+/wp-content/themes/leblix/style.css
+/wp-content/plugins/uni-woo-custom-product-options-premium/readme.txt

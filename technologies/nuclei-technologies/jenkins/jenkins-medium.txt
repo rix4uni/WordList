@@ -5,3 +5,5 @@
 /gitlab/build_now%3Csvg/onload=alert(1337)%3E
 /signup
 /job/{{project_name}}/buildHistory/ajax?search={{search_string}}
+/securityRealm/signup
+/jenkins/securityRealm/signup

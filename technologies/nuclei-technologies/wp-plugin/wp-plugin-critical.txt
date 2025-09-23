@@ -1938,3 +1938,6 @@
 /wp-content/plugins/wp-helpdesk-integration/readme.txt
 /wp-content/plugins/beyondcart/readme.txt
 /wp-content/plugins/all-in-one-minifier/readme.txt
+/wp-content/plugins/uni-woo-custom-product-options-premium/readme.txt
+/wp-content/plugins/falang/readme.txt
+/wp-content/plugins/wpcasa/readme.txt

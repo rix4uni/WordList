@@ -8505,3 +8505,5 @@
 /wp-content/plugins/simple-draft-list/readme.txt
 /wp-content/plugins/secure-passkeys/readme.txt
 /wp-content/plugins/robcore-netatmo/readme.txt
+/wp-content/plugins/acf-views/readme.txt
+/wp-content/plugins/quantities-and-units-for-woocommerce/readme.txt
