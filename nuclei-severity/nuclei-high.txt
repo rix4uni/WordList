@@ -8855,3 +8855,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/miniorange-firebase-sms-otp-verification/readme.txt
 /{{route}}
 /wp-content/plugins/wide-banner/readme.txt
+/wp-content/plugins/WooCommerce-Multi-Locations-Inventory-Management/readme.txt

@@ -49,3 +49,4 @@
 /ows?service=WFS
 /locales/locale.json?locale=..%2F..%2Fconfig&namespace=app
 /admin/ajax.php?module=FreePBX%5Cmodules%5Cendpoint%5Cajax&command=model&template=x&model=model&brand=x
+/{{route}}

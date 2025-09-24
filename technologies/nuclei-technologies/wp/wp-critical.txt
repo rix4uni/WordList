@@ -51,3 +51,4 @@
 /wp-content/plugins/my-calendar/readme.txt
 /?rest_route=/my-calendar/v1/events&from=1
 /wp-content/plugins/yet-another-related-posts-plugin/includes/yarpp_pro_set_display_types.php?ypsdt=false&types[]=post&types[]=page
+/{{route}}

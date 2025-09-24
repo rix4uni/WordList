@@ -2521,3 +2521,4 @@
 /wp-content/plugins/exitintentpopup/readme.txt
 /wp-content/plugins/miniorange-firebase-sms-otp-verification/readme.txt
 /wp-content/plugins/wide-banner/readme.txt
+/wp-content/plugins/WooCommerce-Multi-Locations-Inventory-Management/readme.txt

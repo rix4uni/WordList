@@ -3682,3 +3682,4 @@
 /wp-content/plugins/pdf-generator-for-wp/readme.txt
 /wp-content/plugins/searchpro/readme.txt
 /wp-content/plugins/wide-banner/readme.txt
+/wp-content/plugins/WooCommerce-Multi-Locations-Inventory-Management/readme.txt
