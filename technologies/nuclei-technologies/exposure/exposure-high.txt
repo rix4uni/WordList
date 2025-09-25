@@ -564,3 +564,4 @@ _vti_pvt/authors.pwd
 /keys/auth.json
 /credentials/auth.json
 /creds/auth.json
+/wp-admin/index.php?download-lp-users=yes

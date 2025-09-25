@@ -1942,3 +1942,4 @@
 /wp-content/plugins/falang/readme.txt
 /wp-content/plugins/wpcasa/readme.txt
 /{{route}}
+/wp-content/plugins/better-search-replace/README.txt

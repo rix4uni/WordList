@@ -75,3 +75,4 @@
 /wp-admin/admin-post.php
 /wp-content/plugins/wp-statistics/readme.txt
 /wp-content/plugins/uix-shortcodes/readme.txt
+/wp-content/themes/mTheme-Unus/style.css

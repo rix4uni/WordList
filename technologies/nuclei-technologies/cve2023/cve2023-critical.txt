@@ -57,3 +57,6 @@
 /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 /?wcal_action=checkout_link&user_email=test&validate={{replace_regex(code_response,
 /{{route}}
+/wp-content/plugins/form-maker/readme.txt
+/wp-content/plugins/better-search-replace/README.txt
+/wp-content/plugins/better-search-replace/readme.txt

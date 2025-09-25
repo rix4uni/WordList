@@ -5427,3 +5427,4 @@
 /{{route}}
 /wp-content/plugins/wide-banner/readme.txt
 /wp-content/plugins/WooCommerce-Multi-Locations-Inventory-Management/readme.txt
+/wp-admin/index.php?download-lp-users=yes

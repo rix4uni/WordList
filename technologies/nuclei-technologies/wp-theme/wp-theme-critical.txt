@@ -426,3 +426,4 @@
 /wp-content/themes/wine-house/style.css
 /wp-content/themes/wotahub/style.css
 /wp-content/themes/leblix/style.css
+/wp-content/plugins/the-plus-addons-for-elementor-page-builder/readme.txt

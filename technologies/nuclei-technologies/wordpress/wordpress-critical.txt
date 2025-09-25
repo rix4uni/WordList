@@ -2379,3 +2379,5 @@
 /wp-content/themes/leblix/style.css
 /wp-content/plugins/wpcasa/readme.txt
 /{{route}}
+/wp-content/plugins/the-plus-addons-for-elementor-page-builder/readme.txt
+/wp-content/plugins/better-search-replace/README.txt

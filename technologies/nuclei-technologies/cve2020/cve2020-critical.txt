@@ -74,3 +74,4 @@
 /Items/RemoteSearch/Image?ProviderName=TheMovieDB&ImageURL=http://oast.fun
 /installer/index.php
 /roundcube/installer/index.php
+/wp-content/themes/listingpro/style.css

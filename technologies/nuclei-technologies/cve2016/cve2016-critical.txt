@@ -13,3 +13,4 @@
 :8000/manager/status
 :{{jmx_ports}}
 /manager/jmxproxy
+/wp-content/themes/Newspaper/style.css

@@ -1,1 +1,2 @@
 /api/jsonws
+/v1/

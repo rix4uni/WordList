@@ -1,3 +1,10 @@
 /api/v1/info
 /api/v1/serverinfo
 /js/zimbraMail/share/model/ZmSettings.js
+/wp-content/themes/Newspaper/style.css
+/wp-content/themes/listingpro/style.css
+/wp-content/plugins/the-plus-addons-for-elementor-page-builder/readme.txt
+/wp-content/plugins/form-maker/readme.txt
+/wp-content/plugins/better-search-replace/README.txt
+/wp-content/plugins/better-search-replace/readme.txt
+/webapi/ping

@@ -84,3 +84,4 @@
 /ui_base/js/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
 /ui_base/js/..%2f..%2f..%2f..%2fsettings.js
 /SearchSvc/CVSearchService.svc
+/wp-admin/index.php?download-lp-users=yes

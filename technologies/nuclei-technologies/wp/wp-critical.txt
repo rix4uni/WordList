@@ -52,3 +52,7 @@
 /?rest_route=/my-calendar/v1/events&from=1
 /wp-content/plugins/yet-another-related-posts-plugin/includes/yarpp_pro_set_display_types.php?ypsdt=false&types[]=post&types[]=page
 /{{route}}
+/wp-content/themes/Newspaper/style.css
+/wp-content/themes/listingpro/style.css
+/wp-content/plugins/better-search-replace/README.txt
+/wp-content/plugins/better-search-replace/readme.txt

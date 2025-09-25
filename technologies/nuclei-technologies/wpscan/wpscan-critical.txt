@@ -54,3 +54,8 @@
 /?rest_route=/my-calendar/v1/events&from=1
 /wp-includes/meta.php?meta_key=unprotected_meta_key&action=delete
 /wpb-show-core/download-file.php?path=http://{{interactsh-url}}
+/wp-content/themes/Newspaper/style.css
+/wp-content/plugins/the-plus-addons-for-elementor-page-builder/readme.txt
+/wp-content/plugins/form-maker/readme.txt
+/wp-content/plugins/better-search-replace/README.txt
+/wp-content/plugins/better-search-replace/readme.txt
