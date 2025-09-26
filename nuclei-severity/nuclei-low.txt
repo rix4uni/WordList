@@ -9388,3 +9388,15 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/plugins/acf-views/readme.txt
 /wp-content/plugins/quantities-and-units-for-woocommerce/readme.txt
 /v1/
+/wp-content/plugins/banhammer/readme.txt
+/wp-content/plugins/cm-business-directory/readme.txt
+/wp-content/plugins/compress-then-upload/readme.txt
+/wp-content/plugins/jquery-colorbox/readme.txt
+/wp-content/plugins/markdown-shortcode/readme.txt
+/wp-content/plugins/shopengine/readme.txt
+/wp-content/themes/snow-monkey/style.css
+/wp-content/plugins/thememove-core/readme.txt
+/wp-content/plugins/tweetthis-shortcode/readme.txt
+/wp-content/plugins/widgets-for-tiktok-video-feed/readme.txt
+/wp-content/plugins/wc-spod/readme.txt
+/wp-content/plugins/happy-helpdesk-support-ticket-system/readme.txt

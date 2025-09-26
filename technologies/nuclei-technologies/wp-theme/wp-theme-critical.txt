@@ -427,3 +427,5 @@
 /wp-content/themes/wotahub/style.css
 /wp-content/themes/leblix/style.css
 /wp-content/plugins/the-plus-addons-for-elementor-page-builder/readme.txt
+/wp-content/themes/maxcoach/style.css
+/wp-content/themes/indutri/style.css

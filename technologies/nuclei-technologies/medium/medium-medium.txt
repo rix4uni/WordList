@@ -10037,3 +10037,5 @@
 /wp-content/plugins/browser-sniff/readme.txt
 /wp-content/plugins/custom-login-and-signup-widget/readme.txt
 /wp-content/themes/entrada/style.css
+/wp-content/themes/snow-monkey/style.css
+/wp-content/plugins/banhammer/readme.txt

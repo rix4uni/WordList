@@ -5785,3 +5785,6 @@
 /wp-content/plugins/miniorange-firebase-sms-otp-verification/readme.txt
 /wp-content/plugins/wide-banner/readme.txt
 /wp-content/plugins/WooCommerce-Multi-Locations-Inventory-Management/readme.txt
+/wp-content/plugins/bdvs-password-reset/readme.txt
+/wp-content/plugins/happy-helpdesk-support-ticket-system/readme.txt
+/wp-content/plugins/wc-spod/readme.txt

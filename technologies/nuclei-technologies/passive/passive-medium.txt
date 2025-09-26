@@ -1,0 +1,4 @@
+/wp-content/plugins/elementor/assets/js/frontend.min.js
+/karma.js
+/?return_url=javascript:alert(document.domain)
+/wp-content/plugins/elementor/readme.txt

@@ -13236,3 +13236,5 @@ config/settings.old.php
 /wp-content/themes/entrada/style.css
 /securityRealm/signup
 /jenkins/securityRealm/signup
+/wp-content/plugins/banhammer/readme.txt
+/wp-content/themes/snow-monkey/style.css

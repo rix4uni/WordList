@@ -698,3 +698,4 @@
 /wp-content/themes/road-fighter/style.css
 /wp-content/themes/themia-lite/style.css
 /wp-content/themes/entrada/style.css
+/wp-content/themes/snow-monkey/style.css

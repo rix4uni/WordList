@@ -7203,3 +7203,14 @@
 /wp-content/plugins/simple-draft-list/readme.txt
 /wp-content/plugins/acf-views/readme.txt
 /wp-content/plugins/quantities-and-units-for-woocommerce/readme.txt
+/wp-content/plugins/banhammer/readme.txt
+/wp-content/plugins/cm-business-directory/readme.txt
+/wp-content/plugins/compress-then-upload/readme.txt
+/wp-content/plugins/jquery-colorbox/readme.txt
+/wp-content/plugins/markdown-shortcode/readme.txt
+/wp-content/plugins/shopengine/readme.txt
+/wp-content/themes/snow-monkey/style.css
+/wp-content/plugins/thememove-core/readme.txt
+/wp-content/plugins/tweetthis-shortcode/readme.txt
+/wp-content/plugins/widgets-for-tiktok-video-feed/readme.txt
+/wp-content/plugins/wp-edit-password-protected/readme.txt

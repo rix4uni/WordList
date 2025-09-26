@@ -1976,3 +1976,7 @@
 /wp-content/plugins/falang/readme.txt
 /wp-content/themes/leblix/style.css
 /wp-content/plugins/wpcasa/readme.txt
+/wp-content/plugins/constant-contact-api/readme.txt
+/wp-content/plugins/geo-mashup/readme.txt
+/wp-content/themes/maxcoach/style.css
+/wp-content/themes/indutri/style.css

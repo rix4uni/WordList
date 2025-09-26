@@ -8,3 +8,9 @@
 /wp-content/plugins/better-search-replace/README.txt
 /wp-content/plugins/better-search-replace/readme.txt
 /webapi/ping
+/api/config
+/prweb/PRAuth/app/default/
+/streampipes-backend/api/v2/auth/settings
+/streampipes-backend/api/openapi.json
+{{js}}
+/sse?transportType=stdio&command=echo&args[]=hello-from-brower

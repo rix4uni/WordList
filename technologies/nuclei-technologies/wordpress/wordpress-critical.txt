@@ -2381,3 +2381,7 @@
 /{{route}}
 /wp-content/plugins/the-plus-addons-for-elementor-page-builder/readme.txt
 /wp-content/plugins/better-search-replace/README.txt
+/wp-content/plugins/constant-contact-api/readme.txt
+/wp-content/plugins/geo-mashup/readme.txt
+/wp-content/themes/maxcoach/style.css
+/wp-content/themes/indutri/style.css
