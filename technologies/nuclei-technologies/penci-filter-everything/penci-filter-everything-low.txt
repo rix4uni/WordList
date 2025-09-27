@@ -1,0 +1,1 @@
+/wp-content/plugins/penci-filter-everything/readme.txt

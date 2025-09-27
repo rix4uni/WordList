@@ -225,3 +225,4 @@
 /wp-content/plugins/better-search-replace/readme.txt
 /goanywhere/license/Unlicensed.xhtml/{{string}}?javax.faces.ViewState={{string}}&GARequestAction=activate
 /license/Unlicensed.xhtml/{{string}}?javax.faces.ViewState={{string}}&GARequestAction=activate
+/login.html

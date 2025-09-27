@@ -1,0 +1,1 @@
+/wp-content/plugins/make-column-clickable-elementor/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/sticky-header-effects-for-elementor/readme.txt

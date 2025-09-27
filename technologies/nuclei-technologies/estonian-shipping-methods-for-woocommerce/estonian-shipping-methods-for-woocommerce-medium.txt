@@ -1,0 +1,1 @@
+/wp-content/plugins/estonian-shipping-methods-for-woocommerce/readme.txt

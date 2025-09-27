@@ -699,3 +699,7 @@
 /wp-content/themes/themia-lite/style.css
 /wp-content/themes/entrada/style.css
 /wp-content/themes/snow-monkey/style.css
+/wp-content/themes/couponxxl/style.css
+/wp-content/themes/constructo/style.css
+/wp-content/themes/fingo/style.css
+/wp-content/themes/nokri/style.css

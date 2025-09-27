@@ -1,0 +1,1 @@
+/wp-content/plugins/sweet-energy-efficiency/readme.txt

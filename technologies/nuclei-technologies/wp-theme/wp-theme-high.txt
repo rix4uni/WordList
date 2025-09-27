@@ -480,3 +480,5 @@
 /wp-content/themes/saaslauncher/style.css
 /wp-content/themes/shk-corporate/style.css
 /wp-content/themes/softme/style.css
+/wp-content/themes/dricub-driving-school/style.css
+/wp-content/themes/imevent/style.css

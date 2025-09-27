@@ -1,0 +1,1 @@
+/wp-content/plugins/sapo-feed/readme.txt

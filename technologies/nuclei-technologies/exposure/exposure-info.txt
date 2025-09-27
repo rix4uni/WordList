@@ -379,3 +379,4 @@
 /certsrv/
 /certsrv
 /MagicInfo/config.js
+/api/public/configuration

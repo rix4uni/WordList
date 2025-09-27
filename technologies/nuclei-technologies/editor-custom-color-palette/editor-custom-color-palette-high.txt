@@ -1,0 +1,1 @@
+/wp-content/plugins/editor-custom-color-palette/readme.txt

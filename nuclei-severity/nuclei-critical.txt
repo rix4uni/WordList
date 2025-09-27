@@ -3786,3 +3786,4 @@ pathCache.php
 /wp-content/plugins/geo-mashup/readme.txt
 /wp-content/themes/indutri/style.css
 /wp-content/themes/maxcoach/style.css
+/login.html

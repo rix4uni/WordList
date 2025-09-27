@@ -14,3 +14,4 @@
 /streampipes-backend/api/openapi.json
 {{js}}
 /sse?transportType=stdio&command=echo&args[]=hello-from-brower
+/login.html

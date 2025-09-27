@@ -1,0 +1,1 @@
+/wp-content/plugins/nix-anti-spam-light/readme.txt

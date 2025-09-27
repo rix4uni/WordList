@@ -1,0 +1,1 @@
+/wp-content/plugins/sitespeaker-widget/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/upcoming-events-lists/readme.txt

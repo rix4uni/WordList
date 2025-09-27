@@ -1,0 +1,1 @@
+/wp-content/plugins/penci-portfolio/readme.txt

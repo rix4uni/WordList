@@ -1,0 +1,1 @@
+/wp-content/plugins/post-carousel-slider-for-elementor/readme.txt

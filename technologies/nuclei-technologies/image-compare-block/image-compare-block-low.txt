@@ -1,0 +1,1 @@
+/wp-content/plugins/image-compare-block/readme.txt

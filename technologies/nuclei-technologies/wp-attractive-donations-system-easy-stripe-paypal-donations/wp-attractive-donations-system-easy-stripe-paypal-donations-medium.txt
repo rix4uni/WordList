@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-attractive-donations-system-easy-stripe-paypal-donations/readme.txt

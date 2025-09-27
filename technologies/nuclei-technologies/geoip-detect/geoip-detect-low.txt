@@ -1,0 +1,1 @@
+/wp-content/plugins/geoip-detect/readme.txt
