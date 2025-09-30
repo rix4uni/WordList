@@ -1,0 +1,1 @@
+/wp-content/plugins/hcv4-payment-gateway/readme.txt

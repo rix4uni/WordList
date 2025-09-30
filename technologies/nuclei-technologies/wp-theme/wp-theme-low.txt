@@ -502,3 +502,6 @@
 /wp-content/themes/sydney/style.css
 /wp-content/themes/snow-monkey/style.css
 /wp-content/themes/dricub-driving-school/style.css
+/wp-content/themes/thegem-elementor/style.css
+/wp-content/themes/woostify/style.css
+/wp-content/themes/frames/style.css

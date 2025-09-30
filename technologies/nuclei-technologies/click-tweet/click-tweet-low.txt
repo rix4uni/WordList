@@ -1,0 +1,1 @@
+/wp-content/plugins/click-tweet/readme.txt

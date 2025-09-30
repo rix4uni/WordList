@@ -5471,3 +5471,15 @@
 /wp-content/plugins/woo-payrexx-gateway/readme.txt
 /wp-content/plugins/woolementor/readme.txt
 /wp-content/plugins/wp-sri/readme.txt
+/wp-content/plugins/gutenify/readme.txt
+/wp-content/plugins/woo-events/readme.txt
+/wp-content/plugins/yext/readme.txt
+/wp-content/plugins/wgpwpp/readme.txt
+/wp-content/plugins/VirtualAssistant/readme.txt
+/wp-content/plugins/nota-fiscal-eletronica-woocommerce/readme.txt
+/wp-content/plugins/dr-widgets-blocks/readme.txt
+/wp-content/plugins/grandconference-custom-post/readme.txt
+/wp-content/plugins/hivepress-claim-listings/readme.txt
+/wp-content/plugins/listingpro-plugin/readme.txt
+/wp-content/plugins/subscribe-to-download/readme.txt
+/wp-content/plugins/subscribe-to-unlock/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/subscribe-to-unlock/readme.txt

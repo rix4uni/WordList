@@ -1,0 +1,1 @@
+/wp-content/plugins/kontur-admin-style/readme.txt

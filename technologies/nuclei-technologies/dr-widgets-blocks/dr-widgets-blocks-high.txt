@@ -1,0 +1,1 @@
+/wp-content/plugins/dr-widgets-blocks/readme.txt

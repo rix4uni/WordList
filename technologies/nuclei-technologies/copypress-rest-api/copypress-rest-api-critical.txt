@@ -1,0 +1,1 @@
+/wp-content/plugins/copypress-rest-api/readme.txt

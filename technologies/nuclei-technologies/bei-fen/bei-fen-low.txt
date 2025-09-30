@@ -1,0 +1,1 @@
+/wp-content/plugins/bei-fen/readme.txt

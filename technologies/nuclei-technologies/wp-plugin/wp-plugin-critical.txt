@@ -1945,3 +1945,8 @@
 /wp-content/plugins/better-search-replace/README.txt
 /wp-content/plugins/constant-contact-api/readme.txt
 /wp-content/plugins/geo-mashup/readme.txt
+/wp-content/plugins/hcv4-payment-gateway/readme.txt
+/wp-content/plugins/copypress-rest-api/readme.txt
+/wp-content/plugins/affiliate-wp/readme.txt
+/wp-content/plugins/post-by-email/readme.txt
+/wp-content/plugins/tiny-bootstrap-elements-light/readme.txt

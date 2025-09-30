@@ -2541,3 +2541,10 @@
 /wp-content/plugins/easy-quotes/readme.txt
 /wp-content/plugins/cecabank-woocommerce/readme.txt
 /wp-content/plugins/custom-login-url/readme.txt
+/wp-content/plugins/gutenify/readme.txt
+/wp-content/plugins/theme-my-login/readme.txt
+/wp-content/plugins/woo-events/readme.txt
+/wp-content/plugins/yext/readme.txt
+/wp-content/plugins/wgpwpp/readme.txt
+/wp-content/plugins/VirtualAssistant/readme.txt
+/wp-content/plugins/nota-fiscal-eletronica-woocommerce/readme.txt

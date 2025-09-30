@@ -8903,3 +8903,17 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/wp-sri/readme.txt
 /wp-content/plugins/wp-team-manager/readme.txt
 /cgi-bin/GetFileContent.cgi?USER=root&PWD=D1D1D1D1D1D1D1D1D1D1D1D1A2A2B0A1D1D1D1D1D1D1D1D1D1D1D1D1D1D1B8D1&PATH=/etc/passwd
+/wp-content/plugins/VirtualAssistant/readme.txt
+/wp-content/plugins/dr-widgets-blocks/readme.txt
+/wp-content/themes/frames/style.css
+/wp-content/plugins/grandconference-custom-post/readme.txt
+/wp-content/plugins/gutenify/readme.txt
+/wp-content/plugins/hivepress-claim-listings/readme.txt
+/wp-content/plugins/listingpro-plugin/readme.txt
+/wp-content/plugins/nota-fiscal-eletronica-woocommerce/readme.txt
+/wp-content/plugins/subscribe-to-download/readme.txt
+/wp-content/plugins/subscribe-to-unlock/readme.txt
+/wp-content/themes/thegem-elementor/style.css
+/wp-content/plugins/wgpwpp/readme.txt
+/wp-content/plugins/woo-events/readme.txt
+/wp-content/plugins/yext/readme.txt

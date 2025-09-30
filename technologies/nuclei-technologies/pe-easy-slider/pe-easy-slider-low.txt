@@ -1,0 +1,1 @@
+/wp-content/plugins/pe-easy-slider/readme.txt

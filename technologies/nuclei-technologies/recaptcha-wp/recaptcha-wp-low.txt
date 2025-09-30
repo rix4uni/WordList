@@ -1,0 +1,1 @@
+/wp-content/plugins/recaptcha-wp/readme.txt

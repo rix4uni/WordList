@@ -1,0 +1,1 @@
+/wp-content/plugins/mihdan-elementor-yandex-maps/readme.txt

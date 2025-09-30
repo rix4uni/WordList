@@ -1,0 +1,1 @@
+/wp-content/plugins/htaccess-ip-blocker/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/nota-fiscal-eletronica-woocommerce/readme.txt
