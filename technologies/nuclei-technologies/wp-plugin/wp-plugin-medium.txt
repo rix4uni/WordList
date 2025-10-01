@@ -9711,3 +9711,8 @@
 /wp-content/plugins/gst-for-woocommerce/readme.txt
 /wp-content/plugins/lockerpress-wordpress-security/readme.txt
 /wp-content/plugins/chatwee/readme.txt
+/wp-content/plugins/block-for-mailchimp/readme.txt
+/wp-content/plugins/softdiscover-db-file-manager/readme.txt
+/wp-content/plugins/download-after-email/readme.txt
+/wp-content/plugins/vehica-core/readme.txt
+/wp-content/plugins/the-tech-tribe/readme.txt

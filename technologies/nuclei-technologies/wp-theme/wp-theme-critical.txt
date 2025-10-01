@@ -429,3 +429,4 @@
 /wp-content/plugins/the-plus-addons-for-elementor-page-builder/readme.txt
 /wp-content/themes/maxcoach/style.css
 /wp-content/themes/indutri/style.css
+/wp-content/themes/denticare/style.css

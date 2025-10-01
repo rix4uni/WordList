@@ -1,0 +1,1 @@
+/wp-content/themes/denticare/style.css

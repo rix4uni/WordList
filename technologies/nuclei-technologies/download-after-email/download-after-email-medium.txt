@@ -1,0 +1,1 @@
+/wp-content/plugins/download-after-email/readme.txt

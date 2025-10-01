@@ -1,0 +1,1 @@
+/wp-content/plugins/tf-woo-product-grid/readme.txt

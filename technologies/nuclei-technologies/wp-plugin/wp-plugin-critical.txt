@@ -1950,3 +1950,6 @@
 /wp-content/plugins/affiliate-wp/readme.txt
 /wp-content/plugins/post-by-email/readme.txt
 /wp-content/plugins/tiny-bootstrap-elements-light/readme.txt
+/wp-content/plugins/sign-up-sheets/readme.txt
+/wp-content/plugins/translatepress-multilingual/readme.txt
+/wp-content/plugins/tf-woo-product-grid/readme.txt

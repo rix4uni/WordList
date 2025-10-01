@@ -5483,3 +5483,5 @@
 /wp-content/plugins/listingpro-plugin/readme.txt
 /wp-content/plugins/subscribe-to-download/readme.txt
 /wp-content/plugins/subscribe-to-unlock/readme.txt
+/wp-content/plugins/zoloblocks/readme.txt
+/wp-content/plugins/external-rss-reader/readme.txt

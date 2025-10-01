@@ -8628,3 +8628,16 @@
 /wp-content/plugins/weedmaps-menu-embed/readme.txt
 /wp-content/plugins/planetcalc/readme.txt
 /wp-content/plugins/bei-fen/readme.txt
+/wp-content/plugins/super-blank/readme.txt
+/wp-content/plugins/employee-spotlight/readme.txt
+/wp-content/plugins/youtube-showcase/readme.txt
+/wp-content/plugins/advanced-settings/readme.txt
+/wp-content/plugins/emailkit/readme.txt
+/wp-content/plugins/yaycurrency/readme.txt
+/wp-content/plugins/wp-subscription-forms-pro/readme.txt
+/wp-content/plugins/popad/readme.txt
+/wp-content/plugins/block-for-mailchimp/readme.txt
+/wp-content/plugins/coschedule-by-todaymade/readme.txt
+/wp-content/plugins/download-after-email/readme.txt
+/wp-content/themes/foodbook/style.css
+/wp-content/plugins/gf-hubspot/readme.txt

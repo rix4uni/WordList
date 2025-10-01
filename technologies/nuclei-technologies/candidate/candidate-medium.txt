@@ -5724,3 +5724,4 @@
 /wp-content/plugins/post-featured-video/readme.txt
 /wp-content/plugins/wp-media-categories/readme.txt
 /wp-content/plugins/yourplugins-wc-conditional-cart-notices/readme.txt
+/wp-content/plugins/vehica-core/readme.txt
