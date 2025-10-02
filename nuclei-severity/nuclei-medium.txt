@@ -13306,3 +13306,5 @@ config/settings.old.php
 /wp-content/plugins/download-after-email/readme.txt
 /wp-content/themes/foodbook/style.css
 /wp-content/plugins/the-tech-tribe/readme.txt
+/pacts
+/ui/relationships

@@ -110,3 +110,5 @@ preview.php?controller=Load&action=index&catid=moztj%22%3E%3Cscript%3Ealert(docu
 /amr
 /securityRealm/signup
 /jenkins/securityRealm/signup
+/pacts
+/ui/relationships

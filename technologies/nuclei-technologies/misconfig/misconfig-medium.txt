@@ -144,3 +144,6 @@
 /SMS_DP_SMSPKG$/Datalib
 :80/SMS_DP_SMSPKG$/Datalib
 /amr
+/plugins/generic/tinymce/plugins/justboil.me/dialog-v4.htm
+/pacts
+/ui/relationships
