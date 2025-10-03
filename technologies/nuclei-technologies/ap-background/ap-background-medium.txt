@@ -1,0 +1,1 @@
+/wp-content/plugins/ap-background/readme.txt

@@ -506,3 +506,4 @@
 /wp-content/themes/woostify/style.css
 /wp-content/themes/frames/style.css
 /wp-content/themes/foodbook/style.css
+/wp-content/themes/constructor/style.css

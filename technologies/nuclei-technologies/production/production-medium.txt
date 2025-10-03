@@ -8089,3 +8089,15 @@
 /wp-content/plugins/vehica-core/readme.txt
 /wp-content/themes/foodbook/style.css
 /wp-content/plugins/the-tech-tribe/readme.txt
+/wp-content/plugins/ultimate-viral-quiz/readme.txt
+/wp-content/plugins/paypal-forms/readme.txt
+/wp-content/plugins/comment-info-detector/readme.txt
+/wp-content/themes/customify/style.css
+/wp-content/plugins/textbuilder/readme.txt
+/wp-content/plugins/wp-sinotype/readme.txt
+/wp-content/plugins/mobile-site-redirect/readme.txt
+/wp-content/plugins/mpwizard/readme.txt
+/wp-content/plugins/contentmx-content-publisher/readme.txt
+/wp-content/plugins/simple-bar/readme.txt
+/wp-content/plugins/ap-background/readme.txt
+/wp-content/plugins/optimize-more-css/readme.txt

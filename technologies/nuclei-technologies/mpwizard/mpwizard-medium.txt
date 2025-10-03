@@ -1,0 +1,1 @@
+/wp-content/plugins/mpwizard/readme.txt

@@ -3743,3 +3743,5 @@
 /wp-content/plugins/wgpwpp/readme.txt
 /wp-content/plugins/woo-events/readme.txt
 /wp-content/plugins/yext/readme.txt
+/wp-content/plugins/appy-pie-connect-for-woocommerce/readme.txt
+/wp-content/plugins/my-wp-health-check/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/interactive-medical-drawing-of-human-body/readme.txt

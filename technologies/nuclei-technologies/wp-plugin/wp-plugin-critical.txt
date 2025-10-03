@@ -1953,3 +1953,7 @@
 /wp-content/plugins/sign-up-sheets/readme.txt
 /wp-content/plugins/translatepress-multilingual/readme.txt
 /wp-content/plugins/tf-woo-product-grid/readme.txt
+/wp-content/plugins/wprecovery/readme.txt
+/wp-content/plugins/spirit-framework/readme.txt
+/wp-content/plugins/yournewsapp/readme.txt
+/wp-content/plugins/restropress/readme.txt
