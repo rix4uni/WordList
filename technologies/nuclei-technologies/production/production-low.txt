@@ -7624,3 +7624,4 @@
 /wp-content/plugins/auto-bulb-finder-for-wp-wc/readme.txt
 /wp-content/plugins/ticket-spot/readme.txt
 /wp-content/plugins/ird-slider/readme.txt
+/wp-content/plugins/majestic-before-after-image/readme.txt

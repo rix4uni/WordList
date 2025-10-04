@@ -1,0 +1,1 @@
+/wp-content/plugins/majestic-before-after-image/readme.txt

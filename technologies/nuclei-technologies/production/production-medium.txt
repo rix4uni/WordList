@@ -8101,3 +8101,5 @@
 /wp-content/plugins/simple-bar/readme.txt
 /wp-content/plugins/ap-background/readme.txt
 /wp-content/plugins/optimize-more-css/readme.txt
+/wp-content/plugins/wdesignkit/readme.txt
+/wp-content/plugins/trinity-audio/readme.txt

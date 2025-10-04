@@ -1,0 +1,1 @@
+/wp-content/plugins/integrate-dynamics-365-crm/readme.txt

@@ -5737,3 +5737,4 @@
 /wp-content/plugins/textbuilder/readme.txt
 /wp-content/plugins/ultimate-viral-quiz/readme.txt
 /wp-content/plugins/wp-sinotype/readme.txt
+/wp-content/plugins/trinity-audio/readme.txt

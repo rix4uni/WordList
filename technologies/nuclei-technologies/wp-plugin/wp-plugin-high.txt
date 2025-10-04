@@ -5487,3 +5487,4 @@
 /wp-content/plugins/external-rss-reader/readme.txt
 /wp-content/plugins/my-wp-health-check/readme.txt
 /wp-content/plugins/appy-pie-connect-for-woocommerce/readme.txt
+/wp-content/plugins/integrate-dynamics-365-crm/readme.txt

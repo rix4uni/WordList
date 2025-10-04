@@ -7390,3 +7390,4 @@
 /wp-content/plugins/wp-dispatcher/readme.txt
 /wp-content/plugins/wp-photo-effects/readme.txt
 /wp-content/plugins/wp-structured-data-schema/readme.txt
+/wp-content/plugins/majestic-before-after-image/readme.txt
