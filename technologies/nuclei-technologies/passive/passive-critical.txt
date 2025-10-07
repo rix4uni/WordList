@@ -15,3 +15,6 @@
 {{js}}
 /sse?transportType=stdio&command=echo&args[]=hello-from-brower
 /login.html
+/dana-na/auth/url_default/welcome.cgi
+/dana-na/auth/url_6/welcome.cgi
+/dana/home/index.cgi

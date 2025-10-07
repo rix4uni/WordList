@@ -3801,3 +3801,5 @@ pathCache.php
 /wp-content/plugins/wprecovery/readme.txt
 /wp-content/plugins/yournewsapp/readme.txt
 /misc/`curl${IFS}{{interactsh-url}}`/..;/index.html
+/dana-na/auth/url_6/welcome.cgi
+/dana/home/index.cgi

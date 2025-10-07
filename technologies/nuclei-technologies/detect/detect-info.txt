@@ -326,3 +326,4 @@
 /api/providers
 /npm-admin/showLoginPage.do
 /admin/
+/dumpinfo

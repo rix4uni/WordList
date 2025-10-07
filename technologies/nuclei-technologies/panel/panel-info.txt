@@ -891,3 +891,4 @@
 /api/v2/info
 /npm-admin/showLoginPage.do
 /cgi-mod/index.cgi
+/dumpinfo
