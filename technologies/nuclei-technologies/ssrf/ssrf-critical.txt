@@ -54,3 +54,4 @@
 /geoserver/ows?service=WFS
 /wfs?service=WFS
 /ows?service=WFS
+/onlinePreview?url={{base64(

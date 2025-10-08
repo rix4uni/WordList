@@ -26,3 +26,4 @@
 /config/cam_portal.cgi
 /mobile.html
 /amr
+/eSCL/ScannerCapabilities

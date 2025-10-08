@@ -224,3 +224,8 @@
 /_vti_pvt/service.cnf
 /_vti_pvt/access.cnf
 /_vti_txt/default.wti/All.cat
+/voyager
+/voyager/
+/ui/voyager
+/graphql/voyager
+/v1/sys/seal-status

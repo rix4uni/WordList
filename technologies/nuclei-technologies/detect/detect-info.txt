@@ -327,3 +327,5 @@
 /npm-admin/showLoginPage.do
 /admin/
 /dumpinfo
+/cgi-bin/meteobridge.cgi
+/web-config.js

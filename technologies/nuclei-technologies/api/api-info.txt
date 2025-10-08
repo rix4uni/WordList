@@ -211,3 +211,6 @@
 /scalar
 /api/v1.0/web/retained-data
 /api/public/configuration
+/redoc
+/api/docs
+/openapi

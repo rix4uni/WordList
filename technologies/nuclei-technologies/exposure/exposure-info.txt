@@ -380,3 +380,6 @@
 /certsrv
 /MagicInfo/config.js
 /api/public/configuration
+/redoc
+/api/docs
+/openapi

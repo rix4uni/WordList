@@ -388,3 +388,4 @@
 /api/postman.json
 /postman_collection.json
 /collections/postman.json
+/v1/sys/seal-status

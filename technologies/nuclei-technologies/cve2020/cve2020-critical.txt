@@ -75,3 +75,4 @@
 /installer/index.php
 /roundcube/installer/index.php
 /wp-content/themes/listingpro/style.css
+/index.php?g=g&m=Door&a=index&content=<?php%20echo%20md5(

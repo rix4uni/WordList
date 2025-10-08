@@ -5,3 +5,4 @@
 /sessionlist.html
 /etc/mnt_info.csv
 /amr
+/eSCL/ScannerCapabilities

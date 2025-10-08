@@ -31,3 +31,4 @@
 /web/session/logout?redirect=https%3a%2f%2foast.me%2f
 /web/dbredirect?redirect=https%3a%2f%2foast.me%2f
 /cs/idcplg?IdcService=GET_SEARCH_RESULTS&ResultTemplate=StandardResults&ResultCount=20&FromPageUrl=/cs/idcplg?IdcService=GET_DYNAMIC_PAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\
+/portal//..\\\..\\\..\\\..\\\windows\win.ini

