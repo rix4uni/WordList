@@ -430,3 +430,4 @@
 /wp-content/themes/maxcoach/style.css
 /wp-content/themes/indutri/style.css
 /wp-content/themes/denticare/style.css
+/wp-content/themes/search-and-go/style.css

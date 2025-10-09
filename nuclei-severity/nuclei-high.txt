@@ -8923,3 +8923,6 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /trufusionPortal/jsp/internal_admin_contact_login.jsp
 /wp-content/plugins/my-wp-health-check/readme.txt
 /wp-content/plugins/integrate-dynamics-365-crm/readme.txt
+/pentaho/Login
+/pentaho/api/ldap/config/ldapTreeNodeChildren/require.js
+/wp-content/plugins/cookie-notice-consent/readme.txt

