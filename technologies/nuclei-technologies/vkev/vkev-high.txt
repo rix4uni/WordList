@@ -221,3 +221,4 @@
 /wp-content/themes/mTheme-Unus/css/css.php?files=../../../../wp-config.php
 /pentaho/Login
 /pentaho/api/ldap/config/ldapTreeNodeChildren/require.js
+/wp-content/plugins/wsecure/wsecure-config.php

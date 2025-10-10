@@ -57,3 +57,6 @@
 /config/getuser?index=0
 /pentaho/Login
 /pentaho/api/ldap/config/ldapTreeNodeChildren/require.js
+/public/plugins/alertlist/../../../../../../../../../../../../../../../../../../../etc/passwd
+/public/plugins/alertlist/../../../../../../../../../../../../../../../../../../../windows/win.ini
+/public/plugins/alertlist/../../../../../conf/defaults.ini

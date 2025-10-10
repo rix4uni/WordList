@@ -892,3 +892,5 @@
 /npm-admin/showLoginPage.do
 /cgi-mod/index.cgi
 /dumpinfo
+/commandcenter/login/preSso.jsp
+/login?url=%2F

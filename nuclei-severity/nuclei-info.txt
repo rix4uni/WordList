@@ -2407,3 +2407,5 @@
 /openapi
 /cgi-bin/meteobridge.cgi
 /web-config.js
+/commandcenter/login/preSso.jsp
+/login?url=%2F

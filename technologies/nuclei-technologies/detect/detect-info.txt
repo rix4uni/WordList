@@ -329,3 +329,4 @@
 /dumpinfo
 /cgi-bin/meteobridge.cgi
 /web-config.js
+/commandcenter/login/preSso.jsp

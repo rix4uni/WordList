@@ -33,3 +33,4 @@
 /wbm/index.php
 /general/status.html
 /cgi-bin/main.cgi
+/login?url=%2F
