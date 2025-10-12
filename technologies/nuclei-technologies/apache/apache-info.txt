@@ -67,3 +67,6 @@
 /assets/app-data.json
 /console/hawtconfig.json
 /ui/
+/mcm
+/cluster-manager
+/mod_cluster_manager

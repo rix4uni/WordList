@@ -383,3 +383,6 @@
 /redoc
 /api/docs
 /openapi
+/mcm
+/cluster-manager
+/mod_cluster_manager
