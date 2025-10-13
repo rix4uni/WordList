@@ -2,3 +2,4 @@
 /karma.js
 /?return_url=javascript:alert(document.domain)
 /wp-content/plugins/elementor/readme.txt
+/js/zimbraMail/share/model/ZmSettings.js

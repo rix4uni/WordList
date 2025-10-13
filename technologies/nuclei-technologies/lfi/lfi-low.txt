@@ -3,3 +3,4 @@
 /wp-content/plugins/brandfolder/callback.php?wp_abspath=https://example.com/
 /him/api/rest/V1.0/system/log/list?filePath=../
 /umweb/../etc/passwd
+/../package.json

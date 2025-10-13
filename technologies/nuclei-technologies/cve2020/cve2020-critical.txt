@@ -76,3 +76,5 @@
 /roundcube/installer/index.php
 /wp-content/themes/listingpro/style.css
 /index.php?g=g&m=Door&a=index&content=<?php%20echo%20md5(
+/wp-content/plugins/seo-by-rank-math/readme.txt
+/albatross/saml/idpSelection?id={{randstr}}&userName=admin

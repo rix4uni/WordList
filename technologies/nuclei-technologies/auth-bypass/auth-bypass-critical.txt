@@ -52,3 +52,4 @@
 /license/Unlicensed.xhtml/{{string}}?javax.faces.ViewState={{string}}&GARequestAction=activate
 /webapi/ping
 /login.html
+/albatross/saml/idpSelection?id={{randstr}}&userName=admin

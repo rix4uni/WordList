@@ -75,3 +75,4 @@
 /ows?service=WFS
 {{js}}
 /sse?transportType=stdio&command=echo&args[]=hello-from-brower
+/wp-content/plugins/seo-by-rank-math/readme.txt

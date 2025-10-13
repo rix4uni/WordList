@@ -229,3 +229,5 @@
 /dana-na/auth/url_6/welcome.cgi
 /dana/home/index.cgi
 /misc/`curl${IFS}{{interactsh-url}}`/..;/index.html
+/wp-content/plugins/seo-by-rank-math/readme.txt
+/albatross/saml/idpSelection?id={{randstr}}&userName=admin

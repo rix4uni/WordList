@@ -1,2 +1,3 @@
 /zabbix/index_sso.php
 /index_sso.php
+/albatross/saml/idpSelection?id={{randstr}}&userName=admin

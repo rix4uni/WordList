@@ -126,3 +126,4 @@
 /license/Unlicensed.xhtml/{{string}}?javax.faces.ViewState={{string}}&GARequestAction=activate
 /dana-na/auth/url_6/welcome.cgi
 /dana/home/index.cgi
+/albatross/saml/idpSelection?id={{randstr}}&userName=admin

