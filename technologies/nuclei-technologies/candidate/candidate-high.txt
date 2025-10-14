@@ -3747,3 +3747,4 @@
 /wp-content/plugins/my-wp-health-check/readme.txt
 /wp-content/plugins/integrate-dynamics-365-crm/readme.txt
 /wp-content/plugins/cookie-notice-consent/readme.txt
+/wp-content/plugins/everest-backup/readme.txt

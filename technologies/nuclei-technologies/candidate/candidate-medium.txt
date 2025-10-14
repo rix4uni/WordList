@@ -5738,3 +5738,6 @@
 /wp-content/plugins/ultimate-viral-quiz/readme.txt
 /wp-content/plugins/wp-sinotype/readme.txt
 /wp-content/plugins/trinity-audio/readme.txt
+/wp-content/plugins/course-redirects-for-learndash/readme.txt
+/wp-content/plugins/page-blocks/readme.txt
+/wp-content/plugins/widgetpack-comment-system/readme.txt

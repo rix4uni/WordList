@@ -1,0 +1,1 @@
+/wp-content/plugins/widgetpack-comment-system/readme.txt

@@ -1958,3 +1958,5 @@
 /wp-content/plugins/yournewsapp/readme.txt
 /wp-content/plugins/restropress/readme.txt
 /wp-content/plugins/popup-builder-block/readme.txt
+/wp-content/plugins/wp-freeio/readme.txt
+/wp-content/plugins/wc-designer-pro/readme.txt

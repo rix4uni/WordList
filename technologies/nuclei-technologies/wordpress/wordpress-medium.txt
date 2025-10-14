@@ -10504,3 +10504,8 @@
 /wp-content/plugins/optimize-more-css/readme.txt
 /wp-content/plugins/wdesignkit/readme.txt
 /wp-content/plugins/trinity-audio/readme.txt
+/wp-content/plugins/course-redirects-for-learndash/readme.txt
+/wp-content/plugins/cm-invitation-codes/readme.txt
+/wp-content/plugins/code-quality-control-tool/readme.txt
+/wp-content/plugins/widgetpack-comment-system/readme.txt
+/wp-content/plugins/page-blocks/readme.txt

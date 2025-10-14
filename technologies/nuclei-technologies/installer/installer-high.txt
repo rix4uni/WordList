@@ -11,3 +11,4 @@
 /api/system/options/core.email
 /install
 /install/index.html
+/common/setup.php

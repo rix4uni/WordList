@@ -11,3 +11,4 @@
 /installAppPackage.php
 /resources/qmc/fonts/../../../qrs/ReloadTask?xrfkey=1333333333333337&filter=.ttf
 /path/to/vulnerable/endpoint
+/ui/login.action

@@ -3808,3 +3808,5 @@ pathCache.php
 /wp-content/plugins/popup-builder-block/readme.txt
 /wp-content/themes/search-and-go/style.css
 /albatross/saml/idpSelection?id={{randstr}}&userName=admin
+/wp-content/plugins/wp-freeio/readme.txt
+/wp-content/plugins/wc-designer-pro/readme.txt

@@ -8661,3 +8661,13 @@
 /wp-content/plugins/ird-slider/readme.txt
 /wp-content/plugins/majestic-before-after-image/readme.txt
 /wp-content/plugins/lisfinity-core/readme.txt
+/wp-content/plugins/wp-webcam-widget-shortcode/readme.txt
+/wp-content/plugins/stock-snapshot-for-woocommerce/readme.txt
+/wp-content/plugins/wp-easy-toggles/readme.txt
+/wp-content/plugins/easy-plugin-stats/readme.txt
+/wp-content/plugins/gsheetconnector-gravity-forms/readme.txt
+/wp-content/themes/newsup/style.css
+/wp-content/plugins/code-quality-control-tool/readme.txt
+/wp-content/plugins/trinity-audio/readme.txt
+/wp-content/plugins/wc-designer-pro/readme.txt
+/wp-content/plugins/wp-freeio/readme.txt

@@ -565,3 +565,4 @@ _vti_pvt/authors.pwd
 /credentials/auth.json
 /creds/auth.json
 /wp-admin/index.php?download-lp-users=yes
+/common/setup.php
