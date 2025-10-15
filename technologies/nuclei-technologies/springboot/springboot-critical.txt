@@ -48,3 +48,4 @@
 /api/heapdump
 /actuator/api/heapdump
 /cabinet/stripeapi/actuator/heapdump
+/env

@@ -100,3 +100,4 @@
 /wp-content/themes/mTheme-Unus/style.css
 /wp-admin/index.php?download-lp-users=yes
 /wp-content/themes/mTheme-Unus/css/css.php?files=../../../../wp-config.php
+/wp-config.PHP

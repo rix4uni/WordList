@@ -547,3 +547,6 @@ _vti_pvt/authors.pwd
 /.env.js
 /api/config
 /api/settings
+/opt/config/database.yml
+/var/config/database.yml
+/var/company_name/config/database.yml

@@ -1,1 +1,2 @@
 /portal/WebLogin.aspx
+/favicon.ico

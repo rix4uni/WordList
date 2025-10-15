@@ -1,2 +1,3 @@
 /maximo/webclient/login/login.jsp
 /maximo/webclient/login/login.jsp?appservauth=true
+/maximo/webclient/login/login.jsp?welcome=true

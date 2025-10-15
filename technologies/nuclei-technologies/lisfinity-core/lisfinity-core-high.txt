@@ -1,0 +1,1 @@
+/wp-content/plugins/lisfinity-core/readme.txt

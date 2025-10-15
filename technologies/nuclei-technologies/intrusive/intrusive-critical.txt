@@ -96,3 +96,4 @@
 /dana-na/auth/url_default/welcome.cgi
 /pbxcore/files/cache/§extracted_path§?{{wait_for(3)}}
 /{{route}}
+/console/login/LoginForm.jsp

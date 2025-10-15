@@ -1,0 +1,1 @@
+/wp-content/plugins/oceanpayment-creditcard-gateway/readme.txt

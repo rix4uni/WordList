@@ -1,2 +1,8 @@
 /anchor/errors.log
 /
++
+-
+*
+[]
+\
+;

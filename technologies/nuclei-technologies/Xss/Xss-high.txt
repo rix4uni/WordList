@@ -1,0 +1,1 @@
+/settings/calendar/?f=&rpath=https://{{Hostname}}/cdav/calendar

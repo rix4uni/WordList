@@ -28,3 +28,4 @@
 /bin/querybuilder.json/a.png
 /bin/querybuilder.json;%0aa.css
 /bin/querybuilder.json/a.1.json
+/libs/granite/core/content/audi/login.html

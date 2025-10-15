@@ -191,3 +191,4 @@
 /bitrix/restore.php?lang=en
 /restore.php?lang=en
 {{payload}}
+/index.php?sgpb_type=phar://wp-content/uploads/2021/12/1.zip/

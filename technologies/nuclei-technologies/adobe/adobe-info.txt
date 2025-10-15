@@ -40,3 +40,4 @@
 /CFIDE/administrator/index.cfm
 /cfide/administrator/index.cfm
 /lc/libs/livecycle/core/content/login.html
+/libs/granite/core/content/audi/login.html

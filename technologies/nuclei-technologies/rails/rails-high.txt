@@ -2,3 +2,6 @@
 /assets/file:%2f%2f/etc/passwd
 /?pp=env
 /config/database.yml
+/opt/config/database.yml
+/var/config/database.yml
+/var/company_name/config/database.yml

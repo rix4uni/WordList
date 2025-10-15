@@ -566,3 +566,8 @@ _vti_pvt/authors.pwd
 /creds/auth.json
 /wp-admin/index.php?download-lp-users=yes
 /common/setup.php
+/cheatset
+/opt/config/database.yml
+/var/config/database.yml
+/var/company_name/config/database.yml
+/wp-config.PHP

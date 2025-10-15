@@ -1997,3 +1997,9 @@
 /wp-content/themes/search-and-go/style.css
 /wp-content/plugins/wp-freeio/readme.txt
 /wp-content/plugins/wc-designer-pro/readme.txt
+/wp-content/plugins/flex-qr-code-generator/readme.txt
+/wp-content/plugins/ownid-passwordless-login/readme.txt
+/wp-content/plugins/outdoor/readme.txt
+/wp-content/plugins/external-login/readme.txt
+/wp-content/plugins/dynamically-display-posts/readme.txt
+/wp-content/plugins/orion-sms-otp-verification/readme.txt

@@ -19,3 +19,4 @@
 /
 /BACLIENT
 /JNLP
+/maximo/webclient/login/login.jsp?welcome=true

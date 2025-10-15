@@ -2,3 +2,5 @@
 /laravel-filemanager?type=Files
 /index.php
 /Login
+/tinyfilemanager.php
+/tiny/tinyfilemanager.php

@@ -330,3 +330,5 @@
 /cgi-bin/meteobridge.cgi
 /web-config.js
 /commandcenter/login/preSso.jsp
+/favicon-16x16.png
+/favicon-32x32.png

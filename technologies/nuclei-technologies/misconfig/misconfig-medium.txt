@@ -148,3 +148,10 @@
 /pacts
 /ui/relationships
 /eSCL/ScannerCapabilities
+/phpMyAdmin/setup/index.php
+/admin/phpMyAdmin/setup/index.php
+/phpMyAdmin/main.php
+/phpmyadmin/pma/index.php
+/phpMyAdminOLD/setup/index.php
+/wp-admin/setup-config.php?step=1
+/wordpress/wp-admin/setup-config.php?step=1

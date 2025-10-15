@@ -1,3 +1,4 @@
 /#/admin/dashboard
 /#/login?redirect=%2F
 /admin/config.php
+/#/login

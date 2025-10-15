@@ -3,3 +3,4 @@
 /console/index.html
 /api/graphql
 /query
+/signin

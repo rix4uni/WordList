@@ -123,3 +123,6 @@
 /cgi-bin/multimon.cgi
 /?phpinfo=-1
 /api/metrics
+/libs/granite/core/content/login.html
+/libs/granite/core/content/audi/login.html
+/favicon.ico

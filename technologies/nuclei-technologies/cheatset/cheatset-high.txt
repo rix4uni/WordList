@@ -1,3 +1,4 @@
 /settings.py
 /.travis.yml
 /travis.yml
+/cheatset

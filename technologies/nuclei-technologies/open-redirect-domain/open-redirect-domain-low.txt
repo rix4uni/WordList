@@ -1,0 +1,9 @@
+///evil.com
+//evil.com
+/////evil.com
+.evil.com
+%2f@evil.com
+%252f@evil.com
+%25252f@evil.com
+?.evil.com
+╱.evil.com

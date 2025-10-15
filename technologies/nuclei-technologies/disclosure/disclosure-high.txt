@@ -36,3 +36,4 @@
 /yyoa/ext/createMysql.jsp
 /js/../.htpasswd
 /webservices/WebUserLogin.asmx/GetUserInfoByUserID?userID=admin
+/wp-config.PHP

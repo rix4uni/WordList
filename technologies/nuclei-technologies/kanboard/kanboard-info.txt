@@ -1,0 +1,2 @@
+/login
+/?controller=AuthController&action=login

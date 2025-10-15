@@ -20,3 +20,8 @@
 {{paths}}
 /admin/pma/setup/index.php
 /admin/
+/phpMyAdmin/setup/index.php
+/admin/phpMyAdmin/setup/index.php
+/phpMyAdmin/main.php
+/phpmyadmin/pma/index.php
+/phpMyAdminOLD/setup/index.php

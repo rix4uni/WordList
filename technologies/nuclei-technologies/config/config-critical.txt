@@ -81,3 +81,5 @@
 /apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 /owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/{{rand_base(4)}}.css
 {{path}}
+/app_dev.php/_profiler/empty/search/results?limit=100
+/app_dev.php/_profiler/phpinfo

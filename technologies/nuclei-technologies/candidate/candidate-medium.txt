@@ -5741,3 +5741,6 @@
 /wp-content/plugins/course-redirects-for-learndash/readme.txt
 /wp-content/plugins/page-blocks/readme.txt
 /wp-content/plugins/widgetpack-comment-system/readme.txt
+/wp-content/plugins/funkitools/readme.txt
+/wp-content/plugins/theme-importer/readme.txt
+/wp-content/plugins/topbar/readme.txt

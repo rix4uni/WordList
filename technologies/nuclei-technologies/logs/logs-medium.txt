@@ -33,3 +33,5 @@
 /tcpconfig.html
 /files/ldap.debug.txt
 {{paths}}
+/bzconf
+/bzconf/

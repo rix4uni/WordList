@@ -386,3 +386,10 @@
 /mcm
 /cluster-manager
 /mod_cluster_manager
+/asyncapi
+/asyncapi.yaml
+/asyncapi.yml
+/asyncapi.json
+/api/asyncapi
+/api/docs/asyncapi
+/docs/asyncapi

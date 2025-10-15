@@ -4,3 +4,4 @@
 /collibra.properties
 /app/collibra.properties
 /src/collibra.properties
+/WEB-INF/classes/argo.properties

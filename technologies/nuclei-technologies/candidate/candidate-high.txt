@@ -3748,3 +3748,7 @@
 /wp-content/plugins/integrate-dynamics-365-crm/readme.txt
 /wp-content/plugins/cookie-notice-consent/readme.txt
 /wp-content/plugins/everest-backup/readme.txt
+/wp-content/plugins/find-and-replace-content/readme.txt
+/wp-content/plugins/js_composer/readme.txt
+/wp-content/plugins/wp-whydonate/readme.txt
+/wp-content/plugins/zip-attachments/readme.txt

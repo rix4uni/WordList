@@ -1,2 +1,8 @@
 /api/proxy/tcp
 /cgi-bin/luci
+/libs/granite/core/content/login.html
+/libs/granite/core/content/audi/login.html
+/signin
+/favicon.ico
+/login
+/?controller=AuthController&action=login

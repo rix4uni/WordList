@@ -1,3 +1,4 @@
 /wp-admin/install.php
 /feed/
 /?feed=rss2
+/wp-login.php?action=register

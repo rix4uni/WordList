@@ -1,2 +1,11 @@
 /js/elfinder.min.js
 /js/elFinder.version.js
+/wp-json/wp/v2/users
+/wp-json/wp/v2/users/1
+/wp-json/wp/v2/users/2
+/wp-json/wp/v2/users/3
+/wp-json/wp/v2/users/4
+/wp-json/wp/v2/users/5
+/wp-json/wp/v2/users/6
+/wp-json/wp/v2/users/7
+/wp-json/wp/v2/users/8

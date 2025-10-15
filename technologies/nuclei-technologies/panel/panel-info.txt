@@ -894,3 +894,4 @@
 /dumpinfo
 /commandcenter/login/preSso.jsp
 /login?url=%2F
+/maximo/webclient/login/login.jsp?welcome=true

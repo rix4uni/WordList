@@ -134,3 +134,5 @@
 /backup/wp-admin/setup-config.php?step=1
 /site/wp-admin/setup-config.php?step=1
 /wp-admin/setup-config.php?step=1
+/app_dev.php/_profiler/empty/search/results?limit=100
+/app_dev.php/_profiler/phpinfo

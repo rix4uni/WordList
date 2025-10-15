@@ -1,0 +1,1 @@
+/wp-content/plugins/find-and-replace-content/readme.txt
