@@ -7652,3 +7652,7 @@
 /wp-content/plugins/wp-google-map/readme.txt
 /wp-content/plugins/accordion-panel-for-category-and-products/readme.txt
 /wp-content/plugins/ova-advent/readme.txt
+/wp-content/themes/classified-pro/style.css
+/wp-content/themes/felan-framework/style.css
+/wp-content/plugins/authorsy/readme.txt
+/wp-content/plugins/acclectic-media-organizer/readme.txt

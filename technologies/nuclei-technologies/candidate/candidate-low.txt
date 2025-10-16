@@ -7425,3 +7425,8 @@
 /wp-content/plugins/wp-dashboard-chat/readme.txt
 /wp-content/plugins/wp-google-map/readme.txt
 /wp-content/plugins/wp-jquery-pdf-paged/readme.txt
+/wp-content/plugins/authorsy/readme.txt
+/wp-content/themes/classified-pro/style.css
+/wp-content/themes/felan-framework/style.css
+/wp-content/plugins/truelysell-core/readme.txt
+/wp-content/plugins/wp-gmail-smtp/readme.txt

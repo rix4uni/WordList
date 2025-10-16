@@ -431,3 +431,4 @@
 /wp-content/themes/indutri/style.css
 /wp-content/themes/denticare/style.css
 /wp-content/themes/search-and-go/style.css
+/wp-content/themes/felan-framework/style.css

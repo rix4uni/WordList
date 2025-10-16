@@ -90,3 +90,5 @@
 /tmp/temp.db%3f.1.1.1.1a-1.css
 /mnt/ram/var/log/httpd.log%3f.1.1.1.1a-1.css
 /locales/locale.json?locale=..%2F..%2Fconfig&namespace=app
+/i18n/component/JS?locale=en-US
+/api/v1/version

@@ -1,0 +1,1 @@
+/wp-content/plugins/authorsy/readme.txt

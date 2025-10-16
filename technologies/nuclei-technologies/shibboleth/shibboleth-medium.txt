@@ -1,1 +1,2 @@
 /wp-content/plugins/shibboleth/readme.txt
+/Shibboleth.sso/Logout?return=https://{{randstr}}.interact.sh

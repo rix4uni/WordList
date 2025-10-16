@@ -13380,3 +13380,9 @@ config/settings.old.php
 /?url=https://raw.githubusercontent.com/rix4uni/swagger-xss/main/swagger.yaml
 /?configUrl=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9leHViZXJhbnQtaWNlLnN1cmdlLnNoL3Rlc3QueWFtbCIKfQ==
 /{{ENDPOINT}}{{URI}}
+/wp-content/plugins/pojo-accessibility/readme.txt
+/wp-content/themes/uncode/style.css
+/i18n/component/JS?locale=en-US
+/api/v1/version
+/wp-content/plugins/wp-gmail-smtp/readme.txt
+/Shibboleth.sso/Logout?return=https://{{randstr}}.interact.sh

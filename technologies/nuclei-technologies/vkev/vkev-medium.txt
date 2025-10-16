@@ -149,3 +149,5 @@
 /XsltResultControllerHtml.jsp?xslContent=&interfaceInstanceId=&lumPageId=<script>confirm(document.domain)</script>&xslContentFilePath=
 /js/zimbraMail/share/model/ZmSettings.js
 /ui/login.action
+/i18n/component/JS?locale=en-US
+/api/v1/version

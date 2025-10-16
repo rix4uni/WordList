@@ -3752,3 +3752,4 @@
 /wp-content/plugins/js_composer/readme.txt
 /wp-content/plugins/wp-whydonate/readme.txt
 /wp-content/plugins/zip-attachments/readme.txt
+/wp-content/plugins/acclectic-media-organizer/readme.txt

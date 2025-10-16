@@ -155,3 +155,4 @@
 /phpMyAdminOLD/setup/index.php
 /wp-admin/setup-config.php?step=1
 /wordpress/wp-admin/setup-config.php?step=1
+/Shibboleth.sso/Logout?return=https://{{randstr}}.interact.sh

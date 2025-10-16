@@ -68,3 +68,4 @@
 /apply/index.php?url=http://{{interactsh-url}}
 /%2F%2F%2F%2F%2F%2F%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /wp-content/plugins/uix-shortcodes/readme.txt
+/Pic/Indexs?imgs=DJwkiEm6KXJZ7aEiGyN4Cz83Kn1PLaKA09

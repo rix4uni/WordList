@@ -1966,3 +1966,4 @@
 /wp-content/plugins/external-login/readme.txt
 /wp-content/plugins/dynamically-display-posts/readme.txt
 /wp-content/plugins/orion-sms-otp-verification/readme.txt
+/wp-content/plugins/truelysell-core/readme.txt

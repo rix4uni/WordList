@@ -1691,3 +1691,4 @@
 /wp-content/plugins/orion-sms-otp-verification/readme.txt
 /wp-content/plugins/outdoor/readme.txt
 /wp-content/plugins/ownid-passwordless-login/readme.txt
+/wp-content/plugins/wc-designer-pro/readme.txt

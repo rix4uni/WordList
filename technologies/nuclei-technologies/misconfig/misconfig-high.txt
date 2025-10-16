@@ -549,3 +549,4 @@
 /keys/auth.json
 /credentials/auth.json
 /creds/auth.json
+/ckfinder/ckfinder.html

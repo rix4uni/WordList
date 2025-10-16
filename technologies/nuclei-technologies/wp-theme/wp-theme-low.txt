@@ -508,3 +508,5 @@
 /wp-content/themes/foodbook/style.css
 /wp-content/themes/constructor/style.css
 /wp-content/themes/newsup/style.css
+/wp-content/themes/classified-pro/style.css
+/wp-content/themes/felan-framework/style.css

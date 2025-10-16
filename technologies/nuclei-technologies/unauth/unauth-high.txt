@@ -119,3 +119,4 @@
 /api/v1/status/config
 /Portal0000.htm
 /cgi-bin/dynamic/config/secure/security.html
+/ckfinder/ckfinder.html

@@ -366,3 +366,5 @@ login
 /dana-na/auth/url_6/welcome.cgi
 /dana/home/index.cgi
 /index.php?g=g&m=Door&a=index&content=<?php%20echo%20md5(
+/i18n/component/JS?locale=en-US
+/api/v1/version

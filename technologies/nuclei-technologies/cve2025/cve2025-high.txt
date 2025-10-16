@@ -24,3 +24,4 @@
 /wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt
 /_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg
 /trufusionPortal/jsp/internal_admin_contact_login.jsp
+/cgi-bin/cgiServer.exx?page=../../../../../../../../../../../etc/passwd

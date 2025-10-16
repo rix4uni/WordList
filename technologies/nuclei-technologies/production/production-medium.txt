@@ -8114,3 +8114,7 @@
 /wp-content/plugins/theme-importer/readme.txt
 /wp-content/plugins/content-writer/readme.txt
 /wp-content/plugins/oceanpayment-creditcard-gateway/readme.txt
+/wp-content/plugins/pojo-accessibility/readme.txt
+/wp-content/plugins/search-filter/readme.txt
+/wp-content/themes/uncode/style.css
+/wp-content/plugins/wp-gmail-smtp/readme.txt

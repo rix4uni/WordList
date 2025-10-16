@@ -705,3 +705,4 @@
 /wp-content/themes/nokri/style.css
 /wp-content/themes/foodbook/style.css
 /wp-content/themes/customify/style.css
+/wp-content/themes/uncode/style.css

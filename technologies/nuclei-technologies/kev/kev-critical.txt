@@ -127,3 +127,5 @@
 /dana-na/auth/url_6/welcome.cgi
 /dana/home/index.cgi
 /albatross/saml/idpSelection?id={{randstr}}&userName=admin
+/i18n/component/JS?locale=en-US
+/api/v1/version

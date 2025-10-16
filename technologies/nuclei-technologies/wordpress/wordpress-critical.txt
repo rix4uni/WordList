@@ -2417,3 +2417,5 @@
 /wp-json/wp/v2/users/6
 /wp-json/wp/v2/users/7
 /wp-json/wp/v2/users/8
+/wp-content/plugins/truelysell-core/readme.txt
+/wp-content/themes/felan-framework/style.css

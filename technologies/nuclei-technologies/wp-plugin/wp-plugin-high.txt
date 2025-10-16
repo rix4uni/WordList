@@ -5492,3 +5492,4 @@
 /wp-content/plugins/wp-whydonate/readme.txt
 /wp-content/plugins/find-and-replace-content/readme.txt
 /wp-content/plugins/lisfinity-core/readme.txt
+/wp-content/plugins/acclectic-media-organizer/readme.txt

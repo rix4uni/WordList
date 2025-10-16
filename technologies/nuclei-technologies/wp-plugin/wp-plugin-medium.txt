@@ -9740,3 +9740,5 @@
 /wp-content/plugins/theme-importer/readme.txt
 /wp-content/plugins/content-writer/readme.txt
 /wp-content/plugins/oceanpayment-creditcard-gateway/readme.txt
+/wp-content/plugins/pojo-accessibility/readme.txt
+/wp-content/plugins/wp-gmail-smtp/readme.txt

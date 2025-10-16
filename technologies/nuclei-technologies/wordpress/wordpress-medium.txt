@@ -10517,3 +10517,6 @@
 /wp-content/plugins/oceanpayment-creditcard-gateway/readme.txt
 /wp-admin/setup-config.php?step=1
 /wordpress/wp-admin/setup-config.php?step=1
+/wp-content/plugins/pojo-accessibility/readme.txt
+/wp-content/themes/uncode/style.css
+/wp-content/plugins/wp-gmail-smtp/readme.txt

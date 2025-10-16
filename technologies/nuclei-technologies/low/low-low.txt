@@ -8692,3 +8692,9 @@
 /wp-content/plugins/binary-mlm-plan/readme.txt
 /wp-content/plugins/content-writer/readme.txt
 /wp-content/plugins/oceanpayment-creditcard-gateway/readme.txt
+/wp-content/themes/classified-pro/style.css
+/wp-content/themes/felan-framework/style.css
+/wp-content/plugins/authorsy/readme.txt
+/wp-content/plugins/acclectic-media-organizer/readme.txt
+/wp-content/plugins/truelysell-core/readme.txt
+/wp-content/plugins/wp-gmail-smtp/readme.txt

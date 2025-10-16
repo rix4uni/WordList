@@ -4,3 +4,5 @@
 /wp-content/plugins/elementor/readme.txt
 /js/zimbraMail/share/model/ZmSettings.js
 /ui/login.action
+/i18n/component/JS?locale=en-US
+/api/v1/version

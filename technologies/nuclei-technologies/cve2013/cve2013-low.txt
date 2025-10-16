@@ -1,2 +1,3 @@
 /index.action?redirect:http://www.example.com/
 /index.action?redirect:http://www.interact.sh/
+/cgi-bin/nobody/VerifyCode.cgi?account={{base64(username +

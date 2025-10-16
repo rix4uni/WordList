@@ -552,3 +552,5 @@ config/settings.old.php
 /plugins/generic/tinymce/plugins/justboil.me/dialog-v4.htm
 /bzconf
 /bzconf/
+/i18n/component/JS?locale=en-US
+/api/v1/version
