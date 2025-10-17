@@ -222,3 +222,4 @@
 /pentaho/Login
 /pentaho/api/ldap/config/ldapTreeNodeChildren/require.js
 /wp-content/plugins/wsecure/wsecure-config.php
+/cgi-bin/cgiServer.exx?page=../../../../../../../../../../../etc/passwd

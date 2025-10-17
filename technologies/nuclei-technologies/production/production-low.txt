@@ -7656,3 +7656,7 @@
 /wp-content/themes/felan-framework/style.css
 /wp-content/plugins/authorsy/readme.txt
 /wp-content/plugins/acclectic-media-organizer/readme.txt
+/wp-content/plugins/postie/readme.txt
+/wp-content/plugins/window-blinds-solution/readme.txt
+/wp-content/plugins/find-me-on/readme.txt
+/wp-content/plugins/binary-mlm-plan/readme.txt

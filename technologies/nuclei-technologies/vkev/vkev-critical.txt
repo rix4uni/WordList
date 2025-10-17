@@ -231,3 +231,7 @@
 /misc/`curl${IFS}{{interactsh-url}}`/..;/index.html
 /wp-content/plugins/seo-by-rank-math/readme.txt
 /albatross/saml/idpSelection?id={{randstr}}&userName=admin
+/i18n/component/JS?locale=en-US
+/api/v1/version
+{{js}}
+/sse?transportType=stdio&command=echo&args[]=hello-from-brower

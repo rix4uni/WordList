@@ -7430,3 +7430,6 @@
 /wp-content/themes/felan-framework/style.css
 /wp-content/plugins/truelysell-core/readme.txt
 /wp-content/plugins/wp-gmail-smtp/readme.txt
+/wp-content/plugins/find-me-on/readme.txt
+/wp-content/plugins/postie/readme.txt
+/wp-content/plugins/window-blinds-solution/readme.txt

@@ -1967,3 +1967,6 @@
 /wp-content/plugins/dynamically-display-posts/readme.txt
 /wp-content/plugins/orion-sms-otp-verification/readme.txt
 /wp-content/plugins/truelysell-core/readme.txt
+/wp-content/plugins/is-human/readme.txt
+/wp-content/plugins/ctl-behance-importer-lite/readme.txt
+/wp-content/plugins/ajax-woosearch/readme.txt

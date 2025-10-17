@@ -3837,3 +3837,6 @@ pathCache.php
 /wp-content/themes/felan-framework/style.css
 /i18n/component/JS?locale=en-US
 /api/v1/version
+/wp-content/plugins/ajax-woosearch/readme.txt
+/wp-content/plugins/ctl-behance-importer-lite/readme.txt
+/wp-content/plugins/is-human/readme.txt

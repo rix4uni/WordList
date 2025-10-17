@@ -1,0 +1,1 @@
+/wp-content/plugins/is-human/readme.txt
