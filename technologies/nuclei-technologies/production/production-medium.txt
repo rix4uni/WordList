@@ -8118,3 +8118,5 @@
 /wp-content/plugins/search-filter/readme.txt
 /wp-content/themes/uncode/style.css
 /wp-content/plugins/wp-gmail-smtp/readme.txt
+/wp-content/plugins/embed-power-bi-reports/readme.txt
+/wp-content/plugins/woo-smart-quick-view/readme.txt

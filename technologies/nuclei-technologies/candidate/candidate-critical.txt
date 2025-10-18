@@ -1695,3 +1695,5 @@
 /wp-content/plugins/ajax-woosearch/readme.txt
 /wp-content/plugins/ctl-behance-importer-lite/readme.txt
 /wp-content/plugins/is-human/readme.txt
+/wp-content/plugins/appointments/readme.txt
+/wp-content/plugins/flickr-gallery/readme.txt

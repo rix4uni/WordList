@@ -8213,3 +8213,6 @@
 /wp-content/plugins/postie/readme.txt
 /wp-content/plugins/window-blinds-solution/readme.txt
 /wp-content/plugins/find-me-on/readme.txt
+/wp-content/plugins/gspeech/readme.txt
+/wp-content/plugins/fb2wp-integration-tools/readme.txt
+/wp-content/plugins/related-posts-lite/readme.txt

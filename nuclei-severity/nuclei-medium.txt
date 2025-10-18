@@ -13386,3 +13386,4 @@ config/settings.old.php
 /api/v1/version
 /wp-content/plugins/wp-gmail-smtp/readme.txt
 /Shibboleth.sso/Logout?return=https://{{randstr}}.interact.sh
+/wp-content/plugins/embed-power-bi-reports/readme.txt

