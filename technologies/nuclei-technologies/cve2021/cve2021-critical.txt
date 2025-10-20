@@ -90,3 +90,5 @@
 /pages/doenterpagevariables.action?queryString=foo%5cu0027%2b%5cu0027bar
 /wp-content/plugins/the-plus-addons-for-elementor-page-builder/readme.txt
 /login.html
+/dl.asp
+/mkDefault.asp?id={{mkdefault_id}}

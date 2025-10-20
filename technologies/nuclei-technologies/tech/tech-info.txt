@@ -882,3 +882,4 @@
 /cgi-bin/meteobridge.cgi
 /web-config.js
 /images/general/zabbix.ico
+/cgi-bin/protected/main.cgi

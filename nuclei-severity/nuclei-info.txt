@@ -2427,3 +2427,5 @@
 /favicon-32x32.png
 /maximo/webclient/login/login.jsp?welcome=true
 /images/general/zabbix.ico
+/cgi-bin/protected/main.cgi
+/UPGRADING.md

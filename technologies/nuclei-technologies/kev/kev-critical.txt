@@ -129,3 +129,5 @@
 /albatross/saml/idpSelection?id={{randstr}}&userName=admin
 /i18n/component/JS?locale=en-US
 /api/v1/version
+/dl.asp
+/mkDefault.asp?id={{mkdefault_id}}

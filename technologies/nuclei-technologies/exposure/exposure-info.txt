@@ -393,3 +393,5 @@
 /api/asyncapi
 /api/docs/asyncapi
 /docs/asyncapi
+/lib/upgrade.txt
+/UPGRADING.md
