@@ -32,3 +32,4 @@
 /wp-admin/
 /api/database
 /
+/core/profiles/testing/testing.info

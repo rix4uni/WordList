@@ -152,3 +152,5 @@
 /i18n/component/JS?locale=en-US
 /api/v1/version
 /plugins/address_add/add.php?first=HOVER%20ME!%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/securityRealm/signup
+/jenkins/securityRealm/signup

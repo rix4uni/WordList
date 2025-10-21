@@ -7437,3 +7437,4 @@
 /wp-content/plugins/fb2wp-integration-tools/readme.txt
 /wp-content/plugins/gspeech/readme.txt
 /wp-content/plugins/related-posts-lite/readme.txt
+/wp-content/plugins/wp-job-board/readme.txt

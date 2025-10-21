@@ -3842,3 +3842,4 @@ pathCache.php
 /wp-content/plugins/is-human/readme.txt
 /dl.asp
 /mkDefault.asp?id={{mkdefault_id}}
+/wp-content/plugins/wp-job-board/readme.txt

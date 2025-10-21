@@ -883,3 +883,4 @@
 /web-config.js
 /images/general/zabbix.ico
 /cgi-bin/protected/main.cgi
+/core/profiles/testing/testing.info

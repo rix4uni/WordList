@@ -2429,3 +2429,4 @@
 /images/general/zabbix.ico
 /cgi-bin/protected/main.cgi
 /UPGRADING.md
+/core/profiles/testing/testing.info
