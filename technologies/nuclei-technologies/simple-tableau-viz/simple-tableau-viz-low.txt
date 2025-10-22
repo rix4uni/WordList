@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-tableau-viz/readme.txt

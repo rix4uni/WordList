@@ -6,3 +6,4 @@
 /ui/auth
 /v1/sys/health?help=1
 /ui/vault/auth?with=oidc%2F
+/v1/sys/seal-status

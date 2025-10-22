@@ -223,3 +223,4 @@
 /pentaho/api/ldap/config/ldapTreeNodeChildren/require.js
 /wp-content/plugins/wsecure/wsecure-config.php
 /cgi-bin/cgiServer.exx?page=../../../../../../../../../../../etc/passwd
+/js/hrm/getdata.jsp?cmd=getSelectAllId&sql=select+547653*865674+as+id

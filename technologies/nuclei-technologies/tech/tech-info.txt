@@ -884,3 +884,4 @@
 /images/general/zabbix.ico
 /cgi-bin/protected/main.cgi
 /core/profiles/testing/testing.info
+/v1/sys/seal-status

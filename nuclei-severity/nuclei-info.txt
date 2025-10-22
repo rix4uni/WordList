@@ -2430,3 +2430,4 @@
 /cgi-bin/protected/main.cgi
 /UPGRADING.md
 /core/profiles/testing/testing.info
+/v1/sys/seal-status
