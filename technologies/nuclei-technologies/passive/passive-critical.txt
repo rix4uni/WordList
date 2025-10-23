@@ -20,3 +20,5 @@
 /dana/home/index.cgi
 /i18n/component/JS?locale=en-US
 /api/v1/version
+/wp-content/themes/{{theme}}/style.css
+/AHT/AHT_UI/public/js/app.min.js

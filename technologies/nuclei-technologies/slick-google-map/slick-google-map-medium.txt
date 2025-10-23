@@ -1,0 +1,1 @@
+/wp-content/plugins/slick-google-map/readme.txt

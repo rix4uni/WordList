@@ -131,3 +131,5 @@
 /api/v1/version
 /dl.asp
 /mkDefault.asp?id={{mkdefault_id}}
+/wp-content/themes/{{theme}}/style.css
+/AHT/AHT_UI/public/js/app.min.js

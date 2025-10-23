@@ -5748,3 +5748,8 @@
 /wp-content/plugins/search-filter/readme.txt
 /wp-content/themes/uncode/style.css
 /wp-content/plugins/theme-editor/readme.txt
+/wp-content/plugins/block-country/readme.txt
+/wp-content/plugins/replymail/readme.txt
+/wp-content/plugins/simple-stripe/readme.txt
+/wp-content/plugins/slick-google-map/readme.txt
+/wp-content/plugins/wpnamedusers/readme.txt

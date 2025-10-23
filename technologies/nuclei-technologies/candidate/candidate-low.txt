@@ -7463,3 +7463,8 @@
 /wp-content/plugins/wp-responsive-meet-the-team/readme.txt
 /wp-content/plugins/wp-restaurant-listings/readme.txt
 /wp-content/plugins/wp-thumbnail/readme.txt
+/wp-content/plugins/advanced-coupons-for-woocommerce-free/readme.txt
+/wp-content/plugins/mxchat-basic/readme.txt
+/wp-content/plugins/td-cloud-library/readme.txt
+/wp-content/plugins/thegem-elements/readme.txt
+/wp-content/plugins/u-design-core/readme.txt

@@ -7687,3 +7687,7 @@
 /wp-content/plugins/st-category-wp/readme.txt
 /wp-content/plugins/smcountdown/readme.txt
 /wp-content/plugins/responsive-progress-bar/readme.txt
+/wp-content/plugins/advanced-coupons-for-woocommerce-free/readme.txt
+/wp-content/plugins/td-cloud-library/readme.txt
+/wp-content/plugins/thegem-elements/readme.txt
+/wp-content/plugins/u-design-core/readme.txt

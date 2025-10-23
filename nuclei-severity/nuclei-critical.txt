@@ -3843,3 +3843,5 @@ pathCache.php
 /dl.asp
 /mkDefault.asp?id={{mkdefault_id}}
 /wp-content/plugins/wp-job-board/readme.txt
+/wp-content/themes/{{theme}}/style.css
+/AHT/AHT_UI/public/js/app.min.js
