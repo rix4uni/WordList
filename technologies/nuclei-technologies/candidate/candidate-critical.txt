@@ -1697,3 +1697,5 @@
 /wp-content/plugins/is-human/readme.txt
 /wp-content/plugins/appointments/readme.txt
 /wp-content/plugins/flickr-gallery/readme.txt
+/wp-content/themes/histudy/style.css
+/wp-content/themes/karzo/style.css

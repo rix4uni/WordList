@@ -1,0 +1,1 @@
+/wp-content/plugins/nginx-cache-optimizer/readme.txt

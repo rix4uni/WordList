@@ -2560,3 +2560,8 @@
 /wp-content/plugins/schema-and-structured-data-for-wp/readme.txt
 /wp-content/plugins/chatbot-chatgpt/readme.txt
 /wp-content/plugins/academy-pro/readme.txt
+/wp-content/plugins/popup-builder-block/readme.txt
+/wp-content/plugins/quickcreator/readme.txt
+/wp-content/plugins/shopmagic-for-woocommerce/readme.txt
+/wp-content/themes/kallyas/style.css
+/wp-content/themes/togo/style.css

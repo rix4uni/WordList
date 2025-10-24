@@ -1,0 +1,1 @@
+/wp-content/plugins/simple-excel-pricelist-for-woocommerce/readme.txt

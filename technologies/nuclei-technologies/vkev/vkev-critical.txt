@@ -244,3 +244,5 @@
 /bin/get/Main/DatabaseSearch?outputSyntax=plain&text=%7D%7D%7D%7B%7Basync%20async%3Dfalse%7D%7D%7B%7Bgroovy%7D%7Dprintln%28%22Hello%20from%22%20%2B%20%22%20search%20text%3A%22%20%2B%20%2823%20%2B%2019%29%29%7B%7B%2Fgroovy%7D%7D%7B%7B%2Fasync%7D%7D%20
 /dl.asp
 /mkDefault.asp?id={{mkdefault_id}}
+/wp-content/themes/{{theme}}/style.css
+/AHT/AHT_UI/public/js/app.min.js

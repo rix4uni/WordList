@@ -5753,3 +5753,9 @@
 /wp-content/plugins/simple-stripe/readme.txt
 /wp-content/plugins/slick-google-map/readme.txt
 /wp-content/plugins/wpnamedusers/readme.txt
+/wp-content/plugins/disable-contect-editor-for-specific-template/readme.txt
+/wp-content/plugins/indieauth/readme.txt
+/wp-content/plugins/mislider/readme.txt
+/wp-content/plugins/sumomemberships/readme.txt
+/wp-content/plugins/upc-ean-barcode-generator/readme.txt
+/wp-content/plugins/vnpay-for-woocommerce/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/windows-azure-storage/readme.txt

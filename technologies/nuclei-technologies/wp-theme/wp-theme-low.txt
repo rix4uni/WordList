@@ -510,3 +510,5 @@
 /wp-content/themes/newsup/style.css
 /wp-content/themes/classified-pro/style.css
 /wp-content/themes/felan-framework/style.css
+/wp-content/themes/homelancer/style.css
+/wp-content/themes/salient/style.css

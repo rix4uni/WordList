@@ -2387,3 +2387,5 @@
 /wp-content/plugins/ctl-behance-importer-lite/readme.txt
 /wp-content/plugins/ajax-woosearch/readme.txt
 /wp-content/plugins/wp-job-board/readme.txt
+/wp-content/themes/histudy/style.css
+/wp-content/themes/karzo/style.css

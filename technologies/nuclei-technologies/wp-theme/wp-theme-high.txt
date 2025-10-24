@@ -484,3 +484,6 @@
 /wp-content/themes/imevent/style.css
 /wp-content/themes/frames/style.css
 /wp-content/themes/thegem-elementor/style.css
+/wp-content/themes/kallyas/style.css
+/wp-content/themes/togo/style.css
+/wp-content/themes/homelancer/style.css
