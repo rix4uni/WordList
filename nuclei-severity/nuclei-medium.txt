@@ -13401,3 +13401,5 @@ config/settings.old.php
 /wp-content/plugins/vnpay-for-woocommerce/readme.txt
 /wp-content/plugins/chatbot-ai-free-models/readme.txt
 /wp-content/plugins/easy-post-submission/readme.txt
+/wp-content/plugins/fusewp/readme.txt
+/wp-content/plugins/woocommerce-simple-registration/readme.txt

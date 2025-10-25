@@ -3764,3 +3764,4 @@
 /wp-content/themes/togo/style.css
 /wp-content/plugins/uichemy/readme.txt
 /wp-content/plugins/zoloblocks/readme.txt
+/wp-content/plugins/watu/readme.txt

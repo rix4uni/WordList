@@ -7711,3 +7711,6 @@
 /wp-content/themes/salient/style.css
 /wp-content/plugins/revenue/readme.txt
 /wp-content/plugins/meetinghub/readme.txt
+/wp-content/themes/genesis/style.css
+/wp-content/plugins/spendeonline/readme.txt
+/wp-content/plugins/fast-velocity-minify/readme.txt

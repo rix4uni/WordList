@@ -1,0 +1,13 @@
+/darkstat/
+/cgi-bin/dynamic/config/secure/security.html
+/.drone.yml
+/install/index.php
+/Security/users?auth={{b64auth}}
+/.htpasswd
+/eIMConfiguration
+/eid-management
+/eid-management-new
+/bulk-profile-operation
+/?app=config
+/admin/
+/solr/admin/

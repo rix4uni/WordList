@@ -8759,3 +8759,5 @@
 /wp-content/plugins/popup-builder-block/readme.txt
 /wp-content/plugins/quickcreator/readme.txt
 /wp-content/plugins/shopmagic-for-woocommerce/readme.txt
+/wp-content/themes/genesis/style.css
+/wp-content/plugins/spendeonline/readme.txt

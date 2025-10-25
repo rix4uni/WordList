@@ -2565,3 +2565,4 @@
 /wp-content/plugins/shopmagic-for-woocommerce/readme.txt
 /wp-content/themes/kallyas/style.css
 /wp-content/themes/togo/style.css
+/wp-content/plugins/watu/readme.txt

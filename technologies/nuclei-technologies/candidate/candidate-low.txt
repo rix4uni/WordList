@@ -7485,3 +7485,6 @@
 /wp-content/plugins/supervisor/readme.txt
 /wp-content/plugins/voice-feedback/readme.txt
 /wp-content/plugins/windows-azure-storage/readme.txt
+/wp-content/plugins/eroom-zoom-meetings-webinar/readme.txt
+/wp-content/themes/genesis/style.css
+/wp-content/plugins/spendeonline/readme.txt

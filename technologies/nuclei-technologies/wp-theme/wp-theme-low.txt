@@ -512,3 +512,4 @@
 /wp-content/themes/felan-framework/style.css
 /wp-content/themes/homelancer/style.css
 /wp-content/themes/salient/style.css
+/wp-content/themes/genesis/style.css

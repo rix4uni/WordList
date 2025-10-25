@@ -885,3 +885,4 @@
 /cgi-bin/protected/main.cgi
 /core/profiles/testing/testing.info
 /v1/sys/seal-status
+/xwiki/

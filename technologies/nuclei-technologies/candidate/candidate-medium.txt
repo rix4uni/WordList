@@ -5759,3 +5759,5 @@
 /wp-content/plugins/sumomemberships/readme.txt
 /wp-content/plugins/upc-ean-barcode-generator/readme.txt
 /wp-content/plugins/vnpay-for-woocommerce/readme.txt
+/wp-content/plugins/fusewp/readme.txt
+/wp-content/plugins/woocommerce-simple-registration/readme.txt
