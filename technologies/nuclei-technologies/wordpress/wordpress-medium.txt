@@ -10537,3 +10537,5 @@
 /wp-content/plugins/indieauth/readme.txt
 /wp-content/plugins/fusewp/readme.txt
 /wp-content/plugins/woocommerce-simple-registration/readme.txt
+/wp-content/plugins/wccp-pro/no-js.php?referrer=https://oast.pro
+/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz_admin_sample_buttons.php?theme_stylesheet=\

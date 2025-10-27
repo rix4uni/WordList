@@ -27,3 +27,4 @@
 /?cb={{cache-buster}}
 /securityRealm/signup
 /jenkins/securityRealm/signup
+/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz_admin_sample_buttons.php?theme_stylesheet=\

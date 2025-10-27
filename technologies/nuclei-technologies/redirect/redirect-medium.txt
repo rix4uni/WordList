@@ -262,3 +262,4 @@
 /xwiki/bin/view/Main/?foo=bar&foo_syntax=invalid&RequiresHTMLConversion=foo&xerror=https://oast.me
 /settings/calendar/?f=&rpath=https://evil.com/auth.php
 /Shibboleth.sso/Logout?return=https://{{randstr}}.interact.sh
+/wp-content/plugins/wccp-pro/no-js.php?referrer=https://oast.pro
