@@ -47,3 +47,4 @@
 /query
 /o/get/httpmeta?url=https://{{interactsh-url}}
 /?cb={{cache-buster}}
+/unsafe/plain/http://{{interactsh-url}}

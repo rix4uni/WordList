@@ -571,3 +571,4 @@ _vti_pvt/authors.pwd
 /var/config/database.yml
 /var/company_name/config/database.yml
 /wp-config.PHP
+/currentsetting.htm

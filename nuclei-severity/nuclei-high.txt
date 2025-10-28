@@ -8963,3 +8963,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/popup-builder-block/readme.txt
 /wp-content/plugins/quickcreator/readme.txt
 /wp-content/plugins/shopmagic-for-woocommerce/readme.txt
+/currentsetting.htm

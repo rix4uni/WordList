@@ -13405,3 +13405,5 @@ config/settings.old.php
 /wp-content/plugins/woocommerce-simple-registration/readme.txt
 /wp-content/plugins/wccp-pro/no-js.php?referrer=https://oast.pro
 /wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz_admin_sample_buttons.php?theme_stylesheet=\
+/unsafe/plain/https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+/unsafe/plain/http://{{interactsh-url}}
