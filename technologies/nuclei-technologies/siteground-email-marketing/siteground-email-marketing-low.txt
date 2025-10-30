@@ -1,0 +1,1 @@
+/wp-content/plugins/siteground-email-marketing/readme.txt

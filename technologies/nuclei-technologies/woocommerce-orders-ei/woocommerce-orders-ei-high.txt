@@ -1,0 +1,1 @@
+/wp-content/plugins/woocommerce-orders-ei/readme.txt

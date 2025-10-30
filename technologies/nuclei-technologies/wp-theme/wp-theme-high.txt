@@ -487,3 +487,5 @@
 /wp-content/themes/kallyas/style.css
 /wp-content/themes/togo/style.css
 /wp-content/themes/homelancer/style.css
+/wp-content/themes/construction-light/style.css
+/wp-content/themes/sparkle-fse/style.css

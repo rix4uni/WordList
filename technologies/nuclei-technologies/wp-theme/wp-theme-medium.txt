@@ -706,3 +706,9 @@
 /wp-content/themes/foodbook/style.css
 /wp-content/themes/customify/style.css
 /wp-content/themes/uncode/style.css
+/wp-content/themes/rockon/style.css
+/wp-content/themes/enzy/style.css
+/wp-content/themes/doctreat/style.css
+/wp-content/themes/gostore/style.css
+/wp-content/themes/sonaar/style.css
+/wp-content/themes/togo/style.css

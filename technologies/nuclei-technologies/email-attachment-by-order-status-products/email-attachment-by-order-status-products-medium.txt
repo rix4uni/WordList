@@ -1,0 +1,1 @@
+/wp-content/plugins/email-attachment-by-order-status-products/readme.txt

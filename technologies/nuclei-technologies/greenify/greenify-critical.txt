@@ -1,0 +1,1 @@
+/wp-content/themes/greenify/style.css

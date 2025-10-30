@@ -1,0 +1,1 @@
+/wp-content/plugins/acf-recent-posts-widget/readme.txt

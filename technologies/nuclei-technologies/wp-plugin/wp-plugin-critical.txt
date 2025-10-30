@@ -1972,3 +1972,9 @@
 /wp-content/plugins/ajax-woosearch/readme.txt
 /wp-content/plugins/wp-job-board/readme.txt
 /wp-content/plugins/wp-full-stripe-free/readme.txt
+/wp-content/plugins/wp-abstracts-manuscripts-manager/readme.txt
+/wp-content/plugins/happy-helpdesk-support-ticket-system/readme.txt
+/wp-content/plugins/woo-vehicle-parts-finder/readme.txt
+/wp-content/plugins/jet-search/readme.txt
+/wp-content/plugins/thegem-elements/readme.txt
+/wp-content/plugins/king-addons/readme.txt

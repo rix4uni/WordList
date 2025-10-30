@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-abstracts-manuscripts-manager/readme.txt

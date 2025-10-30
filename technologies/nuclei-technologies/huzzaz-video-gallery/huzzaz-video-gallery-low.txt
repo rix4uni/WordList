@@ -1,0 +1,1 @@
+/wp-content/plugins/huzzaz-video-gallery/readme.txt

@@ -513,3 +513,11 @@
 /wp-content/themes/homelancer/style.css
 /wp-content/themes/salient/style.css
 /wp-content/themes/genesis/style.css
+/wp-content/themes/sonaar/style.css
+/wp-content/themes/togo/style.css
+/wp-content/themes/blogmatic/style.css
+/wp-content/themes/news-event/style.css
+/wp-content/themes/revolution/style.css
+/wp-content/themes/xsmart/style.css
+/wp-content/themes/construction-light/style.css
+/wp-content/themes/sparkle-fse/style.css

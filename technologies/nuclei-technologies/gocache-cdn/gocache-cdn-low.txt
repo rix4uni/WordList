@@ -1,0 +1,1 @@
+/wp-content/plugins/gocache-cdn/readme.txt

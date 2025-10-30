@@ -1,0 +1,1 @@
+/wp-content/plugins/thegem-elements/readme.txt

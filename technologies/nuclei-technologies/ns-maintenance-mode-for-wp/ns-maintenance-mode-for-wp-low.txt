@@ -1,0 +1,1 @@
+/wp-content/plugins/ns-maintenance-mode-for-wp/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/riovizual/readme.txt
