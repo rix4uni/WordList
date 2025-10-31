@@ -1,3 +1,4 @@
 /backupsettings.conf
 /i/?a=logs
 /?app=config
+/.edgerc

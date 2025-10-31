@@ -121,3 +121,9 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 %25252f@evil.com
 ?.evil.com
 ╱.evil.com
+/http/example.com
+/wso?redirect=http://example.com
+/SSO?url=http://example.com
+/\{{Hostname}}:80%40example.com
+/admin/success.do?url=//example.com
+/not_me_its_you/?redirect_url=http://example.com

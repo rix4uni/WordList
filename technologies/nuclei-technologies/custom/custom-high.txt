@@ -1,0 +1,8 @@
+/app/gitlab-recovery-codes.txt
+/gitlab/gitlab-recovery-codes.txt
+/gitlab-recovery-codes.txt
+/uploads/github-recovery-codes.txt
+/github-recovery-codes.txt
+/github/github-recovery-codes.txt
+/ui_base/js/..%2f..%2f..%2f..%2fsettings.js
+/js/..%2f..%2f..%2f..%2fsettings.js

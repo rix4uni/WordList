@@ -3806,3 +3806,4 @@
 /wp-content/plugins/wp-lister-for-ebay/readme.txt
 /wp-content/plugins/wpappninja/readme.txt
 /wp-content/plugins/wpcomplete/readme.txt
+/wp-content/plugins/eri-file-library/readme.txt

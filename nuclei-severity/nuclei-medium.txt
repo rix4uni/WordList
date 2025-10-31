@@ -13455,3 +13455,6 @@ config/settings.old.php
 /wp-content/plugins/wsanalytics-google-analytics-and-dashboards/readme.txt
 /wp-content/plugins/ns-maintenance-mode-for-wp/readme.txt
 /wp-content/plugins/site-checkup/readme.txt
+/horizon
+:8000/horizon
+/wp-content/plugins/wp-analytify-pro/readme.txt

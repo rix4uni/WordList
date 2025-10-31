@@ -7770,3 +7770,6 @@
 /wp-content/plugins/simple-pull-quote/readme.txt
 /wp-content/plugins/builderall-cheetah-for-wp/readme.txt
 /wp-content/plugins/slider-templates/readme.txt
+/wp-content/plugins/qzzr-shortcode/readme.txt
+/wp-content/plugins/fusewp/readme.txt
+/wp-content/plugins/zombify/readme.txt

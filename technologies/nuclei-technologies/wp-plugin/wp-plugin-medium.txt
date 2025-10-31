@@ -9803,3 +9803,4 @@
 /wp-content/plugins/raychat/readme.txt
 /wp-content/plugins/acf-to-rest-api/readme.txt
 /wp-content/plugins/fanbridge-signup/readme.txt
+/wp-content/plugins/wp-analytify-pro/readme.txt

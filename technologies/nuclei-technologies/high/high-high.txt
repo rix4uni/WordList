@@ -5905,3 +5905,6 @@
 /wp-content/plugins/ts-demo-importer/readme.txt
 /wp-content/plugins/u-design-core/readme.txt
 /wp-content/plugins/woocommerce-orders-ei/readme.txt
+/wp-content/plugins/wc-designer-pro/readme.txt
+/wp-content/plugins/eri-file-library/readme.txt
+/wp-content/plugins/wpc-name-your-price/readme.txt

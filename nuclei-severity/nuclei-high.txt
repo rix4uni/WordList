@@ -9002,3 +9002,14 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/woocommerce-orders-ei/readme.txt
 /wp-content/plugins/wpcomplete/readme.txt
 /wp-content/plugins/formgent/readme.txt
+/.edgerc
+/wp-content/plugins/eri-file-library/readme.txt
+/app/gitlab-recovery-codes.txt
+/gitlab/gitlab-recovery-codes.txt
+/gitlab-recovery-codes.txt
+/uploads/github-recovery-codes.txt
+/github-recovery-codes.txt
+/github/github-recovery-codes.txt
+/js/..%2f..%2f..%2f..%2fsettings.js
+/wp-content/plugins/wc-designer-pro/readme.txt
+/wp-content/plugins/wpc-name-your-price/readme.txt

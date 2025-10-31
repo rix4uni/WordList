@@ -8,3 +8,5 @@
 /_ignition/scripts/--><svg%20onload=alert(1337)>
 ///////this-should-not-exist,.<>!@#$%^&*()_+
 /%00
+/horizon
+:8000/horizon

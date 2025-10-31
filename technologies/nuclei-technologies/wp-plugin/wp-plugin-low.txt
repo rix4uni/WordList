@@ -8321,3 +8321,8 @@
 /wp-content/plugins/ns-maintenance-mode-for-wp/readme.txt
 /wp-content/plugins/quiz-maker-pro/readme.txt
 /wp-content/plugins/site-checkup/readme.txt
+/wp-content/plugins/qzzr-shortcode/readme.txt
+/wp-content/plugins/fusewp/readme.txt
+/wp-content/plugins/zombify/readme.txt
+/wp-content/plugins/wp-analytify-pro/readme.txt
+/wp-content/plugins/wpc-name-your-price/readme.txt

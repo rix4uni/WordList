@@ -2587,3 +2587,6 @@
 /wp-content/plugins/mstw-csv-exporter/readme.txt
 /wp-content/plugins/official-sendle-shipping-method/readme.txt
 /wp-content/plugins/baiduseo/readme.txt
+/wp-content/plugins/wc-designer-pro/readme.txt
+/wp-content/plugins/eri-file-library/readme.txt
+/wp-content/plugins/wpc-name-your-price/readme.txt
