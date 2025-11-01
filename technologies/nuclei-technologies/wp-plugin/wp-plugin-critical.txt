@@ -1978,3 +1978,5 @@
 /wp-content/plugins/jet-search/readme.txt
 /wp-content/plugins/thegem-elements/readme.txt
 /wp-content/plugins/king-addons/readme.txt
+/wp-content/plugins/tablesome/readme.txt
+/wp-content/plugins/doccure/readme.txt

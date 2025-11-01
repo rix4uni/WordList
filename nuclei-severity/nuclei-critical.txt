@@ -3869,3 +3869,5 @@ pathCache.php
 /wp-content/plugins/woo-vehicle-parts-finder/readme.txt
 /wp-content/plugins/wp-abstracts-manuscripts-manager/readme.txt
 /wp-content/themes/xcare/style.css
+/wp-content/plugins/tablesome/readme.txt
+/wp-content/plugins/doccure/readme.txt

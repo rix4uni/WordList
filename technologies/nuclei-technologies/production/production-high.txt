@@ -2590,3 +2590,7 @@
 /wp-content/plugins/wc-designer-pro/readme.txt
 /wp-content/plugins/eri-file-library/readme.txt
 /wp-content/plugins/wpc-name-your-price/readme.txt
+/wp-content/plugins/advanced-ads/readme.txt
+/wp-content/plugins/document-library-lite/readme.txt
+/wp-content/plugins/wplegalpages/readme.txt
+/wp-content/plugins/community-events/readme.txt

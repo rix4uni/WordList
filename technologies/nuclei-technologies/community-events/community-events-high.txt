@@ -1,0 +1,1 @@
+/wp-content/plugins/community-events/readme.txt

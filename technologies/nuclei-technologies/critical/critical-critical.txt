@@ -2406,3 +2406,5 @@
 /wp-content/themes/academist/style.css
 /wp-content/themes/savory/style.css
 /wp-content/plugins/king-addons/readme.txt
+/wp-content/plugins/tablesome/readme.txt
+/wp-content/plugins/doccure/readme.txt

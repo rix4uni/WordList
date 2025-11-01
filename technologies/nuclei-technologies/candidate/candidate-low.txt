@@ -7538,3 +7538,10 @@
 /wp-content/plugins/wp-analytify-pro/readme.txt
 /wp-content/plugins/wpc-name-your-price/readme.txt
 /wp-content/plugins/zombify/readme.txt
+/wp-content/plugins/doccure/readme.txt
+/wp-content/plugins/folderly/readme.txt
+/wp-content/plugins/inactive-logout/readme.txt
+/wp-content/plugins/nazy-load/readme.txt
+/wp-content/plugins/restful-syndication/readme.txt
+/wp-content/plugins/schema-scalpel/readme.txt
+/wp-content/plugins/wp-discourse/readme.txt

@@ -9013,3 +9013,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /js/..%2f..%2f..%2f..%2fsettings.js
 /wp-content/plugins/wc-designer-pro/readme.txt
 /wp-content/plugins/wpc-name-your-price/readme.txt
+/wp-content/plugins/community-events/readme.txt
+/wp-content/plugins/document-library-lite/readme.txt
