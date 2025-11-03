@@ -1393,3 +1393,10 @@
 /{{FILENAME}}.{{EXT}}
 /3/ucenter_api/code/register_nodb.php/
 /unsafe/plain/https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+/.settings.php.swp
+/config.php.bak
+/config.php.dist
+/config.php.old
+/config.php.save
+/.config.php.swp
+/config.php.txt
