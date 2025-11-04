@@ -5544,3 +5544,10 @@
 /wp-content/plugins/wpc-name-your-price/readme.txt
 /wp-content/plugins/document-library-lite/readme.txt
 /wp-content/plugins/community-events/readme.txt
+/wp-content/plugins/footnotes-made-easy/readme.txt
+/wp-content/plugins/aio-time-clock-lite/readme.txt
+/wp-content/plugins/crypto-payment-gateway-with-payeer-for-woocommerce/readme.txt
+/wp-content/plugins/simple-user-capabilities/readme.txt
+/wp-content/plugins/dominokit/readme.txt
+/wp-content/plugins/range-slider-addon-for-gravity-forms/readme.txt
+/wp-content/plugins/simple-payment/readme.txt

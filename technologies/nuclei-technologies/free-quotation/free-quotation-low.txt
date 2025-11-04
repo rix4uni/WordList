@@ -1,0 +1,1 @@
+/wp-content/plugins/free-quotation/readme.txt

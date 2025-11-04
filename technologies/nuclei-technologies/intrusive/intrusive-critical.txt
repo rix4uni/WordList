@@ -97,3 +97,4 @@
 /pbxcore/files/cache/§extracted_path§?{{wait_for(3)}}
 /{{route}}
 /console/login/LoginForm.jsp
+/pbxcore/files/cache/{{extracted_path}}?{{wait_for(3)}}

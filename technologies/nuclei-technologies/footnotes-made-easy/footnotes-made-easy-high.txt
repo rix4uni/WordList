@@ -1,0 +1,1 @@
+/wp-content/plugins/footnotes-made-easy/readme.txt

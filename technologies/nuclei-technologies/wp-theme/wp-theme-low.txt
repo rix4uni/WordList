@@ -521,3 +521,6 @@
 /wp-content/themes/xsmart/style.css
 /wp-content/themes/construction-light/style.css
 /wp-content/themes/sparkle-fse/style.css
+/wp-content/themes/consulting/style.css
+/wp-content/themes/kleo/style.css
+/wp-content/themes/masterstudy/style.css

@@ -1,0 +1,1 @@
+/wp-content/plugins/wpcf7-stop-words/readme.txt

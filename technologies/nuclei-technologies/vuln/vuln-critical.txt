@@ -484,3 +484,4 @@
 /zenphoto/zp-core/setup/index.php
 /seeyon/thirdpartyController.do.css/..;/ajax.do
 /setup
+/pbxcore/files/cache/{{extracted_path}}?{{wait_for(3)}}

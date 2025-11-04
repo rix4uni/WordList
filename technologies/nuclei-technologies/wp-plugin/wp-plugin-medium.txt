@@ -9804,3 +9804,15 @@
 /wp-content/plugins/acf-to-rest-api/readme.txt
 /wp-content/plugins/fanbridge-signup/readme.txt
 /wp-content/plugins/wp-analytify-pro/readme.txt
+/wp-content/plugins/wp-global-screen-options/readme.txt
+/wp-content/plugins/viaads/readme.txt
+/wp-content/plugins/posts-navigation-links-for-sections-and-headings-free-by-wp-masters/readme.txt
+/wp-content/plugins/lmbbox-smileys/readme.txt
+/wp-content/plugins/label-plugins/readme.txt
+/wp-content/plugins/linkedin-resume/readme.txt
+/wp-content/plugins/brzon/readme.txt
+/wp-content/plugins/sh-contextual-help/readme.txt
+/wp-content/plugins/top-bar-notification/readme.txt
+/wp-content/plugins/wpcf7-stop-words/readme.txt
+/wp-content/plugins/mapmap/readme.txt
+/wp-content/plugins/centangle-team/readme.txt

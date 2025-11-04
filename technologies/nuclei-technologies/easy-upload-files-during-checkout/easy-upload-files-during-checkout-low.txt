@@ -1,0 +1,1 @@
+/wp-content/plugins/easy-upload-files-during-checkout/readme.txt
