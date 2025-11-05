@@ -1,0 +1,1 @@
+/wp-content/themes/medizin/style.css

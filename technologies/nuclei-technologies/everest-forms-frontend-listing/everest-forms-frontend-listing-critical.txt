@@ -1,0 +1,1 @@
+/wp-content/plugins/everest-forms-frontend-listing/readme.txt

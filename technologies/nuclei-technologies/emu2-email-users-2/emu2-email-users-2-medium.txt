@@ -1,0 +1,1 @@
+/wp-content/plugins/emu2-email-users-2/readme.txt

@@ -712,3 +712,6 @@
 /wp-content/themes/gostore/style.css
 /wp-content/themes/sonaar/style.css
 /wp-content/themes/togo/style.css
+/wp-content/themes/triss/style.css
+/wp-content/themes/wprentals/style.css
+/wp-content/themes/bardwp/style.css

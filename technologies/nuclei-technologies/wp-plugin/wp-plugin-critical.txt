@@ -1981,3 +1981,13 @@
 /wp-content/plugins/tablesome/readme.txt
 /wp-content/plugins/doccure/readme.txt
 /wp-content/plugins/easy-upload-files-during-checkout/readme.txt
+/wp-content/plugins/kiotvietsync/readme.txt
+/wp-content/plugins/qc-simple-link-directory/readme.txt
+/wp-content/plugins/learts-addons/readme.txt
+/wp-content/plugins/wp-gravity-forms-spreadsheets/readme.txt
+/wp-content/plugins/everest-forms-frontend-listing/readme.txt
+/wp-content/plugins/captivatesync-trade/readme.txt
+/wp-content/plugins/subscribe-to-download/readme.txt
+/wp-content/plugins/knowledgebase-helpdesk-pro/readme.txt
+/wp-content/plugins/universam-demo/readme.txt
+/wp-content/plugins/everest-forms-pro/readme.txt

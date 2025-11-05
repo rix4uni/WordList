@@ -445,3 +445,15 @@
 /wp-content/themes/grevo/style.css
 /wp-content/themes/academist/style.css
 /wp-content/themes/savory/style.css
+/wp-content/themes/clanora/style.css
+/wp-content/themes/wastia/style.css
+/wp-content/themes/kalium/style.css
+/wp-content/themes/smilepure/style.css
+/wp-content/themes/medcity/style.css
+/wp-content/themes/businext/style.css
+/wp-content/themes/medizin/style.css
+/wp-content/themes/scape/style.css
+/wp-content/themes/goldenblatt/style.css
+/wp-content/themes/addison/style.css
+/wp-content/themes/bugspatrol/style.css
+/wp-content/themes/whiterabbit/style.css

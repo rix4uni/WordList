@@ -1,0 +1,1 @@
+/wp-content/plugins/likert-survey-master/readme.txt

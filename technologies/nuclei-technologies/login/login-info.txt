@@ -346,3 +346,4 @@
 /api/v2/info
 /cgi-mod/index.cgi
 /commandcenter/login/preSso.jsp
+/session/begin

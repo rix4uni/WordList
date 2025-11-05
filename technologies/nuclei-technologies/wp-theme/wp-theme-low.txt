@@ -524,3 +524,11 @@
 /wp-content/themes/consulting/style.css
 /wp-content/themes/kleo/style.css
 /wp-content/themes/masterstudy/style.css
+/wp-content/themes/doctreat/style.css
+/wp-content/themes/kriya/style.css
+/wp-content/themes/kbase/style.css
+/wp-content/themes/single-property/style.css
+/wp-content/themes/eduma/style.css
+/wp-content/themes/smart-mag/style.css
+/wp-content/themes/couponxxl/style.css
+/wp-content/themes/kalium/style.css

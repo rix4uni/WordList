@@ -1,0 +1,1 @@
+/wp-content/themes/triss/style.css

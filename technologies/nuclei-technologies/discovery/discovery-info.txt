@@ -1119,3 +1119,4 @@
 /web/login.html
 /api/tenants
 /api/status
+/session/begin

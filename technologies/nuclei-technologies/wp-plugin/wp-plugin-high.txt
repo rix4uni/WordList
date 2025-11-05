@@ -5551,3 +5551,16 @@
 /wp-content/plugins/dominokit/readme.txt
 /wp-content/plugins/range-slider-addon-for-gravity-forms/readme.txt
 /wp-content/plugins/simple-payment/readme.txt
+/wp-content/plugins/realpress/readme.txt
+/wp-content/plugins/document-emberdder/readme.txt
+/wp-content/plugins/captcha-eu/readme.txt
+/wp-content/plugins/coschedule-by-todaymade/readme.txt
+/wp-content/plugins/wplms_plugin/readme.txt
+/wp-content/plugins/wikipedia-preview/readme.txt
+/wp-content/plugins/blog-designer-pro/readme.txt
+/wp-content/plugins/wp-snow-effect/readme.txt
+/wp-content/plugins/accessibe/readme.txt
+/wp-content/plugins/hydra-booking/readme.txt
+/wp-content/plugins/insert-php-code-snippet/readme.txt
+/wp-content/plugins/masterstudy-lms-learning-management-system-pro/readme.txt
+/wp-content/plugins/wt-smart-coupons-for-woocommerce/readme.txt

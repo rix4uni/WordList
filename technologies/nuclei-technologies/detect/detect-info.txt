@@ -334,3 +334,4 @@
 /favicon-32x32.png
 /core/profiles/testing/testing.info
 /xwiki/
+/session/begin

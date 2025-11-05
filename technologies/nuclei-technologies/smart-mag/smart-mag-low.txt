@@ -1,0 +1,1 @@
+/wp-content/themes/smart-mag/style.css

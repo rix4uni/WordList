@@ -1,0 +1,1 @@
+/wp-content/plugins/extendons-registration-fields/readme.txt
