@@ -3902,3 +3902,8 @@ pathCache.php
 /wp-content/themes/whiterabbit/style.css
 /wp-content/plugins/wp-gravity-forms-spreadsheets/readme.txt
 /wp-content/themes/kalium/style.css
+/fog/management/index.php?node=about&sub=kernel
+/fog/service/getversion.php?url={{interactsh-url}}
+/wp-content/themes/jina/style.css
+/wp-content/themes/nrgrestaurant/style.css
+/wp-content/themes/upking/style.css

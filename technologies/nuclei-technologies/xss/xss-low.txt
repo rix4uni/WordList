@@ -78,3 +78,5 @@
 /v0.3/index.html?configUrl=https://xss.smarpo.com/test.json
 /v0.2/index.html?configUrl=https://xss.smarpo.com/test.json
 /v0.1/index.html?configUrl=https://xss.smarpo.com/test.json
+/a%22%3E%3Cinjectable%3E
+/a%27%3E%3Cinjectable%3E

@@ -560,3 +560,4 @@ config/settings.old.php
 /config.php.save
 /.config.php.swp
 /config.php.txt
+/examples/jsp/snp/anything.snp

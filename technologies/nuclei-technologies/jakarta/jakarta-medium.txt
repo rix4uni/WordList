@@ -1,2 +1,1 @@
-/_vti_inf.html
 /examples/jsp/snp/anything.snp

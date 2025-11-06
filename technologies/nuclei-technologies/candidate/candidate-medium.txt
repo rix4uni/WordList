@@ -5838,3 +5838,4 @@
 /wp-content/plugins/wooenvato/readme.txt
 /wp-content/plugins/wp-smart-flexslider/readme.txt
 /wp-content/themes/wprentals/style.css
+/wp-content/plugins/email-subscription-with-secure-captcha/readme.txt

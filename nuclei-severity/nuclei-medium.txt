@@ -13491,3 +13491,7 @@ config/settings.old.php
 /wp-content/plugins/wooenvato/readme.txt
 /wp-content/plugins/wp-smart-flexslider/readme.txt
 /wp-content/themes/wprentals/style.css
+/wp-content/plugins/email-subscription-with-secure-captcha/readme.txt
+/examples/jsp/snp/anything.snp
+/wp-content/uploads/fifu-plugin.log
+/wp-content/uploads/fifu-cloud.log

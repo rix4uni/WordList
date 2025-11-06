@@ -260,3 +260,5 @@
 /sapi/debug/default/view
 /debug/default
 /seeyon/personalBind.do.jpg/..;/ajax.do?method=ajaxAction&managerName=mMOneProfileManager&managerMethod=getOAProfile
+/a%22%3E%3Cinjectable%3E
+/a%27%3E%3Cinjectable%3E

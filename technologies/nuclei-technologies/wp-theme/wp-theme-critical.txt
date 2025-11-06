@@ -457,3 +457,6 @@
 /wp-content/themes/addison/style.css
 /wp-content/themes/bugspatrol/style.css
 /wp-content/themes/whiterabbit/style.css
+/wp-content/themes/jina/style.css
+/wp-content/themes/nrgrestaurant/style.css
+/wp-content/themes/upking/style.css

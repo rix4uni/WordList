@@ -1,1 +1,3 @@
 /wp-content/plugins/featured-image-from-url/readme.txt
+/wp-content/uploads/fifu-plugin.log
+/wp-content/uploads/fifu-cloud.log

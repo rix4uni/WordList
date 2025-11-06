@@ -29,3 +29,5 @@
 /jenkins/securityRealm/signup
 /wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz_admin_sample_buttons.php?theme_stylesheet=\
 /unsafe/plain/http://{{interactsh-url}}
+/wp-content/uploads/fifu-plugin.log
+/wp-content/uploads/fifu-cloud.log

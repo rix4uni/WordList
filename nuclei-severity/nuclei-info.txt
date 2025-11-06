@@ -2433,3 +2433,4 @@
 /v1/sys/seal-status
 /xwiki/
 /session/begin
+/examples/jsp/snp/snoop.jsp

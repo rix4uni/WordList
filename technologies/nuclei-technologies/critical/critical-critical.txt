@@ -2431,3 +2431,6 @@
 /wp-content/plugins/knowledgebase-helpdesk-pro/readme.txt
 /wp-content/plugins/universam-demo/readme.txt
 /wp-content/plugins/everest-forms-pro/readme.txt
+/wp-content/themes/jina/style.css
+/wp-content/themes/nrgrestaurant/style.css
+/wp-content/themes/upking/style.css

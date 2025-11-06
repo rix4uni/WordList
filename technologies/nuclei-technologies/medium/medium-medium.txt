@@ -10227,3 +10227,4 @@
 /wp-content/plugins/stockie-extra/readme.txt
 /wp-content/themes/wprentals/style.css
 /wp-content/themes/bardwp/style.css
+/wp-content/plugins/email-subscription-with-secure-captcha/readme.txt

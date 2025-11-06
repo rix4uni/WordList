@@ -9828,3 +9828,6 @@
 /wp-content/plugins/hpbseo/readme.txt
 /wp-content/plugins/acf-cpt-options-pages/readme.txt
 /wp-content/plugins/stockie-extra/readme.txt
+/wp-content/plugins/email-subscription-with-secure-captcha/readme.txt
+/wp-content/uploads/fifu-plugin.log
+/wp-content/uploads/fifu-cloud.log

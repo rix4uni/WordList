@@ -8875,3 +8875,4 @@
 /wp-content/plugins/captcha-eu/readme.txt
 /wp-content/themes/couponxxl/style.css
 /wp-content/themes/kalium/style.css
+/wp-content/plugins/email-subscription-with-secure-captcha/readme.txt

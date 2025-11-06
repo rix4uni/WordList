@@ -1,2 +1,4 @@
 /downloader.log
 /html/log
+/wp-content/uploads/fifu-plugin.log
+/wp-content/uploads/fifu-cloud.log

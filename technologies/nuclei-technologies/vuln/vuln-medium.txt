@@ -1400,3 +1400,5 @@
 /config.php.save
 /.config.php.swp
 /config.php.txt
+/wp-content/uploads/fifu-plugin.log
+/wp-content/uploads/fifu-cloud.log

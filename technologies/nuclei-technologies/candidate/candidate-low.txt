@@ -7590,3 +7590,4 @@
 /wp-content/themes/smart-mag/style.css
 /wp-content/plugins/sumomemberships/readme.txt
 /wp-content/plugins/wp-store-locator/readme.txt
+/wp-content/plugins/email-subscription-with-secure-captcha/readme.txt

@@ -1739,3 +1739,6 @@
 /wp-content/themes/wastia/style.css
 /wp-content/themes/whiterabbit/style.css
 /wp-content/plugins/wp-gravity-forms-spreadsheets/readme.txt
+/wp-content/themes/jina/style.css
+/wp-content/themes/nrgrestaurant/style.css
+/wp-content/themes/upking/style.css

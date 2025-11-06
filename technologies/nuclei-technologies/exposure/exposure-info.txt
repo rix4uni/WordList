@@ -395,3 +395,4 @@
 /docs/asyncapi
 /lib/upgrade.txt
 /UPGRADING.md
+/examples/jsp/snp/snoop.jsp
