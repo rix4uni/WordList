@@ -3830,3 +3830,4 @@
 /wp-content/themes/wpresidence/style.css
 /wp-content/plugins/wt-smart-coupons-for-woocommerce/readme.txt
 /wp-content/plugins/real-time-auto-find-and-replace/readme.txt
+/wp-content/plugins/ghl-wizard/readme.txt

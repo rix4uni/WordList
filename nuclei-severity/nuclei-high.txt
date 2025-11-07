@@ -9037,3 +9037,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/themes/wpresidence/style.css
 /wp-content/plugins/wt-smart-coupons-for-woocommerce/readme.txt
 /wp-content/plugins/captcha-eu/readme.txt
+/wp-content/plugins/ghl-wizard/readme.txt

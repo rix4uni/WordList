@@ -8366,3 +8366,4 @@
 /wp-content/plugins/wt-smart-coupons-for-woocommerce/readme.txt
 /wp-content/plugins/captcha-eu/readme.txt
 /wp-content/plugins/email-subscription-with-secure-captcha/readme.txt
+/wp-content/plugins/page-post-notes/readme.txt

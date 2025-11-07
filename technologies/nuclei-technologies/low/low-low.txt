@@ -8876,3 +8876,4 @@
 /wp-content/themes/couponxxl/style.css
 /wp-content/themes/kalium/style.css
 /wp-content/plugins/email-subscription-with-secure-captcha/readme.txt
+/wp-content/plugins/page-post-notes/readme.txt

