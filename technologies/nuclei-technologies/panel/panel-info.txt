@@ -896,3 +896,4 @@
 /login?url=%2F
 /maximo/webclient/login/login.jsp?welcome=true
 /session/begin
+/login.act

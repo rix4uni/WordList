@@ -1,0 +1,1 @@
+/wp-content/plugins/saphali-liqpay-for-donate/readme.txt

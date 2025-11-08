@@ -2434,3 +2434,4 @@
 /xwiki/
 /session/begin
 /examples/jsp/snp/snoop.jsp
+/login.act

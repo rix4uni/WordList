@@ -1000,3 +1000,4 @@ request?info=<svg onload=alert(
 /js/zimbraMail/share/model/ZmSettings.js
 /wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz_admin_sample_buttons.php?theme_stylesheet=\
 /unsafe/plain/https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+/tileserver.php/wmts/x/1/1/asd?Request=x&layer=%3Csvg+alert(document.domain)%3E

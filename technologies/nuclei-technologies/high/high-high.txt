@@ -5932,3 +5932,4 @@
 /wp-content/plugins/masterstudy-lms-learning-management-system-pro/readme.txt
 /wp-content/plugins/wt-smart-coupons-for-woocommerce/readme.txt
 /wp-content/plugins/ghl-wizard/readme.txt
+/wp-content/plugins/ova-events-manager/readme.txt

@@ -10228,3 +10228,5 @@
 /wp-content/themes/wprentals/style.css
 /wp-content/themes/bardwp/style.css
 /wp-content/plugins/email-subscription-with-secure-captcha/readme.txt
+/wp-content/plugins/facebook-auto-publish/readme.txt
+/wp-content/plugins/academy-pro/readme.txt

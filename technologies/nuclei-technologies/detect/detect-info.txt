@@ -335,3 +335,4 @@
 /core/profiles/testing/testing.info
 /xwiki/
 /session/begin
+/login.act

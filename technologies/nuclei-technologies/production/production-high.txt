@@ -2614,3 +2614,4 @@
 /wp-content/themes/wpresidence/style.css
 /wp-content/plugins/wp-snow-effect/readme.txt
 /wp-content/plugins/ghl-wizard/readme.txt
+/wp-content/plugins/ova-events-manager/readme.txt

