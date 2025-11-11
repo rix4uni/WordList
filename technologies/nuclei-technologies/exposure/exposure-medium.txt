@@ -561,3 +561,4 @@ config/settings.old.php
 /.config.php.swp
 /config.php.txt
 /examples/jsp/snp/anything.snp
+/_status/statements

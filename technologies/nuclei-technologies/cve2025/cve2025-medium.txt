@@ -32,3 +32,6 @@
 /wp-content/uploads/fifu-plugin.log
 /wp-content/uploads/fifu-cloud.log
 /tileserver.php/wmts/x/1/1/asd?Request=x&layer=%3Csvg+alert(document.domain)%3E
+/etc/passwd?.svg?.wasm?init
+/wp-json/wp/v2/users
+/wp-json/wp/v2/users?foo=simple-jwt-login

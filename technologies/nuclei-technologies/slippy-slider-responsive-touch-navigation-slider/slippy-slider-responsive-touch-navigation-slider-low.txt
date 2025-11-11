@@ -1,0 +1,1 @@
+/wp-content/plugins/slippy-slider-responsive-touch-navigation-slider/readme.txt

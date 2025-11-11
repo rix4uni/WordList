@@ -1,0 +1,1 @@
+/wp-content/plugins/ninja-countdown/readme.txt

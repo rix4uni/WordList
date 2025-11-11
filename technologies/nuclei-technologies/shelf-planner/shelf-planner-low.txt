@@ -1,0 +1,1 @@
+/wp-content/plugins/shelf-planner/readme.txt

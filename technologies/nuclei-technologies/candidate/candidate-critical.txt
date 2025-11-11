@@ -1742,3 +1742,6 @@
 /wp-content/themes/jina/style.css
 /wp-content/themes/nrgrestaurant/style.css
 /wp-content/themes/upking/style.css
+/wp-content/plugins/cpi-wp-migration/readme.txt
+/wp-content/plugins/getastra/readme.txt
+/wp-content/plugins/holiday-class-post-calendar/readme.txt

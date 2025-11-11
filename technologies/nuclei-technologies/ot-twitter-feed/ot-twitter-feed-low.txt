@@ -1,0 +1,1 @@
+/wp-content/plugins/ot-twitter-feed/readme.txt

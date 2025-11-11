@@ -39,3 +39,4 @@ login
 /geoserver/ows?service=WFS
 /wfs?service=WFS
 /ows?service=WFS
+?view[path]={{pfield}}&view[match][$where]=global.process.mainModule.constructor._load(

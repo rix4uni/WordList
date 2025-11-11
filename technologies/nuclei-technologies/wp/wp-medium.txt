@@ -139,3 +139,5 @@
 /wp-admin/options-general.php?page=login-configurator-options&tab=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E#top
 /wp-content/uploads/fifu-plugin.log
 /wp-content/uploads/fifu-cloud.log
+/wp-json/wp/v2/users
+/wp-json/wp/v2/users?foo=simple-jwt-login

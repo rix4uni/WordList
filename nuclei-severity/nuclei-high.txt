@@ -9040,3 +9040,5 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/ghl-wizard/readme.txt
 /wp-content/plugins/ova-events-manager/readme.txt
 /tileserver.php/x/1/1/1?Format=/../../../../../../../../../../../../../../etc/passwd&Request=x&layer=.
+/wp-content/plugins/find-unused-images/readme.txt
+/wp-content/plugins/shelf-planner/readme.txt

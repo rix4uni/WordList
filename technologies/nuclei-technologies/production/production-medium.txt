@@ -8215,3 +8215,13 @@
 /wp-content/plugins/email-subscription-with-secure-captcha/readme.txt
 /wp-content/plugins/facebook-auto-publish/readme.txt
 /wp-content/plugins/academy-pro/readme.txt
+/wp-content/plugins/wisly/readme.txt
+/wp-content/plugins/ctl-arcade-lite/readme.txt
+/wp-content/plugins/shelf-planner/readme.txt
+/wp-content/plugins/document-pro-elementor/readme.txt
+/wp-content/plugins/wp-oauth/readme.txt
+/wp-content/plugins/wp-custom-login-page-logo/readme.txt
+/wp-content/plugins/usb-qr-code-scanner-for-woocommerce/readme.txt
+/wp-content/plugins/wp-walla/readme.txt
+/wp-content/plugins/yslider/readme.txt
+/wp-content/plugins/hydra-booking/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/mementor-core/readme.txt

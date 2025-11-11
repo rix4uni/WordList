@@ -1,0 +1,1 @@
+/wp-content/plugins/precise-columns/readme.txt

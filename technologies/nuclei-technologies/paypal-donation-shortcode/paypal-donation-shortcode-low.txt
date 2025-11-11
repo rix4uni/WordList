@@ -1,0 +1,1 @@
+/wp-content/plugins/paypal-donation-shortcode/readme.txt

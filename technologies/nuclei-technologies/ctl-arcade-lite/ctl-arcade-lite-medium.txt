@@ -1,0 +1,1 @@
+/wp-content/plugins/ctl-arcade-lite/readme.txt

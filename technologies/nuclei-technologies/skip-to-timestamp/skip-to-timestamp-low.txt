@@ -1,0 +1,1 @@
+/wp-content/plugins/skip-to-timestamp/readme.txt

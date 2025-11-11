@@ -1402,3 +1402,5 @@
 /config.php.txt
 /wp-content/uploads/fifu-plugin.log
 /wp-content/uploads/fifu-cloud.log
+/wp-json/wp/v2/users
+/wp-json/wp/v2/users?foo=simple-jwt-login

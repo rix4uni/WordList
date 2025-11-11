@@ -220,3 +220,5 @@
 /wp-content/plugins/
 /wp-login.php?action=lostpassword&error=invalidkey
 /wp-content/plugins/protect-wp-admin/readme.txt
+/wp-json/wp/v2/users
+/wp-json/wp/v2/users?foo=simple-jwt-login

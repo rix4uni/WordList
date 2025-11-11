@@ -1,0 +1,1 @@
+/wp-content/plugins/usb-qr-code-scanner-for-woocommerce/readme.txt

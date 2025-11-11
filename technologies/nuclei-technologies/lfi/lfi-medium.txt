@@ -204,3 +204,4 @@
 /dompdf.php
 /wp-content/plugins/
 /portal//..\\\..\\\..\\\..\\\windows\win.ini
+/etc/passwd?.svg?.wasm?init

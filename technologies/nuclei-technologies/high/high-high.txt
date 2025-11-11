@@ -5933,3 +5933,5 @@
 /wp-content/plugins/wt-smart-coupons-for-woocommerce/readme.txt
 /wp-content/plugins/ghl-wizard/readme.txt
 /wp-content/plugins/ova-events-manager/readme.txt
+/wp-content/plugins/shelf-planner/readme.txt
+/wp-content/plugins/find-unused-images/readme.txt
