@@ -715,3 +715,4 @@
 /wp-content/themes/triss/style.css
 /wp-content/themes/wprentals/style.css
 /wp-content/themes/bardwp/style.css
+/wp-content/themes/noo-wemusic/style.css

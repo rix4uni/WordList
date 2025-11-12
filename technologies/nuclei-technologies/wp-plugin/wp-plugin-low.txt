@@ -8411,3 +8411,12 @@
 /wp-content/plugins/shelf-planner/readme.txt
 /wp-content/plugins/tnc-toolbox/readme.txt
 /wp-content/plugins/wisly/readme.txt
+/wp-content/plugins/memberfindme/readme.txt
+/wp-content/plugins/aco-wishlist-for-woocommerce/readme.txt
+/wp-content/plugins/alt-text-generator/readme.txt
+/wp-content/plugins/preserve-code-formatting/readme.txt
+/wp-content/plugins/3d-image-gallery/readme.txt
+/wp-content/plugins/sertifier-certificates-open-badges/readme.txt
+/wp-content/plugins/backup-and-move/readme.txt
+/wp-content/plugins/coschool/readme.txt
+/wp-content/plugins/wpc-product-options/readme.txt

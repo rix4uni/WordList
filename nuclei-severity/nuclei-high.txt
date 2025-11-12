@@ -9042,3 +9042,12 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /tileserver.php/x/1/1/1?Format=/../../../../../../../../../../../../../../etc/passwd&Request=x&layer=.
 /wp-content/plugins/find-unused-images/readme.txt
 /wp-content/plugins/shelf-planner/readme.txt
+/wp-content/plugins/3d-image-gallery/readme.txt
+/wp-content/plugins/am-login-logo/readme.txt
+/wp-content/plugins/backup-and-move/readme.txt
+/wp-content/plugins/bux-woocommerce/readme.txt
+/wp-content/plugins/email-subscription-with-secure-captcha/readme.txt
+/wp-content/plugins/sertifier-certificates-open-badges/readme.txt
+/wp-content/plugins/woo-payment-gateway/readme.txt
+/_status/nodes
+/wp-content/plugins/download-counter/readme.txt

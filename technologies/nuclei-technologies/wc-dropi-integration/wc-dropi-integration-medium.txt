@@ -1,0 +1,1 @@
+/wp-content/plugins/wc-dropi-integration/readme.txt

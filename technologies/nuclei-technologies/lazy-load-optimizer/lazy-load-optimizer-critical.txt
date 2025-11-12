@@ -1,0 +1,1 @@
+/wp-content/plugins/lazy-load-optimizer/readme.txt

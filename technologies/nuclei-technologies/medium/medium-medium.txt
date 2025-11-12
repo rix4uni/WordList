@@ -10240,3 +10240,11 @@
 /wp-content/plugins/wp-walla/readme.txt
 /wp-content/plugins/yslider/readme.txt
 /wp-content/plugins/hydra-booking/readme.txt
+/wp-content/plugins/flexoslider/readme.txt
+/wp-content/plugins/user-registration-aide/readme.txt
+/wp-content/plugins/wc-dropi-integration/readme.txt
+/wp-content/themes/noo-wemusic/style.css
+/wp-content/plugins/miraculouscore/readme.txt
+/wp-content/plugins/institutions-directory/readme.txt
+/wp-content/plugins/grandconference-custom-post/readme.txt
+/wp-content/plugins/import-from-yml/readme.txt

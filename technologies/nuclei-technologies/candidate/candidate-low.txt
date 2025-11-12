@@ -7637,3 +7637,11 @@
 /wp-content/plugins/wp-count-down-timer/readme.txt
 /wp-content/plugins/wp-flickrshow/readme.txt
 /wp-content/plugins/wp-iconics/readme.txt
+/wp-content/plugins/aco-wishlist-for-woocommerce/readme.txt
+/wp-content/plugins/alt-text-generator/readme.txt
+/wp-content/plugins/coschool/readme.txt
+/wp-content/plugins/memberfindme/readme.txt
+/wp-content/plugins/preserve-code-formatting/readme.txt
+/wp-content/plugins/specific-content-for-mobile/readme.txt
+/wp-content/themes/thegem-elementor/style.css
+/wp-content/plugins/wpc-product-options/readme.txt

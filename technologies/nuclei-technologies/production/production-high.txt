@@ -2618,3 +2618,9 @@
 /wp-content/plugins/amazon-auto-links/readme.txt
 /wp-content/plugins/shelf-planner/readme.txt
 /wp-content/plugins/find-unused-images/readme.txt
+/wp-content/plugins/email-subscription-with-secure-captcha/readme.txt
+/wp-content/plugins/bookit/readme.txt
+/wp-content/plugins/woo-payment-gateway/readme.txt
+/wp-content/plugins/am-login-logo/readme.txt
+/wp-content/plugins/download-counter/readme.txt
+/wp-content/plugins/bux-woocommerce/readme.txt

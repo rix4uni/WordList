@@ -5568,3 +5568,11 @@
 /wp-content/plugins/ova-events-manager/readme.txt
 /wp-content/plugins/shelf-planner/readme.txt
 /wp-content/plugins/find-unused-images/readme.txt
+/wp-content/plugins/3d-image-gallery/readme.txt
+/wp-content/plugins/email-subscription-with-secure-captcha/readme.txt
+/wp-content/plugins/woo-payment-gateway/readme.txt
+/wp-content/plugins/am-login-logo/readme.txt
+/wp-content/plugins/download-counter/readme.txt
+/wp-content/plugins/bux-woocommerce/readme.txt
+/wp-content/plugins/backup-and-move/readme.txt
+/wp-content/plugins/sertifier-certificates-open-badges/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/support-ticket-system-for-woocommerce/readme.txt
