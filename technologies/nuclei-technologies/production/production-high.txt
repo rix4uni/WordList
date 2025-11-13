@@ -2624,3 +2624,6 @@
 /wp-content/plugins/am-login-logo/readme.txt
 /wp-content/plugins/download-counter/readme.txt
 /wp-content/plugins/bux-woocommerce/readme.txt
+/wp-content/plugins/download-counter-button/readme.txt
+/wp-content/plugins/ai-image-alt-text-generator-for-wp/readme.txt
+/wp-content/themes/miraculous/style.css

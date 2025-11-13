@@ -1,0 +1,1 @@
+/wp-content/plugins/drop-uploader-for-contact-form-7-dragdrop-file-uploader-addon/readme.txt

@@ -396,3 +396,5 @@
 /lib/upgrade.txt
 /UPGRADING.md
 /examples/jsp/snp/snoop.jsp
+/stats.do
+/threads.do

@@ -8982,3 +8982,13 @@
 /wp-content/plugins/backup-and-move/readme.txt
 /wp-content/plugins/coschool/readme.txt
 /wp-content/plugins/wpc-product-options/readme.txt
+/wp-content/themes/angel/style.css
+/wp-content/plugins/wp-flipper/readme.txt
+/wp-content/plugins/quicq/readme.txt
+/wp-content/themes/noo-wemusic/style.css
+/wp-content/themes/noo-yogi/style.css
+/wp-content/plugins/save-as-pdf/readme.txt
+/wp-content/plugins/ace-user-management/readme.txt
+/wp-content/plugins/download-counter-button/readme.txt
+/wp-content/plugins/selling-commander-connector/readme.txt
+/wp-content/plugins/wp-rest-headless/readme.txt

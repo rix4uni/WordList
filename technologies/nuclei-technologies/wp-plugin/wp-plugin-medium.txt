@@ -9852,3 +9852,6 @@
 /wp-content/plugins/institutions-directory/readme.txt
 /wp-content/plugins/grandconference-custom-post/readme.txt
 /wp-content/plugins/import-from-yml/readme.txt
+/wp-content/plugins/wp-rest-headless/readme.txt
+/wp-content/plugins/simple-comment-editing/readme.txt
+/wp-content/plugins/epic-review/readme.txt

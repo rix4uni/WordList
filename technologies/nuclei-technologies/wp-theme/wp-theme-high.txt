@@ -490,3 +490,4 @@
 /wp-content/themes/construction-light/style.css
 /wp-content/themes/sparkle-fse/style.css
 /wp-content/themes/wpresidence/style.css
+/wp-content/themes/miraculous/style.css

@@ -461,3 +461,9 @@
 /wp-content/themes/nrgrestaurant/style.css
 /wp-content/themes/upking/style.css
 /wp-content/themes/saxon/style.css
+/wp-content/themes/blanka-wp/style.css
+/wp-content/themes/seil/style.css
+/wp-content/themes/inhype/style.css
+/wp-content/themes/famita/style.css
+/wp-content/themes/itok/style.css
+/wp-content/themes/alloggio/style.css

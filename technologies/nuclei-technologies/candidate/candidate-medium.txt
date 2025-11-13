@@ -5854,3 +5854,7 @@
 /wp-content/themes/noo-wemusic/style.css
 /wp-content/plugins/user-registration-aide/readme.txt
 /wp-content/plugins/wc-dropi-integration/readme.txt
+/wp-content/plugins/epic-review/readme.txt
+/wp-content/themes/noo-yogi/style.css
+/wp-content/themes/resca/style.css
+/wp-content/themes/woo-tour/style.css

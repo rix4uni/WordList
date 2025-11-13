@@ -9051,3 +9051,6 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/woo-payment-gateway/readme.txt
 /_status/nodes
 /wp-content/plugins/download-counter/readme.txt
+/wp-content/plugins/info-cards/readme.txt
+/wp-content/themes/miraculous/style.css
+/wp-content/plugins/download-counter-button/readme.txt

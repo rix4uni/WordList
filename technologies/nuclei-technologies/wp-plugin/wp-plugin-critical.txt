@@ -2012,3 +2012,8 @@
 /wp-content/plugins/support-ticket-system-for-woocommerce/readme.txt
 /wp-content/plugins/anycomment/readme.txt
 /wp-content/plugins/premmerce/readme.txt
+/wp-content/plugins/drop-uploader-for-contact-form-7-dragdrop-file-uploader-addon/readme.txt
+/wp-content/plugins/gf-infusionsoft/readme.txt
+/wp-content/plugins/user-registration-plugin-for-woocommerce/readme.txt
+/wp-content/plugins/selling-commander-connector/readme.txt
+/wp-content/plugins/ace-user-management/readme.txt

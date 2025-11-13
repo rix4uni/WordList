@@ -2456,3 +2456,14 @@
 /wp-content/plugins/support-ticket-system-for-woocommerce/readme.txt
 /wp-content/plugins/anycomment/readme.txt
 /wp-content/plugins/premmerce/readme.txt
+/wp-content/themes/blanka-wp/style.css
+/wp-content/themes/seil/style.css
+/wp-content/plugins/drop-uploader-for-contact-form-7-dragdrop-file-uploader-addon/readme.txt
+/wp-content/plugins/gf-infusionsoft/readme.txt
+/wp-content/themes/inhype/style.css
+/wp-content/plugins/user-registration-plugin-for-woocommerce/readme.txt
+/wp-content/plugins/selling-commander-connector/readme.txt
+/wp-content/plugins/ace-user-management/readme.txt
+/wp-content/themes/famita/style.css
+/wp-content/themes/itok/style.css
+/wp-content/themes/alloggio/style.css

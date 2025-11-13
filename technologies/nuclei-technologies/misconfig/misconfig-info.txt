@@ -126,3 +126,5 @@
 /libs/granite/core/content/login.html
 /libs/granite/core/content/audi/login.html
 /favicon.ico
+/stats.do
+/threads.do

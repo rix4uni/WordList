@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-rest-headless/readme.txt

@@ -1,0 +1,1 @@
+/wp-content/plugins/user-registration-plugin-for-woocommerce/readme.txt

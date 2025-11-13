@@ -716,3 +716,6 @@
 /wp-content/themes/wprentals/style.css
 /wp-content/themes/bardwp/style.css
 /wp-content/themes/noo-wemusic/style.css
+/wp-content/themes/noo-yogi/style.css
+/wp-content/themes/resca/style.css
+/wp-content/themes/woo-tour/style.css

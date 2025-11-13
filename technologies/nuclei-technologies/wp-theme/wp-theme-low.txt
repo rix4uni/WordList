@@ -532,3 +532,6 @@
 /wp-content/themes/smart-mag/style.css
 /wp-content/themes/couponxxl/style.css
 /wp-content/themes/kalium/style.css
+/wp-content/themes/angel/style.css
+/wp-content/themes/noo-wemusic/style.css
+/wp-content/themes/noo-yogi/style.css

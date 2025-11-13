@@ -3841,3 +3841,5 @@
 /wp-content/plugins/email-subscription-with-secure-captcha/readme.txt
 /wp-content/plugins/sertifier-certificates-open-badges/readme.txt
 /wp-content/plugins/woo-payment-gateway/readme.txt
+/wp-content/plugins/info-cards/readme.txt
+/wp-content/themes/miraculous/style.css
