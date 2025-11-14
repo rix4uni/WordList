@@ -347,3 +347,4 @@
 /cgi-mod/index.cgi
 /commandcenter/login/preSso.jsp
 /session/begin
+/app/template/Login.vm
