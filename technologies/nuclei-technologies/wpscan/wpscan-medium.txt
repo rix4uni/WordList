@@ -222,3 +222,5 @@
 /wp-content/plugins/protect-wp-admin/readme.txt
 /wp-json/wp/v2/users
 /wp-json/wp/v2/users?foo=simple-jwt-login
+/wp-content/plugins/all-in-one-wp-migration/readme.txt
+/wp-content/plugins/all-in-one-wp-migration/storage/error.log

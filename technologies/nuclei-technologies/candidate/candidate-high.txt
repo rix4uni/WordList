@@ -3843,3 +3843,4 @@
 /wp-content/plugins/woo-payment-gateway/readme.txt
 /wp-content/plugins/info-cards/readme.txt
 /wp-content/themes/miraculous/style.css
+/wp-content/plugins/qi-blocks/readme.txt

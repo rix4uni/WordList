@@ -13526,3 +13526,4 @@ config/settings.old.php
 /wp-content/themes/woo-tour/style.css
 /wp-content/plugins/wp-rest-headless/readme.txt
 /wp-content/plugins/simple-comment-editing/readme.txt
+/wp-content/plugins/all-in-one-wp-migration/storage/error.log

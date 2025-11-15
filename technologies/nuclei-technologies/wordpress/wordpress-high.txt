@@ -6386,3 +6386,4 @@
 /wp-content/plugins/download-counter-button/readme.txt
 /wp-content/themes/miraculous/style.css
 /wp-content/plugins/info-cards/readme.txt
+/wp-content/plugins/qi-blocks/readme.txt

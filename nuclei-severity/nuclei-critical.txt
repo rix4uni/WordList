@@ -3941,3 +3941,4 @@ pathCache.php
 /wp-content/themes/seil/style.css
 /wp-content/plugins/user-registration-plugin-for-woocommerce/readme.txt
 /wp-content/plugins/selling-commander-connector/readme.txt
+/wp-json/mcp/v1

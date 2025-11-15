@@ -5578,3 +5578,4 @@
 /wp-content/plugins/sertifier-certificates-open-badges/readme.txt
 /wp-content/plugins/download-counter-button/readme.txt
 /wp-content/plugins/info-cards/readme.txt
+/wp-content/plugins/qi-blocks/readme.txt

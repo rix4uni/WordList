@@ -9855,3 +9855,4 @@
 /wp-content/plugins/wp-rest-headless/readme.txt
 /wp-content/plugins/simple-comment-editing/readme.txt
 /wp-content/plugins/epic-review/readme.txt
+/wp-content/plugins/all-in-one-wp-migration/storage/error.log

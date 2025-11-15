@@ -136,3 +136,4 @@
 /wp-admin/setup-config.php?step=1
 /app_dev.php/_profiler/empty/search/results?limit=100
 /app_dev.php/_profiler/phpinfo
+/wp-json/mcp/v1
