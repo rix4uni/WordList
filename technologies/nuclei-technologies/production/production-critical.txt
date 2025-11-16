@@ -2119,3 +2119,4 @@
 /wp-content/themes/famita/style.css
 /wp-content/themes/itok/style.css
 /wp-content/themes/alloggio/style.css
+/wp-content/plugins/ameliabooking/readme.txt
