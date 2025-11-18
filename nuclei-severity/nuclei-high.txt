@@ -9055,3 +9055,9 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/themes/miraculous/style.css
 /wp-content/plugins/download-counter-button/readme.txt
 /wp-content/plugins/qi-blocks/readme.txt
+/wp-content/plugins/acf-flexible-layouts-manager/readme.txt
+/wp-content/plugins/bp-restrict/readme.txt
+/wp-content/plugins/catalog-mode-pricing-enquiry-forms-promotions/readme.txt
+/wp-content/plugins/live-sales-notifications-for-woocommerce/readme.txt
+/wp-content/plugins/triplea-cryptocurrency-payment-gateway-for-woocommerce/readme.txt
+/wp-content/plugins/wp-content-pilot/readme.txt

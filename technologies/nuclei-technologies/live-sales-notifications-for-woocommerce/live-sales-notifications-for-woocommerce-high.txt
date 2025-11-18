@@ -1,0 +1,1 @@
+/wp-content/plugins/live-sales-notifications-for-woocommerce/readme.txt

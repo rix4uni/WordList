@@ -263,3 +263,5 @@
 /settings/calendar/?f=&rpath=https://evil.com/auth.php
 /Shibboleth.sso/Logout?return=https://{{randstr}}.interact.sh
 /wp-content/plugins/wccp-pro/no-js.php?referrer=https://oast.pro
+/gnuboard5/bbs/logout.php?url=/\\oast.pro
+/bbs/logout.php?url=/\\oast.pro

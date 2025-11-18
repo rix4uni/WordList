@@ -1,0 +1,1 @@
+/wp-content/plugins/category-and-product-woocommerce-tabs/readme.txt

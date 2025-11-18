@@ -897,3 +897,5 @@
 /maximo/webclient/login/login.jsp?welcome=true
 /session/begin
 /login.act
+/birt/
+/birt-viewer/

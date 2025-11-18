@@ -1,0 +1,1 @@
+/wp-content/plugins/bp-restrict/readme.txt

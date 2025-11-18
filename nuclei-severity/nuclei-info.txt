@@ -2437,3 +2437,4 @@
 /login.act
 /stats.do
 /threads.do
+/birt/

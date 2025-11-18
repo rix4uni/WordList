@@ -2627,3 +2627,9 @@
 /wp-content/plugins/download-counter-button/readme.txt
 /wp-content/plugins/ai-image-alt-text-generator-for-wp/readme.txt
 /wp-content/themes/miraculous/style.css
+/wp-content/plugins/bp-restrict/readme.txt
+/wp-content/plugins/triplea-cryptocurrency-payment-gateway-for-woocommerce/readme.txt
+/wp-content/plugins/acf-flexible-layouts-manager/readme.txt
+/wp-content/plugins/live-sales-notifications-for-woocommerce/readme.txt
+/wp-content/plugins/checkout-files-upload-woocommerce/readme.txt
+/wp-content/plugins/theatre/readme.txt

@@ -336,3 +336,5 @@
 /xwiki/
 /session/begin
 /login.act
+/birt/
+/birt-viewer/

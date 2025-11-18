@@ -1,0 +1,1 @@
+/wp-content/plugins/multiple-roles-per-user/readme.txt

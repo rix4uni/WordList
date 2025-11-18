@@ -1,0 +1,1 @@
+/wp-content/plugins/coil-web-monetization/readme.txt

@@ -348,3 +348,4 @@
 /commandcenter/login/preSso.jsp
 /session/begin
 /app/template/Login.vm
+/welcome

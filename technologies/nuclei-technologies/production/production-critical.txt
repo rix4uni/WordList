@@ -2120,3 +2120,4 @@
 /wp-content/themes/itok/style.css
 /wp-content/themes/alloggio/style.css
 /wp-content/plugins/ameliabooking/readme.txt
+/wp-content/plugins/pie-forms-for-wp/readme.txt

@@ -13527,3 +13527,13 @@ config/settings.old.php
 /wp-content/plugins/wp-rest-headless/readme.txt
 /wp-content/plugins/simple-comment-editing/readme.txt
 /wp-content/plugins/all-in-one-wp-migration/storage/error.log
+/wp-content/plugins/coil-web-monetization/readme.txt
+/wp-content/plugins/like-it/readme.txt
+/wp-content/plugins/project-honey-pot-spam-trap/readme.txt
+/wp-content/plugins/shortcode-generator/readme.txt
+/wp-content/plugins/top-friends/readme.txt
+/wp-content/plugins/twitter-auto-publish/readme.txt
+/wp-content/plugins/wp-admin-microblog/readme.txt
+/gnuboard5/bbs/logout.php?url=/\\oast.pro
+/bbs/logout.php?url=/\\oast.pro
+/wp-content/plugins/wp-migrate-db/readme.txt
