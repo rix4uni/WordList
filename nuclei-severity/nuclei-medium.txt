@@ -13537,3 +13537,4 @@ config/settings.old.php
 /gnuboard5/bbs/logout.php?url=/\\oast.pro
 /bbs/logout.php?url=/\\oast.pro
 /wp-content/plugins/wp-migrate-db/readme.txt
+/wp-content/plugins/timeslot/readme.txt

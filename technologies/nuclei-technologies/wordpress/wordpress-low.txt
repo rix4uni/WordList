@@ -9010,3 +9010,7 @@
 /wp-content/plugins/a3-user-importer/readme.txt
 /wp-content/plugins/woocommerce-ultimate-points-and-rewards/readme.txt
 /wp-content/plugins/wp-migrate-db/readme.txt
+/wp-content/plugins/tier-management-petfinder/readme.txt
+/wp-content/plugins/wschat-live-chat/readme.txt
+/wp-content/plugins/login-register-using-jwt/readme.txt
+/wp-content/plugins/code-snippets/readme.txt

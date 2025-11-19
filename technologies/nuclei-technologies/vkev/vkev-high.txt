@@ -229,3 +229,4 @@
 /wp-admin/index.php?download-lp-users=yes
 /jeecg-boot/sys/user/querySysUser?username=admin
 /bin/ssx/Main/WebHome?resource=../../WEB-INF/xwiki.cfg&minify=false
+/dashboard/snapshot/:key

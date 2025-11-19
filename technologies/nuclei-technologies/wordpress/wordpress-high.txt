@@ -6393,3 +6393,5 @@
 /wp-content/plugins/live-sales-notifications-for-woocommerce/readme.txt
 /wp-content/plugins/catalog-mode-pricing-enquiry-forms-promotions/readme.txt
 /wp-content/plugins/wp-content-pilot/readme.txt
+/wp-content/plugins/chat-viber/readme.txt
+/wp-content/plugins/easy-table-rate-shipping-for-woocommerce/readme.txt

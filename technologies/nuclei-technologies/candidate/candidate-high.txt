@@ -3851,3 +3851,5 @@
 /wp-content/plugins/order-import-export-for-woocommerce/readme.txt
 /wp-content/plugins/triplea-cryptocurrency-payment-gateway-for-woocommerce/readme.txt
 /wp-content/plugins/wp-content-pilot/readme.txt
+/wp-content/plugins/chat-viber/readme.txt
+/wp-content/plugins/easy-table-rate-shipping-for-woocommerce/readme.txt

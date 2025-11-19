@@ -9061,3 +9061,7 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/live-sales-notifications-for-woocommerce/readme.txt
 /wp-content/plugins/triplea-cryptocurrency-payment-gateway-for-woocommerce/readme.txt
 /wp-content/plugins/wp-content-pilot/readme.txt
+/download_work_dir_file?path=/etc/passwd
+/wp-content/plugins/chat-viber/readme.txt
+/wp-content/plugins/easy-table-rate-shipping-for-woocommerce/readme.txt
+/dashboard/snapshot/:key

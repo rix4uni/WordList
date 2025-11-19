@@ -8250,3 +8250,4 @@
 /wp-content/plugins/top-friends/readme.txt
 /wp-content/plugins/shortcode-generator/readme.txt
 /wp-content/plugins/coil-web-monetization/readme.txt
+/wp-content/plugins/timeslot/readme.txt

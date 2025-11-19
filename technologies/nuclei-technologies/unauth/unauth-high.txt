@@ -121,3 +121,4 @@
 /cgi-bin/dynamic/config/secure/security.html
 /ckfinder/ckfinder.html
 /_status/nodes
+/download_work_dir_file?path=/etc/passwd
