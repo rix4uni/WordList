@@ -8962,3 +8962,5 @@
 /wp-content/plugins/wschat-live-chat/readme.txt
 /wp-content/plugins/login-register-using-jwt/readme.txt
 /wp-content/plugins/code-snippets/readme.txt
+/wp-content/plugins/lightgallerywp/readme.txt
+/wp-content/plugins/tp-woocommerce-product-gallery/readme.txt

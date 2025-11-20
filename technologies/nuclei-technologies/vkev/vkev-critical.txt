@@ -254,3 +254,4 @@
 /xwiki/rest/liveData/sources/liveTable/entries?sourceParams.template=getdeleteddocuments.vm&sort=injected
 /index.php?g=g&m=Door&a=index&content=<?php%20echo%20md5(
 /wp-json/mcp/v1
+/Items/RemoteSearch/Image?ProviderName=TheMovieDB&ImageURL=http://oast.fun

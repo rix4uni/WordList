@@ -5587,3 +5587,8 @@
 /wp-content/plugins/wp-content-pilot/readme.txt
 /wp-content/plugins/chat-viber/readme.txt
 /wp-content/plugins/easy-table-rate-shipping-for-woocommerce/readme.txt
+/wp-content/plugins/click-to-dial/readme.txt
+/wp-content/plugins/click-to-mail/readme.txt
+/wp-content/plugins/eventful/readme.txt
+/wp-content/plugins/posts-widget/readme.txt
+/wp-content/plugins/ultimate-member-widgets-for-elementor/readme.txt

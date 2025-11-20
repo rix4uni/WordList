@@ -7679,3 +7679,6 @@
 /wp-content/plugins/new-user-approve/readme.txt
 /wp-content/plugins/tier-management-petfinder/readme.txt
 /wp-content/plugins/wschat-live-chat/readme.txt
+/wp-content/plugins/lightgallerywp/readme.txt
+/wp-content/plugins/portfolio-wp/readme.txt
+/wp-content/plugins/tp-woocommerce-product-gallery/readme.txt
