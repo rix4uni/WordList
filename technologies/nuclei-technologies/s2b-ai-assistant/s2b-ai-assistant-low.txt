@@ -1,0 +1,1 @@
+/wp-content/plugins/s2b-ai-assistant/readme.txt

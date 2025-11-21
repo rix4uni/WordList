@@ -1775,3 +1775,4 @@
 /wp-content/themes/seil/style.css
 /wp-content/plugins/user-registration-plugin-for-woocommerce/readme.txt
 /wp-content/plugins/pie-forms-for-wp/readme.txt
+/wp-content/plugins/elex-helpdesk-customer-support-ticket-system/readme.txt

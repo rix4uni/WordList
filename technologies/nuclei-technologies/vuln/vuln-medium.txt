@@ -1404,3 +1404,4 @@
 /wp-content/uploads/fifu-cloud.log
 /wp-json/wp/v2/users
 /wp-json/wp/v2/users?foo=simple-jwt-login
+/?aiowpsec_do_log_out=1&al_additional_data=1

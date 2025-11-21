@@ -1,0 +1,1 @@
+/wp-content/plugins/wp-google-street-view-shortcode/readme.txt

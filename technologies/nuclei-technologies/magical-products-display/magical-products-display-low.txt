@@ -1,0 +1,1 @@
+/wp-content/plugins/magical-products-display/readme.txt

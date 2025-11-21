@@ -1,0 +1,1 @@
+/wp-content/plugins/stock-tools/readme.txt

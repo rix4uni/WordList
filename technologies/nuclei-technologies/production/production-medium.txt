@@ -8251,3 +8251,8 @@
 /wp-content/plugins/shortcode-generator/readme.txt
 /wp-content/plugins/coil-web-monetization/readme.txt
 /wp-content/plugins/timeslot/readme.txt
+/wp-content/plugins/tokenico-cryptocurrency-token-launchpad-presale-ico-ido-airdrop/readme.txt
+/wp-content/plugins/echbay-admin-security/readme.txt
+/wp-content/plugins/jc-importer/readme.txt
+/wp-content/plugins/authorsure/readme.txt
+/wp-content/plugins/custom-post-type/readme.txt

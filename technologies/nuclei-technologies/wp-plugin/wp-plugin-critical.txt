@@ -2019,3 +2019,4 @@
 /wp-content/plugins/ace-user-management/readme.txt
 /wp-json/mcp/v1
 /wp-content/plugins/pie-forms-for-wp/readme.txt
+/wp-content/plugins/elex-helpdesk-customer-support-ticket-system/readme.txt

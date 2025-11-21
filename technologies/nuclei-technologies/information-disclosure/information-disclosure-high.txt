@@ -35,3 +35,4 @@
 /upload
 /api/compare
 /compress/analyze
+/config.dat

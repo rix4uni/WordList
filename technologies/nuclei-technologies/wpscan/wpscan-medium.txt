@@ -224,3 +224,4 @@
 /wp-json/wp/v2/users?foo=simple-jwt-login
 /wp-content/plugins/all-in-one-wp-migration/readme.txt
 /wp-content/plugins/all-in-one-wp-migration/storage/error.log
+/?aiowpsec_do_log_out=1&al_additional_data=1

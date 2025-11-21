@@ -1,0 +1,1 @@
+/wp-content/plugins/affiliate-ai-lite/readme.txt

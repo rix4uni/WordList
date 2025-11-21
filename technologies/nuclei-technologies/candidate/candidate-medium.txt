@@ -5867,3 +5867,6 @@
 /wp-content/plugins/twitter-auto-publish/readme.txt
 /wp-content/plugins/wp-admin-microblog/readme.txt
 /wp-content/plugins/wps-team/readme.txt
+/wp-content/plugins/authorsure/readme.txt
+/wp-content/plugins/custom-post-type/readme.txt
+/wp-content/plugins/echbay-admin-security/readme.txt

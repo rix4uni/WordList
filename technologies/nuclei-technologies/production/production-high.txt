@@ -2640,3 +2640,4 @@
 /wp-content/plugins/eventful/readme.txt
 /wp-content/plugins/posts-widget/readme.txt
 /wp-content/plugins/ultimate-member-widgets-for-elementor/readme.txt
+/wp-content/plugins/checkbox/readme.txt

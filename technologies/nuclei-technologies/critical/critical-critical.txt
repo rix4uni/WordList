@@ -2468,3 +2468,4 @@
 /wp-content/themes/itok/style.css
 /wp-content/themes/alloggio/style.css
 /wp-content/plugins/pie-forms-for-wp/readme.txt
+/wp-content/plugins/elex-helpdesk-customer-support-ticket-system/readme.txt

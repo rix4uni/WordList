@@ -2506,3 +2506,4 @@
 /wp-content/themes/alloggio/style.css
 /wp-json/mcp/v1
 /wp-content/plugins/pie-forms-for-wp/readme.txt
+/wp-content/plugins/elex-helpdesk-customer-support-ticket-system/readme.txt

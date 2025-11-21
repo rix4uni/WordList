@@ -562,3 +562,5 @@ config/settings.old.php
 /config.php.txt
 /examples/jsp/snp/anything.snp
 /_status/statements
+/password.htm
+/?aiowpsec_do_log_out=1&al_additional_data=1

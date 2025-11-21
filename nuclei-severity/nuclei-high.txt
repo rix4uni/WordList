@@ -9070,3 +9070,7 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/eventful/readme.txt
 /wp-content/plugins/posts-widget/readme.txt
 /wp-content/plugins/ultimate-member-widgets-for-elementor/readme.txt
+/config.dat
+/wp-content/plugins/checkbox/readme.txt
+/wp-content/plugins/elex-helpdesk-customer-support-ticket-system/readme.txt
+/hx/resources/public/$SCHEMAS$?Filename=c%3a%5cwindows%5cwin.ini

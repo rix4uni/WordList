@@ -13538,3 +13538,9 @@ config/settings.old.php
 /bbs/logout.php?url=/\\oast.pro
 /wp-content/plugins/wp-migrate-db/readme.txt
 /wp-content/plugins/timeslot/readme.txt
+/wp-content/plugins/authorsure/readme.txt
+/wp-content/plugins/custom-post-type/readme.txt
+/wp-content/plugins/echbay-admin-security/readme.txt
+/password.htm
+/wp-content/plugins/tokenico-cryptocurrency-token-launchpad-presale-ico-ido-airdrop/readme.txt
+/?aiowpsec_do_log_out=1&al_additional_data=1

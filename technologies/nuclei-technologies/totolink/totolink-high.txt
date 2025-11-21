@@ -1,3 +1,4 @@
 /wizardset.htm
 /easy_setup.htm
 /password.htm
+/config.dat
