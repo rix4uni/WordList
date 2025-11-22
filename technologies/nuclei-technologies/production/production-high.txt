@@ -2641,3 +2641,4 @@
 /wp-content/plugins/posts-widget/readme.txt
 /wp-content/plugins/ultimate-member-widgets-for-elementor/readme.txt
 /wp-content/plugins/checkbox/readme.txt
+/wp-content/plugins/oneclick-whatsapp-order/readme.txt

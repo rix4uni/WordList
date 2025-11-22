@@ -1,0 +1,1 @@
+/wp-content/plugins/gsheetconnector-ninja-forms/readme.txt

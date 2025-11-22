@@ -5870,3 +5870,4 @@
 /wp-content/plugins/authorsure/readme.txt
 /wp-content/plugins/custom-post-type/readme.txt
 /wp-content/plugins/echbay-admin-security/readme.txt
+/wp-content/plugins/zegen-core/readme.txt

@@ -13544,3 +13544,4 @@ config/settings.old.php
 /password.htm
 /wp-content/plugins/tokenico-cryptocurrency-token-launchpad-presale-ico-ido-airdrop/readme.txt
 /?aiowpsec_do_log_out=1&al_additional_data=1
+/wp-content/plugins/zegen-core/readme.txt

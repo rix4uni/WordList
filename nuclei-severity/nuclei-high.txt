@@ -9074,3 +9074,4 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/checkbox/readme.txt
 /wp-content/plugins/elex-helpdesk-customer-support-ticket-system/readme.txt
 /hx/resources/public/$SCHEMAS$?Filename=c%3a%5cwindows%5cwin.ini
+/wp-content/plugins/oneclick-whatsapp-order/readme.txt

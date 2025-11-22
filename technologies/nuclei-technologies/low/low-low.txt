@@ -8987,3 +8987,5 @@
 /wp-content/plugins/s2b-ai-assistant/readme.txt
 /wp-content/plugins/hotelrunner/readme.txt
 /wp-content/plugins/wp-audio-gallery/readme.txt
+/wp-content/plugins/gsheetconnector-ninja-forms/readme.txt
+/wp-content/plugins/subscriptions-memberships-for-paypal/readme.txt

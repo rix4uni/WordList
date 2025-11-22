@@ -7707,3 +7707,5 @@
 /wp-content/plugins/wp-company-info/readme.txt
 /wp-content/plugins/wp-google-street-view-shortcode/readme.txt
 /wp-content/plugins/wpsite-shortcode/readme.txt
+/wp-content/plugins/gsheetconnector-ninja-forms/readme.txt
+/wp-content/plugins/subscriptions-memberships-for-paypal/readme.txt

@@ -5962,3 +5962,4 @@
 /wp-content/plugins/ultimate-member-widgets-for-elementor/readme.txt
 /wp-content/plugins/checkbox/readme.txt
 /wp-content/plugins/elex-helpdesk-customer-support-ticket-system/readme.txt
+/wp-content/plugins/oneclick-whatsapp-order/readme.txt

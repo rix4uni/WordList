@@ -7927,3 +7927,4 @@
 /wp-content/plugins/hotelrunner/readme.txt
 /wp-content/plugins/post-expirator/readme.txt
 /wp-content/plugins/wp-audio-gallery/readme.txt
+/wp-content/plugins/gsheetconnector-ninja-forms/readme.txt

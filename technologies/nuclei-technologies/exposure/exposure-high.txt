@@ -573,3 +573,4 @@ _vti_pvt/authors.pwd
 /wp-config.PHP
 /currentsetting.htm
 /_status/nodes
+/config.dat

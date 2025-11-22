@@ -8256,3 +8256,4 @@
 /wp-content/plugins/jc-importer/readme.txt
 /wp-content/plugins/authorsure/readme.txt
 /wp-content/plugins/custom-post-type/readme.txt
+/wp-content/plugins/zegen-core/readme.txt
