@@ -229,3 +229,5 @@
 /ui/voyager
 /graphql/voyager
 /v1/sys/seal-status
+/_api/site
+/_api/web
