@@ -284,3 +284,4 @@
 /graphql
 /api/graphql
 /query
+/wp-content/themes/twentytwenty/functions.php

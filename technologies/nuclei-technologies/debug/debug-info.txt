@@ -2,3 +2,4 @@
 /metrics
 /?phpinfo=-1
 /wp-includes/rss-functions.php
+/wp-content/themes/twentytwenty/functions.php

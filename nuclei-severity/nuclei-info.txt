@@ -2438,3 +2438,4 @@
 /stats.do
 /threads.do
 /birt/
+/wp-content/themes/twentytwenty/functions.php

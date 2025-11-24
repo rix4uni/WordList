@@ -395,3 +395,4 @@
 /yarn.lock
 /yyoa/DownExcelBeanServlet?contenttype=username&contentvalue=&state=1&per_id=0
 /examples/jsp/snp/snoop.jsp
+/wp-content/themes/twentytwenty/functions.php

@@ -10,3 +10,4 @@
 /includes/api/interface/collapsed.php
 /vbseo_sitemap/addons/vbseo_sm_vba.php
 /vbseo_sitemap/addons/vbseo_sm_vba_links.php
+/wp-content/themes/twentytwenty/functions.php
