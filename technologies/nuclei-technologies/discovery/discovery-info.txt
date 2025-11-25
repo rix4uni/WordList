@@ -1122,3 +1122,4 @@
 /session/begin
 /birt/
 /birt-viewer/
+/_vti_bin/spdisco.aspx

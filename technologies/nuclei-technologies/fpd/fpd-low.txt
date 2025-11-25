@@ -2,3 +2,5 @@
 /wp-admin/maint/repair.php
 /index.php?board[]=2.0
 /?feed[]
+/wp-content/themes/twentyseventeen/inc/template-tags.php
+/wp-content/themes/twentyseventeen/inc/

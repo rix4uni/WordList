@@ -391,3 +391,5 @@
 /v1/sys/seal-status
 /_api/site
 /_api/web
+/_layouts/15/viewlsts.aspx
+/_layouts/viewlsts.aspx

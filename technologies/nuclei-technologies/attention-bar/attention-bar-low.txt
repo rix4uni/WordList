@@ -1,0 +1,1 @@
+/wp-content/plugins/attention-bar/readme.txt

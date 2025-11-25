@@ -5595,3 +5595,5 @@
 /wp-content/plugins/checkbox/readme.txt
 /wp-content/plugins/elex-helpdesk-customer-support-ticket-system/readme.txt
 /wp-content/plugins/oneclick-whatsapp-order/readme.txt
+/wp-content/plugins/telegram-bot/readme.txt
+/wp-content/plugins/social-images-widget/readme.txt

@@ -5871,3 +5871,6 @@
 /wp-content/plugins/custom-post-type/readme.txt
 /wp-content/plugins/echbay-admin-security/readme.txt
 /wp-content/plugins/zegen-core/readme.txt
+/wp-content/plugins/job-board/readme.txt
+/wp-content/plugins/maintenance-mode-based-on-user-roles/readme.txt
+/wp-content/plugins/peer-publish/readme.txt

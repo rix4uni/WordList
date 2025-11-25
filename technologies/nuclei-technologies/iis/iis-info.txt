@@ -1,2 +1,3 @@
 /does-not-exist-iis-404
 /
+/_vti_bin/spdisco.aspx

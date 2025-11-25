@@ -7,3 +7,6 @@
 /geoserver/ows?service=WFS
 /wfs?service=WFS
 /ows?service=WFS
+/secure/Dashboard.jspa
+/jira/secure/Dashboard.jspa
+/login.jsp

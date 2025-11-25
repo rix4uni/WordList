@@ -262,3 +262,5 @@
 /seeyon/personalBind.do.jpg/..;/ajax.do?method=ajaxAction&managerName=mMOneProfileManager&managerMethod=getOAProfile
 /a%22%3E%3Cinjectable%3E
 /a%27%3E%3Cinjectable%3E
+/wp-content/themes/twentyseventeen/inc/template-tags.php
+/wp-content/themes/twentyseventeen/inc/

@@ -18,3 +18,5 @@
 /%5c/
 /%ff/
 /.vscode/launch.json
+/wp-content/themes/twentyseventeen/inc/template-tags.php
+/wp-content/themes/twentyseventeen/inc/

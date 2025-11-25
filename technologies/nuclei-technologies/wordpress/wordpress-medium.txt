@@ -10662,3 +10662,7 @@
 /wp-content/plugins/custom-post-type/readme.txt
 /?aiowpsec_do_log_out=1&al_additional_data=1
 /wp-content/plugins/zegen-core/readme.txt
+/wp-content/plugins/th-wishlist/readme.txt
+/wp-content/plugins/locker-content/readme.txt
+/wp-content/plugins/maintenance-mode-based-on-user-roles/readme.txt
+/wp-content/plugins/peer-publish/readme.txt

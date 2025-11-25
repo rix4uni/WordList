@@ -2122,3 +2122,8 @@
 /wp-content/plugins/ameliabooking/readme.txt
 /wp-content/plugins/pie-forms-for-wp/readme.txt
 /wp-content/plugins/elex-helpdesk-customer-support-ticket-system/readme.txt
+/wp-content/plugins/mstoreapp-mobile-app/readme.txt
+/wp-content/plugins/woo-mstoreapp-mobile-app/readme.txt
+/wp-content/plugins/waveplayer/readme.txt
+/wp-content/plugins/edukart-pro/readme.txt
+/wp-content/plugins/sneeit-framework/readme.txt

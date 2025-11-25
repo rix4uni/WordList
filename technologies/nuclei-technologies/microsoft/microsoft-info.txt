@@ -8,3 +8,4 @@
 /EWS/Exchange.asmx
 /owa/service.svc
 /RDWeb/
+/_vti_bin/spdisco.aspx

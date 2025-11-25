@@ -35,3 +35,4 @@
 /etc/passwd?.svg?.wasm?init
 /wp-json/wp/v2/users
 /wp-json/wp/v2/users?foo=simple-jwt-login
+/js/zimbraMail/share/model/ZmSettings.js

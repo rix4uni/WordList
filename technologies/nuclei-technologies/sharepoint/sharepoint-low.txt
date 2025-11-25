@@ -1,3 +1,5 @@
 /_vti_bin/lists.asmx?WSDL
 /_api/site
 /_api/web
+/_layouts/15/viewlsts.aspx
+/_layouts/viewlsts.aspx
