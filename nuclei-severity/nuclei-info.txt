@@ -2440,3 +2440,4 @@
 /birt/
 /wp-content/themes/twentytwenty/functions.php
 /_vti_bin/spdisco.aspx
+/desktop/assets/js/finesse.js

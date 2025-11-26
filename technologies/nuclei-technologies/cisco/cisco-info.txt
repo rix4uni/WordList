@@ -22,3 +22,4 @@
 /admin/login.jsp
 /elm-admin/
 /ccmadmin/showHome.do
+/desktop/assets/js/finesse.js

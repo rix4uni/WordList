@@ -1778,3 +1778,6 @@
 /wp-content/plugins/elex-helpdesk-customer-support-ticket-system/readme.txt
 /wp-content/plugins/sneeit-framework/readme.txt
 /wp-content/plugins/waveplayer/readme.txt
+/wp-content/plugins/ai-feeds/readme.txt
+/wp-content/plugins/cibeles-ai/readme.txt
+/wp-content/plugins/doccure/readme.txt

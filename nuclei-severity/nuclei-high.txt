@@ -9077,3 +9077,6 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /wp-content/plugins/oneclick-whatsapp-order/readme.txt
 /wp-content/plugins/social-images-widget/readme.txt
 /wp-content/plugins/telegram-bot/readme.txt
+/wp-content/plugins/accessibility-plus/readme.txt
+/wp-content/plugins/better-chat-support/readme.txt
+/wp-content/plugins/custom-order-numbers-for-woocommerce/readme.txt

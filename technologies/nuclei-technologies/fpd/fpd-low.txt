@@ -4,3 +4,4 @@
 /?feed[]
 /wp-content/themes/twentyseventeen/inc/template-tags.php
 /wp-content/themes/twentyseventeen/inc/
+/wp-content/themes/twentysixteen/functions.php

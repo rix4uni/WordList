@@ -5874,3 +5874,5 @@
 /wp-content/plugins/job-board/readme.txt
 /wp-content/plugins/maintenance-mode-based-on-user-roles/readme.txt
 /wp-content/plugins/peer-publish/readme.txt
+/wp-content/plugins/i-order-terms/readme.txt
+/wp-content/plugins/rafflepress/readme.txt

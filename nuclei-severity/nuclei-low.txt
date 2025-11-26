@@ -9975,3 +9975,7 @@ bitrix/redirect.php?event1=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%B
 /wp-content/themes/twentyseventeen/inc/
 /_layouts/15/viewlsts.aspx
 /_layouts/viewlsts.aspx
+/wp-content/plugins/accessibility-plus/readme.txt
+/wp-content/themes/twentysixteen/functions.php
+/_catalogs/masterpage/Forms/AllItems.aspx
+/_catalogs/15/masterpage/Forms/AllItems.aspx

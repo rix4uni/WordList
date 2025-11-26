@@ -338,3 +338,4 @@
 /login.act
 /birt/
 /birt-viewer/
+/desktop/assets/js/finesse.js

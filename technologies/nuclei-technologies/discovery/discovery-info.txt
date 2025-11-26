@@ -1123,3 +1123,4 @@
 /birt/
 /birt-viewer/
 /_vti_bin/spdisco.aspx
+/desktop/assets/js/finesse.js

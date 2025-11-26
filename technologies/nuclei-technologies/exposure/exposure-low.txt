@@ -393,3 +393,5 @@
 /_api/web
 /_layouts/15/viewlsts.aspx
 /_layouts/viewlsts.aspx
+/_catalogs/masterpage/Forms/AllItems.aspx
+/_catalogs/15/masterpage/Forms/AllItems.aspx

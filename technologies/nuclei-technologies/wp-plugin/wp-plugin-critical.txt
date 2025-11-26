@@ -2025,3 +2025,5 @@
 /wp-content/plugins/waveplayer/readme.txt
 /wp-content/plugins/edukart-pro/readme.txt
 /wp-content/plugins/sneeit-framework/readme.txt
+/wp-content/plugins/cibeles-ai/readme.txt
+/wp-content/plugins/ai-feeds/readme.txt

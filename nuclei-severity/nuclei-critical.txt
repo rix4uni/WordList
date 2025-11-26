@@ -3952,3 +3952,5 @@ pathCache.php
 /wp-content/plugins/mstoreapp-mobile-app/readme.txt
 /wp-content/plugins/woo-mstoreapp-mobile-app/readme.txt
 /wp-content/plugins/edukart-pro/readme.txt
+/wp-content/plugins/ai-feeds/readme.txt
+/wp-content/plugins/cibeles-ai/readme.txt

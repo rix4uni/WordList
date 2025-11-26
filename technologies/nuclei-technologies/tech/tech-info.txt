@@ -887,3 +887,4 @@
 /v1/sys/seal-status
 /xwiki/
 /_vti_bin/spdisco.aspx
+/desktop/assets/js/finesse.js

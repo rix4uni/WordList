@@ -9875,3 +9875,5 @@
 /wp-content/plugins/locker-content/readme.txt
 /wp-content/plugins/maintenance-mode-based-on-user-roles/readme.txt
 /wp-content/plugins/peer-publish/readme.txt
+/wp-content/plugins/wp-youtube-lyte/readme.txt
+/wp-content/plugins/i-order-terms/readme.txt

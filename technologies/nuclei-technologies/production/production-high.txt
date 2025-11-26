@@ -2645,3 +2645,7 @@
 /wp-content/plugins/telegram-bot/readme.txt
 /wp-content/plugins/social-images-widget/readme.txt
 /wp-content/plugins/chamber-dashboard-business-directory/readme.txt
+/wp-content/plugins/seriously-simple-podcasting/readme.txt
+/wp-content/plugins/custom-order-numbers-for-woocommerce/readme.txt
+/wp-content/plugins/legal-pages/readme.txt
+/wp-content/plugins/better-chat-support/readme.txt

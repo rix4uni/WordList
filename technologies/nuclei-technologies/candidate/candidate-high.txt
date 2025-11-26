@@ -3863,3 +3863,8 @@
 /wp-content/plugins/booking-calendar-contact-form/readme.txt
 /wp-content/plugins/social-images-widget/readme.txt
 /wp-content/plugins/telegram-bot/readme.txt
+/wp-content/plugins/accessibility-plus/readme.txt
+/wp-content/plugins/better-chat-support/readme.txt
+/wp-content/plugins/cbxwpbookmark/readme.txt
+/wp-content/plugins/custom-order-numbers-for-woocommerce/readme.txt
+/wp-content/plugins/wp-google-places-review-slider/readme.txt

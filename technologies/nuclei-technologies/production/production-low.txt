@@ -7939,3 +7939,4 @@
 /wp-content/plugins/bookme-free-appointment-booking-system/readme.txt
 /wp-content/plugins/atec-duplicate-page-post/readme.txt
 /wp-content/plugins/ace-post-type-builder/readme.txt
+/wp-content/plugins/accessibility-plus/readme.txt

@@ -9059,3 +9059,5 @@
 /wp-content/plugins/woo-mstoreapp-mobile-app/readme.txt
 /wp-content/themes/twentyseventeen/inc/template-tags.php
 /wp-content/themes/twentyseventeen/inc/
+/wp-content/plugins/accessibility-plus/readme.txt
+/wp-content/themes/twentysixteen/functions.php

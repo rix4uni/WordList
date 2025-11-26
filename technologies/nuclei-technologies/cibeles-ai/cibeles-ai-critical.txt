@@ -1,0 +1,1 @@
+/wp-content/plugins/cibeles-ai/readme.txt

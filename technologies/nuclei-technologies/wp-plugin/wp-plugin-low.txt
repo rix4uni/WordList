@@ -8492,3 +8492,4 @@
 /wp-content/plugins/mstoreapp-mobile-app/readme.txt
 /wp-content/plugins/th-wishlist/readme.txt
 /wp-content/plugins/woo-mstoreapp-mobile-app/readme.txt
+/wp-content/plugins/accessibility-plus/readme.txt
