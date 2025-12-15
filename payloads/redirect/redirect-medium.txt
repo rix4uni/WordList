@@ -2,3 +2,10 @@ https://bing.com
 https://bing.com/%2F
 https://bing.com////
 bing.com
+//bing.com
+/%0A/bing.com
+/%0D/bing.com
+/%09/bing.com
+/+/bing.com
+///bing.com
+\\bing.com
