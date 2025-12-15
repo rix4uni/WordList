@@ -1,6 +1,4 @@
-http://bing.com
 https://bing.com
-http://bing.com/%2F
 https://bing.com/%2F
 https://bing.com////
 bing.com
