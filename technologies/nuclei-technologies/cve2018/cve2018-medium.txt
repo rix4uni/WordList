@@ -98,3 +98,6 @@
 :4040/jobs/?\
 /jobs/?\
 /password.htm
+/cgi-bin/awstats.pl?config={{randstr}}
+/awstats/awstats.pl?config={{randstr}}
+/awstats.pl?config={{randstr}}

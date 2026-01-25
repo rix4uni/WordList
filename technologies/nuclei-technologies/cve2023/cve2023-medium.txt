@@ -154,3 +154,11 @@
 /wp-login.php?action=lostpassword&error=invalidkey
 /wp-content/plugins/protect-wp-admin/readme.txt
 /unsafe/plain/https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
+/robots.txt
+/reset-password/?selector=test
+/bin/create/Main/%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/xwiki/bin/create/Main/%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/bin/view/Main/?rev=xar%3Aorg.xwiki.platform%3Axwiki-platform-distribution-flavor-common%2F15.5%25%25%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3e
+/xwiki/bin/view/Main/?rev=xar%3Aorg.xwiki.platform%3Axwiki-platform-distribution-flavor-common%2F15.5%25%25%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3e
+/bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*
+/xwiki/bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*

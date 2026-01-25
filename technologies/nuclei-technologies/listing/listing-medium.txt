@@ -10,3 +10,6 @@
 /log/
 /wp-content/uploads/data.txt
 /wp-content/uploads/pdf-invoices/
+/vtigercrm/libraries/
+/vtigercrm/layouts/
+/CFIDE/

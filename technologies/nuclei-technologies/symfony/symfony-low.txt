@@ -1,2 +1,3 @@
 /app_dev.php/_profiler/phpinfo
 /_fragment
+/symfony.lock

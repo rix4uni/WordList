@@ -1,2 +1,12 @@
 /install.php?profile=default
 /core/install.php
+/sites/
+/modules/
+/themes/
+/profiles/
+/includes/
+/misc/
+/scripts/
+/core/
+/vendor/
+/libraries/

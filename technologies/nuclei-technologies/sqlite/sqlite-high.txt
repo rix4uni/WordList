@@ -1,2 +1,7 @@
 /data/pbootcms.db
 /{{path}}
+/inc/data/database.sdb
+/data/db.sqlite
+/kanboard/data/db.sqlite
+/slnx.sqlite
+/.vs/slnx.sqlite

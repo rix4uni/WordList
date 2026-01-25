@@ -1,1 +1,2 @@
 /wp-content/plugins/megamenu/readme.txt
+/wp-content/plugins/megamenu/integration/zerif/functions.php

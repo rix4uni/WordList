@@ -40,3 +40,5 @@
 :4040/jobs/
 /jobs/
 /engine-ui/0.0.0.0:4040/environment/
+/api/v1/applications
+/environment/

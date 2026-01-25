@@ -33,3 +33,6 @@
 /api/database
 /
 /core/profiles/testing/testing.info
+/admin/login
+/?rest_route=/
+/wp-json/

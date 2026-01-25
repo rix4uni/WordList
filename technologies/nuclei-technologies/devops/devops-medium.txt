@@ -40,3 +40,8 @@
 /redmine/config/initializers/secret_token.rb
 /wgetrc
 /.wgetrc
+/.flowconfig
+/jolokia-agent.properties
+/jolokia-access.xml
+/WEB-INF/classes/jolokia-agent.properties
+/WEB-INF/classes/jolokia-access.xml

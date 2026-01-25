@@ -38,3 +38,4 @@
 /gallery/zp-core/setup/index.php
 /zenphoto/zp-core/setup/index.php
 /setup
+/install/2

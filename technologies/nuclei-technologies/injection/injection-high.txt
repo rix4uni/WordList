@@ -44,3 +44,4 @@
 /dashboard/search.php?id=1
 /admin/search.php?id=1
 2
+/js/zimbraMail/share/model/ZmSettings.js

@@ -15,3 +15,8 @@
 /wp-content/plugins/ultimate-member/
 /wp-content/plugins/super-forms/
 /img/
+/
+/static/
+/resources/
+/assets/
+/files/

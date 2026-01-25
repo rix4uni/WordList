@@ -1,1 +1,2 @@
 /bitbucket-pipelines.yml
+/login

@@ -13,3 +13,5 @@
 /wp-content/plugins/ultimate-member/
 /wp-content/plugins/wordpress-popup/views/admin/
 /wp-content/plugins/sfwd-lms/
+/?rest_route=/
+/wp-json/

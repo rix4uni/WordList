@@ -7,3 +7,6 @@
 /google-api-private-key.json
 /app/config/pimcore/google-api-private-key.json
 /pimcore/app/config/pimcore/google-api-private-key.json
+/
+/firebase-messaging-sw.js
+/manifest.json

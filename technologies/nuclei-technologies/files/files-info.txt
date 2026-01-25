@@ -92,3 +92,5 @@
 {{paths}}
 /certsrv/
 /certsrv
+/.project
+/.testignore

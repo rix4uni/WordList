@@ -5,3 +5,11 @@
 /#/dashboards
 /?app=config
 /dashboard
+/api/search?type=dash-db
+/api/dashboards/home
+/api/org
+/api/users
+/api/datasources
+/api/frontend/settings
+/api/me
+/settings/general

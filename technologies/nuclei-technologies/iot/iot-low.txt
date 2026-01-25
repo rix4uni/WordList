@@ -5,3 +5,4 @@
 /SSI/index.htm
 /default.htm
 /status.html
+/

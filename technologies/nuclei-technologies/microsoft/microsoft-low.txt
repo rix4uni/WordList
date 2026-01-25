@@ -9,3 +9,5 @@
 /_layouts/viewlsts.aspx
 /_catalogs/masterpage/Forms/AllItems.aspx
 /_catalogs/15/masterpage/Forms/AllItems.aspx
+/_api/web/lists
+/SitePages/Forms/AllPages.aspx

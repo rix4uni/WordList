@@ -28,3 +28,4 @@
 /api/graphql
 /graphql/v1
 /query
+/.flowconfig

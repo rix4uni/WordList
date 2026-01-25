@@ -4,3 +4,5 @@
 :4040/jobs/
 /jobs/
 /jobs/?\
+/api/v1/applications
+/environment/

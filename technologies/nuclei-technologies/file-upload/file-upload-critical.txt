@@ -3,3 +3,4 @@
 /pbxcore/files/cache/§extracted_path§?{{wait_for(3)}}
 /js/zimbraMail/share/model/ZmSettings.js
 /pbxcore/files/cache/{{extracted_path}}?{{wait_for(3)}}
+/mftp/

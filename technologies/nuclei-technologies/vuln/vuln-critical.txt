@@ -488,3 +488,7 @@
 /secure/Dashboard.jspa
 /jira/secure/Dashboard.jspa
 /login.jsp
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};sleep%207;#
+/login?redir=/ng
+/displays/nuclei_check.json
+/install/2

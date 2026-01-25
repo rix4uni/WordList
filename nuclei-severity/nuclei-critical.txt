@@ -3954,3 +3954,14 @@ pathCache.php
 /wp-content/plugins/edukart-pro/readme.txt
 /wp-content/plugins/ai-feeds/readme.txt
 /wp-content/plugins/cibeles-ai/readme.txt
+/wp-admin/admin-ajax.php?action=aam-media-load&aam-media=/wp-config.php
+/displays/nuclei_check.json
+/storage/filesvr.dn?t={{ticket}}
+/install/2
+/indexer/settings
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};sleep%207;#
+/helpdesk/WebObjects/Helpdesk.woa
+/login?redir=/ng
+/nmc/rpc/log_getfile
+/mftp/
+/signin

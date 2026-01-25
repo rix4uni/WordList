@@ -1,3 +1,12 @@
 /php-fpm.conf
 /.user.ini
 /psalm.xml
+/.registry/pear.reg.ber
+/.registry/pear.reg
+/PEAR/.registry/pear.reg.ber
+/PEAR/.registry/pear.reg
+{{paths}}
+/phpmyadmin/libraries/advisory_rules_generic.php
+/phpmyadmin/libraries/phpseclib/Crypt/AES.php
+/phpmyadmin/libraries/phpseclib/Crypt/Rijndael.php
+/symfony.lock

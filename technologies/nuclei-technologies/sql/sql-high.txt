@@ -37,3 +37,4 @@
 2
 /.travis.yml
 /travis.yml
+{{paths}}

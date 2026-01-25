@@ -1,1 +1,3 @@
 /wp-content/plugins/wp-cerber/readme.txt
+/wp-json
+/wp-json?

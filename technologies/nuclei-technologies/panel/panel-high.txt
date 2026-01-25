@@ -21,3 +21,5 @@
 /eid-management-new
 /bulk-profile-operation
 /namespaces
+/admin
+/admin/

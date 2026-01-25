@@ -1,1 +1,2 @@
 /wp-content/plugins/image-widget/readme.txt
+/plugins/image-widget/image-widget.php

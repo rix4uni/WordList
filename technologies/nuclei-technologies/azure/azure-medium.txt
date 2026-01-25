@@ -1,3 +1,5 @@
 /.azure-pipelines.yml
 /azure-pipelines.yml
 /azuredeploy.json
+/host.json
+/appsettings.json

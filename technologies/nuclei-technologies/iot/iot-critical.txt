@@ -10,3 +10,4 @@
 /login?login={{username}}&password={{password}}
 /
 /update.php?jungle=id
+/displays/nuclei_check.json

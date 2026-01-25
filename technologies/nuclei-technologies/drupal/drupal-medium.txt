@@ -324,3 +324,11 @@
 /sites/all/modules/tarte_au_citron/tarte_au_citron.info
 /sites/all/modules/tooltip/tooltip.info
 /sites/all/modules/views_svg_animation/views_svg_animation.info
+/sites/default/settings.php
+/sites/default/settings.php~
+/sites/default/settings.php.bak
+/sites/default/settings.php.old
+/sites/default/settings.php.orig
+/sites/default/settings.php.save
+/sites/default/settings.php.swp
+/sites/default/settings.local.php

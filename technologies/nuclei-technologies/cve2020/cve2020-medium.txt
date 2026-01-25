@@ -115,3 +115,10 @@
 /index.php/%3C/script%3E%3Cscript%3Edocument.write(
 /server-common/cgi-bin/login
 /homeautomation_v3_3_2/api.php?do=groups/toggle&groupid=1&status=1&redirect=https://interact.sh/
+/probe?target={{interactsh-url}}&module=http_2xx
+/vtigercrm/libraries/
+/vtigercrm/layouts/
+/wp-admin/admin-post.php?page=give-settings&stripe_publishable_key={{stripe_publishable_key}}&stripe_publishable_key_test={{stripe_publishable_key_test}}&stripe_user_id={{stripe_user_id}}&stripe_access_token={{stripe_access_token}}&stripe_access_token_test={{stripe_access_token_test}}&connected=1
+/sap/public/bc/icf/logoff?redirecturl=https://interact.sh
+/admingui/version/Version?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
+/admingui/version/Masthead.jsp?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500

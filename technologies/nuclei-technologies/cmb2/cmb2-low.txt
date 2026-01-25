@@ -1,1 +1,4 @@
 /wp-content/plugins/cmb2/readme.txt
+/wp-content/plugins/cmb2/includes/CMB2.php
+/wp-content/plugins/cmb2/includes/CMB2_Field.php
+/wp-content/plugins/cmb2/includes/helper-functions.php

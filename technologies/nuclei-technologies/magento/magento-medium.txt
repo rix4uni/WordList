@@ -2,3 +2,4 @@
 /magmi/web/magmi.php?configstep=2&profile=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
 /app/etc/local.xml
 /store/app/etc/local.xml
+/var/log/debug.log

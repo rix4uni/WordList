@@ -14,3 +14,5 @@
 /opcache-status/opcache.php
 /cgi-bin/apcupsd/multimon.cgi
 /cgi-bin/multimon.cgi
+/nginx_status
+{{paths}}

@@ -50,3 +50,5 @@
 /wgetrc
 /.wgetrc
 /
+/Jakefile
+/Jakefile.js

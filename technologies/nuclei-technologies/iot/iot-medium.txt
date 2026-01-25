@@ -27,3 +27,4 @@
 /mobile.html
 /amr
 /eSCL/ScannerCapabilities
+/api/config

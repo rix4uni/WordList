@@ -1,1 +1,2 @@
 /wp-content/plugins/user-role-editor/readme.txt
+/wp-content/plugins/user-role-editor/user-role-editor.php

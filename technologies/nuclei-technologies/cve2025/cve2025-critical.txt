@@ -39,3 +39,8 @@
 /fog/management/index.php?node=about&sub=kernel
 /fog/service/getversion.php?url={{interactsh-url}}
 /wp-json/mcp/v1
+/nmc/rpc/log_getfile
+/storage/filesvr.dn?t={{ticket}}
+/mftp/
+/
+/displays/nuclei_check.json

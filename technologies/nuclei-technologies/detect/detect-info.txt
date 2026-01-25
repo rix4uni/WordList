@@ -339,3 +339,6 @@
 /birt/
 /birt-viewer/
 /desktop/assets/js/finesse.js
+/cgit/
+/#/signin
+/login/?nLang=1

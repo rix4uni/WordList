@@ -1,1 +1,2 @@
 /wp-content/plugins/wp-statistics/readme.txt
+/wp-content/uploads/wp-statistics/debug.log

@@ -4,3 +4,7 @@
 /yyoa/DownExcelBeanServlet?contenttype=username&contentvalue=&state=1&per_id=0
 /api/debug/pprof/
 /api/debug/pprof/goroutine?debug=1
+/.prettierignore
+/.prettierrc
+/.stylelintignore
+/.testignore

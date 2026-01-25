@@ -23,3 +23,5 @@
 /xwiki/bin/view/Main/Search?sort=score&sortOrder=desc&highlight=true&facet=true&r=1&f_locale=en&f_locale=&text=objcontent%3Aemail*
 /xwiki/rest/wikis/xwiki/spaces/Main/pages/WebHome/history
 /xwiki/bin/view/Main/?foo=bar&foo_syntax=invalid&RequiresHTMLConversion=foo&xerror=https://oast.me
+/bin/view/AppWithinMinutes/DeleteApplication?appName=Help.Applications.Contributors&resolve=true&xredirect=%2fbin%2fview%2fHelp%2fApplications%2fContributors%2f
+/xwiki/bin/view/AppWithinMinutes/DeleteApplication?appName=Help.Applications.Contributors&resolve=true&xredirect=%2fbin%2fview%2fHelp%2fApplications%2fContributors%2f

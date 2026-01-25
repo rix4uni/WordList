@@ -1,1 +1,2 @@
 /.well-known/mta-sts.txt
+/login

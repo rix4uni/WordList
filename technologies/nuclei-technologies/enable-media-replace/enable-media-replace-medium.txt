@@ -1,1 +1,2 @@
 /wp-content/plugins/enable-media-replace/readme.txt
+/wp-content/uploads/EnableMediaReplace.log

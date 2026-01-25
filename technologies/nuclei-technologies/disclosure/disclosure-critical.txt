@@ -8,3 +8,4 @@
 /actuator/heapdump
 /rest/domains/list?sortCol=fullyQualifiedName&sortDir=asc
 /wlsecurity.html
+/login?redir=/ng

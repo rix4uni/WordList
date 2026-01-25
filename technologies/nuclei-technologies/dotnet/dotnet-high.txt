@@ -1,1 +1,3 @@
 /user/City_ajax.aspx?CityId=33
+/glimpse.axd
+/Glimpse.axd

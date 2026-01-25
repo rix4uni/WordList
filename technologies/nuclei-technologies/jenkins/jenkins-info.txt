@@ -2,3 +2,4 @@
 /asynchPeople/
 /whoAmI/
 /login
+/asynchPeople/api/json

@@ -1,1 +1,4 @@
 /wp-content/plugins/safe-svg/readme.txt
+/wp-content/plugins/safe-svg/includes/class-safe-svg.php
+/wp-content/plugins/safe-svg/lib/vendor/enshrined/svg-sanitize/src/Sanitizer.php
+/wp-content/plugins/safe-svg/lib/safe-svg-tags.php

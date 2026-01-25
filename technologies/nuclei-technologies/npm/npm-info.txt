@@ -19,3 +19,10 @@
 /core/package.json
 /library/package.json
 /js/lazyload/package.json
+/.npmignore
+/node_modules/.npmignore
+/src/.npmignore
+/api/.npmignore
+/backend/.npmignore
+/node_modules/.yarn-integrity
+/.yarn-integrity

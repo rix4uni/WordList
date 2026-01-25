@@ -72,3 +72,5 @@
 /log/mobile.log
 /log/firewall.log
 /kibana.yml
+/bitrix/modules/updater.log
+/bitrix/modules/updater_partner.log

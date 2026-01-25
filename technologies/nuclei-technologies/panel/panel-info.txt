@@ -899,3 +899,10 @@
 /login.act
 /birt/
 /birt-viewer/
+/cgit/
+/ui/login.html
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx
+/#/signin
+/vmui/
+/login/?nLang=1

@@ -4,3 +4,4 @@
 /token.json
 /search/token.json
 /wp-content/plugins/cloud/readme.txt
+/.gcloudignore

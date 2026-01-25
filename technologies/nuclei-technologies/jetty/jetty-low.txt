@@ -1,1 +1,6 @@
 /context/%2e/WEB-INF/web.xml
+/
+/static/
+/resources/
+/assets/
+/files/

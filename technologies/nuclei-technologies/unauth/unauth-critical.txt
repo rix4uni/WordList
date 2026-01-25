@@ -76,3 +76,10 @@
 {{js}}
 /sse?transportType=stdio&command=echo&args[]=hello-from-brower
 /wp-content/plugins/seo-by-rank-math/readme.txt
+/settings
+/indexer/settings
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};sleep%207;#
+/wp-content/plugins/easy-digital-downloads/readme.txt
+/nmc/rpc/log_getfile
+/mftp/
+/

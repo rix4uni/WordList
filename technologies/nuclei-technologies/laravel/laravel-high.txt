@@ -26,3 +26,6 @@
 {{paths}}
 /public/index.php
 :3000/public/index.php
+/storage/framework/sessions/
+/storage/sessions/
+/asf/terminal

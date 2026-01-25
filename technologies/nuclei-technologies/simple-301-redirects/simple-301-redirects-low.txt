@@ -1,1 +1,2 @@
 /wp-content/plugins/simple-301-redirects/readme.txt
+/plugins/simple-301-redirects/wp-simple-301-redirects.php

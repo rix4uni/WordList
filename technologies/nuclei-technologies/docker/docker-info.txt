@@ -2,3 +2,5 @@
 /v1/tasks
 /v2/
 /v2/_catalog
+/.gitpod.Dockerfile
+/.gitpod.dockerfile

@@ -11,3 +11,4 @@
 /api/json
 /parse
 /deserialize
+/helpdesk/WebObjects/Helpdesk.woa

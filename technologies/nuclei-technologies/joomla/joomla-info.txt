@@ -6,3 +6,4 @@
 /htaccess.txt
 /administrator/
 /
+/index.php?option=com_users&view=registration

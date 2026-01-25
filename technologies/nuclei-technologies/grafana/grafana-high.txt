@@ -10,3 +10,10 @@
 /public/plugins/{{plugin-id}}/../../../../../../../../../../../../../../../../../../../etc/passwd
 /public/plugins/{{pluginSlug}}/../../../../../conf/defaults.ini
 /dashboard/snapshot/:key
+/api/search?type=dash-db
+/api/dashboards/home
+/dashboard
+/api/org
+/api/users
+/api/datasources
+/api/frontend/settings

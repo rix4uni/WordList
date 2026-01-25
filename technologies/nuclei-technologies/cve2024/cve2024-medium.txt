@@ -69,3 +69,11 @@
 /wp-content/plugins/all-in-one-wp-migration/storage/error.log
 /gnuboard5/bbs/logout.php?url=/\\oast.pro
 /bbs/logout.php?url=/\\oast.pro
+/html/common/forward_jsp.jsp?FORWARD_URL=http://oast.me%EF%BF%BD@localhost
+/js/zimbraMail/share/model/ZmSettings.js
+/?post_type=tsml_meeting&tsml-query=%22%20onfocus%3Dalert%28document.domain%29%20autofocus%20%22
+/wp-content/plugins/siteguard/readme.txt
+/wp-register.php
+/pages/index.astro.mjs.map
+/index.astro.mjs.map
+/wp-content/plugins/wp-popups-lite/src/vendor/mobiledetect/mobiledetectlib/export/exportToJSON.php

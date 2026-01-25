@@ -57,3 +57,6 @@
 /wp-content/plugins/better-search-replace/README.txt
 /wp-content/plugins/better-search-replace/readme.txt
 /wp-content/themes/{{theme}}/style.css
+/wp-admin/admin-ajax.php?action=aam-media-load&aam-media=/wp-config.php
+{{path}}
+/wp-content/plugins/easy-digital-downloads/readme.txt

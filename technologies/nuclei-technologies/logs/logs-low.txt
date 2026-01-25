@@ -68,3 +68,9 @@
 /debug/pprof/heap?debug=1
 /pprof/heap?debug=1
 /storage/logs/laravel.log
+/wp-content/wflogs/
+/wp-content/plugins/wordfence/lib/wflogs/
+/wp-content/plugins/wordfence/tmp/
+/wp-content/plugins/easy-google-fonts/error_log
+/wp-content/plugins/wordpress-importer/error_log
+/wp-content/plugins/pretty-link/error_log

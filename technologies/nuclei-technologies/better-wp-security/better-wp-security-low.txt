@@ -1,1 +1,2 @@
 /wp-content/plugins/better-wp-security/readme.txt
+/wp-content/plugins/better-wp-security/core/admin-pages/page-logs.php

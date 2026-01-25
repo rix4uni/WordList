@@ -265,3 +265,4 @@
 /wp-content/plugins/wccp-pro/no-js.php?referrer=https://oast.pro
 /gnuboard5/bbs/logout.php?url=/\\oast.pro
 /bbs/logout.php?url=/\\oast.pro
+/ThisCanBeAnything?os_destination=%2F%2Foast.pro

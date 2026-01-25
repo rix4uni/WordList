@@ -1,1 +1,3 @@
 /wp-content/plugins/widget-logic/readme.txt
+/wp-content/plugins/widget-logic/widget_logic_admin_options.php
+/wp-content/plugins/widget-logic/widget-logic.php

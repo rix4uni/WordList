@@ -37,3 +37,13 @@
 /js/../.htpasswd
 /webservices/WebUserLogin.asmx/GetUserInfoByUserID?userID=admin
 /wp-config.PHP
+/wp-login.php?SECUPRESSaction=confirmaction
+/wp-content/uploads/
+/blog/wp-content/uploads/
+/wordpress/wp-content/uploads/
+/wp/wp-content/uploads/
+/wp-content/uploads/{{backupfolder}}/
+/scim/v2/Users
+/api/scim/v2/Users
+/slnx.sqlite
+/.vs/slnx.sqlite

@@ -8,3 +8,5 @@
 /admin_dev.php
 /index_dev.php
 /app_dev.php
+/glimpse.axd
+/Glimpse.axd

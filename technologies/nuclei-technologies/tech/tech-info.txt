@@ -888,3 +888,13 @@
 /xwiki/
 /_vti_bin/spdisco.aspx
 /desktop/assets/js/finesse.js
+/cgit/
+/test/fcgi/test.html
+/rest/api/2/serverInfo
+/krpano.html
+/composer.json
+/composer.lock
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx
+/?rest_route=/
+/wp-json/

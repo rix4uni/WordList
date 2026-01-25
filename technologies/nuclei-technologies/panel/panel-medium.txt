@@ -48,3 +48,6 @@
 /admin/login
 :4040/jobs/
 /jobs/
+/opennms/index.jsp
+/opennms/dashboard.jsp
+/opennms/

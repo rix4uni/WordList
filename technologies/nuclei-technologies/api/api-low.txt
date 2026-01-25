@@ -5,3 +5,4 @@
 /api/postman.json
 /postman_collection.json
 /collections/postman.json
+/api/

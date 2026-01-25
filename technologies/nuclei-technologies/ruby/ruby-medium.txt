@@ -8,3 +8,5 @@
 /config/initializers/secret_token.rb
 /secret_token.rb
 /redmine/config/initializers/secret_token.rb
+/.irb_history
+/.pry_history

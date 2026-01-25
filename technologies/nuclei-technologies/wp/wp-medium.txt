@@ -144,3 +144,15 @@
 /wp-content/plugins/all-in-one-wp-migration/readme.txt
 /wp-content/plugins/all-in-one-wp-migration/storage/error.log
 /?aiowpsec_do_log_out=1&al_additional_data=1
+/?static=1&order=asc
+/wp-admin/admin-post.php?page=give-settings&stripe_publishable_key={{stripe_publishable_key}}&stripe_publishable_key_test={{stripe_publishable_key_test}}&stripe_user_id={{stripe_user_id}}&stripe_access_token={{stripe_access_token}}&stripe_access_token_test={{stripe_access_token_test}}&connected=1
+/?post_type=tsml_meeting&tsml-query=%22%20onfocus%3Dalert%28document.domain%29%20autofocus%20%22
+/wp-content/plugins/wp-popups-lite/src/vendor/mobiledetect/mobiledetectlib/export/exportToJSON.php
+/wp-content/debug.log
+/wp-content/wflogs/config.php
+/wp-content/wflogs/config-synced.php
+/
+/wp-content/plugins/easy-wp-smtp/logs/
+/wp-content/uploads/EnableMediaReplace.log
+/wp-content/uploads/wpdesk-logs/wpdesk_debug.log
+/wp-content/uploads/wp-statistics/debug.log

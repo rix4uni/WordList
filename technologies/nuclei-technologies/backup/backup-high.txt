@@ -39,3 +39,8 @@
 /settings.php.bak
 /.config.php.swp
 /.config.inc.php.swp
+/inc/data/database.sdb
+/ovh-backups.json
+/config/ovh-backups.json
+/backup/ovh-backups.json
+/storage/ovh-backups.json

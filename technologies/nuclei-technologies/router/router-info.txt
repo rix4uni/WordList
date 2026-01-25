@@ -9,3 +9,4 @@
 /currentsetting.htm
 /login
 /cgi-bin/MANGA/index.cgi
+/login/?nLang=1

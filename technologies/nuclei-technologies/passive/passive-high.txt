@@ -1,2 +1,4 @@
 /wp-content/themes/mTheme-Unus/style.css
 /css/eonweb.css
+/js/zimbraMail/share/model/ZmSettings.js
+/user/login

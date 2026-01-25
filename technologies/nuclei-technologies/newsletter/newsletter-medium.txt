@@ -1,3 +1,5 @@
 /wp-content/plugins/newsletter/readme.txt
 /?wp_nlm=confirmation&appurl=aHR0cHM6Ly9leGFtcGxlLmNvbQ==
 /?wp_nlm=confirmation&appurl=aHR0cDovL2ludGVyYWN0LnNo
+/wp-content/plugins/newsletter/error_log
+/wp-content/plugins/newsletter/classes/Newsletter/Logs.php

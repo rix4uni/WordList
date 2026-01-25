@@ -128,3 +128,14 @@
 /favicon.ico
 /stats.do
 /threads.do
+/browserconfig.xml
+/index.php?option=com_users&view=registration
+/phpci.yml
+/ci/phpci.yml
+/accounts/register/
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx
+/_api/web/roledefinitions
+/projects/
+/node_modules/.yarn-integrity
+/.yarn-integrity

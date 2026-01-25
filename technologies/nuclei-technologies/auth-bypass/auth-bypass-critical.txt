@@ -55,3 +55,5 @@
 /albatross/saml/idpSelection?id={{randstr}}&userName=admin
 /fog/management/index.php?node=about&sub=kernel
 /fog/service/getversion.php?url={{interactsh-url}}
+{{path}}
+/{{route}}

@@ -396,3 +396,17 @@
 /yyoa/DownExcelBeanServlet?contenttype=username&contentvalue=&state=1&per_id=0
 /examples/jsp/snp/snoop.jsp
 /wp-content/themes/twentytwenty/functions.php
+/awstats/awstats.pl
+/cgi-bin/awstats/awstats.pl
+/awstats/awstats.pl?config=
+/browserconfig.xml
+/.project
+/asynchPeople/api/json
+/phpci.yml
+/ci/phpci.yml
+/wp-content/plugins/bbpress/templates/default/extras/single-forum.php
+/wp-content/plugins/google-site-kit/includes/Core/Admin_Bar/Admin_Bar.php
+/wp-content/plugins/google-site-kit/includes/Core/Authentication/Authentication.php
+/wp-content/plugins/google-site-kit/third-party/google/apiclient-services/src/Google/Service/AdSense/Resource/Accounts.php
+/wp-content/plugins/mailchimp-for-wp/integrations/bootstrap.php
+/wp-content/themes/twentyfifteen/functions.php

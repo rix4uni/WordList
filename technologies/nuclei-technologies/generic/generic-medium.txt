@@ -108,3 +108,8 @@
 /?{{xss_param}}
 ?protocol=evil.com&domain=evil.com&subdomain=evil.com&host=evil.com&pageurl=evil.com&url=evil.com
 ?protocol=/%5cevil.com&domain=/%5cevil.com&subdomain=/%5cevil.com&host=/%5cevil.com&pageurl=/%5cevil.com&url=/%5cevil.com
+/info.cgi
+/cgi-bin/info.cgi
+/cgi-sys/info.cgi
+/scripts/info.cgi
+/lite-scripts/info.cgi

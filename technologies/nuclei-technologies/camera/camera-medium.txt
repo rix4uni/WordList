@@ -4,3 +4,4 @@
 /conf/nginx.conf
 /Security/users?auth=YWRtaW46MTEK
 /config/cam_portal.cgi
+/api/config

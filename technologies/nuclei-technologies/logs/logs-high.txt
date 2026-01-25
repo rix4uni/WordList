@@ -3,3 +3,6 @@
 /_debugbar/open?max=20&offset=0
 /elmah
 /elmah.axd
+/requestlogs
+/api/requestlogs
+/json/reply/RequestLogs

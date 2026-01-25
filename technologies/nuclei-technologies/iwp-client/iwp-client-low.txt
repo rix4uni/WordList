@@ -1,1 +1,4 @@
 /wp-content/plugins/iwp-client/readme.txt
+/wp-content/plugins/iwp-client/lib/IWPClass.php
+/wp-content/plugins/iwp-client/backup/backup.class.php
+/wp-content/plugins/iwp-client/lib/phpseclib/Crypt/AES.php

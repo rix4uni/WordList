@@ -138,3 +138,5 @@
 \
 ;
 /xwiki/rest/liveData/sources/liveTable/entries?sourceParams.template=getdeleteddocuments.vm&sort=injected
+/wp-content/plugins/easy-digital-downloads/readme.txt
+/displays/nuclei_check.json

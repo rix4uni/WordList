@@ -1,3 +1,4 @@
 /wp-content/plugins/stageshow/stageshow_redirect.php?url=http%3A%2F%2Fexample.com
 /Dialog/FileDialog.aspx?ed=foooooooooooooo%27);});});javascript:alert(
 /ssoAdapter/logoutAction.do?servProvCode=SAFVC&successURL=https://example.com/
+/reset-password/?selector=test

@@ -1,2 +1,4 @@
 /index.html
 /awstats/data
+/buildspec.yml
+/buildspec.yaml

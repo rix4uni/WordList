@@ -37,3 +37,9 @@
 /trufusionPortal/jsp/internal_admin_contact_login.jsp
 /pentaho/Login
 /pentaho/api/ldap/config/ldapTreeNodeChildren/require.js
+/rest/users/1
+/
+/scim/v2/Users
+/api/scim/v2/Users
+/index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
+/api/modular-connector/login/{{string}}?origin=mo&type=foo

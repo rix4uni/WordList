@@ -1,1 +1,3 @@
 /zipkin/
+/config.json
+/zipkin/config.json

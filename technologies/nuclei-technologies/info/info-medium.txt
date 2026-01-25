@@ -20,3 +20,8 @@
 /phpinfo.old
 /phpinfo/save.php
 /phpinfo_new.php
+/info.cgi
+/cgi-bin/info.cgi
+/cgi-sys/info.cgi
+/scripts/info.cgi
+/lite-scripts/info.cgi

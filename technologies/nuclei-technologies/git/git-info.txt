@@ -6,3 +6,4 @@
 /wp-content/themes/.git/config
 /git
 /
+/cgit/

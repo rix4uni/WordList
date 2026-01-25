@@ -4,3 +4,6 @@
 /cgi-bin/awstats/awredir.pl?url=%3Cscript%3Ealert(document.domain)%3C/script%3E
 /awstats/awredir.pl?url=example.com
 /cgi-bin/awstats/awredir.pl?url=example.com
+/cgi-bin/awstats.pl?config={{randstr}}
+/awstats/awstats.pl?config={{randstr}}
+/awstats.pl?config={{randstr}}

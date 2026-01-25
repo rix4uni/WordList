@@ -5,3 +5,5 @@
 /axis/services/AdminService
 {{paths}}
 /ckeditor/.travis.yml
+/slnx.sqlite
+/.vs/slnx.sqlite

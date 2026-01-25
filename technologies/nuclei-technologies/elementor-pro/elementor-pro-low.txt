@@ -1,1 +1,2 @@
 /wp-content/plugins/elementor-pro/readme.txt
+/wp-content/plugins/elementor-pro/modules/notes/notifications/views/email.php

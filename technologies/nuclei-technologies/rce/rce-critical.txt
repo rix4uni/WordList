@@ -383,3 +383,7 @@ login
 /secure/Dashboard.jspa
 /jira/secure/Dashboard.jspa
 /login.jsp
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};sleep%207;#
+/helpdesk/WebObjects/Helpdesk.woa
+/mftp/
+/signin

@@ -1,1 +1,2 @@
 /wp-content/plugins/flexible-shipping/readme.txt
+/wp-content/uploads/wpdesk-logs/wpdesk_debug.log

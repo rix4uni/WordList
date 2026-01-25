@@ -1,1 +1,2 @@
 /wp-content/plugins/popup-maker/readme.txt
+/wp-content/plugins/popup-maker/classes/Activator.php

@@ -1124,3 +1124,11 @@
 /birt-viewer/
 /_vti_bin/spdisco.aspx
 /desktop/assets/js/finesse.js
+/ui/login.html
+/test/fcgi/test.html
+/asynchPeople/api/json
+/rest/api/2/serverInfo
+/krpano.html
+/vmui/
+/?rest_route=/
+/wp-json/

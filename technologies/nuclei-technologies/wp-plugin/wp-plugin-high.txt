@@ -5600,3 +5600,17 @@
 /wp-content/plugins/custom-order-numbers-for-woocommerce/readme.txt
 /wp-content/plugins/better-chat-support/readme.txt
 /wp-content/plugins/accessibility-plus/readme.txt
+/wp-login.php?SECUPRESSaction=confirmaction
+/wp-content/plugins/media-library-assistant/includes/mla-file-downloader.php?mla_download_type=text/html&mla_download_file=/var/www/html/wordpress/wp-content/index.php
+/wp-content/plugins/media-library-assistant/includes/mla-file-downloader.php?mla_download_type=text/html&mla_download_file=/var/www/html/wp-content/index.php
+/wp-content/uploads/
+/blog/wp-content/uploads/
+/wordpress/wp-content/uploads/
+/wp/wp-content/uploads/
+/wp-content/uploads/{{backupfolder}}/
+/index.php?rest_route=/wp/v2/pages&per_page=100
+/?page_id={{search_page_id}}&type=tf_hotel&place=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&adults=2&children=1&room=1
+/wp-json/atarim/v1/db/vc
+/index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
+/api/modular-connector/login/{{string}}?origin=mo&type=foo
+/wp-content/w3tc/dbcache/

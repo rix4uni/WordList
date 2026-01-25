@@ -1257,3 +1257,11 @@
 /zc_install/index.php
 /currentsetting.htm
 /dashboard/snapshot/:key
+/wp-login.php?SECUPRESSaction=confirmaction
+/js/zimbraMail/share/model/ZmSettings.js
+/webapps/xwiki/WEB-INF/xwiki.properties
+/kafka/clusters
+/mem_tracker
+/api/me
+/settings/general
+/collections

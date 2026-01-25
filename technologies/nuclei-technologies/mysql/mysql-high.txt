@@ -2,3 +2,4 @@
 {{paths}}
 /prometheus
 /prometheus/prometheus
+/.my.cnf

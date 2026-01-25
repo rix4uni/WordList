@@ -1,3 +1,5 @@
 /
 /{{js-path}}
 {{js-path}}
+/pages/index.astro.mjs.map
+/index.astro.mjs.map

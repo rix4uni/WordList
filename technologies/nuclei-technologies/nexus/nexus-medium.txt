@@ -1,2 +1,3 @@
 /login.php?secret=
 /wp-content/plugins/nexus/readme.txt
+/service/rest/v1/repositories

@@ -29,3 +29,4 @@
 /php2.php
 /p.php
 /pi.php
+/MAMP/phpinfo.php

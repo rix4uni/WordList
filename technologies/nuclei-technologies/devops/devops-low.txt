@@ -23,3 +23,5 @@
 /pubspec.yaml
 /assets/pubspec.yaml
 /phpstan.neon
+/buildspec.yml
+/buildspec.yaml

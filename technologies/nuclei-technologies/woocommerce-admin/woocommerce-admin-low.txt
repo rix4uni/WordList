@@ -1,1 +1,2 @@
 /wp-content/plugins/woocommerce-admin/readme.txt
+/wp-content/plugins/woocommerce-admin/src/Loader.php

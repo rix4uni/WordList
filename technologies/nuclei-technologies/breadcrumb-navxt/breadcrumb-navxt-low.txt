@@ -1,1 +1,2 @@
 /wp-content/plugins/breadcrumb-navxt/readme.txt
+/wp-content/plugins/breadcrumb-navxt/breadcrumb-navxt.php

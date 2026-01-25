@@ -1,1 +1,2 @@
 /wp-content/plugins/contact-form-7/readme.txt
+/wp-content/plugins/contact-form-7/includes/functions.php

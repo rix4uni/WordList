@@ -66,3 +66,5 @@
 /sws/index.sws
 /hangfire
 /#/pipelines
+/xymon/
+/xymon-se/xymon/

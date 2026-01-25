@@ -44,3 +44,5 @@
 /bulk-profile-operation
 /Security/users?auth={{b64auth}}
 /cgi-bin/dynamic/config/secure/security.html
+/
+/api/auth/settings

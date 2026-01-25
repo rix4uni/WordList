@@ -20,3 +20,7 @@
 /jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVersion
 {{jolokia_paths}}{{mbean_paths}}
 {{paths}}
+/jolokia-agent.properties
+/jolokia-access.xml
+/WEB-INF/classes/jolokia-agent.properties
+/WEB-INF/classes/jolokia-access.xml

@@ -8,3 +8,5 @@
 /Items/RemoteSearch/Image?ImageUrl=https://{{interactsh-url}}/&ProviderName=TheMovieDB
 /Images/Remote?imageUrl=http://interact.sh/
 /Items/RemoteSearch/Image?ImageUrl=http://interact.sh/&ProviderName=TheMovieDB
+/Users/Public
+/jellyfin/Users/Public

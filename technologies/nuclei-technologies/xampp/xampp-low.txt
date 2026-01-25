@@ -1,1 +1,2 @@
 /cgi-bin/printenv.pl
+{{paths}}

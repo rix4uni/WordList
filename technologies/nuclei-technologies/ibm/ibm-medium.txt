@@ -8,3 +8,5 @@
 /iojs/%2e/WEB-INF/web.xml
 /names.nsf/People?OpenView
 /console/chartServer?output=image&data=https://{{interactsh-url}}/
+/masthead/masthead.axfm
+/cgi-bin/bfenterprise/clientregister.exe?RequestType=FetchCommands

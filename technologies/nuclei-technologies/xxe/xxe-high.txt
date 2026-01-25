@@ -6,3 +6,5 @@
 /actuator/jolokia/exec/ch.qos.logback.classic:Name=default,Type=ch.qos.logback.classic.jmx.JMXConfigurator/reloadByURL/http:!/!/random:915!/logback.xml
 /opencms/cmisatom/cmis-online/query
 /cmisatom/cmis-online/query
+/geoserver/wfs?service=WMS&request=GetMap
+/wfs?service=WMS&request=GetMap

@@ -2,3 +2,8 @@
 /{{path}}
 {{paths}}
 {{dir}}{{filename}}.{{extension}}
+/inc/data/database.sdb
+/data/db.sqlite
+/kanboard/data/db.sqlite
+/.my.cnf
+/.pgpass

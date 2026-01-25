@@ -2,3 +2,4 @@
 /nginx-status
 /status
 /dashboard.html
+{{paths}}

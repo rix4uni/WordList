@@ -22,3 +22,5 @@
 /feedback
 /redirect
 /proxy
+/urve/site/login.html?lang=en
+/_internal/redirect.php?url=http://{{interactsh-url}}

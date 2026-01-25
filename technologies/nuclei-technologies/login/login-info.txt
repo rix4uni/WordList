@@ -349,3 +349,9 @@
 /session/begin
 /app/template/Login.vm
 /welcome
+/ui/login.html
+/_layouts/15/Authenticate.aspx
+/_layouts/Authenticate.aspx
+/#/signin
+/vmui/
+/login/?nLang=1

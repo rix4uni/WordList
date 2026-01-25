@@ -12,3 +12,5 @@
 /install
 /install/index.html
 /common/setup.php
+/installer/
+/installer/index.php?_step=2

@@ -1,1 +1,13 @@
 /configuration.php-dist
+/administrator/manifests/files/joomla.xml
+/language/en-GB/en-GB.xml
+/README.txt
+/modules/custom.xml
+/libraries/phputf8/utils/bad.php
+/libraries/php-inputfilter/inputfilter.php
+/libraries/php-fileupload/fileupload.php
+/libraries/joomla/filesystem/archive/archive.php
+/libraries/joomla/filesystem/archive/tar.php
+/libraries/joomla/filesystem/archive/zip.php
+/libraries/phpmailer/phpmailer.php
+/libraries/phputf8/utils/unicode.php

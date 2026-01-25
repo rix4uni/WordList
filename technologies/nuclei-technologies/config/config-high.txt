@@ -551,3 +551,16 @@ _vti_pvt/authors.pwd
 /var/config/database.yml
 /var/company_name/config/database.yml
 /config.dat
+/.credentials
+/.my.cnf
+/ovh-backups.json
+/config/ovh-backups.json
+/backup/ovh-backups.json
+/storage/ovh-backups.json
+/.pgpass
+/Rexfile
+/installer/
+/installer/index.php?_step=2
+/.gem/credentials
+/credentials
+/.gem/credentials.yaml

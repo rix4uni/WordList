@@ -57,3 +57,4 @@ index.php?username=admin%20authenticated.%0D%0AMeyo&password=n
 /dev-ui/
 /kfm/index.php
 /ui/index.html
+/?list-type=2

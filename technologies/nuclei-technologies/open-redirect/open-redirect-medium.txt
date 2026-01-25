@@ -6,3 +6,4 @@
 /go?to={{RedirectURL}}
 {{params}}
 /%2f%5c%2foast.pro%2f..
+/html/common/forward_jsp.jsp?FORWARD_URL=http://oast.me%EF%BF%BD@localhost

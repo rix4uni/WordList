@@ -106,3 +106,5 @@
 /usr-cgi/logdownload.cgi?file=../../../../../../../../etc/passwd
 /pentaho/Login
 /pentaho/api/ldap/config/ldapTreeNodeChildren/require.js
+/js/zimbraMail/share/model/ZmSettings.js
+/

@@ -22,3 +22,5 @@
 /api/v1/version
 /wp-content/themes/{{theme}}/style.css
 /AHT/AHT_UI/public/js/app.min.js
+/login
+/signin

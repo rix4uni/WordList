@@ -1,1 +1,2 @@
 /.s3cfg
+/?list-type=2

@@ -87,3 +87,6 @@
 /rsync.sh
 /sync.sh
 /test.sh
+/.buildpath
+/.gcloudignore
+/DEADJOE

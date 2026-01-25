@@ -4,3 +4,7 @@
 /glpi/ajax/telemetry.php
 /index.php?redirect=/\/evil.com/
 /index.php?redirect=//evil.com
+/glpi/files/
+/glpi/files/_sessions/
+/files/_sessions/
+/glpi/

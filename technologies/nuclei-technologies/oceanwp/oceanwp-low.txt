@@ -1,1 +1,4 @@
 /wp-content/themes/oceanwp/style.css
+/wp-content/themes/oceanwp/inc/helpers.php
+/wp-content/themes/oceanwp/inc/customizer/customizer.php
+/wp-content/themes/oceanwp/inc/walker/menu-walker.php

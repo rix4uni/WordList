@@ -1,1 +1,4 @@
 /wp-content/plugins/wishlist/readme.txt
+/wp-content/plugins/yith-woocommerce-wishlist/includes/class-yith-wcwl.php
+/wp-content/plugins/yith-woocommerce-wishlist/includes/class-yith-wcwl-frontend.php
+/wp-content/plugins/yith-woocommerce-wishlist/includes/functions-yith-wcwl.php

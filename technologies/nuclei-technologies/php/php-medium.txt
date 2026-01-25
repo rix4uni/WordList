@@ -52,3 +52,5 @@
 /phpinfo.old
 /phpinfo/save.php
 /phpinfo_new.php
+/debug-kit
+/prober.php

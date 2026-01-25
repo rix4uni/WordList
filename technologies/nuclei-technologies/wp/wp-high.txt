@@ -101,3 +101,13 @@
 /wp-admin/index.php?download-lp-users=yes
 /wp-content/themes/mTheme-Unus/css/css.php?files=../../../../wp-config.php
 /wp-config.PHP
+/wp-login.php?SECUPRESSaction=confirmaction
+/wp-content/plugins/media-library-assistant/includes/mla-file-downloader.php?mla_download_type=text/html&mla_download_file=/var/www/html/wordpress/wp-content/index.php
+/wp-content/plugins/media-library-assistant/includes/mla-file-downloader.php?mla_download_type=text/html&mla_download_file=/var/www/html/wp-content/index.php
+/wp-content/uploads/
+/blog/wp-content/uploads/
+/wordpress/wp-content/uploads/
+/wp/wp-content/uploads/
+/wp-content/uploads/{{backupfolder}}/
+/index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
+/api/modular-connector/login/{{string}}?origin=mo&type=foo

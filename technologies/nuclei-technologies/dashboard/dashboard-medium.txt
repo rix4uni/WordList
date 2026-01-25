@@ -6,3 +6,8 @@
 /slurm/
 /devices.php
 /dashboard
+/dashboard/
+/lightstreamer/dashboard/
+/opennms/index.jsp
+/opennms/dashboard.jsp
+/opennms/

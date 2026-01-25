@@ -1,2 +1,3 @@
 /sqlite/
 /sqlitemanager/
+/.sqlite_history

@@ -1,1 +1,2 @@
 /wp-content/plugins/pretty-link/readme.txt
+/wp-content/plugins/pretty-link/error_log

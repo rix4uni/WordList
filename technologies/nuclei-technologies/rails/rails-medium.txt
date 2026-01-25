@@ -3,3 +3,5 @@
 /config/initializers/secret_token.rb
 /rails/actions?error=ActiveRecord::PendingMigrationError&action=Run%20pending%20migrations&location=%0djavascript:alert(1)//%0aaaaaa
 /rails/info/routes
+/.irb_history
+/.pry_history

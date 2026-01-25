@@ -20,3 +20,4 @@
 /sse
 /mcp/
 /dev-ui/
+/?list-type=2

@@ -5,3 +5,6 @@
 /passwordrecovered.cgi?id=nuclei
 /pentaho/api/userrolelist/systemRoles?require-cfg.js
 /api/userrolelist/systemRoles?require-cfg.js
+/wp-json
+/wp-json?
+/console/api/system-features

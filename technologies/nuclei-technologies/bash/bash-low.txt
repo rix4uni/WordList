@@ -26,3 +26,7 @@
 /rsync.sh
 /sync.sh
 /test.sh
+/.bashrc
+/.bash_profile
+/.profile
+/.zshrc

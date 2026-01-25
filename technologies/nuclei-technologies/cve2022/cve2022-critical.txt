@@ -52,3 +52,5 @@
 /onlinePreview?url={{base64(
 /i18n/component/JS?locale=en-US
 /api/v1/version
+/remote/login
+/login

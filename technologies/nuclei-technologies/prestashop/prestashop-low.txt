@@ -1,2 +1,3 @@
 /modules/simpleimportproduct/send.php?phpinfo=1
 /modules/updateproducts/send.php?phpinfo=1
+/upload/

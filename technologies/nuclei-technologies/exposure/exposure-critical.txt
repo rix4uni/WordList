@@ -137,3 +137,5 @@
 /app_dev.php/_profiler/empty/search/results?limit=100
 /app_dev.php/_profiler/phpinfo
 /wp-json/mcp/v1
+/nmc/rpc/log_getfile
+/install/2

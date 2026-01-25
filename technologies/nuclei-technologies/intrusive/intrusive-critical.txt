@@ -98,3 +98,7 @@
 /{{route}}
 /console/login/LoginForm.jsp
 /pbxcore/files/cache/{{extracted_path}}?{{wait_for(3)}}
+/mbilling/lib/icepay/icepay.php?democ={{randstr}};sleep%207;#
+/login?redir=/ng
+/mftp/
+/
