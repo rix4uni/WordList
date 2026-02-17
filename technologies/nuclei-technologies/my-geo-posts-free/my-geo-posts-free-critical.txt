@@ -1,1 +1,2 @@
 /wp-content/plugins/my-geo-posts-free/readme.txt
+/

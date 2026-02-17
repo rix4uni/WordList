@@ -24,3 +24,4 @@
 /AHT/AHT_UI/public/js/app.min.js
 /login
 /signin
+/

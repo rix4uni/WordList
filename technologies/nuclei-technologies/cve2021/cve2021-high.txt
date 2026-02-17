@@ -102,3 +102,4 @@
 /dashboard/snapshot/:key
 /rest/users/1
 /live_mfg.html
+/blog/?__proto__[polluted]=polluted

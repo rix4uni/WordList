@@ -5,3 +5,4 @@
 /wp-admin/
 /login/
 /admin/
+/rails_admin

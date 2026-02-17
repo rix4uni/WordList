@@ -355,3 +355,7 @@
 /#/signin
 /vmui/
 /login/?nLang=1
+/flexnet/logon.do
+/api/config
+/opensearch.xml
+/sapmc/sapmc.html

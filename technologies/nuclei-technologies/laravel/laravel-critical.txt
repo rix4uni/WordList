@@ -19,3 +19,5 @@
 /.env.www
 /.env.{{DN}}
 /.env.{{SD}}
+/
+/{{trim_prefix(update_uri,

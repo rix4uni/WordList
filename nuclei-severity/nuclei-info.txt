@@ -2508,3 +2508,13 @@
 /.yarn-integrity
 /phpci.yml
 /ci/phpci.yml
+/tika
+/\\
+/ucmuser/
+/cucm-uds/version
+/cpbackup-exclude.conf
+/.cpbackup-exclude.conf
+/llms.txt
+/flexnet/logon.do
+/opensearch.xml
+/sapmc/sapmc.html

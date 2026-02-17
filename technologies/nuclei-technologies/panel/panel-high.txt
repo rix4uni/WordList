@@ -23,3 +23,4 @@
 /namespaces
 /admin
 /admin/
+/rails_admin

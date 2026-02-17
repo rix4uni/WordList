@@ -26,3 +26,4 @@
 /unsafe/plain/http://{{interactsh-url}}
 /probe?target={{interactsh-url}}&module=http_2xx
 /cms/collect/getArticle
+/

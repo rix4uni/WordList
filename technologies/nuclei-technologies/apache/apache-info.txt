@@ -71,3 +71,6 @@
 /cluster-manager
 /mod_cluster_manager
 /examples/jsp/snp/snoop.jsp
+/tika
+/version
+/\\

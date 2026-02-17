@@ -906,3 +906,8 @@
 /#/signin
 /vmui/
 /login/?nLang=1
+/ucmuser/
+/flexnet/logon.do
+/api/config
+/opensearch.xml
+/sapmc/sapmc.html

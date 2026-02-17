@@ -94,3 +94,4 @@
 /certsrv
 /.project
 /.testignore
+/wp-links-opml.php

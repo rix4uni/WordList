@@ -1132,3 +1132,7 @@
 /vmui/
 /?rest_route=/
 /wp-json/
+/api/config
+/opensearch.xml
+/sapmc/sapmc.html
+/\\

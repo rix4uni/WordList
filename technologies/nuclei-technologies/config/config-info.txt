@@ -167,3 +167,6 @@
 /.renovaterc.json
 /.renovaterc.json5
 /.stylelintignore
+/cpbackup-exclude.conf
+/.cpbackup-exclude.conf
+/llms.txt

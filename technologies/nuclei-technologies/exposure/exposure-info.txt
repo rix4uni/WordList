@@ -442,3 +442,6 @@
 /projects/
 /node_modules/.yarn-integrity
 /.yarn-integrity
+/cpbackup-exclude.conf
+/.cpbackup-exclude.conf
+/wp-links-opml.php

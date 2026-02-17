@@ -1416,3 +1416,7 @@
 /App_Data/
 /App_Plugins/
 /munin/
+/
+/wp-json/learnpress/v1/users
+/wp-admin/admin-ajax.php?action=tsml_info
+/wp-admin/admin-ajax.php?action=tsml_geocodes

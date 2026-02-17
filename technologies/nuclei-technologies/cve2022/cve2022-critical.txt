@@ -54,3 +54,4 @@
 /api/v1/version
 /remote/login
 /login
+/login.jsp

@@ -191,3 +191,11 @@
 /App_Data/
 /App_Plugins/
 /munin/
+/graph_view.php
+/cacti/graph_view.php
+/storage/logs/web.log
+/Dockerrun.aws.json
+/static/Dockerrun.aws.json
+/hp/device/this.LCDispatcher?nav=hp.Config
+/info_configuration.html?tab=Home&menu=DevConfig
+/SSI/info_configuration.htm

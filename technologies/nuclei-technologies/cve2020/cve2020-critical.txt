@@ -80,3 +80,4 @@
 /albatross/saml/idpSelection?id={{randstr}}&userName=admin
 /settings
 /indexer/settings
+/

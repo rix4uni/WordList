@@ -1,1 +1,2 @@
 /CGI/Java/Serviceability?adapter=device.statistics.configuration
+/cucm-uds/servers

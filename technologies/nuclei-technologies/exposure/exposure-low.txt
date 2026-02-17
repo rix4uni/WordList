@@ -544,3 +544,4 @@
 /xymon/
 /xymon-se/xymon/
 /zipkin/config.json
+/env-config.js

@@ -313,3 +313,10 @@
 /.authorized_keys
 /wp-content/wflogs/config.php
 /wp-content/wflogs/config-synced.php
+/static/Dockerrun.aws.json
+/files/FileZilla.xml
+/recentservers.xml
+/filezilla.xml
+/hp/device/this.LCDispatcher?nav=hp.Config
+/info_configuration.html?tab=Home&menu=DevConfig
+/SSI/info_configuration.htm

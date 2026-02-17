@@ -1,3 +1,6 @@
 /Login?!
 /ftpsync.settings
 /sftp-config.json
+/files/FileZilla.xml
+/recentservers.xml
+/filezilla.xml

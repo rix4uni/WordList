@@ -156,3 +156,8 @@
 /wp-content/uploads/EnableMediaReplace.log
 /wp-content/uploads/wpdesk-logs/wpdesk_debug.log
 /wp-content/uploads/wp-statistics/debug.log
+/wp-json/wp/v2/wprm_recipe?per_page=5
+/?wprm_print={{recipe_id}}
+/wp-content/tmp/db/{{table}}.sql
+/wp-json/tribe/events/v1/events/
+/wp-json/lp/v1/orders/statistic

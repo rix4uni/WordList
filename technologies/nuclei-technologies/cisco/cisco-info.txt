@@ -23,3 +23,5 @@
 /elm-admin/
 /ccmadmin/showHome.do
 /desktop/assets/js/finesse.js
+/ucmuser/
+/cucm-uds/version

@@ -102,3 +102,4 @@
 /login?redir=/ng
 /mftp/
 /
+/{{trim_prefix(update_uri,

@@ -54,3 +54,4 @@
 /cache/
 /includes/logs/
 /admin/logs/
+/storage/logs/web.log

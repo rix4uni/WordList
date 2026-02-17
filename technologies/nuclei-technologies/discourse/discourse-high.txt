@@ -2,3 +2,4 @@
 /finish-installation/register
 /auth/failure?provider={{redirect_payload}}
 /auth/failure?provider={{basic_xss}}
+/

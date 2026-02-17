@@ -44,3 +44,8 @@
 /mftp/
 /
 /displays/nuclei_check.json
+/helpdesk/WebObjects/Helpdesk.woa
+/helpdesk/WebObjects/Helpdesk.woa/wo/bogus.wo/{{wosid}}/1.0?badparam=/ajax/&wopage=LoginPref
+/{{externalAuthContainer}}
+/helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}
+/{{trim_prefix(update_uri,

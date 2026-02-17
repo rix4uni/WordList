@@ -21,3 +21,4 @@
 /dashboard.aspx
 /#!/dashboards
 /mobile.html
+/

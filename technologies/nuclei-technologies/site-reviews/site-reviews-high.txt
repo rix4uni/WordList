@@ -1,1 +1,2 @@
 /wp-content/plugins/site-reviews/readme.txt
+/wp-json/wp/v2/pages?per_page=100

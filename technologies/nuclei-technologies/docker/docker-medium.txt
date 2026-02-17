@@ -2,3 +2,5 @@
 /v2/_catalog
 /api/users/admin/check
 /info
+/Dockerrun.aws.json
+/static/Dockerrun.aws.json

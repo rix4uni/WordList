@@ -11,3 +11,4 @@
 /wp-content/themes/bricks/readme.txt
 /?rest_route=/
 /wp-json/
+/wp-links-opml.php

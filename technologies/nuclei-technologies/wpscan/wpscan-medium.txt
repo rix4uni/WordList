@@ -228,3 +228,5 @@
 /?cf-api=%22%20style=position:fixed;left:0;top:0;right:0;bottom:0;%20onmouseover=alert(1)%20x
 /wp-json/tribe/events/v1/organizers
 /wp-json/tribe/events/v1/venues
+/wp-json/learnpress/v1/users
+/wp-content/plugins/1-click-migration/ocm_debug.log

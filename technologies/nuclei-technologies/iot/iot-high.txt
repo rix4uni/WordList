@@ -46,3 +46,4 @@
 /cgi-bin/dynamic/config/secure/security.html
 /
 /api/auth/settings
+/login_ok.htm

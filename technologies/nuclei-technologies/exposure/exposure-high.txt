@@ -628,3 +628,7 @@ _vti_pvt/authors.pwd
 /slnx.sqlite
 /.vs/slnx.sqlite
 /wp-content/w3tc/dbcache/
+/admin/install
+/rest/GetUserlogin
+/rest/GetAutologin
+/rails_admin

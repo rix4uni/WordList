@@ -46,3 +46,9 @@
 /xwiki/bin/view/AppWithinMinutes/DeleteApplication?appName=Help.Applications.Contributors&resolve=true&xredirect=%2fbin%2fview%2fHelp%2fApplications%2fContributors%2f
 /wp-json/tribe/events/v1/organizers
 /wp-json/tribe/events/v1/venues
+/wp-json/lp/v1/load_content_via_ajax
+/wp-json/lp/v1/orders/statistic
+/wp-admin/admin-ajax.php?action=tsml_info
+/wp-admin/admin-ajax.php?action=tsml_geocodes
+/wp-content/plugins/1-click-migration/ocm_debug.log
+/

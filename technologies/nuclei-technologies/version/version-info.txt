@@ -12,3 +12,4 @@
 /login/Public/LoginV2.aspx
 /api/v0/version
 /Remote/logon
+/wp-links-opml.php

@@ -157,3 +157,4 @@
 /.wp-env.json
 /config.json
 /zipkin/config.json
+/env-config.js

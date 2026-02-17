@@ -1,0 +1,2 @@
+/wp-content/tmp/db/{{table}}.sql
+/wp-content/plugins/1-click-migration/ocm_debug.log

@@ -1,3 +1,6 @@
 /wp-content/plugins/adminer/readme.txt
 /adminer?elastic=example.com&username=
 /adminer?elastic=interact.sh&username=
+/adminer.php
+/editor.php
+/adminer/

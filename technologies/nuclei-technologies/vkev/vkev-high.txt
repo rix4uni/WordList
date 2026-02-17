@@ -252,3 +252,7 @@
 /user/login
 /index.php/api/modular-connector/login/{{string}}?origin=mo&type=foo
 /api/modular-connector/login/{{string}}?origin=mo&type=foo
+/plugins/system/cdscriptegrator/libraries/highslide/js/jsloader.php?files[]=/etc/passwd
+/wp-json/igd/v1/get-users-data
+/index.php?mod=textviewer&src=file:///etc/passwd
+/{{path}}?javax.servlet.include.servlet_path=/WEB-INF/web.xml

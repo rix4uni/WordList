@@ -49,3 +49,4 @@
 /console/auth/login
 /CDGServer3/
 /
+/ov.html?

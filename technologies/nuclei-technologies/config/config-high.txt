@@ -564,3 +564,5 @@ _vti_pvt/authors.pwd
 /.gem/credentials
 /credentials
 /.gem/credentials.yaml
+/rest/GetUserlogin
+/rest/GetAutologin

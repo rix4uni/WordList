@@ -5,3 +5,5 @@
 /log/cacti.log
 /cacti.log
 /include/cacti.log
+/graph_view.php
+/cacti/graph_view.php

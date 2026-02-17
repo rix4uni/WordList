@@ -1,0 +1,3 @@
+/files/FileZilla.xml
+/recentservers.xml
+/filezilla.xml

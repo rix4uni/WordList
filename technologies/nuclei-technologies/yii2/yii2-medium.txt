@@ -1,2 +1,5 @@
 /about/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%22%20onmousemove=alert(1)%20style=%22width:%20100000px;%20height:%20100000px;%20position:%20absolute;%20top:%20-10000px;%20left:%200;%22
 /site/about/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa%22%20onmousemove=alert(1)%20style=%22width:%20100000px;%20height:%20100000px;%20position:%20absolute;%20top:%20-10000px;%20left:%200;%22
+/actions/debug/default/index
+/actions/debug/default/toolbar
+/actions/debug/default/view

@@ -107,3 +107,5 @@
 /issues.json
 /issues.json?limit=25
 /wp-content/wflogs/rules.php
+/wp-json/tribe/events/v1/events/
+/

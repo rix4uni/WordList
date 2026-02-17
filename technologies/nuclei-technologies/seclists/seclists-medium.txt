@@ -67,3 +67,4 @@
 /wp-content/plugins/wp-ecommerce-shop-styling/includes/dompdf/dompdf.php?input_file=php://filter/resource=/etc/passwd
 /dompdf.php
 /wp-content/plugins/
+/

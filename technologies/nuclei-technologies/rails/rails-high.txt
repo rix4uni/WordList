@@ -5,3 +5,5 @@
 /opt/config/database.yml
 /var/config/database.yml
 /var/company_name/config/database.yml
+/admin
+/rails_admin

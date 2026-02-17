@@ -87,3 +87,4 @@
 /helpdesk/WebObjects/Helpdesk.woa
 /wp-content/plugins/easy-digital-downloads/readme.txt
 /login?redir=/ng
+/{{route}}

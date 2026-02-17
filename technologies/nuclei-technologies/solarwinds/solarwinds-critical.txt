@@ -3,3 +3,6 @@
 /web.config.i18n.ashx?l=nuclei&v=nuclei
 /SWNetPerfMon.db.i18n.ashx?l=nuclei&v=nuclei
 /helpdesk/WebObjects/Helpdesk.woa
+/helpdesk/WebObjects/Helpdesk.woa/wo/bogus.wo/{{wosid}}/1.0?badparam=/ajax/&wopage=LoginPref
+/{{externalAuthContainer}}
+/helpdesk/WebObjects/Helpdesk.woa/wo/{{jsonrpc_endpoint}}

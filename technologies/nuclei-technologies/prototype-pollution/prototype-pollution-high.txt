@@ -1,2 +1,3 @@
 /?__proto__[polluted]=nuclei
 /?constructor[prototype][polluted]=nuclei
+/blog/?__proto__[polluted]=polluted

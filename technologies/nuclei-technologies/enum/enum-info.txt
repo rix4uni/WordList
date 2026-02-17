@@ -3,3 +3,4 @@
 /feed/rdf
 /?rest_route=/
 /wp-json/
+/llms.txt

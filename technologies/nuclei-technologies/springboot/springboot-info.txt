@@ -16,3 +16,4 @@
 /management
 /management/info
 /actuator%72
+/

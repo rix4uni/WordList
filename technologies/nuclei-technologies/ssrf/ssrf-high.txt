@@ -65,3 +65,6 @@ test&access={{interactsh-url}}&remote_url={{interactsh-url}}&admin={{interactsh-
 /_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg
 /urve/site/login.html?lang=en
 /_internal/redirect.php?url=http://{{interactsh-url}}
+/
+/rest/tinymce/1/macro/preview
+/rest/api/content/macro/preview

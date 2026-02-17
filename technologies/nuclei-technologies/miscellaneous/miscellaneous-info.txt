@@ -28,3 +28,4 @@
 /.well-known/oauth-authorization-server
 /.well-known/pki-validation/
 /well-known/pki-validation/
+/

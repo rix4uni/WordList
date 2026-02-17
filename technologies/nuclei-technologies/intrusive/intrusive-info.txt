@@ -13,3 +13,4 @@
 /upload.jsp
 /Telerik.Web.UI.WebResource.axd?type=rau
 /RichWidgets/Popup_Upload.aspx
+/\\

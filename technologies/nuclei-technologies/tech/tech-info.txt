@@ -898,3 +898,6 @@
 /_layouts/Authenticate.aspx
 /?rest_route=/
 /wp-json/
+/tika
+/cucm-uds/version
+/\\

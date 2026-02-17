@@ -21,3 +21,4 @@
 /examples/servlets/servlet/SessionExample
 /..;/examples/servlets/servlet/SessionExample
 /examples/jsp/snp/snoop.jsp
+/\\

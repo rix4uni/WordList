@@ -52,3 +52,4 @@
 /cms/collect/getArticle
 /_image?href=//{{interactsh-url}}/600x400
 /wp-content/plugins/jetpack/readme.txt
+/

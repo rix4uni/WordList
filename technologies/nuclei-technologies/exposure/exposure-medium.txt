@@ -663,3 +663,17 @@ config/settings.old.php
 /cache/
 /includes/logs/
 /admin/logs/
+/wp-content/tmp/db/{{table}}.sql
+/wp-json/lp/v1/orders/statistic
+/actions/debug/default/index
+/actions/debug/default/toolbar
+/actions/debug/default/view
+/storage/logs/web.log
+/static/Dockerrun.aws.json
+/files/FileZilla.xml
+/recentservers.xml
+/settings/plugins
+/settings/cluster
+/hp/device/this.LCDispatcher?nav=hp.Config
+/info_configuration.html?tab=Home&menu=DevConfig
+/SSI/info_configuration.htm

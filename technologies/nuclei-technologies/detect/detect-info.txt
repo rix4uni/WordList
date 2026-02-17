@@ -342,3 +342,10 @@
 /cgit/
 /#/signin
 /login/?nLang=1
+/tika
+/ucmuser/
+/cucm-uds/version
+/flexnet/logon.do
+/api/config
+/opensearch.xml
+/account/login

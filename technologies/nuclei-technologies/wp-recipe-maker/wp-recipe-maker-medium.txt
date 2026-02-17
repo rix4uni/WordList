@@ -1,1 +1,3 @@
 /wp-content/plugins/wp-recipe-maker/readme.txt
+/wp-json/wp/v2/wprm_recipe?per_page=5
+/?wprm_print={{recipe_id}}
