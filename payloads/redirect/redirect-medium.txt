@@ -16,7 +16,6 @@ https://bing.com/%09
 https://bing.com/%0a
 %0d%0a//bing.com
 %0d%0a\\bing.com
-@bing.com
 %2fbing.com
 /%2f%2fbing.com
 /%252fbing.com
