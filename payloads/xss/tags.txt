@@ -30,7 +30,6 @@ col
 colgroup
 command
 content
-custom tags
 data
 datalist
 dd
