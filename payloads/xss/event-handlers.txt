@@ -23,7 +23,6 @@ onclick
 onclose
 oncommand
 oncontentvisibilityautostatechange
-oncontentvisibilityautostatechange(hidden)
 oncontextmenu
 oncopy
 oncuechange
@@ -42,7 +41,6 @@ onend
 onended
 onerror
 onfocus
-onfocus(autofocus)
 onfocusin
 onfocusout
 onformdata
@@ -110,7 +108,6 @@ onsubmit
 onsuspend
 ontimeupdate
 ontoggle
-ontoggle(popover)
 ontouchcancel
 ontouchend
 ontouchmove
@@ -123,7 +120,6 @@ onunhandledrejection
 onunload
 onvolumechange
 onwaiting
-onwaiting(loop)
 onwebkitanimationend
 onwebkitanimationiteration
 onwebkitanimationstart
