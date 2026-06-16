@@ -60,3 +60,11 @@ https:///bing.com
 /////bing.com/
 ////\;@bing.com
 ////bing.com/
+\\\\bing.com
+/\\/bing.com/
+%0d%0a\\\\bing.com
+/\\/bing.com
+/..\\bing.com
+////\\;@bing.com
+https://bing.com\@
+bing.com\@
